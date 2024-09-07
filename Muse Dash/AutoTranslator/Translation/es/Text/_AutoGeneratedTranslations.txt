@@ -1,0 +1,2749 @@
+﻿Search...=Buscar...
+(type help for list of commands)=(escribe help para ver una lista de comandos)
+手机或邮箱登陆=Inicio de sesión con teléfono o correo electrónico
+
+Photosensitive Seizure\nWarning=Advertencia\nepilepsia fotosensible
+Please wear <color\=#ff1981>wired headphones</color> for the best experience.=Por favor, usa <color\=#ff1981>auriculares con cable</color> para la mejor experiencia.
+This game contains flashing lights and flicker stimuli, which may cause lightheadness, muscle spasms and\nother symptoms. In severe cases, a brief loss of consciousness may happen.\nIf you are not feeling well, please stop playing immediately and get medical attention in time. In addition, if\nyou have had similar symptoms before, please consult your doctor before playing.=Este juego contiene luces intermitentes y estímulos que pueden causar mareos, espasmos musculares y\notros síntomas. En casos graves, puede haber una pérdida breve de conciencia.\nSi no se siente bien, por favor deje de jugar inmediatamente y busque atención médica a tiempo. Además, si\nha experimentado síntomas similares anteriormente, consulte a su médico antes de jugar.
+
+- PRESS ANY BUTTON -=- PULSA CUALQUIER BOTÓN -
+
+Button=Botón
+Switch account=Cambiar cuenta
+
+If you find it difficult to catch the beats, adjust the Offset value in Option.=Si te resulta difícil atrapar los ritmos, ajusta el valor de Compensación en la opción.
+Give someone the gift of Rin this year! ...No, not like that!=¡Dale a alguien el regalo de Rin este año! ...No, ¡no así!
+Take the Little Nurse with you if you bleed a lot.(σﾟ∀ﾟ)σ=Lleva contigo a la Pequeña Enfermera si sangras mucho. (σﾟ∀ﾟ)σ
+Be careful of the spinning gears! They hurt a lot!∑(っ°Д°;)っ=¡Ten cuidado con los engranajes giratorios! ¡Hacen mucho daño! ∑(っ°Д°;)っ
+Don’t forget to give your eyes some rest!=¡No te olvides de descansar los ojos!
+Joker Buro and Bunny Girl Rin are good at achieving high scores.=Bufona Buro y Chica Conejita Rin son buenas para alcanzar puntajes altos.
+Did you know the Little Devil suits Lilith better?=¿Sabías que a la Diablilla le queda mejor Lilith?
+Don't stop before the music ends! you might miss one note...=¡No te detengas antes de que termine la música! Podrías perder una nota...
+Each Red Heart heals you for 80 HP. Maid Marija receives even more healing.=Cada Corazón Rojo te cura 80 PV. Sirvienta Marija recibe aún más curación.
+Buro has a secret power that can make food disappear.=Buro tiene un poder secreto que puede hacer que la comida desaparezca.
+Match your characters and Elfins wisely.=Empareja a tus personajes y Elfins sabiamente.
+Buro's bear is called Ola because it's making the Ola-ola-ola sound all the time.=El oso de Buro se llama Ola porque hace el sonido Ola-ola-ola todo el tiempo.
+Rumor has it that something might happen if you cleared [Milk]?!=¡¿Corre el rumor de que algo podría pasar si despejas [Milk]?!
+How old are the girls? You're asking too many questions!=¿Cuántos años tienen las chicas? ¡Estás haciendo demasiadas preguntas!
+Did you know? We actually have an official Wiki. Come and find it in the announcement page.=¿Sabías? En realidad tenemos un Wiki oficial. Ven y encuéntralo en la página de anuncios.
+Hit the hammer not dodge it=Golpea el martillo, no lo esquives.
+Bad Girl is good at dealing with bad stuff.=La Chica Mala es buena para lidiar con cosas malas.
+You messy girl! That's a gift box, not your clothes!=¡Chica desordenada! ¡Esa es una caja de regalo, no tu ropa!
+Fun Fact: Every 60 seconds on the loading screen, a minute passes.=Dato curioso: Cada 60 segundos en la pantalla de carga, pasa un minuto.
+Trivia: there is multiple endings to the tutorial.=Trivia: hay múltiples finales para el tutorial.
+Rumor has it that if you beat the tutorial on April fools, you might become the ultimate novice?=Se rumorea que si completas el tutorial el Día de los Inocentes, ¿podrías convertirte en el novato definitivo?
+The stranger your gaming stance is, the stranger achievement you will get.=Cuanto más extraña sea tu postura de juego, más extraño será el logro que obtendrás.
+Sleepwalker Rin is a great way to impress your friends=La Chica Soñolienta Rin es una excelente manera de impresionar a tus amigos
+Yesterday, Sleepwalker Girl Rin was worshiped by all sheets for she has gotten golden S in all songs.=Ayer, la Chica Soñolienta Rin fue venerada por todas las partituras ya que obtuvo una S dorada en todas las canciones.
+Girls are praying...=Las chicas están rezando...
+Ever tried rotating your device by 90 degrees? You'll discover a new world.=¿Alguna vez has intentado rotar tu dispositivo 90 grados? Descubrirás un nuevo mundo.
+Dont give up! Try and try until you succeed! (・∀・)/=¡No te rindas! ¡Intenta una y otra vez hasta tener éxito! (・∀・)/
+Beating up monsters feels shockingly good?! Taste more of my meow meow punch!=¿¡Golpear a los monstruos se siente sorprendentemente bien?! ¡Prueba más de mi golpe de miau miau!
+According to a reliable source, the girls might say some interesting things if you talk to them more?!=Según una fuente confiable, ¡¿las chicas podrían decir cosas interesantes si les hablas más?!
+○○○↓=○○○↓
+
+ENTER! =¡ENTRA! 
+
+r:"^LEVEL  (\d+)$"=NIVEL $1
+同步中...=Sincronizando...
+同步完成=Sincronización completa
+Synchronizing=Sincronizando...
+Completed=Sincronización completa
+
+提示=AVISO
+<color\=#5F85FFFF>通关</color>，完成<color\=#5F85FFFF>挑战</color>和<color\=#5F85FFFF>成就</color>可以获得用于提升等级的经验。 提升等级将会获得用于解锁游戏内容的<color\=#5F85FFFF>道具</color>！=Completar <color\=#5F85FFFF>niveles</color>, <color\=#5F85FFFF>desafíos</color> y <color\=#5F85FFFF>logros</color> te otorgará experiencia para subir de nivel. ¡Subir de nivel te permitirá desbloquear <color\=#5F85FFFF>objetos</color> del juego!
+<color\=#5F85FFFF>Clear stages</color>, finish <color\=#5F85FFFF>challenges</color> and get <color\=#5F85FFFF>achievements</color> to gain EXP for leveling up.  Level up to gain <color\=#5F85FFFF>items</color> used for unlock game content!=Completa <color\=#5F85FFFF>escenarios</color>, <color\=#5F85FFFF>desafíos</color> y <color\=#5F85FFFF>logros</color> para ganar experiencia y subir de nivel. ¡Sube de nivel para desbloquear <color\=#5F85FFFF>objetos</color> del juego!
+
+
+ATTENTION=ATENCIÓN
+Are you sure you wanna <color\=#FF33D8FF>QUIT</color> the game?=¿Estás seguro de que quieres <color\=#FF33D8FF>SALIR</color> del juego?
+YES=SÍ
+NO=NO
+
+Yes=Sí
+No=No
+
+OPTION=AJUSTES
+Q & A=PREGUNTAS Y RESPUESTAS
+FOLLOW US=SÍGUENOS
+CHARACTER=PERSONAJE
+ELFIN=ELFIN
+TROVE=OBJETOS
+ACHIEVEMENT=LOGROS
+
+HOW TO PLAY=Cómo jugar
+ENGLISH=Español
+Audio=Audio
+DISPLAY=Pantalla
+CONTROL=Controles
+OFFSET=Compensación
+主播模式=Modo transmisión
+CREDIT=Créditos
+FEEDBACK=Comentarios
+TERMINAL=Terminal
+NOTIFICATIONS=Notificaciones
+ACCOUNT=Cuenta
+Goods Store=Tienda de bienes
+r:"^v(\d+\.\d+\.\d+)$"=v$1
+
+TIPS=AVISO
+Whether to enter the <color\=#FF33D8FF>tutorial</color> ?=¿Deseas entrar al <color\=#FF33D8FF>tutorial</color>?
+
+HOLD=PULSA
+SKIP=OMITIR
+AUTO PLAY=REPRODUCCIÓN AUTOMÁTICA
+
+Welcome, my friend!=¡Bienvenido, amigo!
+See the <color\=#E6FF00FF>hit point</color>?=¿Ves el <color\=#E6FF00FF>punto de impacto</color>?
+Everyone has <color\=#00D5FFFF>rhythm</color> -- =Todos tienen <color\=#00D5FFFF>ritmo</color>...
+even those who don't think they do!=¡Incluso aquellos que no creen que lo tengan!
+We hope you'll enjoy finding your own <color\=#00D5FFFF>rhythm</color> in <color\=#fb07bf>MUSE</color> <color\=#E6FF00FF>DASH </color>.=Esperamos que disfrutes encontrando tu propio <color\=#00D5FFFF>ritmo</color> en <color\=#fb07bf>MUSE</color> <color\=#E6FF00FF>DASH</color>.
+Enemies may appear on the <color\=#fb07bf>ground</color> or in the <color\=#00fff6>air</color>.=Los enemigos pueden aparecer en el <color\=#fb07bf>suelo</color> o en el <color\=#00fff6>aire</color>.
+Press=Pulsa
+to hit enemies on the <color\=#fb07bf>ground</color>!=contra enemigos en el <color\=#fb07bf>suelo</color>.
+to hit enemies in the <color\=#00fff6>air</color>!=contra enemigos en el <color\=#00fff6>aire</color>.
+to hit =contra 
+<color\=#E6FF00FF>Gemini Enemies</color>!=<color\=#E6FF00FF>enemigos gemelos</color>.
+to jump over the=para saltar la
+<color\=#00fff6>barrier on the ground</color>!=<color\=#00fff6>barrera en el suelo</color>.
+Hold=Sostén
+to play the <color\=#fb07bf>ground sheet</color>.=contra la <color\=#fb07bf>nota del suelo</color>.
+to play the <color\=#00e4ff>air sheet</color>.=contra la <color\=#00e4ff>nota del aire</color>.
+Now, hold=¡Sostén
+and press=y pulsa
+This time, hold=¡Ahora, sostén
+Press <color\=#E6FF00FF>any button</color> quickly=¡Pulsa rápido los <color\=#E6FF00FF>botones</color>
+to hit the enemies with=contra los enemigos con
+<color\=#E6FF00FF>Use what we practiced</color> to \nstrike the <color\=#E6FF00FF>bullet of the BOSS</color> away!=¡<color\=#E6FF00FF>Usa lo que practicamos</color>\npara repeler la <color\=#E6FF00FF>bala del JEFE</color>!
+Press <color\=#E6FF00FF>any button</color> to strike \nthe <color\=#E6FF00FF>BOSS</color> away!=¡Pulsa los <color\=#E6FF00FF>botones</color> para repeler\nal <color\=#E6FF00FF>JEFE</color>!
+to drive off the BOSS with a=para expulsar al JEFE con
+
+There must be something wrong... =Debe haber algo mal... 
+Wanna try again?=¿Quieres volver a intentar?
+- NO, THANKS. -=- NO, GRACIAS -
+- TRY AGAIN -=- REINTENTAR -
+Not bad...=Nada mal...
+I think it's okay.=Creo que está bien.
+- Ok -=- Vale -
+Would you like to skip the <color\=#FF33D8FF>tutorial</color> ?=¿Te gustaría omitir el <color\=#FF33D8FF>tutorial</color>?
+
+CONFIRM=ACEPTAR
+OFF=NO
+ON=SÍ
+VERIFYING=VERIFICANDO
+
+Music Volume:=Volumen de música:
+Sound Volume:=Sonido:
+Voice Volume:=Volumen de voces:
+Interactive Sound Effect Volume:=Volumen de efectos interactivos:
+Hit Sound Effect Volume:=Volumen de efecto al golpear:
+Hit Sound Effects=Efecto al golpear
+DEFAULT=POR DEFECTO
+NYANYA=MIAUMIAU
+ERROR=ERROR
+The Beefcake Cheers for You=FORTACHÓN ANIMÁNDOTE
+
+Title Announcer=Presentadora del título
+UNPURCHASED=NO COMPRADO
+MG drum=Tambor MG
+
+Resolution=Resolución
+3840x2160=3840x2160
+1920x1080=1920x1080
+1366x768=1366x768
+1360x768=1360x768
+1280x720=1280x720
+1280x800=1280x800
+1600x900=1600x900
+1440x900=1440x900
+
+Screen Mode=Modo de pantalla
+windowed=Ventana
+borderless=Sin bordes
+fullscreen=Pantalla completa
+
+Framerate=Cuadros por segundo
+Unlimited=Ilimitado
+V-Sync=V-Sync
+r:"^(\d+)\s*FPS$"=$1 FPS
+
+Special Effect=Efectos especiales
+HIGH=ALTO
+LOW=BAJO
+
+Show Early / Late=Mostrar Pronto/Tarde
+
+AP Indicator=Indicador de TP
+Turn it on, and you’ll see the<color\=#FF33D8FF> All Perfect </color>icon on the right of your score. If you get a<color\=#FF33D8FF> GREAT </color>or<color\=#FF33D8FF> MISS</color>judgment, the icon will disappear ( ;´д`)=Actívalo y verás el icono de<color\=#FF33D8FF> Todo Perfecto </color>a la derecha de tu puntuación. Si recibes una valoración de<color\=#FF33D8FF> GREAT </color>o<color\=#FF33D8FF> MISS</color>, el icono desaparecerá. ( ;´д`)
+
+BG BRIGHTNESS=BRILLO DE FONDO
+FEVER BG=FONDO DE FIEBRE
+
+
+Bg brightness:=Brillo de fondo:
+
+
+SELECTED=SELECCIONADO
+SELECT=SELECCIONAR
+
+Default=Por defecto
+Christmas=Navidadeño
+MUSE RADIO=Radiocasete
+MIKU LOVE=Amor a Miku
+Swindler King Shows off=Rey Apostador se luce
+Fe-nya!=¡Fe-nya!
+
+Mutown=Mutown
+
+r:"^([A-Z])$"=$1
+"^Keypad(\d)$"=Num $1
+
+Refresh Ranking=Actualizar Ranking
+Menu Shortcut=Atajo al menú
+
+Select=Seleccionar
+Return=Volver
+Option=Ajustes
+Special Operation=Operación Especial
+Confirm=Confirmar
+Switch Pages=Cambiar Páginas
+
+Space=Espacio
+SPACE=ESPACIO
+KEYBOARD=TECLADO
+
+FEVER=FIEBRE
+GROUND=SUELO
+地面=SUELO
+AIR=AIRE
+
+OTHER BUTTONS=OTROS BOTONES
+JOYSTICK=MANDO
+TYPE A=Tipo A
+TYPE B=Tipo B
+TYPE C=Tipo C
+TYPE D=Tipo D
+CUSTOMIZE=MODIFICADO
+
+REVERSE=INVERTIR
+VIBRATION=VIBRACIÓN
+Manual FEVER=FIEBRE MANUAL
+Customize Buttons=MODIFICAR BOTONES
+When "Manual FEVER" is on, press=Con FIEBRE MANUAL activado, usa
+(default)=(por defecto)
+when the FEVER Gauge is full to start FEVER time!=cuando la barra de FIEBRE se llene\npara iniciar la FIEBRE
+
+OFFSET OPTION=COMPENSACIÓN
+When you hear the accent, press=Cuando escuches el tono, presiona
+to determine the yellow note position=para determinar la posición de la nota amarilla.
+When you hear the accent, click the <color\=#FF1981FF>red area</color> to determine the yellow note position.=Cuando escuches el tono, pulsa el <color\=#FF1981FF>área roja</color> para determinar la posición de la nota amarilla.
+
+Adjust the value until the baseline is almost coincident with the yellow note when accented=Ajusta el valor hasta que la línea de base casi coincida con la nota amarilla cuando esté acentuada.
+HIDE NOTE=OCULTAR NOTA
+On different devices, music playback may be advanced or delayed, and the play experience may be improved by adjusting the offset.=En distintos dispositivos, la música puede reproducirse antes o después de lo esperado. Ajustar la compensación puede mejorar la sincronización al escuchar.
+
+Streaming Mode=Modo transmisión
+STREAMING MODE=MODO TRANSMISIÓN
+Thank you for playing and streaming Muse Dash! We want everyone to be able to continue sharing their Muse Dash experience with our lovely community via livestreams (monetized or not) without explicit permission from us. \nBesides, due to the copyright protection on YouTube and other platforms, you may get a Content ID claim on your stream or video about Muse Dash if the monetization is enabled, which can make you unable to gain the ad revenues and have a slight chance of getting a copyright strike. <color\=#FF33D8FF>While streaming on YouTube or other platforms with copyright restrictions</color>, the players can turn on Streaming Mode, which helps hide the sensitive content.\nThere are nearly one hundred tracks available now in Streaming Mode, with more to come! If you have any questions about Streaming Mode or encounter any copyright-related issues, please contact <color\=#FF33D8FF>player@peropero.net</color>.\n<color\=#FF33D8FF>Notice: Only on the streaming platforms with copyright protection should you turn on the steamer mode before streaming. Be careful not to remove it during the stream (>д<)!</color>\nAs always, have fun playing and streaming Muse Dash! And who knows, we might even tune into your stream every now and then! (ゝ∀･) .=¡Gracias por jugar y transmitir Muse Dash! Queremos que todos puedan seguir compartiendo su experiencia con Muse Dash en nuestra encantadora comunidad a través de transmisiones en vivo (monetizadas o no) sin necesidad de permiso explícito de nuestra parte.\nAdemás, debido a la protección de derechos de autor en YouTube y otras plataformas, es posible que recibas una reclamación de Content ID en tu transmisión o video sobre Muse Dash si la monetización está habilitada, lo que puede impedirte obtener ingresos por publicidad y tener una ligera posibilidad de recibir una advertencia por derechos de autor.\n<color\=#FF33D8FF>Mientras transmiten en YouTube u otras plataformas con restricciones de derechos de autor</color>, los jugadores pueden activar el Modo Transmisión, que ayuda a ocultar el contenido sensible.\nHay casi cien pistas disponibles ahora en el Modo Transmisión, ¡y pronto habrá más! Si tienes alguna pregunta sobre el Modo Transmisión o encuentras algún problema relacionado con los derechos de autor, por favor contacta a player@peropero.net.\n<color\=#FF33D8FF>Nota: Solo en las plataformas de transmisión con protección de derechos de autor debes activar el Modo Transmisión antes de comenzar la transmisión. ¡Ten cuidado de no desactivarlo durante la transmisión! (>д<)!</color>\nComo siempre, ¡diviértete jugando y transmitiendo Muse Dash! ¡Y quién sabe, quizás incluso sintonicemos tu transmisión de vez en cuando! (ゝ∀･) .
+
+0.000=0.000
+Thanks for playing!=¡Gracias por jugar!
+A GAME BY=UN JUEGO DE
+- WEBSITE -=- SITIO WEB -
+@ PeroPeroGuys=@ PeroPeroGuys
+@ PeroPeroGames=@ PeroPeroGames
+PUBLISHER=EDITORA
+
+DIRECTOR&DESIGNER=DIRECTOR Y DISEÑADOR
+HAQI=HAQI
+
+PROGRAMMER=PROGRAMADORES
+NEKOCON=NEKOCON
+VORTEXBOY=VORTEXBOY
+SupetMartin=SupetMartin
+LeeConary=LeeConary
+CharSui=CharSui
+CodeFish-Xiao=CodeFish-Xiao
+LALALA=LALALA
+
+ARTIST=ARTISTAS
++V=+V
+看蟹黄堡秘方=看蟹黄堡秘方
+DANTE=DANTE
+kobaya丶C=kobaya丶C
+SCU=SCU
+URIEITO=URIEITO
+五二=五二
+Gudi=Gudi
+PAOPAO=PAOPAO
+pipi=pipi
+LIKAUCE=LIKAUCE
+gangban=gangban
+小雉饼=小雉饼
+copper=copper
+MIFEN=MIFEN
+mil7uka=mil7uka
+外科王子鏡醫生=外科王子鏡醫生
+
+
+LEVEL DESIGNER=DISEÑADORES DE NIVELES
+HOWARD_Y=HOWARD_Y
+money=money
+钱=钱
+ForeverFXS=ForeverFXS
+
+OPERATIONS MANAGEMENT=GESTIÓN DE OPERACIONES
+KamenRider██=KamenRider██
++v=+v
+看天气预报=看天气预报
+more do bug=more do bug
+Mipudding=Mipudding
+DJ_RAISEN=DJ_RAISEN
+Ming_19=Ming_19
+
+BUSINESS DEVELOPMENT=DESARROLLO DE NEGOCIOS
+pigkun=pigkun
+fafa=fafa
+sho=sho
+choco=chocolate
+
+MUSIC=MÚSICA
+小野道=小野道
+ono=ono
+ANK=ANK
+
+SPECIAL THANKS=GRACIAS ESPECIALES
+PUZZLEDBOY=PUZZLEDBOY
+KEKE=KEKE
+VANGUARD-SOUND=VANGUARD-SOUND
+LIU LU=LIU LU
+JACKY SUN=JACKY SUN
+YU13=YU13
+HIKAMIBUBU =HIKAMIBUBU 
+UMU=UMU
+ALICEKI=ALICEKI
+5argon=5argon
+Amami.A.M=Amami.A.M
+Baozale=Baozale
+Catcats=Catcats
+CattLelya=CattLelya
+HXJ_ConveX=HXJ_ConveX
+LuiCat=LuiCat
+nikkukun=nikkukun
+snowsurvivor=snowsurvivor
+Zpm=Zpm
+PHIZER=PHIZER
+X.D. Network Inc.=X.D. Network Inc.
+D丶R=D丶R
+
+BGM=MÚSICA DE FONDO
+DOVA-SYNDROME=DOVA-SYNDROME
+MUSMUS=MUSMUS
+
+Please enter your mysterious code.=Por favor, ingresa tu código misterioso.
+Redeem Code doesn't exist（T^T）=El código que ingresaste no es válido（T^T）
+Maybe your network is poor. Please retry.=Quizás tu conexión a internet sea débil.\nPor favor, inténtalo de nuevo.
+
+r:"^LV.(\d+)$"=NV. $1
+r:"^Account：(.+)?$"=Cuenta:$1
+ID：=ID:
+r:"^玩家(.*)$"=Jugador $1
+CANCEL=VOLVER
+Copy the UID=COPIAR UID
+LOG OUT=DESVINCULAR
+
+MODIFY ID=CAMBIAR ID
+Please enter your ID. ( 1～10 characters)=Por favor, ingresa tu ID. (1 a 10 caracteres)
+
+Successfully copied!=¡Copiado con éxito!
+
+After <color\=#FF44FAFF>logging out</color> your account, we will not be able to synchronize your save data with other devices!=Después de <color\=#FF44FAFF>desvincular</color> tu cuenta, ¡no podremos sincronizar tus datos guardados con otros dispositivos!
+
+Warning=Advertencia
+Save conflicted=Conflicto de guardado
+Select the save file you want to keep=Selecciona el archivo de guardado que deseas conservar
+( This will overwrite the lower level save file. )=( Esto sobrescribirá el archivo de guardado de nivel inferior. )
+Cloud=En nube
+Local=En local
+（ Higher level ）=（ Nivel superior ）
+Level=Nivel
+Exp=Experiencia
+Last login platform =Última plataforma de inicio de sesión 
+Steam=Steam
+Last update time=Hora de la última actualización
+r:"^(\d{4}-\d{2}-\d{2})$"=$1
+
+Proceed with this save file?=¿Continuar con este archivo de guardado?
+
+Alter the Binding=Cambiar vinculación
+改绑说明=Instrucciones
+如果当前使用的账号正确，但希望更换绑定的手机或邮箱，\n请点击右下方的「<color\=#FB36D6>去修改</color>」。\n为了游戏账号安全，请不要随意修改绑定哦。\n如果当前绑定手机号或邮箱已注销或无法使用，\n请点击下方的「<color\=#FB36D6>申请人工绑定</color>」联系客服处理。=Si la cuenta actual es correcta, pero deseas cambiar el número de teléfono o correo electrónico vinculado, haz clic en "CAMBIAR".\nPara garantizar la seguridad de la cuenta, no modifiques la vinculación sin motivo.\nSi el número de teléfono o correo electrónico vinculado actualmente está desactivado o no se puede utilizar, haz clic en "VINCULACIÓN MANUAL" para contactar con servicio al cliente.
+申请人工绑定=VINCULACIÓN MANUAL
+去修改=CAMBIAR
+取消=VOLVER
+
+
+r:"^Unknown Error\(´×ω×`\)\nCode:(\d+)"\=Error desconocido (´×ω×`)\nCódigo: $1
+r:"「(.+)」T-Shirt"=Camisas「$1」
+Standee=Standee
+Standee blind box=Caja sorpresa de Standee
+「Leisure time」series goods are now on shelves!=¡Los productos de la serie「Leisure Time」ya están en los estantes!
+「Music-pack」sweatshirts=Sudaderas「Music-pack」
+「Psychedelic Electro」=「Psychedelic Electro」
+Gambler's Tricks Merch Released=Merchandising de Gambler's Tricks lanzado
+Kimono Ver. Merch on the Way=Merchandising de Versión Kimono en camino
+Fifth Anniversary Merch on the Way=Merchandising del Quinto Aniversario en camino
+China Dress Merch is coming=Merchandising de Vestido Chino está llegando
+Touhou Collab Merch Incoming!=¡Merchandising de Colaboración de Touhou en camino!
+Part-Time Warrior Goods Debut！=¡Debut de Productos de Guerrero a Tiempo Parcial!
+Household goods on sale!=¡Artículos para el hogar en venta!
+「Fruity Daily Series」on sale！=¡Serie「Diaria Frutal」está a la venta!
+「Muse Radio」Series=Serie「Muse Radio」
+T-Shirt=Camisa
+badge=Insignia
+keychain=Llavero
+Laser bag=Bolso láser
+mouse pad=Alfombrilla para mouse
+
+All=Todas
+Rin=Rin
+Marija=Marija
+Buro=Buro
+Special=Especiales
+Not obtained yet=Aún no obtenida
+
+r:"^Bassist (- )?Rin$"=Bajista $1Rin
+r:"^Bad Girl (- )?Rin$"=Chica Mala $1Rin
+r:"^Sleepwalker Girl (- )?Rin$"=Chica Soñolienta $1Rin
+r:"^Bunny Girl (- )?Rin$"=Chica Conejita $1Rin
+r:"^Christmas Gift (- )?Rin$"=Regalo de Navidad $1Rin
+r:"^Part-Time Warrior (- )?Rin$"=Trabajadora Temporal $1Rin
+r:"^Racer (- )?Rin$"=Corredora $1Rin
+r:"^Pilot (- )?Buro$"=Piloto $1Buro
+r:"^Idol (- )?Buro$"=Cantante $1Buro
+r:"^Zombie Girl (- )?Buro$"=Chica Zombie $1Buro
+r:"^Joker (- )?Buro$"=Bufona $1Buro
+r:"^Sailor Suit (- )?Buro$"=Traje de Marinera $1Buro
+r:"^Exorcist Master (- )?Buro$"=Maestra Exorcista $1Buro
+Ola=Ola
+r:"^Boxer (- )?Ola$"=Boxeadora $1Ola
+r:"^Violinist (- )?Marija$"=Violinista $1Marija
+r:"^Maid (- )?Marija$"=Sirvienta $1Marija
+r:"^Magical Girl (- )?Marija$"=Chica Mágica $1Marija
+r:"^Little Devil (- )?Marija$"=Diablilla $1Marija
+r:"^The Girl In Black (- )?Marija$"=La Chica de Negro $1Marija
+r:"^Sister (- )?Marija$"=Monja $1Marija
+Yume=Yume
+Navigator - Yume=Navegadora - Yume
+NEKO#ΦωΦ=NEKO#ΦωΦ
+Game streamer - NEKO#ΦωΦ=Streamer de juegos - NEKO#ΦωΦ
+Hakurei Reimu=Hakurei Reimu
+Red-white Miko - Hakurei Reimu=Sacerdotisa de Blanco y Rojo - Hakurei Reimu
+El_Clear=El_Clear
+Rebirth Girl - El_Clear=Chica Renacida - El_Clear
+Kirisame Marisa=Kirisame Marisa
+Black-white Magician - Kirisame Marisa=Maga de Blanco y Negro - Kirisame Marisa
+Hatsune Miku=Hatsune Miku
+Kagamine Rin & Len=Kagamine Rin y Len
+
+HP:=HP:
+200=200
+250=250
+300=300
+???=???
+Purchase=Comprar
+Unlock=Desbloquear
+
+CV: Yoshika Akashi=Voz: Yoshika Akashi
+CV: Nanami Takahashi=Voz: Nanami Takahashi
+CV: Mariya Ise=Voz: Mariya Ise
+CV: Mao Amatsuka=Voz: Mao Amatsuka
+CV: Mami Uchida=Voz: Mami Uchida
+CV: ▇▇▇▇▇▇=Voz: ▇▇▇▇▇▇
+CV: ▇▇▇▇▇▇▇▇▇▇=Voz: ▇▇▇▇▇▇▇▇▇▇
+CV: Hanamori Yumiri=Voz: Hanamori Yumiri
+CV: Hiromi Igarashi=Voz: Hiromi Igarashi
+CV: Ai Kakuma=Voz: Ai Kakuma
+CV: Saki Fujita=Voz: Saki Fujita
+CV: Machico=Voz: Machico
+CV: Asami Shimoda=Voz: Asami Shimoda
+CV: Tomoyo Kurosawa=Voz: Tomoyo Kurosawa
+CV：五十岚裕美=Voz: Hiromi Igarashi
+
+Bassist=Bajista
+r:"The maximum HP of Bassist Rin increases 50."=Los PV máximos de la Bajista Rin aumentan en 50.
+The maximum nya HP of Bassist Rin Nya increases 50 nya!=¡Los PV máximos de la Bajista Rin Nya aumentan 50 nya!
+Here is Muse Warrior; the gear reflects her beauty; Muse Warrior gets defeated; the bassist returns! [Alive for a total of 4 seconds)=Aquí está la Guerrera Muse; el equipo refleja su belleza. Si la Guerrera Muse es derrotada; ¡la bajista regresa! [Viva por un total de 4 segundos]
+
+I'm listening! Stop poking!=¡Estoy escuchando! ¡Deja de picarme!
+You dare to disturb me? You wanna go to hospital?=¿Te atreves a molestarme? ¿Quieres ir al hospital?
+Whoo-hoo---still not ready? ...=Uuahhh--- ¿todavía no estás listo...?
+Haha, you also like rock music?=Jaja, ¿también te gusta la música rock?
+Rules are made to be broken, aren't they?=Las reglas están hechas para romperse, ¿no?
+Wow! Don't...don't take me as a fool!=¡Wow! ¡No... no me tomes por tonta!
+I'm not the one to be conquered!=¡No soy de las que se dejan conquistar!
+So——boring——Let's do sports!=Qué——aburrido——¡Hagamos deporte!
+Hey, can you stop touching me?!=Oye, ¡¿puedes dejar de tocarme?!
+Don't dilly dally, I almost fell asleep...=No te demores, casi me quedo dormida...
+Well, great rhythm. Do you wanna join a band?=Bueno, gran ritmo. ¿Quieres unirte a una banda?
+
+You asked for this...!=¡Pediste esto...!
+Is my good look a bother for you?=¿Mi buen aspecto te molesta?
+You should learn from others, and I don't mind setting an example for you, baby. =Deberías aprender de los demás, y no me importa darte un ejemplo, bebé.
+Don't think, FEEL.=No pienses, SIENTE.
+No one knows my mind.=Nadie conoce mi mente.
+I know what you're thinking. But you don't have to do this for me... Really.=Sé lo que estás pensando. Pero no tienes que hacer esto por mí... En serio.
+
+Bad Girl=Chica Mala
+
+You look pretty strong. Why not have a competition between us?=Luces bastante fuerte. ¿Por qué no competimos entre nosotros?
+The ranking? Of course at the top!=¿El ranking? ¡Por supuesto, en la cima!
+I never lose whether in solo or gang battles!=¡Nunca pierdo ya sea en batallas individuales o en equipo!
+You'd better have that awareness...=Más te vale tener esa conciencia...
+So! Let your fists talk rather than your mouth!=¡Así que! ¡Deja que tus puños hablen en lugar de tu boca!
+You might die under my stick...=Podrías morir bajo mi bate...
+Hey, don't touch it! You wanna get your ass kicked?=¡Oye, no lo toques! ¿Quieres que te patee el culo?
+See my mighty and heroic look? ~=¿Ves mi aspecto poderoso y heroico? ~
+What? You wanna fight?=¿Qué? ¿Quieres pelear?
+What, what are you going to do anyway!?=¡¿Qué, qué planeas hacer de todos modos!?
+Nonsense! Who...who's being shy!!=¡Disparates! ¡¿Quién... quién está siendo tímido?!
+Wait! What are you doing!=¡Espera! ¡Qué estás haciendo!
+
+Sleepwalker Girl=Chica Soñolienta
+
+I'm already full...haha...=Ya estoy llena... jaja...
+Stupid Buro, don't grab my food...=Estúpida Buro, no agarres mi comida...
+Mr. RIce...Thank you for the meal...hic...=Señor Arroz... Gracias por la comida... hic...
+Don't you...want to...take a nap...now? I do...Zzz=¿No quieres... tomar una siesta... ahora? Yo sí... Zzz
+It's...not the time...to get up yet...=No es... el momento... de levantarse todavía...
+Fried rice, sushi, curry...all mine...=Arroz frito, sushi, curry... todo es mío...
+Emm...it's a little hot here...=Mmm... hace un poco de calor aquí...
+Soft...Buro...Zzzz=Buro... Qué suave... Zzzz
+Hmm...where's my big meal?=Hmm... ¿dónde está mi gran comida?
+Um...Zzz...Um...Zzz...Um...Zzz...Um...Zzz... =Eh... Zzz... Eh... Zzz... Eh... Zzz... Eh... Zzz... 
+Om nom nom...=Am ñam ñam...
+Sure you can rest with me if you don't...don't get fresh...=Claro que puedes descansar conmigo si no... no te pones atrevido...
+
+Bunny Girl=Chica Conejita
+
+Satisfied now? I've scarified so much...=¿Satisfecho ahora? He sacrificado tanto...
+What? I'm quite busy...=¿Qué? Estoy bastante ocupada...
+Please make it stop now! Don't let others see it...=¡Por favor, detente ahora! No dejes que otros me vean...
+Red cheek?! Because it's hot today!!=¡¿Mejillas rojas?! ¡Es porque hoy hace calor!
+Hey, don't be that greedy...=Oye, no seas tan codicioso...
+The sexy look is not really my style, is it?=El aspecto sexy no es realmente mi estilo, ¿o sí?
+So...the punishment is over right?=Entonces... el castigo ha terminado, ¿verdad?
+Your hand is boiling hot...are you sick?=Tu mano está ardiendo... ¿estás enfermo?
+Wait, it...it's working time now...=Espera, es... es hora de trabajar ahora...
+Can I change my old suit back?=¿Puedo cambiar a mi vestimenta anterior?
+The carrot is only used for battles!!=¡¡La zanahoria solo se usa para batallas!!
+Here is your Stage Clear award. Don't, don't relate to anything nasty!!=Aquí está tu premio de Escenario superado. ¡No, no lo relaciones con nada desagradable!
+
+Christmas Gift=Regalo de Navidad
+
+B-b-b-rrr! I'm freezing…=¡F-f-f-frio! ¡Me estoy congelando...
+Did I scare you? M-merry Christmas!=¿Te asusté? ¡F-feliz Navidad!
+It might have been better to dress up as Santa…=Hubiera sido mejor disfrazarse de Santa...
+Ahhh, this tape is so sticky…=¡Ahhh, esta cinta es tan pegajosa...
+Ah? This box? Of course I can't let go of it!=¿Eh? ¿Esta caja? ¡Por supuesto que no puedo soltarla!
+N-n-n-n-no comment!=¡S-s-s-s-sin comentarios!
+I thought I could jump out of the box and scare people… I don't think I thought this through…=Pensé que podría saltar fuera de la caja y asustar a la gente... No creo que haya pensado esto bien...
+I thought you might like me for Christmas…=Pensé que podrías gustarme para Navidad...
+What do you think I dressed up like this for!=¡Para qué crees que me vestí así!
+Sign your name… Hey! Why are you writing there?!=Firma tu nombre... ¡Oye! ¡¿Por qué estás escribiendo ahí?!
+There's only enough room for one in here! D-d-d-don't come in!=¡Aquí solo hay espacio para uno! ¡N-n-n-no entres!
+
+Part-Time Warrior=Trabajadora Temporal
+
+I worked my butt off and only two coins? WTF devs?=¿Trabajé duro y solo dos monedas? ¿Qué rayos, devs?
+Pay to win and not really fun at all! ⊂彡☆))∀`)=¡Pagar para ganar y no es divertido! ⊂彡☆))∀`)
+ADVERTISING SPOT FOR RENT!!!=¡ESPACIO PUBLICITARIO EN ALQUILER!
+Stop that, our writers ran away!=¡Deja de eso, nuestros escritores se escaparon!
+Ha, not this time.=Já, no esta vez.
+What do you mean lazy drawing, less is more!=Qué quieres decir con dibujo perezoso, ¡menos es más!
+:( Your character has encountered an voicing issue.\nError Code: peroperoispoor\nPlease try buying music packs to support the devs.=:( Tu personaje ha encontrado un problema de voz.\nCódigo de error: PEROPEROISPOOR\nIntenta comprar paquetes de música para apoyar a los devs.
+I'll never be off duty. I have deep feelings for my work site (╬ﾟдﾟ)=Nunca estaré fuera de servicio. Tengo sentimientos profundos por mi sitio de trabajo (╬ﾟдﾟ)
+My new skill? Doing true damage to IQ. ( ﾟq 。)=¿Mi nueva habilidad? Hacer daño real al IQ. ( ﾟq 。)
+Come on PeroPero, being poor is not the excuse to make me look like this!=Vamos, PeroPero, ¡ser pobre no es una excusa para hacerme ver así!
+Hmm... Running out of ideas... Might as well put this in.=Hmm... Se están acabando las ideas... Más vale poner esto aquí.
+Damn... today is a dark... ( TдT)=Maldición... hoy es un día oscuro... ( TдT)
+
+Pilot=Piloto
+
+Candy land? I really wanna go there!=¿Tierra de dulces? ¡Realmente quiero ir allí!
+Don't look down on me though I'm cute!=¡No me menosprecies solo porque soy tierna!
+Well, it's OK to play with you if you have donuts.=Bueno, está bien jugar contigo si tienes donas.
+Strawberry cake and chocolate cake, which one is better...=Pastel de fresa o pastel de chocolate, cuál es mejor...
+Buro is on an important mission!=¡Buro está en una misión importante!
+One donut is not enough to buy off Buro!=¡Una dona no es suficiente para comprar a Buro!
+Desserts are put into the other stomach of course!=¡Los postres van directo al otro estómago, por supuesto!
+Touching my head will stops me from growing taller...=Tocarme la cabeza me impedirá crecer más alto...
+Secretly taking photos of Marija? Leave it to me!=¿Tomar fotos secretamente de Marija? ¡Déjamelo a mí!
+Guess where did I put Marija's notebook?=¿Adivina dónde puse el cuaderno de Marija?
+I...I'm definitely growing up healthily...=Y-yo... definitivamente estoy creciendo de manera saludable...
+
+F**k, Rin nooooooob…… =J*d*r, Rin nooooooob…… 
+Anyone seen by me come here obediently and be my sandbang O.o =Cualquiera que vea por mí venga aquí obedientemente y sea mi Sandbang O.O 
+Try tapping twice again? =¿Intenta tocar dos veces otra vez? 
+Huh? =¿Ehh? 
+The abs are all exposed...... It's the first time……  =Los abdominales están todos expuestos... Es la primera vez... 
+F**k, Marija nooooooob……  =J*d*r, Marija nooooooob……  
+
+Idol=Cantante
+
+it's OK to take hands and take photos together~=Está bien tomarnos de las manos y sacarnos fotos juntos~
+Let's occupy the ranking!=¡Vamos a ocupar el ranking!
+Where are you looking?! You freak!=¡¿Dónde estás mirando?! ¡Eres un rarito!
+Kira~Kira~=Brilla~ Brilla~
+Hello, Police? Here's a freak!=Hola, ¿policía? ¡Aquí hay un rarito!
+La la la la~=La la la la~
+What are you doing! I know you're my fan but could you please stop it...=¿Qué estás haciendo? Sé que eres mi fan, pero podrías por favor parar...
+I'm super charismatic now! ~=¡Ahora estoy súper carismática! ~
+Want my autograph? Photo together? Hey...?!=¿Quieres mi autógrafo? ¿Una foto juntos? ¡¿Hey...?!
+This hairstyle is carefully prepared! don't mess it up...=¡Este peinado está cuidadosamente preparado! No lo estropees...
+Praising is enough, don't touch my head!=¡Elogiar es suficiente, no toques mi cabeza!
+100% synchronized. Ready to show!=100% sincronizada. ¡Listo para actuar!
+
+Zombie Girl=Chica Zombie
+
+Ghost?! Are, are you a kid? You even believe in that!=¡¿Fantasma?! ¿Eres, eres un niño? ¡Incluso crees en eso!
+I will bite you if you dare to touch my head again!=¡Te morderé si te atreves a tocar mi cabeza otra vez!
+Hoo——hoo——Did I scare you?=Hoo——hoo——¿Te asusté?
+You wanna get bitten by Buro?=¿Quieres ser mordido por Buro?
+Ah? Isn't it a common sense that zombies love sweet food?=¿Ah? ¿No es sentido común que los zombies amen la comida dulce?
+I'm a zombie now! You should all fear me!=¡Soy un zombie ahora! ¡Todos deberían temerme!
+Can I still grow taller as a zombie...=¿Puedo seguir creciendo como zombie...?
+I'm a zombie, I'm not afraid not darkness!=Soy un zombie, ¡no le temo a la oscuridad!
+You also wanna follow me? Get your neck close to me~=¿También quieres seguirme? Acércame tu cuello~
+You are even interested in zombies...you, you...=Incluso estás interesado en los zombies... tú, tú...
+Hoo hoo, I'm going to bite you!!=Hoo hoo, ¡te voy a morder!
+
+Joker=Bufona
+
+What kind of joker will be more popular?=¿Qué tipo de bufona será más popular?
+If you always touch me, I will touch you back!=¡Siempre y cuando me toques, te tocaré de vuelta!
+Which one of the audience should I tease today~?=¿A quién de la audiencia debería molestar hoy~?
+What are you thinking? This is the show suit!=¿En qué estás pensando? ¡Este es el traje del espectáculo!
+Hehehehe~=Jejejeje~
+I'm the best at making snacks disappeared!=¡Soy la mejor haciendo desaparecer los bocadillos!
+How about using donuts as tickets!?=¡¿Qué tal usar donas como boletos!?
+I know you're cheering for me, but it's too...too passionate!=Sé que estás animándome, pero es demasiado... ¡demasiado apasionado!
+Come to be the volunteer of my magic!=¡Ven a ser el voluntario de mi magia!
+What about this show: eating cakes while walking the wire!=Qué tal este espectáculo: ¡comer pasteles mientras caminas por la cuerda floja!
+Huh? This clothes is more convenient to move!=¿Eh? ¡Estas ropas son más convenientes para moverse!
+
+Sailor Suit=Traje de Marinera
+
+It's far better to stay alone, you dummies.=Es mucho mejor estar solo, tontos.
+Milks are for kids, we grown-ups prefer coffee! ...ugh...that's terrible.=¡La leche es para niños, los adultos preferimos café! ...ugh... eso es terrible.
+You like surfing the Internet?=¿Te gusta navegar por Internet?
+I like...rain=Me gusta... la lluvia
+That's an earphone not ears, \nall right?=Eso es un auricular, no orejas, ¿está bien?
+Why there is a pool alongside the road? That's not my business.=¿Por qué hay una piscina junto a la carretera? Eso no es asunto mío.
+Well, I do like you a little bit...I guess.=Bueno, me gustas un poco... supongo.
+My favorite genre? Nope, not gonna tell you～=¿Mi género favorito? No, no te lo voy a decir~
+I have pet, well, an electronic one.=Tengo una mascota, bueno, una electrónica.
+If ... Rin and Marija fell into the water at the same time ... Should we go to the arcades or karaoke first?=Si... Rin y Marija cayeran al agua al mismo tiempo... ¿Deberíamos ir primero a los recreativos o al karaoke?
+Since you are here. I can' share my earphone but...I can share my coffee=Ya que estás aquí. No puedo compartir mis auriculares, pero... puedo compartir mi café
+Eeeeeek! That tail's just a decoration! No touching!!!=¡Aaaaaah! ¡Esa cola es solo una decoración! ¡¡¡No toques!!!
+
+Exorcist Master=Maestra Exorcista
+
+No matter it's the Eastern monster or the Western demon, there's nothing I can't exorcise. Alas, it's getting harder to scrape a living~=No importa si es un monstruo del Este o un demonio del Oeste, no hay nada que no pueda exorcizar. Ay, cada vez es más difícil ganarse la vida~
+Tit for tat is fair game! If you invite something like a zombie or demon, don't count on me to rescue you~=¡Ojo por ojo es justo! Si invitas algo como un zombi o un demonio, no cuentes conmigo para rescatarte~
+Is the streamer blind—this is my important prop to show... exorcise the demons!! I'll kill you!!=¿El streamer está ciego? ¡Este es mi accesorio importante para mostrar... exorcizar los demonios! ¡Te mataré!
+Sleeping with the pillow consecrated by me can bring you a good fortune... How about that? Wanna buy it?=Dormir con la almohada consagrada por mí puede traerte buena fortuna... ¿Qué tal? ¿Quieres comprarla?
+How about sealing... your head filled with evil thoughts?=¿Qué tal sellar... tu cabeza llena de pensamientos malvados?
+Snacks were gone? Figures were broken? I said it a thousand times! Spoiled brats are not ghosts! Fix it yourself!=¿Desaparecieron los bocadillos? ¿Se rompieron las figuras? ¡Lo dije mil veces! ¡Los mocosos mimados no son fantasmas! ¡Arréglalo tú mismo!
+That suspicious sister does business but collects no money. I smelled something fishy! Let me check her out!=Esa monja sospechosa hace negocios pero no recoge dinero. ¡Huele a algo sospechoso! ¡Déjame investigarla!
+Something is moving behind the streamer? Please raise your head and take a good look at the stream title? You can't even fool the ghosts!=¿Algo se mueve detrás del streamer? ¡Por favor, levanta la cabeza y echa un buen vistazo al título del stream? ¡Ni siquiera puedes engañar a los fantasmas!
+I saw you surrounded by darkness. This must be... Er, sorry, I forgot to take off the sunglasses!=Te vi rodeado de oscuridad. Esto debe ser... Eh, lo siento, ¡olvidé quitarme las gafas de sol!
+Ola, you might notice it too—this place must be haunted by an evil spirit!=Oye, también podrías darte cuenta... ¡este lugar debe estar embrujado por un espíritu maligno!
+Who the ○○○○ pulled out my trumpet cable (#`Д ′)=¿Quién ○○○○ sacó mi cable de claxon? (#`Д ′)
+
+Boxer=Boxeadora
+
+Ola ola ola ola ola! My endless punches can defeat any enemy!!=¡Ola ola ola ola ola! ¡Mis golpes interminables pueden derrotar a cualquier enemigo!
+Ahhhhh, I'm so nervous. Think back to what Sis once told me: "Run away from the fight you can't win."Run away from the fight I can't win. Run away from the fight I can't win...=¡Ahhhhh, estoy tan nerviosa! Piensa en lo que Sis me dijo una vez: "Huye de la pelea que no puedes ganar". Huir de la pelea que no puedo ganar. Huir de la pelea que no puedo ganar...
+Gloves, check. Headgear, check. Henshin device, check. Skill, check. Good! I'm invincible today!!=Guantes, listos. Casco, listo. Dispositivo de transformación, listo. Habilidad, lista. ¡Bien! ¡Hoy soy invencible!
+Bear, sanjou! How about that? I'm a copycat? It’s not that obvious!=¡Oso, sal! ¿Qué tal eso? ¿Soy una imitadora? ¡No es tan obvio!
+This is my trump card, Bear Punch! If that's not enough, Bear Punch Plus! Still not enough? Bear Punch Ultimate!=¡Este es mi as en la manga, ¡Golpe del Oso! Si eso no es suficiente, ¡Golpe del Oso Plus! ¿Todavía no es suficiente? ¡Golpe del Oso Definitivo!
+I just found out I only have Sis's skill... Um, maybe it's okay. She is powerful after all...=Acabo de darme cuenta de que solo tengo la habilidad de Sis... Um, tal vez esté bien. Después de todo, ella es poderosa...
+Stamina—As long as I have it, I can take care of all my enemies! You should get more exercise like me, partner!=Resistencia: ¡Mientras la tenga, puedo encargarme de todos mis enemigos! ¡Deberías hacer más ejercicio como yo, compañero!
+Sis is in that bear in pink braces? It can't be! Wait a minute, let me look again...?=¿Sis está dentro de ese oso con frenillos rosas? ¡No puede ser! Espera un momento, ¿déjame mirar de nuevo...?
+I used to feel your gaze when I was in bear form...=Solía sentir tu mirada cuando estaba en forma de oso...
+Wow, I'm really weak in human form. I have a bad feeling that I'm gonna make a fool of myself... Oh, no...=Wow, soy realmente débil en forma humana. Tengo una mala sensación de que voy a hacer el ridículo... Oh, no...
+
+Violinist=Violinista
+
+You're reading books or my legs?=¿Estás leyendo libros o mis piernas?
+Hey, you hands, behave yourself...=Oye, manos, compórtense...
+What are the notebooks you are often talking about? Also books?=¿De qué son los cuadernos de los que hablas con frecuencia? ¿También libros?
+Just play the game without having any daydreams.=Solo juega el juego sin tener fantasías.
+Um? Are we going to make battle plans?=¿Um? ¿Vamos a hacer planes de batalla?
+Did Buro make any trouble?=¿Buro causó algún problema?
+Aha, looks like you're prepared to die, aren't you?=Ajá, parece que estás preparado para morir, ¿verdad?
+Hello, police? Still that guy.=Hola, ¿policía? Todavía ese tipo.
+What? You want me to mock you for enjoying?=¿Qué? ¿Quieres que te critique por disfrutar?
+Life would be so boring without music, right?=La vida sería muy aburrida sin música, ¿verdad?
+If you have time to learn, you have time to read.=Si tienes tiempo para aprender, tienes tiempo para leer.
+
+Sorry don't mind me. I just want to peek at darling as if I'm reading^^  =Perdón, no me hagas caso. Solo quiero mirar a mi amorcito como si estuviera leyendo^^  
+Let's exchange darling's pants with my victory~ =¡Intercambiemos los pantalones de mi amorcito por mi victoria~!
+I'll take darling's everything away ^^  =¡Le quitaré todo a mi amorcito ^^!
+What do I like about darling?\n None, but I like darling\/\/\/\/=¿Qué me gusta de mi amorcito? Ninguna, pero me gusta mi amorcito\/\/\/\/
+Can't you delete the f**k hammer?=¿No puedes borrar el p*t* martillo?
+The way darling can't do anything……\n How adorable\/\/\/\/=La forma en que mi amorcito no puede hacer nada... Qué adorable\/\/\/\/
+
+Maid=Sirvienta
+
+Enough!...can... can I get off work? Master.=¡Ya basta!... ¿p-puedo... puedo dejar de trabajar? Amo.
+All clean...including myself...=Todo limpio... incluso yo misma...
+So whose bad idea is it to let me wear the maid suit...=De quién es la brillante idea de dejarme usar el traje de sirvienta...
+I...I don't know how to cope with it...=Y-yo... yo no sé cómo lidiar con esto...
+You wanna warm up or cook first...eh? Neither?=¿Quieres calentarte o cocinar primero... eh? ¿Ninguno?
+Master, welcome back...=Amo, bienvenido de vuelta...
+I hope you can be more gentlemanly...=Espero que puedas ser más caballeroso...
+I can lick it clean if the screen gets dirty...=Puedo lamerlo si la pantalla se ensucia...
+Discipline...? I don't get it...=¿Disciplina...? No lo entiendo...
+I...I'm not enjoying...=Y-yo... yo no estoy disfrutando...
+Master...you wanna be packed into a garbage bag?=Amo... ¿quieres ser empacado en una bolsa de basura?
+
+Magical Girl=Chica Mágica
+
+I cannot meow meow. don't think about it...=No puedo miau miau. No lo pienses...
+I know! I know! Um——————Meow?=¡Lo sé! ¡Lo sé! ¿Um——————Miau?
+Put your face close to me, let me cast a buff for you~=Acerca tu rostro, déjame lanzarte un hechizo beneficioso~
+My driving skill is the best~=Mi habilidad para conducir es la mejor~
+Eh? What's good of becoming a broom?=¿Eh? ¿Qué tiene de bueno convertirse en una escoba?
+Ah? Black magic of turning into a grown up man?=¿Ah? ¿Magia negra para convertirse en un hombre adulto?
+isn't your hobby...a little bit strange?=¿No es tu pasatiempo... un poco extraño?
+I cannot do whatever I want even though I'm a witch.=No puedo hacer lo que quiero aunque sea una bruja.
+Love magic? Want me to teach you?=¿Magia de amor? ¿Quieres que te enseñe?
+As for messaging, stop where it should be stopped! Or I'll turn you into a panty!!=¡En cuanto a los mensajes, detente donde deberías detenerte! ¡¡O te convertiré en una braga!!
+don't think about strange magics all day!=¡No pienses en magias extrañas todo el día!
+
+Little Devil=Diablilla
+
+My tail is not only a decoration...=Mi cola no es solo una decoración...
+Don't think that I don't know what you're thinking~=No creas que no sé lo que estás pensando~
+Be my servant and you can have the benefits...=Sé mi sirviente y podrás disfrutar de los beneficios...
+Devote your soul to me, and I'll make any of your dreams come true~=Dedica tu alma a mí y haré realidad cualquiera de tus sueños~
+You know the consequence of pissing me off~=Conoces las consecuencias de enfadarme~
+Fascinated by my charm?♪=¿Fascinado por mi encanto?♪
+Um? You wanna try dying?=¿Um? ¿Quieres intentar morir?
+What about having a trade?=¿Qué tal si hacemos un trato?
+Fan service? I can consider to serve you if you get a Full Combo...=¿Contenido para fans? Puedo considerar satisfacerte si consigues un Combo Completo...
+Specially produced wine, wanna have a drink with me? Hehehe♪=Vino especialmente producido, ¿quieres tomar algo conmigo? Jejeje♪
+it's not unacceptable to listen to your wishes once in a while...=No es inaceptable escuchar tus deseos de vez en cuando...
+
+The Girl In Black=La Chica de Negro
+
+Hah, you think I just use this to conduct the band?=Ja, ¿crees que solo uso esto para dirigir la banda?
+I'll put you in timeout if you poke me again!=¡Te pondré en tiempo muerto si me vuelves a molestar!
+Have a taste of my baton.=Prueba mi batuta.
+Someone rear-ended my car earlier. Can I ride you instead?=Alguien chocó contra mi coche antes. ¿Puedo montarte en su lugar?
+Hey, who said you could touch your master?=Oye, ¿quién dijo que podías tocar a tu amo?
+Surrender to my skirt, weaklings!=¡Ríndete ante mi falda, debiluchos!
+Let's have some fun, wimps!=¡Divirtámonos un poco, cobardes!
+Wag your tail and I might just let you lick my boots.=Mueve tu cola y quizás te deje lamer mis botas.
+An inferior being indeed... but you seem to be quite sensible.=Un ser inferior en efecto... pero pareces ser bastante sensato.
+Such an unrepentant creature. You really want to die, don't you?=Qué criatura tan impenitente. Realmente quieres morir, ¿no?
+Be patient until I give you permission.=Sé paciente hasta que te dé permiso.
+
+Sister=Monja
+
+You need not fear me. Only bad people are my target... Huh, are you here to confess?=No necesitas temerme. Solo las personas malas son mi objetivo... ¿Eh, has venido aquí para confesarte?
+If you are really a kind-hearted person, you should support me, as long as the result is correct, no...?=Si realmente eres una persona de buen corazón, deberías apoyarme, mientras el resultado sea correcto, ¿no...?
+A good sense of smell, careful planning, and swift handling—those are what I've learned at the Church.=Un buen olfato, planificación cuidadosa y manejo rápido, eso es lo que he aprendido en la Iglesia.
+Can enemies be defeated by prayers only? Of course not. So let's get started, while God is still in slumber.=¿Los enemigos pueden ser derrotados solo con oraciones? Por supuesto que no. Así que empecemos, mientras Dios aún está dormido.
+Even if you are against my approach, we are already accomplices... So what do you think should be done to traitors...=Incluso si estás en contra de mi enfoque, ya somos cómplices... Entonces, ¿qué crees que debería hacerse con los traidores...
+Enemies? It-It is they that targeted me first. I just... beat them too hard...=¿Enemigos? Ellos-Ellos fueron quienes me atacaron primero. Yo solo... los golpeé demasiado fuerte...
+Wanna make a confession? Just tell me about it. I'm efficient~=¿Quieres hacer una confesión? Solo cuéntame. Soy eficiente~
+Unlike my devil who has a gentle soul, my angel is a naughty kid... Well, keep it a secret to the Church.=A diferencia de mi demonio que tiene un alma gentil, mi ángel es un niño travieso... Bueno, manténlo en secreto para la Iglesia.
+Calm down, calm down, Marija... Don't submit to profane temptations. Come recite prayers. That's right, that's what you should do...=Cálmate, cálmate, Marija... No sucumbas a las tentaciones profanas. Ven, recita oraciones. Eso es, eso es lo que deberías hacer...
+Familiars, who have lived several hundreds of years, can even argue about either the bunny girl suit or the sailor suit is cuter for a whole day. Oh, this is really...=Los familiares, que han vivido varios cientos de años, pueden discutir incluso durante todo un día si el traje de conejita o el traje de marinera es más lindo. Oh, esto es realmente...
+Behave yourself... This is not any doctrine, but something that even a child can understand...=Comportate... Esto no es ninguna doctrina, sino algo que incluso un niño puede entender...
+
+Navigator=Navegadora
+
+Have you heard? I just got the coupon for new desert shop by the station. Let's go after school!=¿Has oído? ¡Acabo de recibir el cupón para New Desert Shop junto a la estación! ¡Vamos después de la escuela!
+7 times 9 is... 32?=7 veces 9 es... ¿32?
+Welcome to Yume's party!=¡Bienvenido a la fiesta de Yume!
+Rin-chan will blush if you say she's Kawaii, just like Seine senpai!=¡Rin-chan se sonrojará si dices que es Kawaii, al igual que Seine-senpai!
+Hmm...hmm... Oh! Sorry, I was distracted.=Hmm... hmm... ¡Oh! Lo siento, estaba distraída.
+It's a frog? How rude, I was drawing a cat!=¿Es una rana? ¡Qué grosero, estaba dibujando un gato!
+Let's try Groove Coaster next time!=¡Probemos Groove Coaster la próxima vez!
+Why do I like summer? Because ice cream!=¿Por qué me gusta el verano? ¡Por el helado!
+Kawaii? Me? Thanks, I'm happy to be said that!=¿Kawaii? ¿Yo? Gracias, me alegra que me lo digan.
+Huh... So hungry... need crepes...=Uh... Tengo tanta hambre... necesito crepes...
+Eh... I hit a pole when walking around with my headphones on... It still hurts...=Eh... Golpeé un poste mientras caminaba con mis auriculares puestos... Todavía me duele...
+
+Game streamer=Streamer de juegos
+
+<i>[User is now banned.]</i>=<i>[El usuario ha sido baneado.]</i>
+The girls are so cute here~ \nWho do we start with... heheheh=Las chicas aquí son tan lindas~\nCon quién empezamos... jejeje
+NEKO is taking the top of this leaderboard!=¡NEKO está liderando esta tabla de clasificación!
+What the...? Who did you say is a wildcat? =¿Qué...? ¿Quién dijiste que es una gatita salvaje?
+What's your problem? \nNEKO is busy, go away.=¿Cuál es tu problema?\nNEKO está ocupada, lárgate.
+Chit-chat time~=Hora de charlar~
+Though MeowBot is always the cutest, \nthis Muse is really lovely!=Aunque MeowBot siempre es el más lindo,\n¡esta Muse es realmente encantadora!
+The signal is so bad here!\n I can't scroll through iM...=¡La señal es tan mala aquí!\nNo puedo desplazarme por iM...
+Wha... Where are you touching?! Hentai! Get away from me!!!=¡¿Qué... dónde estás tocando?! ¡Pervertido! ¡¡¡Aléjate de mí!!!
+Yeah! NEKO is chosen again!Hmm... \nWhy did I say again?=¡Sí! ¡NEKO ha sido elegida de nuevo! Hmm...\n¿Por qué dije de nuevo?
+Oh~ The blush on NEKO means nothing, stop guessing! Haha... Ahhahaha...=¡Oh~ El sonrojo en NEKO no significa nada, deja de especular! Jaja... Ajajajaja...
+I'm not your waifu! Disgusting! You are so banned! You're banned!=¡No soy tu waifu! ¡Asqueroso! ¡Estás muy baneado! ¡Estás baneado!
+
+Red-white Miko=Sacerdotisa de Blanco y Rojo
+
+You're welcome, please put my pay in the donation box~=De nada, por favor coloca mi pago en la caja de donaciones~
+Props? Illustrations? Is there nothing more valuable?=¿Accesorios? ¿Ilustraciones? ¿No hay algo más valioso?
+Ughhh Yukari! Got tricked by her prank again and now I'm here!=¡Ughhh Yukari! ¡Me volvió a engañar con su broma y ahora estoy aquí!
+Enough already, I did my part didn't I?=Ya es suficiente, ¿no cumplí con mi parte?
+Buro? That kid is kinda like Suika ... Noisy, but not annoying.=¿Buro? Esa niña es un poco como Suika... Ruidosa, pero no molesta.
+Why are you so concerned about my armpits? There is no weak point here!=¿Por qué estás tan preocupado por mis axilas? ¡Aquí no hay puntos débiles!
+Have nothing to do, huh? Would you like a cup of tea?=¿No tienes nada que hacer, eh? ¿Te gustaría una taza de té?
+Do you ever get tired of poking me? You know that I'm not ticklish, right?=¿Nunca te cansas de molestarme? Sabes que no tengo cosquillas, ¿verdad?
+I have made up my mind, how about building a shrine here too? This will double my income!=He tomado una decisión, ¿qué tal construir un santuario aquí también? ¡Esto duplicará mis ingresos!
+Rhythm? Isn't it all about defeating the enemies?=¿Ritmo? ¿No se trata solo de derrotar a los enemigos?
+For what you've done to me, I will take double the payback!=¡Por lo que me has hecho, te devolveré el doble!
+Want an S? That will cost you 100,000 yen. No? Then what?=¿Quieres una S? Eso te costará 100,000 yenes. ¿No? ¿Entonces qué?
+
+Rebirth Girl=Chica Renacida
+
+Just now! I saved another spectator who was almost bewitched by Fail. It was literally a close call.=¡Justo ahora! ¡Salvé a otro espectador que casi fue hechizado por Fail! Fue literalmente un momento crítico.
+Clear will clear all the songs here! Eh... an awkward silence?=¡Clear eliminará todas las canciones aquí! ¿Eh... un silencio incómodo?
+Today is the day of solo with Fail, whoever loses will do whatever the winner says! Come and cheer me on!=¡Hoy es el día del duelo con Fail, quien pierda hará lo que el ganador diga! ¡Ven y anímate por mí!
+Fail comes here with me? What a clingy girl... Don't worry, I'll take care of her myself!=¿Fail viene aquí conmigo? Qué chica tan pegajosa... No te preocupes, yo me encargaré de ella misma.
+Love from everyone is the source of my power, so always praise me~=El amor de todos es la fuente de mi poder, así que siempre alábame~
+Born in the grave, standing for the return of glory! How about it, isn't it cool? =¡Nacida en la tumba, luchando por el regreso de la gloria! ¿Qué tal, no es genial?
+Is that little zombie named Buro also resurrected from the graveyard? What...that is a cosplay?!=¿Esa pequeña zombie llamada Buro también resucitó de la tumba? ¿Qué... eso es un disfras?!
+Eh? Eh? Ah... I can't take it anymore! If you want something, just say it!=¿Eh? ¿Eh? ¡Ah... ya no puedo más! Si quieres algo, ¡solo dilo!
+How long are you going to cool my heels? Hurry up and start playing with me! Come on, come on, come on!=¿Cuánto tiempo vas a hacerme esperar? ¡Apresúrate y empieza a jugar conmigo! ¡Vamos, vamos, vamos!
+Ahhhh, geez! To prevent you from poking me and thus losing the game, keep three meters away from now on!=¡Ahhh, demonios! ¡Para evitar que me molestes y así perder el juego, mantente a tres metros de distancia a partir de ahora!
+I don't look like Fail. Obviously I'm in better shape... Yes, that's definitely true!=No me parezco a Fail. Obviamente estoy en mejor forma... ¡Sí, eso es definitivamente cierto!
+You want me to fight with the guitar... What if I destroy it? I mean the mob of monsters!=¿Quieres que pelee con la guitarra... ¿Qué pasa si la destruyo? Quiero decir, el montón de monstruos!
+
+Black-white Magician=Maga de Blanco y Negro
+
+Not like someone, if your request brings me fun, I won't charge you ~ ☆=No como alguien, si tu solicitud me divierte, no te cobraré~ ☆
+My luck today is… future blessing?! Future blessing again? Isn't it  "Almost Misfortune "!!=Mi suerte hoy es... ¡¿bendición futura?! ¿Bendición futura de nuevo? ¡¡No es "Casi Infortunio"!!
+I am the Great Magician—Kirisame Marisa! … Huh? You didn’t think it was me?=¡Soy la Gran Maga—Kirisame Marisa! ...¿Eh? ¿No pensaste que era yo?
+Don't give me that"please do Love Sign Master Spark again"look! I'm not a busking magician!=¡No me des esa mirada de "por favor haz el Love Sign Master Spark de nuevo"! ¡No soy una maga callejera!
+I was called by a dangerous-looking girl in black to dust her car… Do I look like a maid?=Una chica con aspecto peligroso vestida de negro me llamó para limpiar su coche... ¿Parezco una sirvienta?
+Treating every enemy with care is not my style. Let me teach you how to use Master Spark ~ ☆=Tratar a cada enemigo con cuidado no es mi estilo. Permíteme enseñarte cómo usar el Master Spark~ ☆
+Stop—I handed over everything I stole... I took!If you dare do something that crosses the line, I'll call Reimu to sort you out!=Detente—devolví todo lo que robé... ¡tomé! Si te atreves a hacer algo que cruce la línea, ¡llamaré a Reimu para que te ponga en orden!
+It's Marija's book, I borrowed it! ...Taking a book can't be considered stealing!=¡Es el libro de Marija, lo tomé prestado! ...¡Tomar un libro no puede considerarse robo!
+Ah~ There are too many notes in some stages. Now, I understand how they feel when they see my danmaku…=Ah~ Hay demasiadas notas en algunos escenarios. Ahora, entiendo cómo se sienten cuando ven mi danmaku...
+You can't eat that mushroom! It is… the magic mushroom, which can increase intimacy between you and who you love… I don't know the details! I didn't eat it!!=¡No puedes comer ese hongo! Es... el hongo mágico, que puede aumentar la intimidad entre tú y quien amas... ¡No sé los detalles! ¡No lo comí!
+What are you staring at?! Ah… How do you know there are bombs under my dress?=¿Qué estás mirando?! Ah... ¿Cómo sabes que hay bombas debajo de mi vestido?
+The mushroom world is really complicated! It took me a night to do a little research! So—please don't look at me as if I were an overachiever.=¡El mundo de los hongos es realmente complicado! ¡Me tomó una noche hacer una pequeña investigación! Así que—por favor, no me mires como si fuera una sobresaliente.
+
+Virtual Singer=Cantante Virtual
+
+Does anyone even read this? Σ(  °▽°)=¿Alguien siquiera lee esto? Σ(  °▽°)
+This new suit looks so cute, \ndoesn't it? Look at this Muse-bag... \nIt tells me what the next song is!=Este nuevo traje se ve tan lindo, ¿no? Mira esta bolsa de Muse... ¡Me dice cuál es la próxima canción!
+I can feel your passion \nfor music while watching you challenge the stage again and again... \nI have the same feelings as you!=Puedo sentir tu pasión por la música mientras te veo desafiar el escenario una y otra vez... ¡Tengo los mismos sentimientos que tú!
+I'm so glad to hear that \nmy live performance stopped troublemaking monsters from fighting~=Me alegra tanto escuchar que mi concierto en vivo detuvo a los monstruos problemáticos de pelear~
+I'll take part in Buro's Gourmet \nand Music Festival as a representative of Team Leek\n—there's no such team?!=Participaré en el Festival Gourmet y Musical de Buro como representante del Equipo Puerro, ¿¡no existe tal equipo?!
+Luka-san is so attractive on stage. \nWhen I met her eyes, \nher wink almost made me forget the lyrics...=Luka-san es tan atractiva en el escenario. Cuando me encontré con su mirada, su guiño casi me hizo olvidar la letra...
+Here I encountered you, \nfound new songs, and made new friends... \nI have gained so much!=Aquí te conocí, descubrí nuevas canciones e hice nuevos amigos... ¡He ganado tanto!
+Be it a 2- or 24-hour concert, \njust leave it to me!=Ya sea un concierto de 2 o 24 horas, ¡déjalo en mis manos!
+A ghost came to me for a photo. \nIt looked so happy despite the fact that \nthere's only me in it...=Un fantasma vino a mí para una foto. Se veía tan feliz a pesar de que solo estoy yo en ella...
+I just forgot what I wanted to say after I opened my mouth.\n Maybe I can remember it after a meal. \nOkay, let's eat something—=Acabo de olvidar lo que quería decir después de abrir la boca. Tal vez pueda recordarlo después de una comida. Bueno, vamos a comer algo—
+Let me convey the words in your heart by singing...=Déjame transmitir las palabras en tu corazón cantando...
+During my live performance, \na flying cat threw me a fish. \nIs that a gift for me?=Durante mi concierto en vivo, un gato volador me lanzó un pez. ¿Eso era un regalo para mí?
+Let me perform your favorite song! Why?\nBecause I want to know more about... you.=¡Déjame interpretar tu canción favorita!\n¿Por qué? Porque quiero saber más sobre... ti.
+
+Virtual Singers=Cantantes Virtuales
+
+Verification Time! Len can make a knee-jerk reaction to our songs no matter which second they start from and dance with it, can't you?=Hora de Verificación! Len puede reaccionar instantáneamente a nuestras canciones sin importar en qué segundo comiencen y bailar con ellas, ¿no?
+You just wanna play that kind of game, don't you?=Solo quieres jugar ese tipo de juegos, ¿no?
+Did you call me? If you need any help, don't hesitate to say it!=¿Me llamaste? Si necesitas ayuda, ¡no dudes en decirlo!
+Right... I also memorized Rin's lyrics—the show is gonna be 100% foolproof～=Cierto... También memoricé las letras de Rin: el espectáculo será infalible al 100%～
+If I turn into a bear... I'll make my audience jump out of their skin! Let Len try it out next time!=Si me convierto en un oso... ¡haré que mi audiencia se asuste hasta los huesos! ¡Que Len lo intente la próxima vez!
+Did you call me? If you want to praise me, don't hesitate to do it~=¿Me llamaste? Si quieres alabarme, ¡no dudes en hacerlo~
+Prank Time! Let's go scare Miku-san～=¡Hora de la Broma! Vamos a asustar a Miku-san～
+It seems this unintended prank scared me first.=Parece que esta broma no intencionada me asustó primero a mí.
+I'm making the special strategy to confront Luka-san. No peeking at it before I finish it!=Estoy elaborando la estrategia especial para enfrentarme a Luka-san. ¡No mires antes de que la termine!
+It's a little bit weird to have new clothes on. I can't help but look in the mirror...=Es un poco extraño vestir ropa nueva. No puedo evitar mirarme en el espejo...
+She means she really likes the new clothes, and me too!=Ella quiere decir que realmente le gustan las nuevas ropas, ¡y a mí también!
+There is a bewildering variety of songs...\n Good, we can show our charms in all aspects!=Hay una variedad desconcertante de canciones... ¡Bien, podemos mostrar nuestros encantos en todos los aspectos!
+That means... We really had fun, thank you!=Eso significa... que realmente nos divertimos, ¡gracias!
+Quiz Time! What is Len thinking now?=¡Hora del Quiz! ¿En qué está pensando Len ahora?
+You'd never know. Bring it on!=Nunca lo sabrías. ¡Adelante!
+Forget my lyrics? Don't worry, my freestyle will be the best solution! =¿Olvidar mis letras? ¡No te preocupes, mi improvisación será la mejor solución!
+
+Muse Warrior=Guerrera de Muse
+
+Meow? Meow?=¿Miau? ¿Miau?
+Meooow… Meoooooww ><=Miaaau... Miaaaaauu ><
+Meow... Meow... Meow...=Miau... Miau... Miau...
+
+Meow! M-meow! Meow! =¡Miau! ¡M-miau! ¡Miau!
+Meoooow~=Miaaaau~
+Meeeoooooowwww=Miiiaaaaaauuuu
+
+Meow!=¡Miau!
+Meow～♡=Miau～♡
+Meow?=¿Miau?
+
+Racer=Corredora
+
+The bonus should definitely be used to modify my motorcycle... Uhm, my pocket is empty again. When will the next race be held?=El bono definitivamente debería usarse para modificar mi motocicleta... Uhm, estoy sin dinero otra vez. ¿Cuándo será la próxima carrera?
+The wind has risen... Where do you wanna go today?=El viento ha aumentado... ¿A dónde quieres ir hoy?
+One, two, three, four... No more at all? Someone who I can surpass.=Uno, dos, tres, cuatro... ¿No hay más? Alguien a quien pueda superar.
+Tires, chains, and the clutch all have to be renewed. Today is a great day for working hard in the factory~=Las llantas, las cadenas y el embrague tienen que renovarse. Hoy es un gran día para trabajar duro en la fábrica~
+That fake exorcist master comes to trouble me again. Come on, the werewolf transformation has totally nothing to do with the spirit possession...=Esa falsa maestra exorcista viene a molestarme de nuevo. Vamos, la transformación en hombre lobo no tiene nada que ver con la posesión espiritual...
+The street is wet from the rain. That girl in black moves quite fast. I'll catch her up.=La calle está mojada por la lluvia. Esa chica de negro se mueve bastante rápido. La alcanzaré.
+The injury on your neck... was caused by my bite? To be honest, I don't want to take responsibility for something that I don't even remember~=La herida en tu cuello... ¿fue causada por mi mordida? Para ser honesta, no quiero hacerme responsable de algo que ni siquiera recuerdo~
+Let me tell you how to comb my hair. From the ear to the tail... Take it slow and be gentler. That's right.=Déjame decirte cómo peinar mi cabello. Desde la oreja hasta la cola... Hazlo despacio y con más suavidad. Así es.
+You can't see the back of your head, right? And the werewolf itself doesn't know what it looks like after the transformation... But I'm quite sure that I must be a fierce one. You should be cafeful of that~=No puedes ver la parte de atrás de tu cabeza, ¿verdad? Y el hombre lobo no sabe cómo se ve después de la transformación... Pero estoy bastante segura de que debo ser feroz. Deberías tener cuidado con eso~
+This is not the cat ear, and that is not the dog tail. Wolf, have you heard of the wolf?=Esto no es la oreja de un gato, y eso no es la cola de un perro. Lobo, ¿has oído hablar del lobo?
+When I'm fast, the moon is close; when I'm slow, the moon is far.=Cuando soy rápida, la luna está cerca; cuando soy lenta, la luna está lejos.
+
+
+RESTORE=RESTAURAR
+You can purchase <color\=#FF33D8FF>\[(.*)\] </color>to unlock it.Jump to purchase it\?\nIf you have purchased it successfully, please tap <color\=#7AFAC1>RESTORE</color> to unlock it.=Puedes comprar <color\=#FF33D8FF>[$1] </color>para desbloquearlo. ¿Deseas ir a comprarlo?\nSi lo has comprado con éxito, por favor toca <color\=#7AFAC1>RESTAURAR</color> para desbloquearlo.
+Go Play=IR A JUGAR
+
+Mio Sir=Sir Miau
+Angela=Ángela
+Thanatos=Thanatos
+Rabot-233=Rabot-233
+Little Nurse=Drón Sanador
+Little Witch=Brujita
+Dragon Girl=Chica Dragón
+Lilith=Lilith
+Dr. Paige=Dr. Paige
+Silencer=Silenciadora
+Neon Egg=Huevo Neón
+Saya=Saya
+Lin=Lin
+R-6=R-6
+BetaGo=BetaGo
+
+Tap to\npurchase=Toque para\ncompra
+Add to random list=Añadir a la lista aleatoria
+dddd=dddd
+&=Y
+注意=AVISO
+确定要<color\=#FF33D8FF>删除</color>当前挑战吗？=¿Estás seguro de que quieres <color\=#FF33D8FF>eliminar</color> el desafío actual?
+是的=SÍ
+r:"Wanna go to <(.*?) 's homepage\?"=¿Quieres ir a la página de inicio de <$1?
+
+Show All=Mostrar Todo
+Ow~I think a band-aid is not enough.=Ow~ Creo que una curita no es suficiente.
+If this baseball is yours, I won't return it.=Si esta pelota de béisbol es tuya, no la devolveré.
+It feels so soft, just like a lass' chest~~~~whir~whir=Se siente tan suave, ¡como el pecho de una chica!~~~~whir~whir
+Is it worn in front or on the back?=¿Se lleva delante o detrás?
+Whoops! That paper looks like my report card!=¡Ups! ¡Ese papel parece mi boleta de calificaciones!
+The battery filled with energy of love=La batería llena de energía de amor.
+Bring bad luck once pasted on someone=Trae mala suerte una vez pegado en alguien.
+Give you 3 seconds to find the treasures I hid~=Te doy 3 segundos para encontrar los tesoros que escondí~
+What is written on earth in the girl's diary?=¿Qué mundo está escrito en el diario de la chica?
+Master, should I believe in you?(ºOº)=Amo, ¿debería creer en ti? (ºOº)
+What does the book say? Why can't we do in our own way?=¿Qué dice el libro? ¿Por qué no podemos hacerlo a nuestra manera?
+Something left by a man who broke his oath=Algo dejado por un hombre que rompió su juramento.
+No idea what will happen after removal=No tengo idea de lo que sucederá después de retirarlo.
+Nobody knows what's in it.=Nadie sabe qué hay dentro.
+·Higher resistance to heat·Greater Durability·Wide Dynaic Range·Out of production=·Mayor resistencia al calor ·Mayor durabilidad ·Amplio rango dinámico ·Fuera de producción
+The crucial item to become a twin-tail girl. The secret to be kawaii.=El objeto crucial para convertirse en una chica de coleta gemela. El secreto para ser kawaii.
+That person will not stop until being able to buy a dozen of Meow Bot.=Esa persona no se detendrá hasta poder comprar una docena de Meow Bot.
+This beat-up ol' safety helmet is the true staple of a Part-Time Warrior.=Este casco de seguridad viejo y golpeado es el verdadero pilar de una Trabajadora Temporal.
+A heavy and hard orb. It is in fact the key to Gensokyo.=Una esfera pesada y dura. De hecho, es la llave de Gensokyo.
+The crown which brings Clear falling to the ground, absolutely who hit by it will shout Ouch.=La corona que hace que Clear caiga al suelo, absolutamente quien sea golpeado por ella gritará Ouch.
+She finds the star shape more adorable for it’s a symbol of her belief.=Ella encuentra la forma de estrella más adorable porque es un símbolo de su creencia.
+A mighty self-made magical item that can shoot lasers when stuffed with mushrooms - use it to blast your way to Gensokyo!=Un poderoso objeto mágico hecho a mano que puede disparar láseres cuando está lleno de setas, ¡úsalo para abrirte paso hacia Gensokyo!
+A mountain of champion belts at home? How about we take them to Sis and transform them into henshin device?!=¿Una montaña de cinturones de campeón en casa? ¡¿Qué tal si los llevamos a Sis y los transformamos en dispositivos henshin?!
+The switch to turn on the streamer's serious mode, \nwith cracks indicating the end of it.=El interruptor para activar el modo serio de la streamer, con grietas que indican su final.
+Did Mio Sir sneak dried fish again?=¿Sir Miau se escapó de nuevo con pescado seco?
+Angela is under great pressure recently.=Angela está bajo mucha presión últimamente.
+A plastic bone without scary.=Un hueso de plástico sin miedo.
+The high-tech carrot is awesome!=¡La zanahoria de alta tecnología es asombrosa!
+Machines can be repaired, but what about humans?=Las máquinas se pueden reparar, pero ¿qué pasa con los humanos?
+The jelly made of watermelon juice. Hmm, looks so real.=La gelatina hecha de jugo de sandía. Mmm, se ve tan real.
+Collect 7 Dragon Balls to summon the dragon=Reúne las 7 esferas del dragón para invocar al dragón.
+The item what hell envoy Lilith is looking for.=El objeto que la enviada del infierno Lilith está buscando.
+So what exactly makes Dr. Paige, the glasses or the stethoscope?=Entonces, ¿qué hace exactamente el Dr. Paige, las gafas o el estetoscopio?
+All it takes to safeguard world peace is a lollipop!=¡Todo lo que se necesita para salvaguardar la paz mundial es un chupete!
+You will never arrive at the truth of "what's in the egg." ( ﾟ∀。)=Nunca llegarás a la verdad de "¿qué hay en el huevo?" ( ﾟ∀。)
+Three girls on the rooftop after an exam.=Tres chicas en el techo después de un examen.
+Marija's private wardrobe.=El armario privado de Marija.
+A wild Chinese-inspired trio appeared!=¡Un trío chino salvaje apareció!
+Happy Birthday to Buro!\n Birthday (tasty) presents (dishes) from everybody are on the table... Huh? Rin and Marija are presents too?=¡Feliz cumpleaños a Buro!\n ¡Los regalos (platos sabrosos) de cumpleaños de todos están en la mesa... Eh? ¿Rin y Marija también son regalos?
+Hey, friend! You must have astonishing talent. I got you this [Muse Dash Illustration Collection Book]. It will help you cultivate yourself and find your path to immortality!=¡Oye, amigo! Debes tener un talento asombroso. Te traje este [Libro de Colección de Ilustraciones de Muse Dash]. Te ayudará a cultivarte a ti mismo y a encontrar tu camino hacia la inmortalidad!
+Tap here to cultivate yourself=Toca aquí para cultivarte a ti mismo.
+Thank you for 400,000 followers on Bilibili! \nCheers to all our friends... Rin, why did you bring BOSS here?!=¡Gracias por los 400,000 seguidores en Bilibili! ¡Brindemos por todos nuestros amigos... Rin, ¿por qué trajiste a BOSS aquí?!
+The results page☆=La página de resultados ☆
+Time to verify! The hypothesis that any ingredient will taste good as long as it is barbecued with a 5mm layer of seasoning?!=¡Hora de verificar! ¿La hipótesis de que cualquier ingrediente sabrá bien siempre y cuando se ase con una capa de 5 mm de condimento?
+Our turn? There are still 10 seconds left~ \nA peace sign for you to reduce your stress. Please be a good commander♡=¿Nuestro turno? ¡Todavía quedan 10 segundos~ Un signo de paz para reducir tu estrés. Por favor, sé un buen comandante♡
+The dragon dance troupe will reach your door at any minute! Wanna watch a show? \nThen take out your chocolate coins and white rabbit creamy candies XD=¡El grupo de baile del dragón llegará a tu puerta en cualquier minuto! ¿Quieres ver un espectáculo? ¡Entonces saca tus monedas de chocolate y caramelos de conejo blanco XD!
+International Workers' Day limited! Clear the shopping cart for the most hardworking child, \nwith all funds coming from the overtime pay of our store staff UwU=¡Día Internacional de los Trabajadores limitado! Borra el carrito de compras para el niño más trabajador, con todos los fondos provenientes del pago de horas extras de nuestro personal de tienda UwU.
+Buro has launched an freeloading attack, and the freeloader policegirl Rin is holding the last line of defense! \nWho will finally win this cup of cappuccino? Let's wait and see! (*๑╹ڡ╹)=
+¡Buro ha lanzado un ataque de abuso de hospitalidad, y la policía del abusador de hospitalidad Rin está sosteniendo la última línea de defensa! ¿Quién ganará finalmente esta taza de capuchino? ¡Esperemos y veamos! (*๑╹ڡ╹)
+Things are developing as planned (drag away=Las cosas se están desarrollando según lo planeado (arrastrar lejos)
+Buro: Save file confirmed!Rin: Account logged in!Marija: Data confirmation... Check!\nThank you so much! You have always supported us, welcome back!=Buro: ¡Archivo de guardado confirmado! Rin: ¡Sesión iniciada en la cuenta! Marija: Confirmación de datos... ¡Listo! ¡Muchas gracias! Siempre nos has apoyado, ¡bienvenido de vuelta!
+Surfing Online ❤=Surfeando en línea ❤
+Navigator Yume, guiding you through the new world!=¡Navegadora Yume, guiándote a través del nuevo mundo!
+Why is there narutomaki in beef ramen?!=¿Por qué hay narutomaki en el ramen de carne?!
+Coo→ Coo↘ Coo↗ Coo↑=Coo→ Coo↘ Coo↗ Coo↑
+Welcome to Muse clinic, we help you get better at rhythm games.\nWhy is my heart beating out of my chest …?=Bienvenido a la clínica de Muse, te ayudamos a mejorar en los juegos de ritmo.\n¿Por qué mi corazón late fuera de mi pecho…
+The most dominant enforcer from Gensokyo vs the most villainous, passionate high school bassist - Miss Invincible contest, Round 1, start!=La ejecutora más dominante de Gensokyo contra la bajista de secundaria más villana y apasionada: ¡Concurso Miss Invencible, Ronda 1, comienza!
+Poster for the WACCA × Muse Dash Live. Keep up or get kicked out!=Cartel para el WACCA × Muse Dash Live. ¡Mantente al día o sal del grupo!
+Always by your side, Buro the Angel of Love is the best choice for Valentine's Day! 0v<=¡Siempre a tu lado, Buro el Ángel del Amor es la mejor opción para el Día de San Valentín! 0v<
+A sharp blade broke the border of light and dark. The just sister is also on the move today! \nNo.0001 Marija—Your vote will lead us to a happy future!=Una afilada cuchilla rompió la frontera entre la luz y la oscuridad. La hermana justa también está en movimiento hoy! \nNo.0001 Marija—¡Tu voto nos llevará a un futuro feliz!
+Once you choose to judge in the twilight, children who don’t behave themselves will be punished—and you will also embark on a journey, where no mistake should be made, with her.=Una vez que elijas juzgar en el crepúsculo, ¡los niños que no se porten bien serán castigados—y también emprenderás un viaje, donde no se debe cometer ningún error, con ella.
+To help Miss Marija become a more excellent sister, supplementing mana regularly is crucial. \nDon’t slack off!=Para ayudar a la señorita Marija a convertirse en una hermana más excelente, es crucial suplementar regularmente la mana. \n¡No te descuides!
+Special Safety Officer Ola warns you: \nDon't pose in public, and leave the pool to the real swimmers ( `ー´)o=Oficial de Seguridad Especial Ola te advierte: \nNo te pongas en público, y deja la piscina para los verdaderos nadadores ( `ー´)o
+For both eating and playing! Sweet Swim Ring ♡ Made by Ola, a must-have for summer ♡ strongly recommended by Marija and Buro ♡ Pure Plastic!=¡Para comer y jugar! Anillo de natación dulce ♡ Hecho por Ola, imprescindible para el verano ♡ muy recomendado por Marija y Buro ♡ ¡Puro plástico!
+Muse Dash Gensokyo-lization Project, one-to-one teaching on becoming the strongest protagonist ☆\nCirno seems to have been taught backward by Buro?=Proyecto de Gensokyo-lización de Muse Dash, enseñanza uno a uno sobre cómo convertirse en el protagonista más fuerte ☆\n¡Cirno parece haber sido enseñada al revés por Buro?
+The broom and Hakkero can also deal physical DMG - this is common sense for a magician, you fools who're off guard when I can't use spell cards!=La escoba y Hakkero también pueden causar daño físico - esto es sentido común para un mago, ¡tontos que están desprevenidos cuando no puedo usar cartas de hechizos!
+The duo making a magical entrance is the [Blonde Duet] of Rin and Marisa!I know you can fly! You're exposing yourself if you don't come down!=¡El dúo haciendo una entrada mágica es el [Dúo Rubio] de Rin y Marisa! ¡Sé que puedes volar! ¡Te estás exponiendo si no bajas!
+Special Halloween Event!\nThe top tens who have finished the Hell Set will receive a MYSTERIOUS PHOTO of Marija. First come--Okay, the event has ended~=¡Evento especial de Halloween! ¡Los diez mejores que hayan terminado el Set del Infierno recibirán una FOTO MISTERIOSA de Marija. ¡El primero en llegar—Okay, el evento ha terminado~!
+The SOS message from the hostage(24 years old, TV): \nMy head hurts!! But there is something that smells good and feels soft......?=El mensaje SOS del rehén (24 años, TV): \n¡Me duele la cabeza! ¡Pero hay algo que huele bien y se siente suave...?
+Congrats to Rin on winning the bronze medal in the Part-time Warrior Look-alike Contest!=¡Felicidades a Rin por ganar la medalla de bronce en el Concurso de Parecidos a Trabajadora Temporal!
+The only energy we need is electric wave! \nWelcome to the Nanahira Unplugged Concerttttt~~~ Ahhhhh, my body is tingling {{(*▽*)}}=¡La única energía que necesitamos es la onda eléctrica! \n¡Bienvenidos al concierto desenchufado de Nanahira~~~ Ahhhhh, mi cuerpo está hormigueando {{(▽)}}
+Choose your favorite Tour Members and rise to great heights in all AREA 0v<  =¡Elige a tus Miembros Favoritos de la Gira y alcanza grandes alturas en todas las ÁREAS 0v<
+Today's schedule: \nOla steps into all the traps, and Buro defeats all the enemies. We are so cool, aren't we?!=El horario de hoy: \nOla entra en todas las trampas, y Buro derrota a todos los enemigos. ¡Somos tan geniales, ¿verdad?!
+To take back workers' legal holidays, \nthere's no way not to kidnap Capitalist Marija and strip her (of money).=Para recuperar los días festivos legales de los trabajadores, \nno hay otra manera que secuestrar a la Capitalista Marija y despojarla (de dinero).
+Will never let you feel lonely again. Let's throw away your heart that makes you hurt \nand INTERNET FOREVER with OMGkawaiiAngel-chan♡=Nunca te dejaré sentir solo de nuevo. Vamos a tirar lejos tu corazón que te hace daño \ny INTERNET POR SIEMPRE con OMGkawaiiAngel-chan♡
+Miss Marija, the hungry, lustful, and yellow-haired ghosts are all cleaned off! \nRemember to renew your monthly membership, thank you!=¡Señorita Marija, los fantasmas hambrientos, lujuriosos y de pelo amarillo han sido limpiados! \n¡Recuerda renovar tu membresía mensual, gracias!
+That zombie looks the same as the streamer. Is she a shill...? What are you talking about?! \nShe's my decoy, no, my stand? No, she's my assistant! Assistant!=Ese zombi se ve igual que el streamer. ¿Es ella una vendida...? ¿De qué estás hablando?! \n¡Ella es mi señuelo, no, ¿mi stand? ¡No, ella es mi asistente! ¡Asistente!
+"Direction correct! Dashboard data stable! No asteroid debris within the radar range! \nHa, everything is under the Great Captain Buro's control! PEROLIST, advance——!"="¡Dirección correcta! ¡Datos del tablero de instrumentos estables! ¡Ningún escombro de asteroides dentro del rango del radar! \n¡Ja, todo está bajo control del Gran Capitán Buro! ¡PEROLISTA, avanza——!"
+Wow~ The egg is about to hatch! The egg is about to hatch! What will it be this time?\n I'm so nervous about the answer! Ah, it's Saya! Yes! (*≧∀≦*)    =¡Wow~ ¡El huevo está a punto de eclosionar! ¡El huevo está a punto de eclosionar! ¿Qué será esta vez? \n¡Estoy tan nerviosa por la respuesta! ¡Ah, es Saya! ¡Sí! (*≧∀≦*)    
+A mansion with no way out, flapping bats, and suspicious girls—\nyes, this is... the best venue for a rhythm showdown (｀・ω)  =Una mansión sin salida, murciélagos revoloteando y chicas sospechosas; sí, este es... el mejor lugar para un enfrentamiento de ritmo (｀・ω)
+This lame trick right now... serves as an assist or a signal to someone?=Este truco lamentable en este momento... ¿sirve como una ayuda o una señal para alguien?
+After thousands of games, let's fight to the finish tonight! \nThe game is about to begin. Every movie ticket in your hand will be converted to the chips of actors...=Después de miles de juegos, luchemos hasta el final esta noche. El juego está a punto de comenzar. Cada boleto de cine en tu mano se convertirá en fichas de actores...
+How about this title: [Incredible Episode! First Surreptitious Entry into the Gensokyo\nHighlighted by a Collab with the Megastar Marisa]? It's gonna be a big hit! A big hit!=¿Qué tal este título: [¡Episodio Increíble! Primera Entrada Sigilosa en Gensokyo\nResaltado por una Colaboración con la Megastar Marisa]? ¡Va a ser un gran éxito! ¡Un gran éxito!
+TILL who aims at the boss or Rin who cleans up the small enemies!\nSUA, which side can bring us more fun?=¿TILL, quien apunta al jefe, o Rin, quien limpia a los enemigos pequeños? ¿SUA, qué lado puede brindarnos más diversión?
+♡I, I'm the virtual maid created according to your browsing history nya♡=♡Yo, yo soy la sirvienta virtual creada según tu historial de navegación nya♡
+The MVP winner for 2024 April Fools' Day is the original R.M.B!! ←Sure thing=¡El ganador del MVP del Día de los Inocentes de 2024 es el original R.M.B! ←Claro que sí
+Hot Sales [Marija: A Sister and a Devil][Summer Date with Streamer Buro]! Now it's time for...=¡Ofertas [Marija: Una Hermana y un Demonio][Cita de Verano con Streamer Buro]! ¡Ahora es hora de...
+Muse Dash! Here we go!=¡Muse Dash! ¡Aquí vamos!
+A soft and sweet dream~=Un sueño suave y dulce~
+Happy Halloween！=¡Feliz Halloween!
+Uhh...Still so many gifts are waiting to be wrapped up...=Uhh... Todavía hay muchos regalos esperando ser envueltos...
+Is the Order a nanahira?=¿Es el Orden un nanahira?
+Let's do bad things together!=¡Hagamos cosas malas juntos!
+It's NEKO#ΦωΦ stream time!\n[Muse Daaaaaaaaash!]=¡Es hora del stream NEKO#ΦωΦ!\n[¡Muse Daaaaaaaaash!]
+Love -- Only at Neon Radio=Amor -- Solo en Neon Radio
+Reimuuuuuuu! This is even harder than the danmaku games!\nCan I just blast them all at once?=¡Reimuuuuuuu! Esto es incluso más difícil que los juegos de danmaku. ¿Puedo simplemente explotarlos a todos de una vez?
+Exclusive report from Memory News. The Girl In Black is rendezvousing with Tairitsu in a brand-new dress. According to the police, the driver's personal safety is the top priority.=Informe exclusivo de Memory News. La Chica de Negro se está encontrando con Tairitsu en un vestido completamente nuevo. Según la policía, la seguridad personal del conductor es la máxima prioridad.
+Skilled but a little rusty, joyful mixed with rage—this is how the impressing "Dissonance"in the miracle performance with Clear and Rin will be!=Habilidosa pero un poco oxidada, alegre a la vez que furiosa: así será la impresionante "Disonancia" en el milagroso concierto con Clear y Rin.
+A new member has joined MUSE RADIO, though the club activity seems to remain in the stage of\n " everyone listening to their own song lists with headphones"?=Un nuevo miembro se ha unido a MUSE RADIO, aunque la actividad del club parece permanecer en la etapa de "todos escuchando sus propias listas de canciones con auriculares".
+Fresh food and lovely friends at a celebration banquet as usual… \nNow, after you take a seat beside me, the banquet can start.=Comida fresca y amigos encantadores en un banquete de celebración como de costumbre... Ahora, después de que te sientes a mi lado, ¡el banquete puede comenzar!
+Tomorrow, make sure to chat with the new member... What's her name again... Marija?=Mañana, asegúrate de charlar con el nuevo miembro... ¿Cómo era su nombre otra vez? Ah, sí... ¿Marija?
+Tengu Rin from the outside and Representative Marisa of the Gensokyo, bet [Game Rules] in the Drinking Challenge? The bonus is the money in that Saisen Box!=¿Tengu Rin desde afuera y la Representante Marisa de Gensokyo, ¿apuestan [Reglas del Juego] en el Desafío de Beber?  ¡El bono es el dinero en esa Caja de Saisen!
+This is... the smell of [Skill]! ( ´ρ`)\nPEROPEROPEROPEROPERO！！！=¡Esto es... el olor de [Habilidad]! ( ´ρ`)\n¡PEROPEROPEROPEROPERO！！！
+Every move is making her a legend—Buro, Grade 6 Class 1, from Muse No.2 Primary School; her aim is to take the crown in the maimai DX Grand National!=Cada movimiento la está convirtiendo en una leyenda: Buro, Clase 1 del 6º Grado, de la Escuela Primaria Muse No. 2; ¡su objetivo es coronarse en el maimai DX Grand National!
+NeVEr fORgEt tHiS fEEliNg, \ntHe fIRsT tIMe wE wERe dEEpLy mOVed. Love from peropero=NunCA oLvidAré eStE sENtImIeNtO, \nLa pRimERa vEz qUe fUImoS cOnMoVidOs PrOfUnDaMeNtE. Amor de PEROPERO
+Real Exorcist Master never look back at the explosion, my master said... \nnever said that before. But being cool is everything!=El Maestro Exorcista Real nunca mira hacia atrás en la explosión, mi maestro dijo... nunca dijo eso antes. ¡Pero ser genial lo es todo!
+A battle mode more harmonious than the danmaku deal and rhythm game has appeared! \nForget all your past experience and win by the best of three on this 21-inch screen!=¡Un modo de batalla más armonioso que el trato de danmaku y el juego de ritmo ha aparecido! ¡Olvida toda tu experiencia pasada y gana por el mejor de tres en esta pantalla de 21 pulgadas!
+Muse Warriors is not a simple character, \na game, or a story. Its very existence is art.=Los Guerreros de Muse no son solo un personaje simple, un juego o una historia. Su mera existencia es arte.
+Everyone, listen up! Let's follow Chuni Penguin and advance \nat full speed towards FULL COMBO —— >▽º)ノ*+☆=¡Todos, escuchen!\nSigamos a Chuni Penguin y avancemos\na toda velocidad hacia el COMBO COMPLETO —— >▽º)ノ*+☆
+
+r:"Level up to collect random chips to unlock「Illus.(\d+)」"=Sube de nivel para recoger chips aleatorios para desbloquear「Illus.$1」
+r:"Level up to collect random chips to unlock「Welcome.(\d+)」"=Sube de nivel para recoger chips aleatorios para desbloquear「Bienvenido.$1」
+r:"^Purchase「(.+)」to unlock「Welcome.(\d+)」$"=Compra「$1」para desbloquear「Bienvenido.$2」
+r:"^Purchase「(.+)」to unlock「Illus.(\w+.+)」$"=Compra「$1」para desbloquear「Illus.$2」
+
+Purchase「Miku in Museland」to unlock「Virtual Singer Hatsune Miku」=Compra「Miku in Muselanda」para desbloquear「Cantante Virtual Hatsune Miku」
+Purchase「Rin·Len's Mirrorland」to unlock「Virtual Singers Kagamine Rin & Len」=Compra「Rin·Len's Mirrorland」para desbloquear「Cantantes Virtuales Kagamine Rin y Len」
+
+Level up to collect random chips to unlock「Illus.Halloween 2020」=Sube de nivel para recoger chips aleatorios para desbloquear「Illus.Halloween 2020」
+Level up to collect random chips to unlock「Illus.April Fool's Day」=Sube de nivel para recoger chips aleatorios para desbloquear「Illus.Día de los Inocentes」
+Level up to collect random chips to unlock「Illus.Children's Day」=Sube de nivel para recoger chips aleatorios para desbloquear「Illus.Día de la Niñez」
+Level up to collect random chips to unlock「Illus.1st Anniversary」=Sube de nivel para recoger chips aleatorios para desbloquear「Illus.1er Aniversario」
+Level up to collect random chips to unlock「Illus.Mid-Autumn Day」=Sube de nivel para recoger chips aleatorios para desbloquear「Illus.Día del Medio Otoño」
+Level up to collect random chips to unlock「Illus.2st Anniversary」=Sube de nivel para recoger chips aleatorios para desbloquear「Illus.2do Aniversario」
+Level up to collect random chips to unlock「Illus.Children's Day 2021」=Sube de nivel para recoger chips aleatorios para desbloquear「Illus.Día de la Niñez 2021」
+Level up to collect random chips to unlock「Illus.MDxTH 1」=Sube de nivel para recoger chips aleatorios para desbloquear「Illus.MDxTH 1」
+Level up to collect random chips to unlock「Illus.Halloween 2021」=Sube de nivel para recoger chips aleatorios para desbloquear「Illus.Halloween 2021」
+Level up to collect random chips to unlock「Illus.Christmas 2021」=Sube de nivel para recoger chips aleatorios para desbloquear「Illus.Navidad 2021」
+Level up to collect random chips to unlock「Illus.MDxDJMAX 1」=Sube de nivel para recoger chips aleatorios para desbloquear「Illus.MDxDJMAX 1」
+Level up to collect random chips to unlock「Illus.MDxDJMAX 2」=Sube de nivel para recoger chips aleatorios para desbloquear「Illus.MDxDJMAX 2」
+Level up to collect random chips to unlock「Illus.4th Anniversary」=Sube de nivel para recoger chips aleatorios para desbloquear「Illus.4to Aniversario」
+Level up to collect random chips to unlock「Illus.Mid-Autumn Day 2022」=Sube de nivel para recoger chips aleatorios para desbloquear「Illus.Día del Medio Otoño 2022」
+Level up to collect random chips to unlock「Illus.MDxTH 5」=Sube de nivel para recoger chips aleatorios para desbloquear「Illus.MDxTH 5」
+Level up to collect random chips to unlock「Illus.Christmas 2022」=Sube de nivel para recoger chips aleatorios para desbloquear「Illus.Navidad 2022」
+Level up to collect random chips to unlock「Illus.NewYear 2023」=Sube de nivel para recoger chips aleatorios para desbloquear「Illus.Año Nuevo 2023」
+Level up to collect random chips to unlock「Illus.5th Anniversary」=Sube de nivel para recoger chips aleatorios para desbloquear「Illus.5to Aniversario」
+Level up to collect random chips to unlock「Illus.Miku in Museland 3」=Sube de nivel para recoger chips aleatorios para desbloquear「Illus.Miku in Museland 3」
+Level up to collect random chips to unlock「Illus.Autumn 2023」=Sube de nivel para recoger chips aleatorios para desbloquear「Illus.Otoño 2023」
+Level up to collect random chips to unlock「Illus.Christmas 2023」=Sube de nivel para recoger chips aleatorios para desbloquear「Illus.Navidad 2023」
+
+Clear [Say! Fanfare! - Fubuki Shirakami] in Default Music at any difficulty level to unlock it=Completa [Say! Fanfare! - Fubuki Shirakami] de la Música predeterminada en cualquier nivel de dificultad para desbloquear
+Fail any Lv. 9+ stage to unlock it=Falla cualquier escenario de NV. 9 o superior para desbloquear
+Clear [Mezame Eurythmics-bermei.inazawa] or [Shenri Kuaira -repeat--bermei.inazawa] \n in Default Music at any difficulty level to unlock it=Completa [Mezame Eurythmics-bermei.inazawa] o [Shenri Kuaira -repeat--bermei.inazawa] de la Música predeterminada en cualquier nivel de dificultad para desbloquear
+Clear [INTERNET OVERDOSE（Aiobahn feat.KOTOKO）- "NEEDY STREAMER OVERLOAD" theme song] \n in Default Music at any difficulty level to unlock it=Completa [INTERNET OVERDOSE（Aiobahn feat.KOTOKO）- "NEEDY STREAMER OVERLOAD" theme song] de la Música predeterminada en cualquier nivel de dificultad para desbloquear
+
+
+Waaaaat?! Four fingers can tap the screen faster than two?! ∑(ﾟДﾟノ)ノ=¡¿Qué?! ¿¡Cuatro dedos pueden tocar la pantalla más rápido que dos?! ∑(ﾟДﾟノ)ノ
+插图保存成功！=¡La ilustración se ha guardado exitosamente!
+"^([A-Za-z]:)(\\\\[\w.-]+)+"=$1$2
+
+
+SAIMEN=SAIMEN
+urieito=urieito
+JayKimEl=JayKimEl
+SOREYU=SOREYU
+chy=chy
+VIVINOS(YouTube)=VIVINOS (YouTube)
+VIVINOS(INS)=VIVINOS (INS)
+YUI=YUI
+VIVINOS=VIVINOS
+Nanahira=Nanahira
+ninnin=ninnin
+Esha=Esha
+Mudows XP=Mudows XP
+uan=uan
+H2θ=H2θ
+REYU=REYU
+Link=Link
+thurim6=thurim6
+Ande=Ande
+Beco=Beco
+RaV²=RaV²
+
+あえものえあり（Twitter）=Aemonoeari (Twitter)
+あえものえあり（Pixiv）=Aemonoeari (Pixiv)
+黄瓜（Twitter)=Kouguri (Twitter)
+黄瓜（Weibo)=Kouguri (Weibo)
+噢噢喔哦噢BOOM=噢噢喔哦噢BOOM
+퐁코 PONGKO=PONGKO PONGKO
+NORI_咕叽=NORI_gūjī
+宗杞zoki=Zōng qǐ zoki
+狗肉=Gourou
+돌만=Dorman
+核燃黑猫=Keneri Kuro Neko
+もや造=Moyazou
+鼠=Nezumi
+钢板=Gangban
+雏咲南 =Minami Hina 
+魚介（おののいもこ）=Uosuke (Ononoi Moko)
+咸鱼鸽厂长=咸鱼鸽厂长
+
+r:"^(\d+)/(\d+)$"=$1/$2
+r:"^(\d+):(\d+):(\d+)$"=$1:$2:$3
+
+挑战=Desafíos
+CHALLENGES=DESAFÍOS
+r:"^Clear a stage and reach (\d+) Combo.$"=Supera un escenario y alcanza un Combo de $1.
+r:"^Consecutively clear (\d+) different stages and totally dodge (\d+)\+ barriers.(\s*\(\d+/\d+\))?$"=Completa consecutivamente $1 escenarios diferentes y esquiva un total de $2 barreras o más.$3
+r:"^Consecutively clear (\d+) different stages.(\s*\(\d+/\d+\))?$"=Completa consecutivamente $1 escenarios diferentes.$2
+下一个挑战=Próximo desafío en:
+
+r:"^Consecutively clear (\d+) different Lv.(\d+)\+ stages and totally achieve (\d+)\+ "Perfect" judgements.(\s*\(\d+/\d+\))?$"=Completa consecutivamente $1 escenarios diferentes de NV.$2 o superior y logra un total de $3 valoraciones de "Perfecto" o más.$4
+r:"^Consecutively clear (\d+) different Lv.(\d+)\+ stages and totally dodge (\d+)\+ barriers.(\s*\(\d+/\d+\))?$"=Completa consecutivamente $1 escenarios diferentes de NV.$2 o superior y esquiva totalmente $3 barreras o más.$4
+r:"^Consecutively clear (\d+) different Lv.(\d+)\+ stages and keep HP more than (\d+)\%.(\s*\(\d+/\d+\))?$"=Completa consecutivamente $1 escenarios diferentes de NV.$2 o superior y mantén HP más del $3%.$4
+r:"^Consecutively clear (\d+) different stages and totally knock back (\d+)\+ enemies or BOSS's attacks.(\s*\(\d+/\d+\))?$"=Completa consecutivamente $1 escenarios diferentes y repele un total de $2 ataques o más de enemigos o jefes.$3
+
+
+成就=Logros
+r:"The First Time      <color\=#FFFFFFB2>Clear a Lv.(\d+).*"=La Primera Vez      <color\=#FFFFFFB2>Completa un escenario de nivel $1 o superior.</color>
+r:"The Best Player Available      <color\=#FFFFFFB2>Clear (\d+) Easy Mode stages.</color>"=El Mejor Jugador Disponible      <color\=#FFFFFFB2>Completa $1 escenarios en Modo Fácil.</color>
+r:"Tower of Strength      <color\=#FFFFFFB2>Clear (\d+) Hard Mode stages.</color>"=Torre de Fortaleza      <color\=#FFFFFFB2>Completa $1 escenarios en Modo Difícil.</color>
+r:"Already a Master      <color\=#FFFFFFB2>Clear (\d+) Master Mode stages.</color>"=Ya un Maestro      <color\=#FFFFFFB2>Completa $1 escenarios en Modo Maestro.</color>
+r:"(\w)      <color\=#FFFFFFB2>Achieve grade ("\w") in a stage for (\d+) times.</color>"=$1      <color\=#FFFFFFB2>Alcanza la calificación $2 en un escenario $3 veces. </color>
+r:"S      <color\=#FFFFFFB2>Achieve grade "S" in a Lv.(\d+)\+ stage.</color>"=S      <color\=#FFFFFFB2>Alcanza la calificación "S" en un escenario de nivel $1 o superior.</color>
+S      <color\=#FFFFFFB2>Achieve grade "S" in a stage.</color>=S      <color\=#FFFFFFB2>Alcanza la calificación "S" en un escenario.</color>
+Full Combo!!      <color\=#FFFFFFB2>Get Full Combo in a stage.</color>=¡Combo Completo!      <color\=#FFFFFFB2>Obtén un Combo Completo en un escenario.</color>
+r:"Full Combo!!      <color\=#FFFFFFB2>Get Full Combo in a Lv.(\d+)\+ stage.</color>"=¡Combo Completo!      <color\=#FFFFFFB2>Obtén un Combo Completo en un escenario de nivel $1 o superior.</color>
+r:"Full Combo Master      <color\=#FFFFFFB2>Get Full Combo in (\d+) different stages.</color>"=Maestro del Combo Completo      <color\=#FFFFFFB2>Obtén un Combo Completo en $1 escenarios diferentes.</color>
+r:"(\d+) Combo!      <color\=#FFFFFFB2>Reach (\d+) Combo in a stage.</color>"=¡Combo de $1!      <color\=#FFFFFFB2>Alcanza un Combo de $2 en un escenario.</color>
+r:"Melee Fight      <color\=#FFFFFFB2>Totally knock back (\d+) BOSS's melee attacks.</color>"=Pelea Cuerpo a Cuerpo      <color\=#FFFFFFB2>Repele totalmente $1 ataques cuerpo a cuerpo de JEFES.</color>
+r:"SOLO      <color\=#FFFFFFB2>Totally play (\d+) Sheets \(hold note\) completely.</color>"=SOLO      <color\=#FFFFFFB2>Completa totalmente $1 Partituras (notas sostenidas).</color>
+r:"Dodging Master      <color\=#FFFFFFB2>Totally dodge (\d+) barriers.</color>"=Maestro de Esquivar      <color\=#FFFFFFB2>Esquiva totalmente $1 Barreras.</color>
+r:"Stream of Consciousness      <color\=#FFFFFFB2>Totally knock back (\d+) Ghosts.</color>"=Fuente de Conciencia      <color\=#FFFFFFB2>Repele totalmente $1 Fantasmas.</color>
+r:"Heart Collector      <color\=#FFFFFFB2>Totally collect (\d+) Red Hearts.</color>"=Coleccionista de Corazones      <color\=#FFFFFFB2>Recoge totalmente $1 Corazones Rojos.</color>
+r:"Note Collector      <color\=#FFFFFFB2>Totally collect (\d+) Notes.</color>"=Coleccionista de Notas      <color\=#FFFFFFB2>Recoge totalmente $1 Notas.</color>
+r:"Playing along both lines      <color\=#FFFFFFB2>Totally knock back (\d+) enemies or BOSS's remote attacks while playing a Sheet \(hold note\).</color>"=Jugando en ambas líneas      <color\=#FFFFFFB2>Repele totalmente $1 ataques remotos de enemigos o JEFES mientras completas una Partitura (nota sostenida).</color>
+r:"Wow! Pretty Girls!      <color\=#FFFFFFB2>Totally unlock (\d+) character skins.</color>"=¡Wow! ¡Chicas Bonitas!      <color\=#FFFFFFB2>Desbloquea totalmente $1 skins de personajes.</color>
+r:"Let Me Raise You      <color\=#FFFFFFB2>Totally collect (\d+) elfins.</color>"=Déjame Criarte      <color\=#FFFFFFB2>Recoge totalmente $1 elfins.</color>
+r:"Illustration Collection      <color\=#FFFFFFB2>Collect (\d+) illustrations.</color>"=Colección de Ilustraciones      <color\=#FFFFFFB2>Reúne $1 ilustraciones.</color>
+Just as Planned! (Hidden)      <color\=#FFFFFFB2>Purchase 「Just as Planned」.</color>=¡Según lo Planeado! (Oculto)      <color\=#FFFFFFB2>Compra「Just as Planned」.</color>
+Nyanpasu! (Hidden)      <color\=#FFFFFFB2>Purchase「Muse Plus」.</color>=¡Nyanpasu! (Oculto)      <color\=#FFFFFFB2>Compra「Muse Plus」.</color>
+r:"Battle-seasoned      <color\=#FFFFFFB2>Totally knock back (\d+) enemies or BOSS's remote attacks.</color>"=Experimentado en Batalla      <color\=#FFFFFFB2>Repele totalmente $1 ataques remotos de enemigos o JEFES.</color>
+r:"Give Up Treatment (Hidden)      <color\=#FFFFFFB2>Clear a Lv.7+ stage without collecting Red Hearts.</color>"=Renuncia al Tratamiento (Oculto)      <color\=#FFFFFFB2>Completa un escenario de nivel $1 o superior sin recolectar Corazones Rojos.</color>
+Is That OK? (Hidden)      <color\=#FFFFFFB2>Clear a stage without knocking back enemies.</color>=¿Está Bien Eso? (Oculto)      <color\=#FFFFFFB2>Completa un escenario sin derribar enemigos.</color>
+r:"The Pinnacle of Life (Hidden)      <color\=#FFFFFFB2>Achieve (\d+)\% Accuracy in a Lv.(\d+)\+ stage.</color>"=La Cima de la Vida (Oculto)      <color\=#FFFFFFB2>Logra un $1% de Precisión en un escenario de de nivel $2 o superior.</color>
+r:"Almost Full Combo (Hidden)      <color\=#FFFFFFB2>Achieve only (\d+) "Miss" judgement in a Lv.(\d+)\+ stage.</color>"=Casi Combo Completo (Oculto)      <color\=#FFFFFFB2>Logra solo $1 Fallo en un escenario de nivel $2 o superior.</color>
+
+//Canciones: dificultad
+r:"^(\d+|\?|～)$"=$1
+r:"^Difficulty (\d+)$"=Dificultad $1
+
+物品奖励！！=¡Recompensa de objetos!
+STORE=TIENDA
+RANDOM MUSIC=MÚSICA ALEATORIA
+Tap to learn more=Pulsa para aprender más
+
+确认=OK
+Purchase [Muse Plus] to unlock more updated music packs for free and permanent discounts for DLCs!=¡Compra [Muse Plus] para desbloquear más paquetes de música de forma gratuita y obtener descuentos permanentes en los DLCs!
+This is this week's exclusive free song!=¡Esta es la canción exclusiva gratuita de esta semana!
+
+关卡设计：=Diseño del nivel:
+Level Design:=Diseño del nivel:
+Level Design=Diseño del nivel
+Title=Título
+Artist=Artista
+Clear=Borrar
+
+RANKING=CLASIFICACIÓN
+最佳纪录=MEJOR RÉCORD
+BEST RECORD=MEJOR RÉCORD
+分数=PUNTAJE
+评级=RANGO
+GRADE=RANGO
+连击=COMBO
+准确率=PRECISIÓN
+通关数=COMPLETADON
+CLEAR=COMPLETADO
+ID=ID
+r:"^(\d+\.\d+\s+\%)$"=$1
+
+PERFECT=PERFECTO
+GREAT=GENIAL
+PASS=PASO
+MISS=FALLO
+EARKLY=PRONTO
+LATE=TARDE
+
+HI-SCORE=PUNTUAJE MÁX
+SCORE=PUNTAJE
+CONTINUE=CONTINUAR
+MAX COMBO=COMBO MÁX
+RESTART=REINICIAR
+ACCURACY=PRECISIÓN
+
+用户名=USUARIO
+关卡成就=LOGROS DEL ESCENARIO
+
+萌新=NOVATO
+EASY=FÁCIL
+高手=EXPERTO
+HARD=DIFÍCIL
+大触=MAESTRO
+MASTER=MAESTRO
+排行=Clasificación
+
+START! =¡COMENZAR! 
+RETURN=REGRESAR
+RESTART!!=REINTENTAR
+FAILED=PERDÍ
+
+r:"^Difficulty Filter  (\d+) ~ (\d+)$"=Filtro de dificultad $1 ~ $2
+r:"^Illus.(\d+)$"=Illus.$1
+升级奖励！！=¡Bono de nivel!
+解锁新曲！！=¡Nueva canción desbloqueada!
+This song is waiting for unlocked=Esta canción espera ser desbloqueada
+LEVEL-UP AWARD!!=¡RECOMPENSA POR SUBIR DE NIVEL!
+
+
+Acheive Grade "A" or higher for 3 times=Logra la Clasificación "A" o superior 3 veces
+Achieve "Perfect" judgements 400+ times=Logra "Perfecto" 400 veces o más
+r:"^Achieve (\d+)\- "Miss" judgements$"=Logra $1 Fallos o menos
+Achieve Grade "A" or higher for 3 times=Logra la Clasificación "A" o superior 3 veces
+Achieve Grade "S" twice=Logra la Clasificación "S" dos veces
+Burst into Fever Mode at least twice=Entra en Modo Fiebre al menos dos veces
+r:"^Burst into Fever Mode at least (\d+) times$"=Entra en Modo Fiebre al menos $1 veces
+r:"^Burst into Fever Mode for (\d+)\+ times$"=Entra en Modo Fiebre $1 veces o más
+Collect all Blue Notes=Recoge todas las Notas Azules
+Dodge all barriers perfectly=Esquiva todas las barreras perfectamente
+r:"^Get a score above (\d+)$"=Obtén una puntuación superior a $1
+Get Full Combo=Obtén un Combo Completo
+Get grade "S" or higher on hard mode to unlock.=Obtén clasificación "S" o superior en modo difícil para desbloquear.
+r:"^Get hurt (\d+)\+ times$"=Recibe daño $1 veces o más
+Knock back all Big Enemies perfectly=Repele perfectamente a todos los Enemigos Grandes
+Knock back all BOSS's remote attacks perfectly=Repele perfectamente todos los ataques a distancia del JEFE
+Knock back all BOSS's melee attacks perfectly=Repele perfectamente todos los ataques cuerpo a cuerpo del JEFE
+Knock back all Ghosts perfectly=Repele perfectamente a todos los Fantasmas
+Knock back all Hammers and Raiders perfectly=Repele perfectamente a todos los Martillos y Asaltantes
+Knock back all Small Enemies perfectly=Repele perfectamente a todos los Enemigos Pequeños
+Knock back all Gemini Enemies perfectly=Repele perfectamente a todos los Enemigos Gemelos
+r:"^升到 (\d+) 级就可解锁该曲包辣\! \(｀ﾟДﾟ´\)ゞ$"=¡Al llegar al nivel $1, desbloquearás este paquete de canciones picantes! (｀ﾟДﾟ´)ゞ
+Play all Sheets (Hold Note) perfectly=Toca todas las Partituras (Nota Sostenida) perfectamente
+r:"^Reach (\d+) Combo$"=Alcanza un Combo de $1
+
+PAUSE=PAUSA
+SEARCH=BUSCAR
+DIFFICULTY FILTER=FILTRO DE DIFICULTAD
+MUSIC INDEX=ÍNDICE DE MÚSICA
+
+Weekly free track=Pista semanal gratuita
+Default Music=Música predeterminada
+Concept Pack=Paquete de concepto
+Happy Otaku Pack=Pack Otaku Feliz
+Cute Is Everything=Cute Is Everything
+Give Up TREATMENT=Give Up TREATMENT
+Collab=Colaboración
+MD Plus Project=Proyecto MD Plus
+Hidden=Ocultas
+Favorite Music=Música favorita
+Latest=Recientes
+History=Historial
+Hottest=Más Popular
+Easy=Fácil
+Pop=Pop
+Dynamic=Dinámica
+Cheerful=Alegre
+Retro=Retro
+Glam=Glamurosa
+Cute=Linda
+With Hidden Sheet=Con Nota Oculta
+
+
+Hold down the slidebar for quick track change.=Mantén presionado el control deslizante para cambiar rápidamente de pista.
+
+Canceled as [Favorite Music]=Removido de [Música Favorita]
+这里好像什么都没有？=¿Parece que no hay nada aquí?
+Added to [Favorite Music]=Añadido a [Música Favorita]
+
+Purchase error may be due to the poor internet connection ( ´･･)ﾉ(._.`)\nIf the fees are deducted successfully, please tap RESTORE.=El error de compra puede deberse a una mala conexión a internet ( ´･･)ﾉ(._.`)\nSi los cargos se deducen correctamente, toca RESTAURAR.
+
+Please enter text=Por favor ingrese texto
+There are no songs here yet~=Todavía no hay canciones aquí~
+
+//Preguntas frecuentes de la tienda
+Muse Plus Q&A=Preguntas y Respuestas sobre Muse Plus
+1. What can I get by purchasing [Muse Plus]?=1. ¿Qué puedo obtener al comprar [Muse Plus]?
+2. What is [MD Plus Project]?=2. ¿Qué es [MD Plus Project]?
+3. What are [DLC]s?=3. ¿Qué son los [DLC]s?
+[DLC]s are the content of big updates and are not included in [Muse Plus]. You need to purchase them separately.\n[Muse Plus] players will enjoy the permanent discounts when purchasing DLCs!=Los [DLC]s son el contenido de actualizaciones grandes y no están incluidos en [Muse Plus]. Necesitas comprarlos por separado.\nLos jugadores de [Muse Plus] disfrutarán de descuentos permanentes al comprar DLCs.
+
+1. What can I get by purchasing [ Just As Planned ] ?=1. ¿Qué puedo obtener al comprar [Just As Planned]?
+[DLC]s are the content of big updates. [Just as Planned] players can unlock it automatically without extra fees.=Los [DLC]s son el contenido de grandes actualizaciones. Los jugadores de [Just as Planned] pueden desbloquearlo automáticamente sin cargos adicionales.
+
+//TIENDA
+Muse Plus=Muse Plus
+
+MP=MP
+Music Packs=Paquetes de Música
+DLC=DLC
+COUNTDOWN=CUENTA REGRESIVA
+PURCHASED=COMPRADO
+More songs will be coming to<color\=#FF33D8FF> [MD Plus Project] </color> !=¡Más canciones llegarán a <color\=#FF33D8FF>[MD Plus Project]</color>!
+
+r:"^(-?\d+\%?\$?)$"=$1
+
+CHAR NAME=NOMBRE DEL PERSONAJE
+ELFIN NAME=NOMBRE DEL ELFIN
+365 天=365 dias
+365天=365 dias
+50.00\nCNY=50.00\nCNY
+限时贩售=Venta limitada
+Beautiful Girl=Chica hermosa
+- 点击任意按钮 -=- Haz clic en cualquier botón -
+Purchase succeed!!=¡Compra exitosa!
+
+Purchase [Muse Plus] to unlock Sister Marija, Exorcist Master Buro, \nelfin Silencer, 3 exclusive title screens, and 5 illustrations!=¡Compra [Muse Plus] para desbloquear a Monja Marija, Maestra Exorcista Buro, \nElfin Silenciador, 3 pantallas de título exclusivas y 5 ilustraciones!
+Unlock the music pack to obtain 1 illustration!=¡Desbloquea el paquete de música para obtener una ilustración!
+Compared with the power that one needs to transform into the strongest warrior, \na few illustrations, title screens and sound effects are just the beginning. =Comparado con el poder que se necesita para transformarse en el guerrero más fuerte, \nalgunas ilustraciones, pantallas de título y efectos de sonido son solo el principio.
+Purchase the music pack to unlock 1 Alien Stage collab illustration\nand 1 Valentine's Day illustration~=Compra el paquete de música para desbloquear una ilustración de colaboración de Alien Stage\ny una ilustración del Día de San Valentín~
+Purchase the DLC to unlock [Virtual Singers - Kagamine Rin & Len], 1 brand-new title screen, and 4 illustrations!=¡Compra el DLC para desbloquear [Virtual Singers - Kagamine Rin & Len], una pantalla de título completamente nueva y 4 ilustraciones!
+Unlock the music pack to obtain 1 collab illustration and 1 collab title screen!=¡Desbloquea el paquete de música para obtener una ilustración de colaboración y una pantalla de título de colaboración!
+Unlock the music pack to obtain 2 theme illustrations and 1 Fever BG!=¡Desbloquea el paquete de música para obtener 2 ilustraciones de tema y un fondo de Fiebre!
+Unlock the music pack to obtain a Halloween-themed illustration!=¡Desbloquea el paquete de música para obtener una ilustración con tema de Halloween!
+Purchase the DLC to unlock [Virtual Singer Hatsune Miku], 1 brand-new title screen, 4 illustrations, and 1 exclusive FEVER BG!=¡Compra el DLC para desbloquear Cantante Virtual Hatsune Miku, una pantalla de título completamente nueva, 4 ilustraciones y un fondo de Fiebre exclusivo!
+Purchase the music pack to unlock the Elfin [Neon Egg] and a Neon Abyss collab illustration!=¡Compra el paquete de música para desbloquear al Elfin Huevo Neón y una ilustración de colaboración de Neon Abyss!
+Unlock a special illustration by purchasing the new music pack.=Desbloquea una ilustración especial al comprar el nuevo paquete de música.
+Purchase the music pack to obtain NEEDY STREAMER OVERLOAD second collab illustration \nand an exclusive Fever BG!=¡Compra el paquete de música para obtener la segunda ilustración de colaboración de NEEDY STREAMER OVERLOAD\ny un fondo de Fiebre exclusivo!
+Purchase the music pack to unlock an International Workers' Day-themed illustration!=¡Compra el paquete de música para desbloquear una ilustración con tema del Día Internacional de los Trabajadores!
+Purchase the music pack to unlock [Boxer Ola], \n1 title screen, 1 illustration, and the ERROR sound effects!=¡Compra el paquete de música para desbloquear Boxeadora Ola, \nuna pantalla de título, una ilustración y los efectos de sonido ERROR!
+Purchase the music pack to unlock 1 title screen and 1 illustration!=¡Compra el paquete de música para desbloquear una pantalla de título y una ilustración!
+Purchase the pack to unlock an illustration and a Christmas-themed Fever background!=¡Compra el paquete para desbloquear una ilustración y un fondo de Fiebre temático de Navidad!
+Purchase the music pack to unlock [Black-White Magician Kirisame Marisa], 1 title screen, and 3 illustrations!\nKirisame Magic Shop's Muse Dash branch is open 0v<=¡Compra el paquete de música para desbloquear [Maga de Blanco y Negro Kirisame Marisa], una pantalla de título y 3 ilustraciones!\n¡La sucursal de Muse Dash de Kirisame Magic Shop está abierta 0v<
+Purchase the music pack to unlock an extra title screen!=¡Compra el paquete de música para desbloquear una pantalla de título adicional!
+Purchase the music pack to unlock two summer-themed Illustrations!=¡Compra el paquete de música para desbloquear dos ilustraciones de verano!
+Purchase the pack to unlock Nya form of 14 characters and Nyanya hit sound effect! \nDedicate your wallet to Nyanya Universe nya!=¡Compra el paquete para desbloquear la forma Miau de 14 personajes y el efecto de sonido de MIAUMIAU!\n¡Dedica tu billetera al universo Miau-miau miau!
+Purchase the pack to unlock Rebirth Girl El_Clear and an extra title screen!\nClear all the notes, hearts, and ghosts with Clear!=¡Compra el paquete para desbloquear a Chica Renacida El_Clear y una pantalla de título adicional!\n¡Borra todas las notas, corazones y fantasmas con Clear!
+Purchase the music pack to unlock an extra collab title screen!=¡Compra el paquete de música para desbloquear una pantalla de título de colaboración adicional!
+Purchase the music pack to unlock Red-white Miko Hakurei Reimu,\nan extra title screen and a special illustration!=¡Compra el paquete de música para desbloquear a Sacerdotisa de Blanco y Rojo Hakurei Reimu,\nuna pantalla de título adicional y una ilustración especial!
+Purchase the music pack to unlock the new Elfin Dr. Paige and a special loading screen!\nA doctor who doesn't manipulate judgment is not a good Elfin!=¡Compra el paquete de música para desbloquear al nuevo elfin Dr. Paige y una pantalla de carga especial!\n¡Un doctor que no manipula la valoración no es un buen Elfin!
+Purchase the music pack now to unlock a brand new welcome screen!\nLet’s all fall asleep to  the vaporwave music channel=¡Compra el paquete de música ahora para desbloquear una pantalla de bienvenida completamente nueva!\n¡Todos durmamos escuchando el canal de música vaporwave!
+Unlock a special illustration by purchasing the new music pack.I seem to hear the Coo Coo  Coo voice=Desbloquea una ilustración especial al comprar el nuevo paquete de música. Parece que escucho la voz Coo Coo Coo.
+Purchasing the Music pack to unlock an extra title screen!Let's do bad things together!=¡Compra el paquete de música para desbloquear una pantalla de título adicional Hagamos Cosas Malas Juntos!
+Purchasing the muisc pack will unlock the character [Navigator Yume] and a special illustration!\nObstacles(Gears) can not damage Navigator Yume! (｡･ω･｡)ﾉ=¡Comprar el paquete de música desbloqueará al personaje Navegadora Yume y una ilustración especial!\n¡Los obstáculos (engranajes) no pueden dañar a Navigator Yume! (｡･ω･｡)ﾉ
+Unlock a special start screen by purchasing the new music pack.\nJoin us at the nanahira festival!=Desbloquea una pantalla de inicio especial al comprar el nuevo paquete de música.\n¡Únete a nosotros en el festival de nanahira!
+After purchasing the song pack, Sailor suit Buro and an special illustration will be unlocked additionally.\nSailor suit Buro can continuously hit the marked enemies by holding the buttons. (oﾟ▽ﾟ)o=Después de comprar el paquete de canciones, Traje de Marinera Buro y una ilustración especial se desbloquearán adicionalmente.\nTraje de Marinero Buro puede golpear continuamente a los enemigos marcados manteniendo presionados los botones. (oﾟ▽ﾟ)o
+
+Custom Albums=Música personalizada
+HEADQUARTERS=HEADQUARTERS
+r:"^You are logged in as (.*)\nThis chart is <color\=green>RANKED</color>\!\nYou can earn MP from playing this.\n\nTop combo: (.+)$"=Has iniciado sesión como $1\n¡Esta pista está <color\=green>CLASIFICADA</color>!\nPuedes ganar MP jugando esto.\n\nMejor combo: $2
+r:"^You are logged in as (.*)\nThis chart is <color\=brown>UNRANKED</color>!\nYou cannot earn MP from playing this.\n\nTop combo: (.+)$"=Has iniciado sesión como Zeedif\n¡Esta pista está <color\=brown>NO CLASIFICADA</color>!\nNo puedes ganar MP jugando esto.\n\nMejor combo:$2
+
+Contacting Headquarters...=Conectando a Headquarters...
+Lost contact with headquarters!～(づvど)=¡Se perdió contacto con Headquarters!～(づvど)
+This chart has not been uploaded!=¡Esta pista no se ha subido a Headquarters!
+
+This is a message.=Este es un mensaje.
+Amiya=Amiya
+Leader of Rhodes Island=Líder de la Isla de Rodas
+r:"^Leader of Rhodes Island (- )Amiya$=Líder de la Isla de Rodas $1Amiya
+Yosetsu=Yosetsu
+Knoll格子衫=Knoll格子衫
+裏方(Uracata)=裏方(Uracata)
+salamanders0=salamanders0
+I AM YOUR FATHER=I AM YOUR FATHER
+kita=kita
+ANARRATOR=ANARRATOR
+Uracata=Uracata
+PASUTAR.P=PASUTAR.P
+Role=Role
+Extra life!=Extra life!
+school day=school day
+BerryVerrine=BerryVerrine
+Masho=Masho
+dkjojo=dkjojo
+Genus=Genus
+Yu13=Yu13
+dddddd=dddddd
+
+「Did my bow look a little bit floppy today?」\n「No, not a single pixel did!」=「¿Mi lazo se veía un poco flojo hoy?」\n「¡No, ni un solo píxel lo hizo!」
+Are you all ready? \nToday's live starts from hitting the first drum beat——PERFECT! Everyone, together!=¿Están todos listos?\n¡La transmisión en vivo de hoy comienza con el primer golpe de tambor——PERFECTO! ¡Todos, juntos!
+Tonight's guest of honor ARK☆DASH has just made an explosive entry... and blew the venue to pieces! Keep a safe distance, people!=El invitado de honor de esta noche, ARK☆DASH, acaba de hacer una entrada explosiva... ¡y voló el lugar en pedazos! ¡Mantengan una distancia segura, gente!
+Art by the ultimate art team from PeroPeroGames=Arte por el equipo de arte definitivo de PeroPeroGames
+[Soul Piercing Sounds], [Bodacious Vibes], [Extreme Interactive Experience] and [Dynamic MV] brought to you by\n R.M.B. band composed of Lead Singer Marija, Fire Extinguisher Rin, and Accompaniment Buro. All at Muse Festival!!!=[Sonidos Perforadores de Almas], [Vibraciones Atrevidas], [Experiencia Interactiva Extrema] y [MV Dinámico] traídos por\n la banda R.M.B. compuesta por la Vocalista Principal Marija, la Extintora de Incendios Rin y la Acompañamiento Buro. ¡¡¡Todo en el Festival de Muse!!!
+Welcome to the Muse Dash Spring Festival Carnival!=¡Bienvenidos al Carnaval del Festival de Primavera de Muse Dash!
+haloooo?! The pink bunny from the new world!=¡¿holaaa?! ¡La conejita rosa del nuevo mundo!
+Hey, you can't sit on the stage even if you're the sponsor! \nNeither can you fly in the air. You're blocking others' views!=¡Oye, no puedes sentarte en el escenario aunque seas el patrocinador!\nTampoco puedes volar en el aire. ¡Estás bloqueando la vista de los demás!
+As we have received so many gifts from our fans, \nwe should do something to express our gratitude. Len, you know what to do, right?=Como hemos recibido tantos regalos de nuestros fans, debemos hacer algo para expresar nuestra gratitud. Len, ¿sabes qué hacer, verdad?
+Octopus, samurai, gaming consoles...\nWow! What a complex audience that was just moved by Miku's performance!=Pulpos, samuráis, consolas de juegos...\n¡Vaya! ¡Qué público tan diverso el que fue conmovido por el concierto de Miku!
+Rotate the camera! Your smile of satisfaction with the show has been taken~=¡Gira la cámara! Tu sonrisa de satisfacción con el espectáculo ha sido capturada~
+I bet no one knows this shortcut. \nLet's sneak up on the stage to surprise everyone!=Apuesto a que nadie conoce este atajo.\n¡Vamos a colarnos en el escenario para sorprender a todos!
+What if I tap the button and send this invitation letter full of love words... \nOMG, it's Hatsune Miku! She's really here!=¿Y si pulso el botón y envío esta carta de invitación llena de palabras de amor...\n¡Dios mío, es Hatsune Miku! ¡Ella realmente está aquí!
+(MIKU on Stage) (Crit) (Rin on Stage) (Crit) (Marija on Stage) (Crit) \n(Buro on Stage) (Crit) (HP 0) (Fail) (Restart!)=(MIKU en el escenario) (Crítico) (Rin en el escenario) (Crítico) (Marija en el escenario) (Crítico) (Buro en el escenario) (Crítico) (HP 0) (Fallo) (¡Reiniciar!)
+Exclusive News! Backstage secrets behind the concert? \nThe two on stage, as rivals, have a plan that everyone has the least idea of...?=¡Noticias Exclusivas! ¿Secretos detrás del escenario del concierto? ¿Los dos en el escenario, como rivales, tienen un plan del que nadie tiene la menor idea...?
+A lovely shoujo manga floral effect for the winner's symphony. Hopefully, this will turn winter into spring.=Un encantador efecto floral de manga shoujo para la sinfonía del ganador. Esperemos que esto convierta el invierno en primavera.
+Doctor, I'll give you a one-time demonstration with the bass for the song you failed to dash through. Learn it by heart!=Doctor, te daré una demostración única con el bajo para la canción que no lograste atravesar. ¡Apréndela de memoria!
+[Disguised Cautus Rabbit Girl Getting People Addicted to a Rhythm Game]? And it happened here? I can't tell who's the real Cautus rabbit!=¿[Chica Conejo Cautus Disfrazada Volviendo Adicta a la Gente a un Juego de Ritmo]? ¿Y sucedió aquí? ¡No puedo decir quién es la verdadera chica conejo Cautus!
+Internet Angel is here to relieve all your pain from the real world!=¡El Ángel de Internet está aquí para aliviar todo tu dolor del mundo real!
+Buro has launched an freeloading attack, and the freeloader policegirl Rin is holding the last line of defense! \nWho will finally win this cup of cappuccino? Let's wait and see! (*๑╹ڡ╹)=¡Buro ha lanzado un ataque aprovechado, y la policía anti-aprovechados Rin está sosteniendo la última línea de defensa!\n¿Quién ganará finalmente esta taza de capuchino? ¡Esperemos y veamos! (*๑╹ڡ╹)
+Trick or treat! If you play the Lv. 10 Halloween themed song on Halloween, you might be able to summon the last chips! (Don't forget you can always turn back time with your system. XD)=¡Truco o trato! ¡Si juegas la canción temática de Halloween de NV. 10 en Halloween, ¡podrías invocar las últimas papas fritas! (No olvides que siempre puedes retroceder en el tiempo con tu sistema. XD)
+Yata! Tachibana! We are the Vtuber girls duo [Marpril]! Taking a memorial photo beside the Muse Dash album wall.=¡Yata! ¡Tachibana! ¡Somos el dúo de chicas Vtuber [Marpril]! Tomando una foto conmemorativa junto al muro del álbum de Muse Dash.
+There is only three options that could impress Emi(ゝ∀･) !=¡Solo hay tres opciones que podrían impresionar a Emi!(ゝ∀･)
+Happy Rin's Day! A warm-up with all moe points was done. \nThen wait for the moment when everyone falls victim to Rin-chan's charms 0v<=¡Feliz Día de Rin! Se hizo un calentamiento con todos los puntos moe.\nEntonces espera el momento en que todos caigan víctimas de los encantos de Rin-chan 0v<
+Rin's Mooncake Workshop opens only 24 hours on Mid-Autumn Festival, \n99 years and 364 days away from becoming a hundred-year-old store～=El Taller de Pasteles de Luna de Rin solo abre 24 horas en el Festival del Medio Otoño, 99 años y 364 días de convertirse en una tienda centenaria～
+Muse Dash has sold over 10 million copies for the base game on all platforms! Please sign here and...\nOh, there was not a single slice of pizza left, then you can sign for the delivery girl~=¡Muse Dash ha vendido más de 10 millones de copias del juego base en todas las plataformas! Por favor, firma aquí y...\nOh, no quedó ni una sola rebanada de pizza, entonces puedes firmar por la repartidora~
+To celebrate Marija's birthday, two anonymous strangers deliver a surprising performance... \nBut the fireworks totally drown out their sound?!=Para celebrar el cumpleaños de Marija, dos desconocidos anónimos ofrecen un concierto sorprendente...\n¡¿Pero los fuegos artificiales ahogan por completo su música?!
+YO 女子, look at me / 私 a GENUIUS from 未来 / \nPost a moment for my 五十万 followers / haters, wait for 罰 from me—MC Buro=EY GIRLS, mírenme / I'm un GENIO del FUTURE / \nPublica un momento para mis FIVE-HUNDRED seguidores / haters, esperen un PUNISHMENT de mí—MC Buro
+Miss Hatsune Miku, meet four volunteer guides. \nThey will not give you a rest until you have played all the stages with them~=Señorita Hatsune Miku, conozce a cuatro guías voluntarios.\nNo te dejarán descansar hasta que hayas jugado todos los escenarios con ellos~
+Listen carefully, the electric waves derive from the core of the universe——[COSMIC RADIO PEROLIST]\nOriginal Music Contest has successfully ended! Please tap the lower right corner to learn more details (･ω<)☆=Escucha con atención, las ondas eléctricas derivan del núcleo del universo——[COSMIC RADIO PEROLIST]\n¡El Concurso de Música Original ha terminado con éxito! Toca la esquina inferior derecha para obtener más detalles (･ω<)☆
+The girls giggle: Come on! Hold our hands and let's fall into this dream about music.\nMuse Dash Fifth Anniversary—Thank you for your company.=Las chicas se ríen: ¡Vamos! Toma nuestras manos y sumérgete en este sueño sobre música.\nQuinto Aniversario de Muse Dash—Gracias por tu compañía.
+【★Server Broadcasting★】Congratulations! GOAT Buro got all kills in \n10 consecutive battlefields! Happy birthday to Buro!!! (From Team RMB)=【★Transmisión del Servidor★】¡Felicidades! ¡GOAT Buro logró todas las muertes en 10 campos de batalla consecutivos! ¡¡¡Feliz cumpleaños a Buro!!! (Del Equipo RMB)
+Today's heroine is Rin!Though she enjoys 100% of the right to request the songs, \nshe didn't expect that she would end up not singing a single song ⊂彡☆))∀`)=¡La heroína de hoy es Rin! Aunque ella disfruta del 100% del derecho a solicitar las canciones, \nno esperaba que terminaría sin cantar ni una sola canción ⊂彡☆))∀`)
+The last dish for the Chinese New Year Eve’s dinner is ready! \nEveryone can’t help but drool over the Golden Saltfish (offered by Marija) in sadness ( ´ρ`) =¡El último plato para la cena de Nochevieja del Año Nuevo Chino está listo!\nNadie puede evitar babear por el Pez Dorado (ofrecido por Marija) con tristeza ( ´ρ`)
+Amiya! It's finally time to get on stage and show off your hard work! \nWait... you didn't practice the violin, but the magical Arts instead?=¡Amiya! ¡Finalmente es hora de subir al escenario y mostrar tu arduo trabajo!\nEspera... ¡no practicaste el violín, sino las Artes mágicas en su lugar?
+100,000 followers on Weibo? Buro, don't create any alts anymore! And someone may have noticed that we paid fans to follow us!=¿100,000 seguidores en Weibo? Buro, ¡no crees más cuentas alternativas! ¡Y alguien podría haber notado que pagamos a los fans para que nos siguieran!
+The most anticipated Galgame of the year—Bloody Valentine's Day: Who Killed Grade Director Ola? ~I, Said Marija~ is running a crowdfunding campaign! Thank you for 50 bucks, boss. We will order K◯C with it!=El Galgame más esperado del año—San Valentín Sangriento: ¿Quién Mató a la Directora de Grado Ola? ¡~Yo, Dijo Marija~ está realizando una campaña de financiación colectiva! Gracias por los 50 dólares, jefe. ¡Pediremos K◯C con eso!
+The 233rd Boxing Tournament's champion is [the World's Greatest Bear Ola]! \nDuring his acceptance speech, he said, “No biggie. It's way easier than Sis's rhythm game!”=¡El campeón del 233º Torneo de Boxeo es [el Oso Más Grande del Mundo Ola]!\nDurante su discurso de aceptación, dijo: "No es gran cosa. ¡Es mucho más fácil que el juego de ritmo de mi hermana!"
+The Sister's portrait-painting—her unique love and persistence, invisible to the naked eyes, \nare fully revealed in the painter's deep love. (Winning [Masterpiece] prize in Muse Dash's Crazy Fourth Anniversary)=El retrato-pintura de la Monja—su amor y persistencia únicos, invisibles a simple vista, se revelan completamente en el profundo amor del pintor. (Ganando el premio [Obra Maestra] en el Loco Cuarto Aniversario de Muse Dash)
+WARNING♡"Nation's Trio" R·M·B is coming♡They make history every time they make history♡They occupy the top three on the MD Character Popularity \nList for five consecutive years♡Their debut album is out now♡Tap the link in the lower right-hand corner to purchase it♥=ADVERTENCIA♡"Trio de la Nación" R·M·B está llegando♡Hacen historia cada vez que hacen historia♡Ocupan los tres primeros lugares en la Lista de Popularidad de Personajes de MD durante cinco años consecutivos♡¡Su álbum debut ya está disponible♡Toca el enlace en la esquina inferior derecha para comprarlo♥
+The most popular idol group in the late 20th century will bring you a thankful festival (presented by MARIBU \nas the time machine is broken) to celebrate 100,000 followers on Muse Dash's official Japanese Twitter account=El grupo de ídolos más popular de finales del siglo XX te traerá un festival de agradecimiento (presentado por MARIBU ya que la máquina del tiempo está rota) para celebrar los 100,000 seguidores en la cuenta oficial japonesa de Twitter de Muse Dash
+Hand us all the presents here, and Santa Claus will finish his work right away~ \nBuro-chan genius!=Entréganos todos los regalos aquí, y Papá Noel terminará su trabajo de inmediato~\n¡Buro-chan genial!
+Now that you meet my gaze, let's have a Musemon battle with me ( ･`ω･´)✧!=Ahora que te encuentras con mi mirada, ¡tengamos una batalla de Musemon! ( ･`ω･´)✧
+A photo of Uploader in drag for 200K subscribers on Bilibili~\nBuro is a girl, so it's meaningless? Get her and remake it!=Una foto del Uploader vestido de mujer para los 200K suscriptores en Bilibili~\nBuro es una chica, ¿así que no tiene sentido? ¡Atrápala y rehazla!
+The birthday gifts for Marija-sama have made up a super difficult stage?! \nALL PERFECT is the only way to take them~=¡¿Los regalos de cumpleaños para Marija-sama han creado un escenario súper difícil?!\nHacer TODO PERFECTO es la única forma de tomarlos~
+Welcome to the [Congrats to Muse Dash Reaching A Total of 8 Million Sales On All Platforms]  café!\nMaster, you wanna first eat? Or play songs? Or... Me?=¡Bienvenidos al café [Felicitaciones a Muse Dash por Alcanzar un Total de 8 Millones de Ventas en Todas las Plataformas]!\n¡Maestro, ¿quieres comer primero? ¿O tocar canciones? ¿O... a mí?
+We suspect you have something to do with the destroyed barrier. Hands up, or you will receive the double attack of both the youkai and Danmaku～☆=Sospechamos que tienes algo que ver con la barrera destruida. Manos arriba, o recibirás el doble ataque tanto del youkai como del Danmaku～☆
+A smart mooncake will pretend to be a rabbit to avoid being eaten... Ah, it’s been eaten already. ( ﾟ∀。)=Un pastel de luna inteligente fingirá ser un conejo para evitar ser comido... Ah, ya ha sido comido. ( ﾟ∀。)
+Once you choose to pray in holy light, the truth will shed a light on the path ahead of us… as long as everything is [Just as Planned].=Una vez que eliges rezar en la luz sagrada, la verdad iluminará el camino que tenemos delante... siempre y cuando todo sea [Just as Planned].
+Happy Fourth Anniversary! Enemies and bosses, thank you for your hard work. We’ll pay you a visit with cakes and party poppers today. Don’t run away!=¡Feliz Cuarto Aniversario! Enemigos y jefes, gracias por su arduo trabajo. Hoy los visitaremos con pasteles y confeti. ¡No huyan!
+May 1, Sunny. Today, Marija and the foreman had a quarrel at the construction site. \nBut I finished all the work! Such a fulfilling day（^v^;)>=1º de mayo, soleado. Hoy, Marija y el capataz tuvieron una disputa en el sitio de construcción. ¡Pero terminé todo el trabajo! ¡¡Qué día tan satisfactorio（^v^;)>
+Hang on a sec... I’m not included in the prize!=Espera un segundo... ¡No estoy incluida en el premio!
+I went to the park and played with fwends~=Fui al parque y jugué con amigos~
+It’s a good day for music!Bring your radio and let’s party in space!=¡Es un buen día para la música! ¡Trae tu radio y vamos a festejar en el espacio!
+The 1st edition of [Muse Radio Collection] in 2000 with a bonus lottery ticket (obviously expired).=La 1ª edición de [Colección de Muse Radio] en 2000 con un boleto de lotería de bonificación (obviamente expirado).
+Stop posturing and let's take care of the incidents!=¡Deja de presumir y vamos a encargarnos de los incidentes!
+The unlucky trick-or-treater is knocking on the door! Wish her a happy Halloween!=¡El desafortunado que pide truco o trato está tocando la puerta! ¡Deséale un feliz Halloween!
+Who says there is no Santa Claus in this world? As punishment for lying, how about filling every pair of their socks with candy?=¿Quién dice que no hay Papá Noel en este mundo? Como castigo por mentir, ¿qué tal si llenamos cada par de calcetines con dulces?
+Here is the New Year greeting from Wealth & Fortune Lion Dance Team: Hoping you are on your way to success, having a strong body without illness, getting great red pockets, and reaching more S ranks!=Aquí está el saludo de Año Nuevo del Equipo de Danza del León de Riqueza y Fortuna: Esperando que estés en camino al éxito, tengas un cuerpo fuerte sin enfermedades, recibas grandes sobres rojos y alcances más rangos S!
+Two episodes premiere on 9:30 am Saturdays live on PBC! To avoid being replaced by baseball games, here come new partners Clear and Fail from DJMAX!=¡Dos episodios se estrenan a las 9:30 am los sábados en vivo en PBC! Para evitar ser reemplazados por juegos de béisbol, ¡aquí vienen los nuevos socios Clear y Fail de DJMAX!
+Those who are pointed shall practice [glory day] a hundred times!=¡Aquellos que sean señalados deberán practicar [glory day] cien veces!
+What's your schedule for Valentine's Day? Receiving the serial chocolate attack of love from morning to night?! Anyway, be careful not to fall into the road due to tachycardia (づ◡ど)=¿Cuál es tu plan para el Día de San Valentín? ¡¿Recibir el ataque serial de chocolate de amor desde la mañana hasta la noche?! De todos modos, ten cuidado de no caer en la calle debido a la taquicardia (づ◡ど)
+It's like the new year celebration for furry fans!=¡Es como la celebración de Año Nuevo para los fans peludos!
+Kaitou & the hunter in the wasteland=Kaitou y el cazador en el páramo
+Another Marija? A mysterious girl appears!!!=¿Otra Marija? ¡¡¡Aparece una misteriosa chica!!!
+You need dessert to grow!=¡Necesitas postre para crecer!
+Vacation time for the trio=Tiempo de vacaciones para el trío
+Oh, you are growing bigger!=¡Oh, estás creciendo más!
+Why celebrating 3 million sales in front of my car?=¿Por qué celebrar 3 millones de ventas frente a mi coche?
+From a place in the sky.=Desde un lugar en el cielo.
+The grandma I'm trying to eat can't be the witch who is controlling the red riding hood that is hunting me down=La abuela que estoy tratando de comer no puede ser la bruja que está controlando a la caperucita roja que me está cazando
+This also looks yummy～=Esto también se ve delicioso～
+Please show your mercy! ——illustration for  April Fool's Day only=¡Por favor, muestra tu misericordia! ——ilustración solo para el Día de los Inocentes
+Never too late to celebrate Children's Day!=¡Nunca es tarde para celebrar el Día de la Niñez!
+Muse Dash 1st Anniversary!=¡Primer Aniversario de Muse Dash!
+Don't stop me now! I'm having such good clothing, I'm having a ball!=¡No me detengas ahora! ¡Estoy tan bien vestida, pasándola genial!
+Happy 2019's Mid-Autumn Day!=¡Feliz Día del Medio Otoño de 2019!
+HM01: Repetition Graffiti Step=HM01: Paso de Graffiti Repetitivo
+Ah..? I stumbled over something..?=¿Ah...? ¿Tropecé con algo..?
+Stand back! Let me handle these snacks!=¡Retrocedan! ¡Déjenme manejar estos bocadillos!
+Looking back at what they've been through, the girls are ready for a new journey. Happy 2nd Anniversary and see you soon!=Mirando hacia atrás a lo que han pasado, las chicas están listas para un nuevo viaje. ¡Feliz 2º Aniversario y nos vemos pronto!
+Late New Year's greeting!=¡Saludos atrasados de Año Nuevo!
+Where the stellar disappears.=Donde las estrellas desaparecen.
+Let's full the camera first!=¡Llenemos primero la cámara!
+So where can I find such a coffee shop?=Entonces, ¿dónde puedo encontrar una cafetería así?
+In order to prevent the world from being destroyed, the girls decided to become idols.=Para evitar que el mundo sea destruido, las chicas decidieron convertirse en ídolos.
+Leaving Buro's graffiti.=Dejando el graffiti de Buro.
+World tour.=Gira mundial.
+Marija's private photo.=Foto privada de Marija.
+You have lost when I open my eyes.=Has perdido cuando abro mis ojos.
+Buro's private wardrobe.=Armario privado de Buro.
+The photo that circularized a criticism in the school.=La foto que circuló una crítica en la escuela.
+The afternoon before leaving school.=La tarde antes de dejar la escuela.
+Oh Gosh! Marija is gonna be eaten! I'm not a BBQ pork!=¡Oh cielos! ¡Marija va a ser comida! ¡No soy un cerdo a la barbacoa!
+My wish is to conquer all tasty food in the world~~=¡Mi deseo es conquistar toda la comida sabrosa del mundo~~
+A lady who pretends to be playing baseball.=Una dama que finge estar jugando al béisbol.
+Just like this pair of G and F clefs, they have the confidence to work in tune at any instance!=¡Al igual que este par de claves de sol y fa, tienen la confianza para trabajar en sintonía en cualquier momento!
+It has the power to convey the singing to the whole universe, but there's also a possibility that it will be thrown to the audience as a bunch of leeks?=Tiene el poder de transmitir el canto a todo el universo, ¿pero también existe la posibilidad de que sea lanzado al público como un manojo de puerros?
+One of Amiya's ten rings. Not sure which finger it's for, but it definitely won't fit you, Doctor.=Uno de los diez anillos de Amiya. No estoy seguro de para qué dedo es, pero definitivamente no te quedará a ti, Doctor.
+
+
+
+
+[ Just As Planned ]  <color\=#FF00C1FF>unlocks all 486 paid songs, 27 characters , 11 elfins, 20 title screens, and 48 illustrations at once. </color>\n\nAdditionally, you will get every upcoming paid content for free as well, \nwhich means you don't need to pay for anything after purchasing [Just as Planned] (ゝ∀･) ~\n\nHowever, the default songs and the default illustrations cannot be unlocked at once by purchasing [Just as Planned]. \nLevel up to unlock them. You will also earn 1.5 times more exp after purchasing [Just as Planned]!\n\nSpecial attention though, in-App purchase (including [Just as Planned]) cannot be synced between platforms.=[ Just As Planned ]  <color\=#FF00C1FF>unlocks all 486 paid songs, 27 characters , 11 elfins, 20 title screens, and 48 illustrations at once. </color>\n\nAdditionally, you will get every upcoming paid content for free as well, which means you don't need to pay for anything after purchasing [Just as Planned] (ゝ∀･) ~\n\nHowever, the default songs and the default illustrations cannot be unlocked at once by purchasing [Just as Planned]. Level up to unlock them. You will also earn 1.5 times more exp after purchasing [Just as Planned]!\n\nSpecial attention though, in-App purchase (including [Just as Planned]) cannot be synced between platforms.
+\n<color\=#FF33D8FF>[MD Plus Project]</color> is the special content that can only be unlocked by purchasing [Just as Planned]. Unlike music packs, it cannot be purchased separately.\nTo express our gratitude to [Just as Planned] players, there will be more new content, including songs, characters, and title screens for <color\=#FF33D8FF>[MD Plus Project]</color> in the future~\n=\n<color\=#FF33D8FF>[MD Plus Project]</color> is the special content that can only be unlocked by purchasing [Just as Planned]. Unlike music packs, it cannot be purchased separately. To express our gratitude to [Just as Planned] players, there will be more new content, including songs, characters, and title screens for <color\=#FF33D8FF>[MD Plus Project]</color> in the future~\n
+
+
+SONG TITTLE SONG TITTLE=TÍTULO DE LA CANCIÓN TÍTULO DE LA CANCIÓN
+SONG TITTLE SONG=TÍTULO DE LA CANCIÓN
+SONG TITLE SONG TITLE=TÍTULO DE LA CANCIÓN TÍTULO DE LA CANCIÓN
+ARTIST ARTIST ARTIST=ARTISTA ARTISTA ARTISTA
+肥宅快乐包 Vol.2=Pack Otaku Feliz Vol.2
+NEW ILLUSTRATION IS NOW UNLOCKED!!=¡¡NUEVA ILUSTRACIÓN DESBLOQUEADA!!
+JAP=JAP
+Just as Planned=Just as Planned
+MUSIC NAME=NOMBRE DE LA MÚSICA
+All paid contents in [Just as Planned]\nObtained at once and updated for free=Todos los contenidos pagos en [Just as Planned]\nObtenidos de una vez y actualizados de forma gratuita
+Just As Planed Q&A=Preguntas y respuestas de Just as Planned
+What are [DLC]s?=¿Qué son los [DLC]s?
+What is [MD Plus Project]?=¿Qué es el [Proyecto MD Plus]?
+[MD Plus Project] is the special content that can only be unlocked by purchasing [Just as Planned]. \nUnlike music packs, it cannot be purchased separately.\nTo express our gratitude to [Just as Planned] players, there will be more new content, \nincluding songs, characters, and title screens for [MD Plus Project] in the future~=[Proyecto MD Plus] es el contenido especial que solo se puede desbloquear comprando [Just as Planned]. \nA diferencia de los paquetes de música, no se puede comprar por separado.\nPara expresar nuestra gratitud a los jugadores de [Just as Planned], habrá más contenido nuevo, \nincluyendo canciones, personajes y pantallas de título para el <color\=#FF33D8FF>[Proyecto MD Plus]</color> en el futuro~
+计划通 Q&A=Preguntas y respuestas de Plan Pass
+
+
+
+
+
+
+Let me see who hasn't followed @MuseDash_EN  m9(◉益◉)=Déjame ver quién no ha seguido a @musedash_en M9 (◉ 益 ◉)
+Level up to collect random chips to unlock「Illus.6th Anniversary」=Nivelado para recolectar chips aleatorios para desbloquear 「illus.6 aniversario」
+When I ask who remembers what the Notification says, the whole world is silent.=Cuando pregunto quién recuerda lo que dice la notificación, el mundo entero está en silencio.
+Otaku offers a substantial reward for being reincarnated but gets overwhelmed by the mobs as he awakens, shouting "I'm scammed, it's a rhythm game!"=Otaku ofrece una recompensa sustancial por ser reencarnado, pero se siente abrumado por las turbas mientras se despierta, gritando "Estoy estafado, ¡es un juego de ritmo!"
+Date with the Maids 6th Anniversary Goods Released=Fecha con los bienes de 6º aniversario de las mucamas publicadas
+Stage Tutorials=Tutoriales de etapa
+
+Function Description=Descripción de funciones
+<color\=#FF33D8FF>Filter</color> can help you find the songs you want to play faster.\nAttention please! If you can't find a song, please check <color\=#FF33D8FF>Music Index</color> first~=<color\=#FF33D8FF>Filtrar</color> puede ayudarte a encontrar las canciones que deseas jugar más rápido.\n¡Atención! Si no puedes encontrar una canción, revisa primero el <color\=#FF33D8FF>Índice de Música</color>~
+
+r:"Press\s+will add the music into\s+your favourite list."=Pulsa   para añadir la canción a   tu lista de favoritos. ٩̋(๑˃́▽˂̀๑)
+
+r:"Hold\s+to hide a music, press\s+in the [Hidden] list to unhide the selected music."=Mantén   para ocultar una canción, pulsa   en la lista [Ocultas] para mostrar la canción seleccionada.
+
+The <color\=#FF33D8FF>Option</color> here can help improve your gaming experience ヾ(≧▽≦*)o=La <color\=#FF33D8FF>opción</color> aquí puede ayudarte a mejorar tu experiencia de juego ヾ(≧▽≦*)o
+
+You can adjust <color\=#FF33D8FF>voice</color>, <color\=#FF33D8FF>music</color>, and <color\=#FF33D8FF>sound volume</color> in <color\=#FF33D8FF>Audio Settings</color>.\nIf you have difficulty keeping up with the rhythm, try lowering the sound volume! ( •̀ ω •́ )y=Puedes ajustar el volumen de <color\=#FF33D8FF>voces</color>, <color\=#FF33D8FF>música</color> y <color\=#FF33D8FF>efectos de sonido</color> en <color\=#FF33D8FF>Ajustes de Audio</color>.\nSi tienes dificultad para seguir el ritmo, ¡intenta bajar el volumen del sonido! ( •̀ ω •́ )y
+
+You can adjust the properties such as <color\=#FF33D8FF>FPS</color>, <color\=#FF33D8FF>resolution</color>, and <color\=#FF33D8FF>special effects</color> \nin <color\=#FF33D8FF>Display Settings</color> ヾ(≧▽≦*)o \nIf you think the screen is too bright, you can change the <color\=#FF33D8FF>BG Brightness</color> \nand <color\=#FF33D8FF>Fever BG</color> in Display Settings.=Puedes ajustar propiedades como <color\=#FF33D8FF>FPS</color>, <color\=#FF33D8FF>resolución</color> y <color\=#FF33D8FF>efectos especiales</color>\nen <color\=#FF33D8FF>Ajustes de Pantalla</color> ヾ(≧▽≦*)o\nSi crees que la pantalla está demasiado brillante, puedes cambiar el <color\=#FF33D8FF>Brillo de Fondo</color> \ny el <color\=#FF33D8FF>Fondo de Fiebre</color> en los Ajustes de Pantalla.
+
+If you have higher requirements for your accuracy, try opening <color\=#FF33D8FF>Show Early/Late</color> \nand <color\=#FF33D8FF>AP Indicator</color> to help adjust your rhythm (๑•̀ㅂ•́)و✧=Si tienes mayores exigencias en tu precisión, prueba activar <color\=#FF33D8FF>Mostrar Pronto/Tarde</color>\ny el <color\=#FF33D8FF>Indicador TP</color> para ayudarte a ajustar tu ritmo (๑•̀ㅂ•́)و✧
+
+Customizing the <color\=#FF33D8FF>Controls</color> and <color\=#FF33D8FF>Offset</color> can all help improve your gaming experience o((>ω< ))o=Personalizar los <color\=#FF33D8FF>Controles</color> y la <color\=#FF33D8FF>Compensación</color> también\npuede mejorar tu experiencia de juego o((>ω< ))o
+
+If you want to read this instruction again, tap <color\=#FF33D8FF>Option - How to Play - Function Description</color>.\nContinue playing the songs and leveling up to unlock more game contents ヾ( ￣▽￣)ゝ=Si deseas leer estas instrucciones nuevamente,\nve a <color\=#FF33D8FF>Ajustes > Cómo jugar > Descripción de funciones</color>.\nSigue jugando canciones y subiendo de nivel para\ndesbloquear más contenido del juego ヾ( ￣▽￣)ゝ
+
+
+
+-=-
+0.017=0.017
+
+There is a new character backstage. Let's invite her to come out!=Hay un nuevo personaje detrás del escenario.\n¡Invitarla a salir!
+
+peropero Login=Inicio de sesión
+Your login information has expired. Please log in again to continue  >,<=Tu información de inicio de sesión ha expirado. Por favor, inicia sesión nuevamente para continuar >,<
+You can <color\=#FF33D8FF>synchronize your save data</color> between mobile devices (phone or tablet) and PC by logging in the same account or by same method!ヾ(。￣□￣)ﾂ=Puedes <color\=#FF33D8FF>sincronizar tus datos guardados</color> entre dispositivos móviles (teléfono o tablet) y PC iniciando sesión con la misma cuenta o por el mismo método!ヾ(。￣□￣)ﾂ
+Problems encountered=Problemas encontrados
+Enter mobile number/e-mail address=Ingresa número de móvil/correo electrónico
+Log in/Sign up=Ingresar/Registrarse
+Log in/Sign up with a Third-party Account=Ingresar/Registrarse con cuenta de terceros
+Chinese Mainland Login=Inicio de sesión para China
+International Login with a Third-party Account=Inicio de sesión internacional
+More cool and juicy contents are coming up… Maybe (looking away)=Más contenido genial y jugoso está en camino... Tal vez (mira hacia otro lado)
+I have to read and agreed to the <color\=#FB36D6>Terms of Service</color> and <color\=#FB36D6>Privacy Policy</color>=AA
+Facebook=Facebook
+Google\n=Google\n
+
+
+//CANCIONES DEL GRUPO PREDTERMINADO
+
+r:"^UNLOCKED AT LV.(\d+)$"=DISPONIBLE AL NV.$1
+
+Magical Wonderland (More colorful mix)=Magical Wonderland (More colorful mix)
+Iyaiya=Iyaiya
+Wonderful Pain=Wonderful Pain
+Breaking Dawn=Breaking Dawn
+单向地铁 Feat.karin=单向地铁 Feat.karin
+Yume Ou Mono Yo feat. Wotoha - Neko Hacker=Yume Ou Mono Yo feat. Wotoha - Neko Hacker
+Frost Land=Frost Land
+Heart-Pounding Flight=Heart-Pounding Flight
+Pancake is Love=Pancake is Love
+时光涂鸦=时光涂鸦
+Evolution=Evolution
+海豚与广播 feat.Uranyan=海豚与广播 feat.Uranyan
+Yuki no Shizuku Ame no Oto=Yuki no Shizuku Ame no Oto
+Best One feat.tooko=Best One feat.tooko
+糖果色恋爱学=糖果色恋爱学
+Night Wander (cnsouka Remix)=Night Wander (cnsouka Remix)
+Dohna Dohna no Uta=Dohna Dohna no Uta
+Spring Carnival=Spring Carnival
+DISCO NIGHT=DISCO NIGHT
+Koi no Moonlight=Koi no Moonlight
+恋爱语音导航 feat.yousa=恋爱语音导航 feat.yousa
+Lights of Muse=Lights of Muse
+midstream jam=midstream jam
+Nihao=Nihao
+Confession=Confession
+Galaxy Striker=Galaxy Striker
+Departure Road=Departure Road
+Bass Telekinesis=Bass Telekinesis
+Cage of Almeria=Cage of Almeria
+Ira=Ira
+Blackest Luxury Car=Blackest Luxury Car
+Medicine of Sing=Medicine of Sing
+irregulyze=irregulyze
+I don't care about Christmas though=I don't care about Christmas though
+Imaginary World=Imaginary World
+Dysthymia=Dysthymia
+新世界より=新世界より
+NISEGAO=NISEGAO
+Say! Fanfare!=Say! Fanfare!
+Star Driver=Star Driver
+Formation=Formation
+Shinsou Masui=Shinsou Masui
+Mezame Eurythmics=Mezame Eurythmics
+Shenri Kuaira -repeat-=Shenri Kuaira -repeat-
+Latitude=Latitude
+Aqua Stars=Aqua Stars
+Funkotsu Saishin Casino=Funkotsu Saishin Casino
+Clock Room & Spiritual World=Clock Room & Spiritual World
+INTERNET OVERDOSE（Aiobahn feat.KOTOKO）=INTERNET OVERDOSE（Aiobahn feat.KOTOKO）
+徒 花=徒 花
+Mujinku-Vacuum Track#ADD8E6-=Mujinku-Vacuum Track#ADD8E6-
+MilK=MilK
+umpopoff=umpopoff
+Mopemope=Mopemope
+
+r:"^Echo over you...(.*)$"=Echo over you...$1
+
+Budget Is Burning: Nano Core=Budget Is Burning: Nano Core
+
+r:"^Glimmer feat.祈Inory(.*)$"=Glimmer feat.祈Inory$1
+r:"^EXIST feat.米雅(.*)$"=EXIST feat.米雅$1
+r:"^Irreplaceable feat.夏铜子(.*)$"=Irreplaceable feat.夏铜子$1
+
+Budget Is Burning Vol.1=Budget Is Burning Vol. 1
+
+r:"^Out of Sense(.*)$"=Out of Sense$1
+r:"^My Life Is For You(.*)$"=My Life Is For You$1
+r:"^Etude -Sunset-(.*)$"=Etude -Sunset-$1
+r:"^Goodbye Boss(.*)$"=Goodbye Boss$1
+r:"^Stargazer(.*)$"=Stargazer$1
+r:"^Lys Tourbillon(.*)$"=Lys Tourbillon$1
+
+Cute Is Everything Vol.7=Cute Is Everything Vol.7
+
+r:"^琉璃色前奏曲(.*)$"=琉璃色前奏曲$1
+r:"^Neonlights(.*)$"=Neonlights$1
+r:"^Hope for the flowers(.*)$"=Hope for the flowers$1
+r:"^Seaside Cycling on May 30(.*)$"=Seaside Cycling on May 30$1
+r:"^SKY↑HIGH(.*)$"=SKY↑HIGH$1
+r:"^Mousou Chu!!(.*)$"=Mousou Chu!!$1
+
+Cute Is Everything Vol.6=Lindo es todo vol.6
+
+r:"^Girly Cupid(.*)$"=Girly Cupid$1
+r:"^sheep in the light(.*)$"=sheep in the light$1
+r:"^Breaker city(.*)$"=Breaker city$1
+r:"^heterodoxy(.*)$"=heterodoxy$1
+r:"^Computer Music Girl(.*)$"=Computer Music Girl$1
+r:"^焦点 feat.早木旋子(.*)$"=焦点 feat.早木旋子$1
+
+Cute Is Everything Vol.5=Cute Is Everything Vol.5
+
+r:"^雨后甜点(.*)$"=雨后甜点$1
+r:"^告白应援方程式(.*)$"=告白应援方程式$1
+r:"^Omatsuri feat.兔子ST(.*)$"=Omatsuri feat.兔子ST$1
+r:"^FUTUREPOP(.*)$"=FUTUREPOP$1
+r:"^The Breeze(.*)$"=The Breeze$1
+r:"^I LOVE LETTUCE FRIED RICE!!(.*)$"=I LOVE LETTUCE FRIED RICE!!$1
+
+Cute Is Everything Vol.4=Cute Is Everything Vol.4
+
+r:"^SWEETSWEETSWEET(.*)$"=SWEETSWEETSWEET$1
+r:"^深蓝与夜的呼吸(.*)$"=深蓝与夜的呼吸$1
+r:"^Joy Connection(.*)$"=Joy Connection$1
+r:"^Self Willed Girl Ver.B(.*)$"=Self Willed Girl Ver.B$1
+r:"^就是不听话(.*)$"=就是不听话$1
+r:"^Holy Shit Grass Snake(.*)$"=Holy Shit Grass Snake$1
+
+Cute Is Everything Vol.3=Cute Is Everything Vol.3
+
+r:"^魔咒 feat.早木旋子(.*)$"=魔咒 feat.早木旋子$1
+r:"^斑斓星，彩绘，旅行诗(.*)$"=斑斓星，彩绘，旅行诗$1
+r:"^Satell Knight(.*)$"=Satell Knight$1
+r:"^Black River Feat.Mes(.*)$"=Black River Feat.Mes$1
+r:"^生而为人，我很抱歉(.*)$"=生而为人，我很抱歉$1
+r:"^Ueta Tori Tachi(.*)$"=Ueta Tori Tachi$1
+
+Cute Is Everything Vol.2=Lindo es todo vol.2
+
+r:"^速溶霓虹 feat.kumako(.*)$"=速溶霓虹 feat.kumako$1
+r:"^星球上的追溯诗(.*)$"=星球上的追溯诗$1
+r:"^我要买买买(.*)$"=我要买买买$1
+r:"^约会宣言(.*)$"=约会宣言$1
+r:"^初雪(.*)$"=初雪$1
+r:"^心上华海(.*)$"=心上华海$1
+
+Cute Is Everything Vol.1=Lindo es todo vol.1
+
+r:"^Sunshine and Rainbow after August Rain(.*)$"=Sunshine and Rainbow after August Rain$1
+r:"^Magical Number(.*)$"=Magical Number$1
+r:"^Dreaming Girl(.*)$"=Dreaming Girl$1
+r:"^Daruma-san Fell Over(.*)$"=Daruma-san Fell Over$1
+r:"^Different(.*)$"=Different$1
+r:"^The Future of the Phantom(.*)$"=The Future of the Phantom$1
+r:"^Urban Magic(.*)$"=Urban Magic$1
+
+Happy Otaku Pack Vol.19=Pack Otaku Feliz Vol.19
+
+r:"^Maid's Prank(.*)$"=Maid's Prank$1
+r:"^Dance Dance 晚安舞会(.*)$"=Dance Dance 晚安舞会$1
+r:"^Ops:Limone(.*)$"=Ops:Limone$1
+r:"^NOVA(.*)$"=NOVA$1
+r:"^Heaven's Gradius(.*)$"=Heaven's Gradius$1
+
+Happy Otaku Pack Vol.18=Pack Otaku Feliz Vol.18
+
+r:"^Rainy Angel(.*)$"=Rainy Angel$1
+r:"^Gullinkambi(.*)$"=Gullinkambi$1
+r:"^RakiRaki Rebuilders!!!(.*)$"=RakiRaki Rebuilders!!!$1
+r:"^Laniakea(.*)$"=Laniakea$1
+r:"^OTTAMA GAZER(.*)$"=OTTAMA GAZER$1
+r:"^Sleep Tight feat.Macoto(.*)$"=Sleep Tight feat.Macoto$1
+
+Happy Otaku Pack Vol.17=Pack Otaku Feliz Vol.17
+
+r:"^【东爱璃Lovely】Lovely(.*)$"=【东爱璃Lovely】Lovely$1
+r:"^森海の船(.*)$"=森海の船$1
+r:"^Ooi(.*)$"=Ooi$1
+r:"^沼った！！(.*)$"=沼った！！$1
+r:"^SATELLITE(.*)$"=SATELLITE$1
+r:"^Fantasia Sonata Colorful feat. V!C(.*)$"=Fantasia Sonata Colorful feat. V!C$1
+
+Happy Otaku Pack Vol.16=Pack Otaku Feliz Vol.16
+
+r:"^Tokimeki★Meteostrike(.*)$"=Tokimeki★Meteostrike$1
+r:"^Down Low(.*)$"=Down Low$1
+r:"^LOUDER MACHINE(.*)$"=LOUDER MACHINE$1
+r:"^それはもうらぶちゅ(.*)$"=それはもうらぶちゅ$1
+r:"^Rave_Tech(.*)$"=Rave_Tech$1
+r:"^Brilliant & Shining! \(Game Edit.\)(.*)$"=Brilliant & Shining! (Game Edit.)$1
+
+Happy Otaku Pack Vol.15=Pack Otaku Feliz Vol.15
+
+r:"^On And On!!(.*)$"=On And On!!$1
+r:"^Trip!(.*)$"=Trip!$1
+r:"^Hoshi no otoshimono(.*)$"=Hoshi no otoshimono$1
+r:"^Plucky Race(.*)$"=Plucky Race$1
+r:"^Fantasia Sonata Destiny(.*)$"=Fantasia Sonata Destiny$1
+r:"^Run through(.*)$"=Ejecutar a través de$1
+r:"^Howard_Y(.*)$"=Howard_yRun through(.*)$"=Howard_Y(.*)$"=Howard_yRun through$1
+
+Happy Otaku Pack Vol.14=Pack Otaku Feliz Vol.14
+
+r:"^Bang!!(.*)$"=Bang!!$1
+r:"^Paradise Ⅱ(.*)$"=Paradise Ⅱ$1
+r:"^Symbol(.*)$"=Symbol$1
+r:"^Nekojarashi(.*)$"=Nekojarashi$1
+r:"^A Philosophical Wanderer(.*)$"=A Philosophical Wanderer$1
+r:"^Isouten(.*)$"=Isouten$1
+
+Happy Otaku Pack Vol.13=Pack Otaku Feliz Vol.13
+
+r:"^Party in the HOLLOWood feat. ななひら(.*)$"=Party in the HOLLOWood feat. ななひら$1
+r:"^嘤嘤大作战(.*)$"=嘤嘤大作战$1
+r:"^Howlin' Pumpkin(.*)$"=Howlin' Pumpkin$1
+
+Happy Otaku Pack Vol.12=Pack Otaku Feliz Vol.12
+
+r:"^Rush-More(.*)$"=Rush-More$1
+r:"^Kill My Fortune(.*)$"=Kill My Fortune$1
+r:"^Yosari Tsukibotaru Suminoborite(.*)$"=Yosari Tsukibotaru Suminoborite$1
+r:"^JUMP! HardCandy(.*)$"=JUMP! HardCandy$1
+r:"^Hibari(.*)$"=Hibari$1
+r:"^OCCHOCO-REST-LESS(.*)$"=OCCHOCO-REST-LESS$1
+
+Happy Otaku Pack SP=Pack Otaku Feliz SP
+
+r:"^MuseDashを作っているPeroPeroGamesさんが倒産しちゃったよ～(.*)$"=MuseDashを作っているPeroPeroGamesさんが倒産しちゃったよ～$1
+r:"^MARENOL(.*)$"=MARENOL$1
+r:"^僕の和風本当上手(.*)$"=僕の和風本当上手$1
+r:"^Rush B(.*)$"=Rush B$1
+r:"^DataErr0r(.*)$"=DataErr0r$1
+r:"^Burn(.*)$"=Burn$1
+
+Happy Otaku Pack Vol.11=Pack Otaku Feliz Vol.11
+
+r:"^The 90's Decision(.*)$"=The 90's Decision$1
+r:"^Medusa(.*)$"=Medusa$1
+r:"^Final Step!(.*)$"=Final Step!$1
+r:"^MAGENTA POTION(.*)$"=MAGENTA POTION$1
+r:"^Cross†Ray \(feat. 月下Lia\)(.*)$"=Cross†Ray (feat. 月下Lia)$1
+r:"^Square Lake(.*)$"=Square Lake$1
+
+Happy Otaku Pack Vol.10=Pack Otaku Feliz Vol.10
+
+r:"^Heisha Onsha(.*)$"=Heisha Onsha$1
+r:"^Ginevra(.*)$"=Ginevra$1
+r:"^Paracelestia(.*)$"=Paracelestia$1
+r:"^un secret(.*)$"=un secret$1
+r:"^Good Life(.*)$"=Good Life$1
+r:"^ニニ-nini-(.*)$"=ニニ-nini-$1
+
+Happy Otaku Pack Vol.9=Pack Otaku Feliz Vol.9
+
+r:"^The Last Page(.*)$"=The Last Page$1
+r:"^IKAROS(.*)$"=IKAROS$1
+r:"^Tsukuyomi(.*)$"=Tsukuyomi$1
+r:"^Future Stream(.*)$"=Future Stream$1
+r:"^FULi AUTO SHOOTER(.*)$"=FULi AUTO SHOOTER$1
+r:"^GOODFORTUNE(.*)$"=GOODFORTUNE$1
+
+Happy Otaku Pack Vol.8=Pack Otaku Feliz Vol.8
+
+r:"^Moonlight Banquet(.*)$"=Moonlight Banquet$1
+r:"^Flashdance(.*)$"=Flashdance$1
+r:"^INFiNiTE ENERZY -Overdoze-(.*)$"=INFiNiTE ENERZY -Overdoze-$1
+r:"^One Way Street(.*)$"=One Way Street$1
+r:"^This Club is Not 4 U(.*)$"=This Club is Not 4 U$1
+r:"^ULTRA MEGA HAPPY PARTY!!!(.*)$"=ULTRA MEGA HAPPY PARTY!!!$1
+
+Happy Otaku Pack Vol.7=Pack Otaku Feliz Vol.7
+
+r:"^Cotton Candy Wonderland(.*)$"=Cotton Candy Wonderland$1
+r:"^Punai Punai Taiso(.*)$"=Punai Punai Taiso$1
+r:"^Fly↑High(.*)$"=Fly↑High$1
+r:"^prejudice(.*)$"=prejudice$1
+r:"^The 89's Momentum(.*)$"=The 89's Momentum$1
+r:"^energy night\(DASH mix\)(.*)$"=energy night(DASH mix)$1
+
+Happy Otaku Pack Vol.6=Pack Otaku Feliz Vol.6
+
+r:"^Elysion's Old Mans(.*)$"=Elysion's Old Mans$1
+r:"^AXION(.*)$"=AXION$1
+r:"^Amnesia(.*)$"=Amnesia$1
+r:"^Onsen Dai Sakusen(.*)$"=Onsen Dai Sakusen$1
+r:"^Gleam stone(.*)$"=Gleam stone$1
+r:"^GOODWORLD(.*)$"=GOODWORLD$1
+
+Happy Otaku Pack Vol.5=Pack Otaku Feliz Vol.5
+
+r:"^Brave My Heart(.*)$"=Brave My Heart$1
+r:"^Sakura Fubuki(.*)$"=Sakura Fubuki$1
+r:"^8bit Adventurer(.*)$"=8bit Adventurer$1
+r:"^Suffering of screw(.*)$"=Suffering of screw$1
+r:"^tiny lady(.*)$"=tiny lady$1
+r:"^Power Attack(.*)$"=Power Attack$1
+
+Happy Otaku Pack Vol.4=Pack Otaku Feliz Vol.4
+
+r:"^Leave It Alone(.*)$"=Leave It Alone$1
+r:"^Tsubasa no Oreta Tenshitachi no Requiem(.*)$"=Tsubasa no Oreta Tenshitachi no Requiem$1
+r:"^Chronomia(.*)$"=Chronomia$1
+r:"^Dandelion's Daydream(.*)$"=Dandelion's Daydream$1
+r:"^Lorikeet ~Flat design~(.*)$"=Lorikeet ~Flat design~$1
+r:"^GOODRAGE(.*)$"=GOODRAGE$1
+
+Happy Otaku Pack Vol.3=Pack Otaku Feliz Vol.3
+
+r:"^Thirty Million Persona(.*)$"=Thirty Million Persona$1
+r:"^conflict(.*)$"=conflict$1
+r:"^Enka Dance Music(.*)$"=Enka Dance Music$1
+r:"^XING(.*)$"=XING$1
+r:"^Amakakeru Soukyuu no Serenade(.*)$"=Amakakeru Soukyuu no Serenade$1
+r:"^Gift box(.*)$"=Gift box$1
+
+Happy Otaku Pack Vol.2=Pack Otaku Feliz Vol.2
+
+r:"^MUSEDASH!!!!(.*)$"=MUSEDASH!!!!$1
+r:"^Imprinting(.*)$"=Imprinting$1
+r:"^Skyward(.*)$"=Skyward$1
+r:"^La nuit de vif(.*)$"=La nuit de vif$1
+r:"^Bit-alize(.*)$"=Bit-alize$1
+r:"^GOODTEK\(Hyper Edit\)(.*)$"=GOODTEK(Hyper Edit)$1
+
+Happy Otaku Pack Vol.1=Pack Otaku Feliz Vol.1
+
+r:"^Maharajah(.*)$"=Maharajah$1
+r:"^keep on running(.*)$"=keep on running$1
+r:"^Käfig(.*)$"=Käfig$1
+r:"^\-\+(.*)$"=−+$1
+r:"^Tenri Kaku Jou(.*)$"=Tenri Kaku Jou$1
+r:"^Adjudicatorz-DanZai-(.*)$"=Adjudicatorz-DanZai-$1
+
+Give Up TREATMENT Vol.11=Give Up TREATMENT Vol.11
+
+r:"^Psyched Fevereiro(.*)$"=Psyched Fevereiro$1
+r:"^Inferno City(.*)$"=Inferno City$1
+r:"^Paradigm Shift(.*)$"=Paradigm Shift$1
+r:"^Snapdragon(.*)$"=Snapdragon$1
+r:"^Prestige and Vestige(.*)$"=Prestige and Vestige$1
+r:"^Tiny Fate(.*)$"=Tiny Fate$1
+
+Give Up TREATMENT Vol.10=Give Up TREATMENT Vol.10
+
+r:"^NightTheater(.*)$"=NightTheater$1
+r:"^Cutter(.*)$"=Cutter$1
+r:"^bamboo(.*)$"=bamboo$1
+r:"^enchanted love(.*)$"=enchanted love$1
+r:"^c.s.q.n.(.*)$"=c.s.q.n.$1
+r:"^Booouncing!!(.*)$"=Booouncing!!$1
+
+Give Up TREATMENT Vol.9=Give Up TREATMENT Vol.9
+
+r:"^Legend of Eastern Rabbit -SKY DEFENDER-(.*)$"=Legend of Eastern Rabbit -SKY DEFENDER-$1
+r:"^ENERGY SYNERGY MATRIX(.*)$"=ENERGY SYNERGY MATRIX$1
+r:"^Punai Punai Genso ~Punai Punai in Wonderland~(.*)$"=Punai Punai Genso ~Punai Punai in Wonderland~$1
+r:"^Better Graphic Animation(.*)$"=Better Graphic Animation$1
+r:"^Variant Cross(.*)$"=Variant Cross$1
+r:"^Ultra Happy Miracle Bazoooooka!!(.*)$"=Ultra Happy Miracle Bazoooooka!!$1
+
+Give Up TREATMENT Vol.8=Give Up TREATMENT Vol.8
+
+r:"^The NightScape(.*)$"=The NightScape$1
+r:"^FREEDOM DiVE↓(.*)$"=FREEDOM DiVE↓$1
+r:"^Φ(.*)$"=Φ$1
+r:"^Lueur de la nuit(.*)$"=Lueur de la nuit$1
+r:"^Creamy Sugary OVERDRIVE!!!(.*)$"=Creamy Sugary OVERDRIVE!!!$1
+r:"^Disorder \(feat.YURI\)(.*)$"=Disorder (feat.YURI)$1
+
+Give Up TREATMENT Vol.7=Renunciar al tratamiento Vol.7
+
+r:"^INFINITY(.*)$"=INFINITY$1
+r:"^Punai Punai Senso(.*)$"=Punai Punai Senso$1
+r:"^Maxi(.*)$"=Maxi$1
+r:"^YInMn Blue(.*)$"=YInMn Blue$1
+r:"^Plumage(.*)$"=Plumage$1
+r:"^Dr.Techro(.*)$"=Dr.Techro$1
+
+Give Up TREATMENT Vol.6=Give Up TREATMENT Vol.6
+
+r:"^Future Dive(.*)$"=Future Dive$1
+r:"^Re：End of a Dream(.*)$"=Re：End of a Dream$1
+r:"^Etude -Storm-(.*)$"=Etude -Storm-$1
+r:"^Unlimited Katharsis(.*)$"=Unlimited Katharsis$1
+r:"^Magic Knight Girl(.*)$"=Magic Knight Girl$1
+r:"^Eeliaas(.*)$"=Eeliaas$1
+
+Give Up TREATMENT Vol.5=Give Up TREATMENT Vol.5
+
+r:"^Gaikan Chrysalis(.*)$"=Gaikan Chrysalis$1
+r:"^Sterelogue(.*)$"=Sterelogue$1
+r:"^Cheshire's Dance(.*)$"=Cheshire's Dance$1
+r:"^Skrik(.*)$"=Skrik$1
+r:"^Soda Pop Canva5!(.*)$"=Soda Pop Canva5!$1
+r:"^ЯUBY:LINTe(.*)$"=ЯUBY:LINTe$1
+
+Give Up TREATMENT Vol.4=Give Up TREATMENT Vol.4
+
+r:"^Destr0yer(.*)$"=Destr0yer$1
+r:"^Noël(.*)$"=Noël$1
+r:"^Kyoukiranbu(.*)$"=Kyoukiranbu$1
+r:"^Two Phace(.*)$"=Two Phace$1
+r:"^Fly Again(.*)$"=Fly Again$1
+r:"^ouroVoros(.*)$"=ouroVoros$1
+
+Give Up TREATMENT Vol.3=Give Up TREATMENT Vol.3
+
+r:"^Altale(.*)$"=Altale$1
+r:"^Brain Power(.*)$"=Brain Power$1
+r:"^Berry Go!!(.*)$"=Berry Go!!$1
+r:"^Sweet\* Witch\* Girl\*(.*)$"=Sweet* Witch* Girl*$1
+r:"^trippers feeling!(.*)$"=trippers feeling!$1
+r:"^Lilith ambivalence lovers(.*)$"=Lilith ambivalence lovers$1
+
+Give Up TREATMENT Vol.2=Renunciar al tratamiento Vol.2
+
+r:"^Brave My Soul(.*)$"=Brave My Soul$1
+r:"^Halcyon(.*)$"=Halcyon$1
+r:"^Crimson Nightingale(.*)$"=Crimson Nightingale$1
+r:"^Invader(.*)$"=Invader$1
+r:"^Lyrith(.*)$"=Lyrith$1
+r:"^GOODBOUNCE \(Groove Edit\)(.*)$"=GOODBOUNCE (Groove Edit)$1
+
+r:"^Give Up TREATMENT Vol.1(.*)$"=Give Up TREATMENT Vol.1$1
+r:"^Oriens(.*)$"=Oriens$1
+r:"^PUPA(.*)$"=PUPA$1
+r:"^Luna Express 2032(.*)$"=Luna Express 2032$1
+r:"^Ukiyoe Yokochou(.*)$"=Ukiyoe Yokochou$1
+r:"^Alice in Misanthrope(.*)$"=Alice in Misanthrope$1
+r:"^GOODMEN(.*)$"=GOODMEN$1
+
+Legends of Muse Warriors=Legends of Muse Warriors
+
+r:"^P E R O P E R O兄✰貴✰乱✰舞（feat.音游部, howsoon）(.*)$"=P E R O P E R O兄✰貴✰乱✰舞（feat.音游部, howsoon）$1
+r:"^PA☆PPA☆PANIC(.*)$"=PA☆PPA☆PANIC$1
+r:"^How To Make 音ゲ～曲！(.*)$"=How To Make 音ゲ～曲！$1
+r:"^Ré：Ré(.*)$"=Ré：Ré$1
+r:"^Marmalade Twins(.*)$"=Marmalade Twins$1
+r:"^DOMINATOR(.*)$"=DOMINATOR$1
+r:"^てしかに\( TESHiKANi \)(.*)$"=てしかに( TESHiKANi )$1
+
+Valentine Stage=Etapa de San Valentín
+
+r:"^Sweet Dream\(VIVINOS - 'Alien Stage OST Part.2'\)(.*)$"=Sweet Dream(VIVINOS - 'Alien Stage OST Part.2')$1
+r:"^Ruler Of My Heart\(VIVINOS - 'Alien Stage Pt5'\)(.*)$"=Ruler Of My Heart(VIVINOS - 'Alien Stage Pt5')$1
+r:"^Reality Show(.*)$"=Reality show$1
+r:"^SIG feat.Tobokegao(.*)$"=SIG feat.Tobokegao$1
+r:"^蔷薇の恋心 feat.AKA(.*)$"=蔷薇の恋心 feat.AKA$1
+r:"^Euphoria(.*)$"=Euphoria$1
+
+Gambler's Tricks=Gambler's Tricks
+
+r:"^New York Back Raise(.*)$"=New York Back Raise$1
+r:"^slic.hertz(.*)$"=slic.hertz$1
+r:"^Fuzzy-Navel(.*)$"=Fuzzy-Navel$1
+r:"^Swing Edge(.*)$"=Swing Edge$1
+r:"^Twisted Escape(.*)$"=Twisted Escape$1
+r:"^Swing Sweet Twee Dance(.*)$"=Swing Sweet Twee Dance$1
+
+COSMIC RADIO PEROLIST=COSMIC RADIO PEROLIST
+
+r:"^すとり～ま～FIRE!?!?(.*)$"=すとり～ま～FIRE!?!?$1
+r:"^Tanuki Step(.*)$"=Tanuki Step$1
+r:"^Space Stationery(.*)$"=Space Stationery$1
+r:"^Songs Are Judged 90% by Chorus feat. Mameko(.*)$"=Songs Are Judged 90% by Chorus feat. Mameko$1
+r:"^Kawaiク華麗に宇宙怪盗(.*)$"=Kawai brillantemente espacial Phantom Thief$1
+r:"^Night City Runway(.*)$"=Night City Runway$1
+r:"^Chaos Shotgun feat. ChumuNote(.*)$"=Chaos Shotgun feat. ChumuNote$1
+r:"^mew mew magical summer(.*)$"=mew mew magical summer$1
+
+MUSE RADIO FM104=MUSE RADIO FM104
+
+r:"^Doki Doki Jump! \(feat. ぷにぷに電機\)(.*)$"=Doki Doki Jump! (feat. ぷにぷに電機)$1
+r:"^100年モノのストリーマーズ・ハイ(.*)$"=100年モノのストリーマーズ・ハイ$1
+r:"^Love Patrol(.*)$"=Love Patrol$1
+r:"^Mahorova feat.omoto(.*)$"=Mahorova feat.omoto$1
+r:"^夜の街(.*)$"=夜の街$1
+r:"^INTERNET YAMERO（Aiobahn feat.KOTOKO）(.*)$"=INTERNET YAMERO（Aiobahn feat.KOTOKO）$1
+
+Ola Dash=Ola Dash
+
+r:"^MuseDashヵヽﾞ何ヵヽ干∋ッ`⊂ぉヵヽＵ＜ﾅょッﾅﾆ気ヵヽﾞ￡ゑょ(.*)$"=MuseDashヵヽﾞ何ヵヽ干∋ッ`⊂ぉヵヽＵ＜ﾅょッﾅﾆ気ヵヽﾞ￡ゑょ$1
+r:"^Aleph-0(.*)$"=Aleph-0$1
+r:"^ぶっとばスーパーノヴァ(.*)$"=ぶっとばスーパーノヴァ$1
+r:"^Rush-Hour(.*)$"=Rush-Hour$1
+r:"^3rd Avenue(.*)$"=3rd Avenue$1
+r:"^WORLDINVADER(.*)$"=WORLDINVADER$1
+
+MUSE RADIO FM103=MUSE RADIO FM103
+
+r:"^marooned night(.*)$"=marooned night$1
+r:"^daydream girl(.*)$"=daydream girl$1
+r:"^Ornamentじゃない\(Muse Dash Mix\)(.*)$"=Ornamentじゃない(Muse Dash Mix)$1
+r:"^Baby Pink \(w/ YUC'e\)(.*)$"=Baby Pink (w/ YUC'e)$1
+r:"^I'm Here(.*)$"=I'm Here$1
+
+r:"^Virtual Idol Production(.*)$"=Virtual Idol Production$1
+r:"^假面日记(.*)$"=假面日记$1
+r:"^Reminiscence(.*)$"=Reminiscence$1
+r:"^DarakuDatenshi(.*)$"=DarakuDatenshi$1
+r:"^D.I.Y.(.*)$"=D.I.Y.$1
+r:"^男子in☆バーチャランド(.*)$"=男子in☆バーチャランド$1
+r:"^kuí(.*)$"=kuí$1
+
+Nyanya Universe!=Nyanya Universe!
+
+r:"^Nyan Cat(.*)$"=Nyan Cat$1
+r:"^PeroPero in the Universe(.*)$"=PeroPero in the Universe$1
+r:"^In-kya Yo-kya Onmyoji(.*)$"=In-kya Yo-kya Onmyoji$1
+r:"^KABOOOOOM!!!!(.*)$"=KABOOOOOM!!!!$1
+r:"^Doppelganger(.*)$"=Doppelganger$1
+
+DokiDoki! Valentine!=DokiDoki! Valentine!
+
+r:"^Pray a LOVE(.*)$"=Pray a LOVE$1
+r:"^恋愛回避依存症(.*)$"=恋愛回避依存症$1
+r:"^Daisuki Dayo feat.Wotoha(.*)$"=Daisuki Dayo feat.Wotoha$1
+r:"^去剪海的日子(.*)$"=去剪海的日子$1
+
+MUSE RADIO FM102=MUSE RADIO FM102
+
+r:"^happy hour(.*)$"=happy hour$1
+r:"^Seikimatsu no Natsu(.*)$"=Seikimatsu no Natsu$1
+r:"^twinkle night(.*)$"=twinkle night$1
+r:"^ARUYA HARERUYA(.*)$"=ARUYA HARERUYA$1
+r:"^Blush \(feat. MYLK\)(.*)$"=Blush (feat. MYLK)$1
+r:"^裸のSummer(.*)$"=裸のSummer$1
+r:"^BLESS ME\(Samplingsource\)(.*)$"=BLESS ME(Samplingsource)$1
+
+MUSE RADIO FM101=MUSE RADIO FM101
+
+r:"^tape/stop/night(.*)$"=tape/stop/night$1
+r:"^Pixel Galaxy(.*)$"=Pixel Galaxy$1
+r:"^Notice(.*)$"=Notice$1
+r:"^<b>sᴛʀᴀᴡʙᴇʀʀʏ ɢᴏᴅᴢɪʟʟᴀ</b>(.*)$"=<b>sᴛʀᴀᴡʙᴇʀʀʏ ɢᴏᴅᴢɪʟʟᴀ</b>$1
+r:"^OKIMOCHI EXPRESSION(.*)$"=OKIMOCHI EXPRESSION$1
+r:"^君とpool disco(.*)$"=君とpool disco$1
+
+Rin·Len's Mirrorland=Rin·Len's Mirrorland
+
+r:"^劣等上等(.*)$"=劣等上等$1
+r:"^テレキャスタービーボーイ(.*)$"=テレキャスタービーボーイ$1
+r:"^い～やい～やい～や(.*)$"=い～やい～やい～や$1
+r:"^ねぇねぇねぇ。(.*)$"=ねぇねぇねぇ。$1
+r:"^Chaotic Love Revolution(.*)$"=Chaotic Love Revolution$1
+r:"^しかばねの踊り(.*)$"=しかばねの踊り$1
+r:"^ビターチョコデコレーション(.*)$"=ビターチョコデコレーション$1
+r:"^ダンスロボットダンス(.*)$"=ダンスロボットダンス$1
+r:"^Sweet Devil(.*)$"=Sweet Devil$1
+r:"^Someday'z Coming(.*)$"=Someday'z Coming$1
+
+Touhou Mugakudan -Ⅲ-=Touhou Mugakudan -Ⅲ-
+
+r:"^Samayoi no mei ～Amatsu～(.*)$"=Samayoi no mei ～Amatsu～$1
+r:"^INTERNET SURVIVOR(.*)$"=INTERNET SURVIVOR$1
+r:"^Shuki☆RaiRai!!!(.*)$"=Shuki☆RaiRai!!!$1
+r:"^HELLOHELL(.*)$"=HELLOHELL$1
+r:"^Calamity Fortune(.*)$"=Calamity Fortune$1
+r:"^つるぺったん(.*)$"=つるぺったん$1
+
+Miku in Museland=Miku in Museland
+
+r:"^39みゅーじっく！(.*)$"=39みゅーじっく！$1
+r:"^Hand in Hand(.*)$"=Hand in Hand$1
+r:"^シニカルナイトプラン(.*)$"=シニカルナイトプラン$1
+r:"^神っぽいな(.*)$"=神っぽいな$1
+r:"^ダーリンダンス(.*)$"=ダーリンダンス$1
+r:"^初音天地開闢神話(.*)$"=初音天地開闢神話$1
+r:"^ヴァンパイア(.*)$"=ヴァンパイア$1
+r:"^フューチャー・イヴ(.*)$"=フューチャー・イヴ$1
+r:"^Unknown・MotherGoose(.*)$"=Unknown・MotherGoose$1
+r:"^春嵐(.*)$"=春嵐$1
+
+NeonAbyss=NeonAbyss
+
+r:"^BrainDance(.*)$"=BrainDance$1
+r:"^My Focus!(.*)$"=My Focus!$1
+r:"^ABABABA BURST(.*)$"=ABABABA BURST$1
+r:"^ULTRA HIGHER(.*)$"=ULTRA HIGHER$1
+
+maimai DX Limited-time Suite=maimai DX Limited-time Suite
+
+r:"^N3V3R G3T OV3R(.*)$"=N3V3R G3T OV3R$1
+r:"^Oshama Scramble!(.*)$"=Oshama Scramble!$1
+r:"^Valsqotch(.*)$"=Valsqotch$1
+r:"^Paranormal My Mind(.*)$"=Paranormal My Mind$1
+r:"^Flower, snow and Drum'n'bass.(.*)$"=Flower, snow and Drum'n'bass.$1
+r:"^Amenohoakari(.*)$"=Amenohoakari$1
+
+Nanahira Paradise=Nanahira Paradise
+
+r:"^People People(.*)$"=People People$1
+r:"^Endless Error Loop(.*)$"=Endless Error Loop$1
+r:"^Forbidden Pizza!(.*)$"=Forbidden Pizza!$1
+r:"^ボーカルに無茶させんな(.*)$"=ボーカルに無茶させんな$1
+
+Touhou Mugakudan -Ⅱ-=Touhou Mugakudan -Ⅱ-
+
+r:"^月に叢雲華に風(.*)$"=月に叢雲華に風$1
+r:"^Patchouli's - Best Hit GSK(.*)$"=Patchouli's - Best Hit GSK$1
+r:"^物凄いスペースシャトルでこいしが物凄いうた(.*)$"=物凄いスペースシャトルでこいしが物凄いうた$1
+r:"^囲い無き世は一期の月影(.*)$"=囲い無き世は一期の月影$1
+r:"^Psychedelic Kizakura Doumei(.*)$"=Psychedelic Kizakura Doumei$1
+r:"^Mischievous Sensation(.*)$"=Mischievous Sensation$1
+
+MEGAREX THE FUTURE=MEGAREX THE FUTURE
+
+r:"^White Canvas \(feat. 藍月なくる\)(.*)$"=White Canvas (feat. 藍月なくる)$1
+r:"^Gloomy Flash \(feat. Mami\)(.*)$"=Gloomy Flash (feat. Mami)$1
+r:"^今月のおすすめプレイリストを検索します(.*)$"=今月のおすすめプレイリストを検索します$1
+r:"^Sunday Night \(feat. Kanata.N\)(.*)$"=Sunday Night (feat. Kanata.N)$1
+r:"^Goodbye Goodnight \(feat. Shully\)(.*)$"=Goodbye Goodnight (feat. Shully)$1
+r:"^ENDLESS CIDER \(feat. Such\)(.*)$"=ENDLESS CIDER (feat. Such)$1
+
+DJMAX Reflect=DJMAX Reflect
+
+r:"^glory day(.*)$"=glory day$1
+r:"^Bright Dream(.*)$"=Bright Dream$1
+r:"^Groovin Up(.*)$"=Groovin Up$1
+r:"^I Want You(.*)$"=I Want You$1
+r:"^OBLIVION(.*)$"=OBLIVION$1
+r:"^Elastic STAR(.*)$"=Elastic STAR$1
+r:"^U.A.D(.*)$"=U.A.D$1
+r:"^Jealousy(.*)$"=Jealousy$1
+r:"^Memory of Beach(.*)$"=Memory of Beach$1
+r:"^Don't Die(.*)$"=Don't Die$1
+r:"^Y \(CE Ver.\)(.*)$"=Y (CE Ver.)$1
+r:"^Fancy Night(.*)$"=Fancy Night$1
+r:"^Can We Talk(.*)$"=Can We Talk$1
+r:"^Give Me 5(.*)$"=Give Me 5$1
+r:"^Nightmare(.*)$"=Nightmare$1
+
+Arcaea=Arcaea
+
+r:"^GIMME DA BLOOD(.*)$"=GIMME DA BLOOD$1
+r:"^Libertas(.*)$"=Libertas$1
+r:"^Cyaegha(.*)$"=Cyaegha$1
+
+WACCA Horizon=WACCA Horizon
+
+r:"^ONOMATO Pairing!!!(.*)$"=ONOMATO Pairing!!!$1
+r:"^with U(.*)$"=with U$1
+r:"^Chariot(.*)$"=Chariot$1
+r:"^GASHATT(.*)$"=GASHATT$1
+r:"^LIN NE KRO NE feat. lasah(.*)$"=LIN NE KRO NE feat. lasah$1
+r:"^ANGEL HALO(.*)$"=ANGEL HALO$1
+
+Touhou Mugakudan -Ⅰ-=Touhou Mugakudan -Ⅰ-
+
+r:"^Bad Apple!! feat. Nomico(.*)$"=Bad Apple!! feat. Nomico$1
+r:"^色は匂へど散りぬるを(.*)$"=色は匂へど散りぬるを$1
+r:"^Cirno's Perfect Math Class(.*)$"=Cirno's Perfect Math Class$1
+r:"^緋色月下、狂咲ノ絶(.*)$"=緋色月下、狂咲ノ絶$1
+r:"^Flowery Moonlit Night(.*)$"=Flowery Moonlit Night$1
+r:"^Unconscious Requiem(.*)$"=Unconscious Requiem$1
+
+7th Beat Games=7th Beat Games
+
+r:"^Super Battleworn Insomniac(.*)$"=Super Battleworn Insomniac$1
+r:"^Bomb-Sniffing Pomeranian(.*)$"=Bomb-Sniffing Pomeranian$1
+r:"^Rollerdisco Rumble(.*)$"=Rollerdisco Rumble$1
+r:"^Rose Garden(.*)$"=Rose Garden$1
+r:"^EMOMOMO(.*)$"=EMOMOMO$1
+r:"^Heracles(.*)$"=Heracles$1
+
+r:"^Phigros(.*)$"=Phigros$1
+r:"^NO ONE YES MAN(.*)$"=NO ONE YES MAN$1
+r:"^雪降り、メリクリ （MD edit）(.*)$"=雪降り、メリクリ （MD edit）$1
+r:"^Igallta(.*)$"=Igallta$1
+
+r:"^HARDCORE TANO\*C(.*)$"=HARDCORE TANO*C$1
+r:"^//CHECAR
+r:"^ALiVE(.*)$"=ALiVE$1
+r:"^BATTLE NO.1(.*)$"=BATTLE NO.1$1
+r:"^Cthugha(.*)$"=Cthugha$1
+r:"^TWINKLE★MAGIC(.*)$"=TWINKLE★MAGIC$1
+r:"^Comet Coaster(.*)$"=Comet Coaster$1
+r:"^XODUS(.*)$"=XODUS$1
+
+cyTus=cyTus
+
+r:"^Fireflies \(Funk Fiction remix\)(.*)$"=Fireflies (Funk Fiction remix)$1
+r:"^Light up my love!!(.*)$"=Light up my love!!$1
+r:"^Happiness Breeze(.*)$"=Happiness Breeze$1
+r:"^Chrome VOX(.*)$"=Chrome VOX$1
+r:"^CHAOS(.*)$"=CHAOS$1
+r:"^Saika(.*)$"=Saika$1
+r:"^Standby for Action(.*)$"=Standby for Action$1
+r:"^Hydrangea(.*)$"=Hydrangea$1
+r:"^Amenemhat(.*)$"=Amenemhat$1
+r:"^Santouka(.*)$"=Santouka$1
+r:"^HEXENNACHTROCK-katashihaya-(.*)$"=HEXENNACHTROCK-katashihaya-$1
+r:"^Blah!!(.*)$"=Blah!!$1
+
+Let's Do Bad Things Together=Let's Do Bad Things Together
+
+r:"^Preparara(.*)$"=Preparara$1
+r:"^Whatcha;Whatcha Doin'(.*)$"=Whatcha;Whatcha Doin'$1
+r:"^Madara(.*)$"=Madara$1
+r:"^pICARESq(.*)$"=pICARESq$1
+r:"^Desastre(.*)$"=Desastre$1
+r:"^Shoot for the Moon(.*)$"=Shoot for the Moon$1
+
+Let' s GROOVE！=Let' s GROOVE！
+
+r:"^Groove Prayer(.*)$"=Groove Prayer$1
+r:"^FUJIN Rumble(.*)$"=FUJIN Rumble$1
+r:"^Marry me, Nightmare(.*)$"=Marry me, Nightmare$1
+r:"^HG魔改造ポリビニル少年(.*)$"=HG魔改造ポリビニル少年$1
+r:"^聖者の息吹(.*)$"=聖者の息吹$1
+r:"^ouroboros -twin stroke of the end-(.*)$"=ouroboros -twin stroke of the end-$1
+
+Nanahira Festival=Festival de Nanahira
+
+r:"^Can I friend you on Bassbook? lol(.*)$"=Can I friend you on Bassbook? lol$1
+r:"^Gaming☆Everything(.*)$"=Gaming☆Everything$1
+r:"^Renji de haochi☆Denshi choriki shiyou chuka ryori 4000nen rekishi shunkan chori kanryo butouteki ryoricho☆(.*)$"=Renji de haochi☆Denshi choriki shiyou chuka $1ryori 4000nen rekishi shunkan chori kanryo butouteki ryoricho☆
+r:"^You Make My Life 1UP(.*)$"=You Make My Life 1UP$1
+r:"^Newbies take 3 years, geeks 8 years, and internets are forever(.*)$"=Newbies take 3 years, geeks 8 years, and internets are forever$1
+r:"^Onegai!Kon kon Oinarisama(.*)$"=Onegai!Kon kon Oinarisama$1
+
+//CANCIONES DEL GRUPO MUSE DASH PLUS
+
+r:"^Niki Tousen(.*)$"=Niki Tousen$1
+r:"^AlterLuna(.*)$"=AlterLuna$1
+r:"^Narcissism Angel(.*)$"=Narcissism Angel$1
+r:"^Meteor \(feat. TEA\)(.*)$"=Meteor (feat. TEA)$1
+r:"^Hey Vincent.(.*)$"=Hey Vincent.$1
+r:"^Haunted Dance(.*)$"=Haunted Dance$1
+r:"^Blue Lemonade(.*)$"=Blue Lemonade$1
+r:"^Heartache(.*)$"=Heartache$1
+r:"^All My Friends \(feat. RANASOL\)(.*)$"=All My Friends (feat. RANASOL)$1
+r:"^暮色小诗(.*)$"=暮色小诗$1
+r:"^YUKEMURI TAMAONSEN II(.*)$"=YUKEMURI TAMAONSEN II$1
+r:"^Sanyousei SAY YA!!!(.*)$"=Sanyousei SAY YA!!!$1
+r:"^NICE TYPE feat. monii(.*)$"=NICE TYPE feat. monii$1
+r:"^Time Capsule(.*)$"=Time Capsule$1
+r:"^JACK PT BOSS(.*)$"=JACK PT BOSS$1
+r:"^Highway Cruisin'(.*)$"=Highway Cruisin'$1
+r:"^Helixir(.*)$"=Helixir$1
+r:"^人鱼电台(.*)$"=人鱼电台$1
+r:"^SyZyGy(.*)$"=SyZyGy$1
+r:"^Crow Rabbit(.*)$"=Crow Rabbit$1
+r:"^Is there no way I'm defeated by OTOGE-BOSS-KYOKU-CHAN is strongly provoking?????(.*)$"=Is there no way I'm defeated by OTOGE-BOSS-KYOKU-CHAN is strongly $1provoking?????
+r:"^Random(.*)$"=Random$1
+r:"^Silver Bullet(.*)$"=Silver Bullet$1
+r:"^The Day We Become Family(.*)$"=The Day We Become Family$1
+r:"^旧梦(.*)$"=旧梦$1
+r:"^Lunatic(.*)$"=Lunatic$1
+r:"^Record one's Dream(.*)$"=Record one's Dream$1
+r:"^Amateras Rhythm(.*)$"=Amateras Rhythm$1
+r:"^Squalldecimator feat. EZ-Ven(.*)$"=Squalldecimator feat. EZ-Ven$1
+r:"^天靈靈地靈靈(.*)$"=天靈靈地靈靈$1
+r:"^Gospel(.*)$"=Gospel$1
+r:"^Prism Fountain(.*)$"=Prism Fountain$1
+r:"^Inu no outa(.*)$"=Inu no outa$1
+r:"^Kuishinbo Hacker feat.Kuishinbo Akachan(.*)$"=Kuishinbo Hacker feat.Kuishinbo Akachan$1
+r:"^snooze(.*)$"=snooze$1
+r:"^物凄い狂っとるフランちゃんが物凄いうた(.*)$"=物凄い狂っとるフランちゃんが物凄いうた$1
+r:"^DROPS \(feat. Such\)(.*)$"=DROPS (feat. Such)$1
+r:"^Queen Aluett(.*)$"=Queen Aluett$1
+r:"^AKUMU / feat.tug(.*)$"=AKUMU / feat.tug$1
+r:"^Diffraction(.*)$"=Diffraction$1
+r:"^Sand Maze(.*)$"=Sand Maze$1
+r:"^pa pi pu pi pu pi pa(.*)$"=pa pi pu pi pu pi pa$1
+r:"^don't！stop！eroero！(.*)$"=don't！stop！eroero！$1
+r:"^カタリスト(.*)$"=カタリスト$1
+r:"^Believing and Being(.*)$"=Believing and Being$1
+r:"^Smile-mileS(.*)$"=Smile-mileS$1
+
+r:"^Midnight O'clock(.*)$"=Midnight O'clock$1
+r:"^can you feel it(.*)$"=can you feel it$1
+r:"^#Psychedelic_Meguro_River(.*)$"=#Psychedelic_Meguro_River$1
+r:"^ナイト・オブ・ナイツ(.*)$"=ナイト・オブ・ナイツ$1
+r:"^ARIGA THESIS(.*)$"=ARIGA THESIS$1
+r:"^Amatsumikaboshi(.*)$"=Amatsumikaboshi$1
+r:"^The Happycore Idol(.*)$"=The Happycore Idol$1
+
+//Update MUSE RADIO FM105
+MUSE RADIO FM105=MUSE RADIO FM105
+
+r:"^disco light(.*)$"=disco light$1
+r:"^room light feat.chancylemon(.*)$"=room light feat.chancylemon$1
+r:"^Invisible(.*)$"=Invisible$1
+r:"^圣诞季-LLABB(.*)$"=圣诞季-LLABB$1
+
+CHUNITHM COURSE MUSE=CHUNITHM COURSE MUSE
+
+r:"^月詠に鳴る(.*)$"=月詠に鳴る$1
+
+//Project MD Plus
+r:"^HIT ME UP(.*)$"=HIT ME UP$1
+r:"^Test Me \(feat. Uyeon\)(.*)$"=Test Me (feat. Uyeon)$1
+r:"^Assault TAXI(.*)$"=Assault TAXI$1
+r:"^Pop it(.*)$"=Pop it$1
+r:"^HEARTBEAT！キュンキュン！iKz feat.Warma(.*)$"=HEARTBEAT！キュンキュン！iKz feat.Warma$1
+
+//Novice Rider Pack
+Novice Rider Pack=Novice Rider Pack
+
+r:"^SUPERHERO(.*)$"=SUPERHERO$1
+r:"^Highway_Summer(.*)$"=Highway_Summer$1
+r:"^Sweet Encounter(.*)$"=Sweet Encounter$1
+r:"^Mx. Black Box(.*)$"=Mx. Black Box$1
+
+Let's Rhythm Jam!(.*)$"=Let's Rhythm Jam!
+
+r:"^Hyouryu(.*)$"=Hyouryu$1
+r:"^The Whole Rest(.*)$"=The Whole Rest$1
+r:"^Hydra(.*)$"=Hydra$1
+r:"^Pastel Lines(.*)$"=Pastel Lines$1
+r:"^LINK x LIN#S(.*)$"=LINK x LIN#S$1
+r:"^Arcade ViruZ(.*)$"=Arcade ViruZ$1
+
+//CANCIONES CUSTOM
+r:"^BBBang(.*)$"=BBBang$1
+r:"^#be_fortunate(.*)$"=#be_fortunate$1
+r:"^Goyang Ubur Ubur(.*)$"=Goyang Ubur Ubur$1
+r:"^うっせぇわ(.*)$"=うっせぇわ$1
+r:"^にんじゃりばんばん(.*)$"=にんじゃりばんばん$1
+r:"^Bling-Bang-Bang-Born(.*)$"=Bling-Bang-Bang-Born$1
+r:"^Breakin' Asia(.*)$"=Breakin' Asia$1
+r:"^Na Na Na \(Na Na Na Na Na Na Na Na Na\)(.*)$"=Na Na Na (Na Na Na Na Na Na Na Na Na)$1
+r:"^ギターと孤独と蒼い惑星 -Anime Ver.-(.*)$"=ギターと孤独と蒼い惑星 -Anime Ver.-$1
+r:"^にんじゃりばんばん(.*)$"=にんじゃりばんばん$1
+r:"^パラマウント☆ショータイム！！(.*)$"=パラマウント☆ショータイム！！$1
+r:"^ラヴ♡スパイス♡ライクユー!!!(.*)$"=ラヴ♡スパイス♡ライクユー!!!$1
+r:"^綺羅キラー\(feat. Mori Calliope\)(.*)$"=綺羅キラー(feat. Mori Calliope)$1
+r:"^恋色マスタースパーク \(DJ Genki Remix\)(.*)$"=恋色マスタースパーク (DJ Genki Remix)$1
+r:"^Lunartic Dial(.*)$"=Lunartic Dial$1
+r:"^少女綺想曲(.*)$"=少女綺想曲$1
+r:"^Moment Day(.*)$"=Moment Day$1
+r:"^物凄いバーニングで魔理沙が物凄いうた(.*)$"=物凄いバーニングで魔理沙が物凄いうた$1
+r:"^No Title(.*)$"=No Title$1
+r:"^オニユリ(.*)$"=オニユリ$1
+r:"^無意識レクイエム \(cosmobsp rmx\)(.*)$"=無意識レクイエム (cosmobsp rmx)$1
+r:"^脳味噌リジッドガール(.*)$"=脳味噌リジッドガール$1
+r:"^Peace and Tranquility(.*)$"=Peace and Tranquility$1
+r:"^Popping Happiness!(.*)$"=Popping Happiness!$1
+r:"^Going My Future!(.*)$"=Going My Future!$1
+r:"^YUBIKARI-GENMAN(.*)$"=YUBIKARI-GENMAN$1
+r:"^folern(.*)$"=folern$1
+r:"^Hell's Sun(.*)$"=Hell's Sun$1
+r:"^ヒューマノイド(.*)$"=ヒューマノイド$1
+r:"^Icedust(.*)$"=Icedust$1
+r:"^Infinity Heaven(.*)$"=Infinity Heaven$1
+r:"^Initiating League(.*)$"=Initiating League$1
+r:"^ジッタードー(.*)$"=ジッタードー$1
+
+r:"^Speed of Light(.*)$"=Speed of Light$1
+
+ITEMS AWARD!!=¡¡PREMIO DE ARTÍCULOS!!
+Is there no way I'm defeated by OTOGE-BOSS-KYOKU-CHAN is strongly provoking?????=¿¿¿¿¿No hay manera de que sea derrotado por OTOGE-BOSS-KYOKU-CHAN, estás provocando fuertemente?????
+一二三四五六七八=12345678
+
+
+//ARTISTAS
+?????=?????
+3R2=3R2
+小野道ono=小野道ono
+Haloweak=Haloweak
+TetraCalyx=TetraCalyx
+[Cosmic Radio 2024] theme song=[Cosmic Radio 2024] theme song
+Zris=Zris
+kors k=kors k
+G.K & Haloweak=G.K & Haloweak
+Sound Souler=Sound Souler
+HyuN feat.Yu-A=HyuN feat.Yu-A
+Polymath9=Polymath9
+KillerBlood=KillerBlood
+a_hisa=a_hisa
+Chicala Lpis=Chicala Lpis
+Nekock·LK=Nekock·LK
+TEMPLIME feat HOSHIMIYA TOTO=TEMPLIME feat HOSHIMIYA TOTO
+Sound piercer feat.DAZBEE=Sound piercer feat.DAZBEE
+dawn-system feat. OHkun=dawn-system feat. OHkun
+P4koo(feat.rerone)=P4koo(feat.rerone)
+Ponchi feat.haxchi=Ponchi feat.haxchi
+PSYQUI feat. Marpril=PSYQUI feat. Marpril
+Marpril=Marpril
+HAMA feat. Marpril=HAMA feat. Marpril
+memex=memex
+Midy=Midy
+Sugar & Co.（ANK feat.kumako）=Sugar & Co.（ANK feat.kumako）
+S9ryne Feat.祈Inory=S9ryne Feat.祈Inory
+sctl feat.Syepias=sctl feat.Syepias
+Moroboshi Nana feat.Katou Haruka & Hirose Yuuki=Moroboshi Nana feat.Katou Haruka & Hirose Yuuki
+MusikM / Jun Kuroda=MusikM / Jun Kuroda
+iKz feat.Hanser=iKz feat.Hanser
+麦当叔劳劳=麦当叔劳劳
+cnsouka Feat.karin=cnsouka Feat.karin
+UncleWang Feat.kumako=UncleWang Feat.kumako
+MusikM=MusikM
+味素 feat.kumako=味素 feat.kumako
+iKz=iKz
+KyuRu☆ feat.Yuu Shitsuka=KyuRu☆ feat.Yuu Shitsuka
+yk!=yk!
+味素=味素
+Nano&板烧鹅尼子=Nano&板烧鹅尼子
+Ncha-P=Ncha-P
+technoplanet feat. nayuta=technoplanet feat. nayuta
+Mrguai/早木旋子/雲夏=Mrguai/早木旋子/雲夏
+Reku Mochizuki=Reku Mochizuki
+Notorious(Nota & TRIAL)=Notorious(Nota & TRIAL)
+RyouRyou=RyouRyou
+Morimori Atsushi feat. Namahoshichan=Morimori Atsushi feat. Namahoshichan
+MYUKKE.=MYUKKE.
+NeLiME=NeLiME
+Neko Hacker=Neko Hacker
+Mrguai=Mrguai
+Apo11o program ft.Emma Chouette=Apo11o program ft.Emma Chouette
+NIWASHI feat. やみん=NIWASHI feat. やみん
+タケノコ少年 feat. 秋奈=タケノコ少年 feat. 秋奈
+NOMA=NOMA
+PYKAMIA=PYKAMIA
+TRIFLATS=TRIFLATS
+James Landino ft. Raj Ramayya=James Landino ft. Raj Ramayya
+タケノコ少年 feat. 周央サンゴ（にじさんじ）=タケノコ少年 feat. 周央サンゴ（にじさんじ）
+Halv=Halv
+ETIA. feat. Jenga=ETIA. feat. Jenga
+FOIV feat.Tomin Yukino=FOIV feat.Tomin Yukino
+AAAA=AAAA
+Yomii=Yomii
+Ryo Arue=Ryo Arue
+BOOGEY VOXX=BOOGEY VOXX
+Silaver=Silaver
+EmoCosine=EmoCosine
+tezuka x Yunosuke=tezuka x Yunosuke
+t+pazolite=t+pazolite
+iKz feat.祖娅纳惜=iKz feat.祖娅纳惜
+brz1128=brz1128
+litmus*=litmus*
+Alice Schach and the Magic Orchestra=Alice Schach and the Magic Orchestra
+Kayuki feat. Hiro=Kayuki feat. Hiro
+Gəyxe/HJLL=Gəyxe/HJLL
+Street=Street
+Rish feat.Choko=Rish feat.Choko
+LeaF=LeaF
+Boss=Boss
+Cosmograph=Cosmograph
+NceS=NceS
+HiTECH NINJA=HiTECH NINJA
+Lime=Lime
+HyuN=HyuN
+Mitsuki=Mitsuki
+Hige Driver=Hige Driver
+Nego_tiator=Nego_tiator
+Morimori Atsushi=Morimori Atsushi
+tezuka(テヅカ) x Qayo=tezuka(テヅカ) x Qayo
+ARForest=ARForest
+ETIA. feat.Jenga=ETIA. feat.Jenga
+Qutabire=Qutabire
+EBIMAYO=EBIMAYO
+siqlo=siqlo
+Hino Isuka=Hino Isuka
+Endorfin.=Endorfin.
+KAH=KAH
+Sakuzyo=Sakuzyo
+Freezer feat.Kiichigo=Freezer feat.Kiichigo
+adaptor=adaptor
+uma feat.Mashiro=uma feat.Mashiro
+Sakamiya feat.Yuji Haru=Sakamiya feat.Yuji Haru
+Sakamiya feat.Maeno=Sakamiya feat.Maeno
+VeetaCrush=VeetaCrush
+Tedjimo Yomigy=Tedjimo Yomigy
+siromaru + cranky=siromaru + cranky
+uma with Morimori Atsushi feat.Mashiro=uma with Morimori Atsushi feat.Mashiro
+ginkiha=ginkiha
+Sakamiya feat.Arata Kiki=Sakamiya feat.Arata Kiki
+K.key=K.key
+Dan@Yomi=Dan@Yomi
+SLT=SLT
+Yamajet=Yamajet
+uma=uma
+daisan=daisan
+JurokuNeta.=Juroku.
+ikaruga_nex & 影虎。=ikaruga_nex & 影虎。
+Capchii=Capchii
+*wakadori=*wakadori
+linear ring=linear ring
+Aoi=Aoi
+Hino Isuka vs. s-don=Hino Isuka vs. s-don
+sctl=sctl
+Tanchiky=Tanchiky
+LUZE=LUZE
+M-UE=M-UE
+Hino Isuka vs. Umeboshi Chazuke=Hino Isuka vs. Umeboshi Chazuke
+xi=xi
+AAAA + ck=AAAA + ck
+BTB=BTB
+Nizikawa=Nizikawa
+Meisenp.=Meisenp.
+uma vs. Morimori Atsushi=uma vs. Morimori Atsushi
+Team Grimoire feat.Sennzai=Team Grimoire feat.Sennzai
+Morimori Atsushi vs. XIzE=Morimori Atsushi vs. XIzE
+Sakuzyo feat.Nikki Simmons=Sakuzyo feat.Nikki Simmons
+Morimori Atsushi vs. uma=Morimori Atsushi vs. uma
+litmus* vs Sound Souler=litmus* vs Sound Souler
+HyuN & Ritoru=HyuN & Ritoru
+Negentropy=Negentropy
+ikaruga_nex=ikaruga_nex
+yumemidoll=yumemidoll
+Sakamiya feat.Mao Komiya=Sakamiya feat.Mao Komiya
+Chaos City Niigata=Chaos City Niigata
+F Rabbeat feat.マスタード=F Rabbeat feat.マスタード
+irucaice feat.ななひら&ころねぽち=irucaice feat.ななひら&ころねぽち
+Wotoha=Wotoha
+STUDIO LICO=STUDIO LICO
+JAWZZ=JAWZZ
+Andora=Andora
+saaa + kei_iwata + stuv + *wakadori=saaa + kei_iwata + stuv + *wakadori
+Sobrem=Sobrem
+BlackY=BlackY
+U-ske feat. Nanaki Nana=U-ske feat. Nanaki Nana
+Scheol X M2U=Scheol X M2U
+ぱらどっと=ぱらどっと
+Kijibato=Kijibato
+打打だいず Vs. Tanchiky=打打だいず Vs. Tanchiky
+KWANSAI Gakkyoku Hozen Kyokai feat. Yoshina Haramori=KWANSAI Gakkyoku Hozen Kyokai feat. Yoshina Haramori
+Twinfield=Twinfield
+uynet=uynet
+Club2Tokyo=Club2Tokyo
+D.watt feat. 紡音れい=D.watt feat. 紡音れい
+Sugar&Co.=Sugar&Co.
+HiRO.JP=HiRO.JP
+From "NEEDY STREAMER OVERLOAD"=From "NEEDY STREAMER OVERLOAD"
+ななひら&ころねぽち=ななひら&ころねぽち
+IG=IG
+Jh=Jh
+ANK/早木旋子=ANK/早木旋子
+There are olives with Sugar & Co.=There are olives with Sugar & Co.
+Moe Shop=Moe Shop
+Aiobahn=Aiobahn
+小野道ono feat.早木旋子=小野道ono feat.早木旋子
+technoplanet feat. AMAKI OKOME (from KAWAII MUSIC)=technoplanet feat. AMAKI OKOME (from KAWAII MUSIC)
+Project Mons feat.KurumiUsa=Project Mons feat.KurumiUsa
+IOSYS=IOSYS
+Apo11o program ft.ドーラ（にじさんじ）=Apo11o program ft.ドーラ（にじさんじ）
+daniwell=daniwell
+Matthiola Records=Matthiola Records
+Sugar & Co.=Sugar & Co.
+Tenyu & Myanna=Tenyu & Myanna
+nyankobrq & yaca feat. somunia=nyankobrq & yaca feat. somunia
+CIOCALA（Haruka Toki + TEA）=CIOCALA（Haruka Toki + TEA）
+fusq=fusq
+There are olives=There are olives
+Snail's House=Snail's House
+Moe Shop / TORIENA=Moe Shop / TORIENA
+DISCO BROTHERS=DISCO BROTHERS
+loopcoda=loopcoda
+Giga feat. Kagamine Rin & Len=Giga feat. Kagamine Rin & Len
+すりぃ feat. Kagamine Len=すりぃ feat. Kagamine Len
+Neru feat. Kagamine Rin & Len=Neru feat. Kagamine Rin & Len
+ピノキオピー feat. Kagamine Rin & Hatsune Miku=ピノキオピー feat. Kagamine Rin & Hatsune Miku
+ポリスピカデリー feat. Hatsune Miku=ポリスピカデリー feat. Hatsune Miku
+きくお feat. Hatsune Miku=きくお feat. Hatsune Miku
+syudou feat. Hatsune Miku=syudou feat. Hatsune Miku
+ナユタン星人 feat. Hatsune Miku=ナユタン星人 feat. Hatsune Miku
+八王子P feat. Hatsune Miku=八王子P feat. Hatsune Miku
+書店太郎 feat. Megurine Luka=書店太郎 feat. Megurine Luka
+Shoujo Fractal=Shoujo Fractal
+Ayaponzu* feat. beatMARIO × MARON=Ayaponzu* feat. beatMARIO × MARON
+Shinra-Bansho=Shinra-Bansho
+Akatsuki Records=Akatsuki Records
+Silver Forest=Silver Forest
+みきとP feat. Hatsune Miku=みきとP feat. Hatsune Miku
+livetune feat. Hatsune Miku=livetune feat. Hatsune Miku
+Ayase feat. Hatsune Miku=Ayase feat. Hatsune Miku
+ピノキオピー feat. Hatsune Miku=ピノキオピー feat. Hatsune Miku
+かいりきベア feat. Hatsune Miku=かいりきベア feat. Hatsune Miku
+cosMo@暴走P feat. Hatsune Miku=cosMo@暴走P feat. Hatsune Miku
+DECO*27 feat. Hatsune Miku=DECO*27 feat. Hatsune Miku
+sasakure.UK feat. Hatsune Miku=sasakure.UK feat. Hatsune Miku
+wowaka feat. Hatsune Miku=wowaka feat. Hatsune Miku
+john feat. Hatsune Miku=john feat. Hatsune Miku
+Neon Abyss：Infinity=Neon Abyss：Infinity
+C-Show=C-Show
+owl＊tree feat. chi＊tree=owl＊tree feat. chi＊tree
+NayutalieN=NayutalieN
+kanone feat. Sennzai=kanone feat. Sennzai
+Neko Hacker feat. Nanahira=Neko Hacker feat. Nanahira
+Camellia feat. Nanahira=Camellia feat. Nanahira
+t+pazolite feat. Nanahira=t+pazolite feat. Nanahira
+幽閉サテライト=幽閉サテライト
+minami + Shichijo Lettuce(IOSYS) feat.Iwasugi Natsu=minami + Shichijo Lettuce(IOSYS) feat.Iwasugi Natsu
+Halozy=Halozy
+豚乙女=豚乙女
+SOUND HOLIC feat. Nana Takahashi=SOUND HOLIC feat. Nana Takahashi
+rejection=rejection
+Zekk & poplavor=Zekk & poplavor
+kazeoff=kazeoff
+Mameyudoufu=Mameyudoufu
+BEXTER x Mycin.T=BEXTER x Mycin.T
+M2U=M2U
+Mycin.T=Mycin.T
+Lin-G=Lin-G
+ESTi=ESTi
+Forte Escape=Forte Escape
+HAYAKO=HAYAKO
+3rd Coast=3rd Coast
+Paul Bazooka=Paul Bazooka
+ND Lee=ND Lee
+SiNA x CHUCK=SiNA x CHUCK
+karatoPαnchii feat.はるの=karatoPαnchii feat.はるの
+Haze of Autumn=Haze of Autumn
+Zekk=Zekk
+USAO=USAO
+t+pazolite & Massive New Krew feat. Lily(Shiki Aoki)=t+pazolite & Massive New Krew feat. Lily(Shiki Aoki)
+onoken=onoken
+sasakure.UK=sasakure.UK
+REDALiCE & cosMo@Bousou-P=REDALiCE & cosMo@Bousou-P
+Alstroemeria Records=Alstroemeria Records
+ARM + Yoshimi YOUNO (IOSYS) feat. miko=ARM + Yoshimi YOUNO (IOSYS) feat. miko
+EastNewSound=EastNewSound
+Yonder Voice=Yonder Voice
+fizzd=fizzd
+Stinkbug & Coda, Original song(Artificial Intelligence Bomb) from: naruto=Stinkbug & Coda, Original song(Artificial Intelligence Bomb) from: naruto
+Vince Kaichan=Vince Kaichan
+RoDy.cOde=RoDy.cOde
+Ras=Ras
+Yooh=Yooh
+A-39=A-39
+Se-U-Ra=Se-U-Ra
+REDALiCE=REDALiCE
+TANO*C Sound Team=TANO*C Sound Team
+P*Light=P*Light
+DJ Noriken & aran=DJ Noriken & aran
+DJ Myosuke & Gram=DJ Myosuke & Gram
+Nikki Simmons=Nikki Simmons
+onoken feat. moco=onoken feat. moco
+3R2 as DJ Mashiro=3R2 as DJ Mashiro
+Æsir=Æsir
+Rabpit=Rabpit
+Tatsh=Tatsh
+Yesod (litmus* + Rabbit House + A. Ki)=Yesod (litmus* + Rabbit House + A. Ki)
+yuritoworks.=yuritoworks.
+TEZUKApo11o band ft. ランコ(豚乙女)+OFFICE萬田㈱=TEZUKApo11o band ft. ランコ(豚乙女)+OFFICE萬田㈱
+L-Minatsu=L-Minatsu
+Fumihisa Tanaka=Fumihisa Tanaka
+COSIO (ZUNTATA) feat. ChouCho=COSIO (ZUNTATA) feat. ChouCho
+COSIO(ZUNTATA)=COSIO(ZUNTATA)
+IOSYS TRAX (D.watt with さきぴょ)=IOSYS TRAX (D.watt with さきぴょ)
+世阿弥 vs Tatsh=世阿弥 vs Tatsh
+Cranky VS MASAKI=Cranky VS MASAKI
+Camellia feat.Nanahira=Camellia feat.Nanahira
+ARM×Komso feat.Nanahira=ARM×Komso feat.Nanahira
+Nyarons feat.Sanso Nakamura=Nyarons feat.Sanso Nakamura
+you=you
+Apo11o program ft.Boningen=Apo11o program ft.Boningen
+Mr.Asyu=Mr.Asyu
+beignet (Nor + YUC'e)=beignet (Nor + YUC'e)
+technoplanet feat. Risa Yuzuki=technoplanet feat. Risa Yuzuki
+Kolaa/早木旋子=Kolaa/早木旋子
+TamaOnSen=TamaOnSen
+KIRA=KIRA
+D_AAN=D_AAN
+iKz feat.兰音Reine=iKz feat.兰音Reine
+Apo11o program × Amamiya Kokoro、Eli Conifer、Ratna Petit（NIJISANJI）=Apo11o program × Amamiya Kokoro、Eli Conifer、Ratna Petit（NIJISANJI）
+t+pazolite & Nanahira=t+pazolite & Nanahira
+Sobrem × Silentroom=Sobrem × Silentroom
+茶鸣拾贰律=茶鸣拾贰律
+iKz feat.小可学妹 & 艾因Eine=iKz feat.小可学妹 & 艾因Eine
+XinG=XinG
+Tenyu=Tenyu
+iKz feat.小可學妹=iKz feat.小可學妹
+wotaku feat. SHIKI=wotaku feat. SHIKI
+Aiobahn feat.Nanahira=Aiobahn feat.Nanahira
+Zekk, poplavor=Zekk, poplavor
+Toiki.=Toiki.
+StormWolf/Rakuda=StormWolf/Rakuda
+ころねぽち With 立秋=ころねぽち With 立秋
+iKz feat.Bunny Girl Rin=iKz feat.Bunny Girl Rin
+P4koo(feat.つゆり花鈴)=P4koo(feat.つゆり花鈴)
+hitogoto feat. ina=hitogoto feat. ina
+mossari feat.TEA=mossari feat.TEA
+MK=MK
+uma with Morimori Atsushi feat. masiro=uma with Morimori Atsushi feat. masiro
+ビートまりお=ビートまりお
+
+
+
+
+
+
+
+
+
