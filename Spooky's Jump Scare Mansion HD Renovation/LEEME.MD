@@ -12,7 +12,7 @@ Sigue los pasos a continuación para instalar la traducción usando BepInEx y el
 
     > **Nota:** Para verificar si tu sistema operativo es de 32 o 64 bits, sigue estos pasos:
     > - Abre el menú de **Inicio**.
-    > - Escribir "Acerca de tu PC" y seleccionalo.
+    > - Escribe "Acerca de tu PC" y selecciónalo.
     > - En la sección **Especificaciones del dispositivo** podrás ver si tu sistema es de 32 o 64 bits en **Tipo de sistema**.
 
 3. Extrae el contenido del archivo descargado en el directorio raíz del juego. La ruta predeterminada para Steam es:
@@ -20,7 +20,7 @@ Sigue los pasos a continuación para instalar la traducción usando BepInEx y el
 Para encontrar esta carpeta:
    - Abre Steam y busca el juego **Spooky's Jump Scare Mansion HD Renovation**.
    - Haz clic derecho sobre el juego, selecciona **Administrar** y luego **Ver archivos locales**.
-   - Extrae el contenido del archivo BepInEx en esta carpeta.
+   - Extrae el contenido del archivo **.zip** en esta carpeta.
 
 5. Ejecuta el juego por primera vez para generar los archivos de configuración en la carpeta `BepInEx/config`.
 
@@ -35,7 +35,7 @@ Para encontrar esta carpeta:
 3. Extrae el contenido del archivo descargado en el mismo directorio raíz del juego, donde previamente instalaste BepInEx.
    - Abre Steam, busca **Spooky's Jump Scare Mansion HD Renovation**.
    - Haz clic derecho sobre el juego, selecciona **Administrar** y luego **Ver archivos locales**.
-   - Extrae el contenido de **XUnity.AutoTranslator** en esa carpeta.
+   - Extrae el contenido del archivo **.zip** en esa carpeta.
 
     > La estructura de archivos debe quedar de la siguiente manera:
     > ```
