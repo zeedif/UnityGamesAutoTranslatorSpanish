@@ -2,7 +2,7 @@ Sigue los pasos a continuación para instalar la traducción usando MelonLoader 
 
 ## Requisitos Previos
 
-### Instalación del gestor BepInEx
+### Instalación del gestor MelonLoader
 
 1. Dirígete a la página de [MelonLoader/releases](https://github.com/LavaGang/MelonLoader/releases) para descargar la última versión del gestor de mods MelonLoader.
 
@@ -12,23 +12,15 @@ Sigue los pasos a continuación para instalar la traducción usando MelonLoader 
 
    > **Nota:** Para verificar si tu sistema operativo es de 32 o 64 bits, sigue estos pasos:
    > - Abre el menú de **Inicio**.
-   > - Escribir "Acerca de tu PC" y seleccionalo.
+   > - Escribe "Acerca de tu PC" y selecciónalo.
    > - En la sección **Especificaciones del dispositivo** podrás ver si tu sistema es de 32 o 64 bits en **Tipo de sistema**.
-
-3. Ejecuta `MelonLoader.Installer.exe` y selecciona el ejecutable del juego `MuseDash.exe` en su carpeta de instalación. La ruta predeterminada para Steam es:
-`C:\Program Files (x86)\Steam\steamapps\common\Muse Dash`
-Para encontrar esta carpeta:
-   - Abre Steam y busca el juego **Muse Dash**.
-   - Haz clic derecho sobre el juego, selecciona **Administrar** y luego **Ver archivos locales**.
-   - Extrae el contenido del archivo BepInEx en esta carpeta.
-   Haz clic en **Install** y espera a que el instalador complete la instalación de MelonLoader. Esto generará los archivos necesarios en el directorio del juego.
 
 3. Extrae el contenido del archivo .zip descargado en el directorio raíz del juego. La ruta predeterminada para Steam es:
 `C:\Program Files (x86)\Steam\steamapps\common\Muse Dash`
 Para encontrar esta carpeta:
    - Abre Steam y busca el juego **Muse Dash**.
    - Haz clic derecho sobre el juego, selecciona **Administrar** y luego **Ver archivos locales**.
-   - Extrae el contenido del archivo BepInEx en esta carpeta.
+   - Extrae el contenido del archivo **.zip** en esta carpeta.
 
 4. Ejecuta el juego una vez para que MelonLoader cree las carpetas `Mods` y `UserData` en el directorio del juego.
 
@@ -40,10 +32,10 @@ Para encontrar esta carpeta:
    - **XUnity.AutoTranslator-MelonMod-{version}.zip** para juegos basados en Mono o .NET.
    - **XUnity.AutoTranslator-MelonMod-IL2CPP-{version}.zip** para juegos basados en IL2CPP.
 
-3. Extrae el contenido del archivo descargado en el mismo directorio raíz del juego, donde previamente instalaste BepInEx.
+3. Extrae el contenido del archivo descargado en el mismo directorio raíz del juego, donde previamente instalaste MelonLoader.
    - Abre Steam, busca **Muse Dash**.
    - Haz clic derecho sobre el juego, selecciona **Administrar** y luego **Ver archivos locales**.
-   - Extrae el contenido de **XUnity.AutoTranslator** en esa carpeta.
+   - Extrae el contenido del archivo **.zip** en esa carpeta.
 
    > La estructura de archivos debe quedar de la siguiente manera:
    > ```
@@ -96,6 +88,6 @@ Si prefieres un mayor control sobre la traducción, puedes modificar manualmente
 4. ¡Listo! La traducción debería estar funcionando automáticamente.
 
 ### Consideraciones adicionales
-- **Personaliza la traducción:** Si deseas habilitar la traducción automática, investiga las opciones disponibles en la documentación del plugin. Esto permitirá que el plugin traduzca automáticamente textos que no estén incluidos en la traducción actual (por ejemplo, los añadidos en actualizaciones recientes). Si notas que ciertas partes del juego no se traducen correctamente, puedes editar manualmente los archivos de traducción generados en la carpeta `BepInEx/Translation`. 
+- **Personaliza la traducción:** Si deseas habilitar la traducción automática, investiga las opciones disponibles en la documentación del plugin. Esto permitirá que el plugin traduzca automáticamente textos que no estén incluidos en la traducción actual (por ejemplo, los añadidos en actualizaciones recientes). Si notas que ciertas partes del juego no se traducen correctamente, puedes editar manualmente los archivos de traducción generados en la carpeta `Autotranslator/Translation`. 
 
 - **Colabora con la traducción:** Puedes reportar errores encontrados en la traducción (crear un Issue) o sugerir cambios en la traducción y añadir líneas encontradas sin traducir (crear una Pull Request) en el repositorio del proyecto.
