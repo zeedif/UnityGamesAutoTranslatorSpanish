@@ -2,6 +2,7 @@
 Press {action} to progress any on-screen text.=Pulsa {action} para avanzar cualquier texto en pantalla.
 Press <sprite\=77 tint\=1> to progress any on-screen text.=Pulsa <sprite\=77 tint\=1> para avanzar cualquier texto en pantalla.
 <sprite\=77 tint\=1>=<sprite\=77 tint\=1>
+<sprite\=7 tint\=1>=<sprite\=7 tint\=1>
 Some parts of this game may be considered violent, disturbing or cruel.=Algunas partes de este juego pueden considerarse violentas, perturbadoras o crueles.
 It is best enjoyed with a controller.=Se disfruta mejor con un mando.
 Hollowbody contains flashing lights that may make it unsuitable for people with photosensitive epilepsy or other photosensitive conditions. Player discretion is advised.=Hollowbody contiene luces intermitentes que podrían no ser adecuadas para personas con epilepsia fotosensible u otras condiciones similares. Se recomienda precaución al jugar.
@@ -12,11 +13,13 @@ START DEMO=INICIAR DEMO
 CONTINUE=CONTINUAR
 OPTIONS=OPCIONES
 QUIT GAME=SALIR
+r:"^Patch (\d+)$"=Parche $1
 
 //Salir
 Need a break?=¿QUIERES DESCANSAR?
 RESUME GAME=CONTINUAR
-QUIT TO DESKTOP=SALIR
+QUIT TO TITLE=VOLVER AL MENÚ
+QUIT TO DESKTOP=SALIR DEL JUEGO
 LOAD GAME=CARGAR
 WISHLIST NOW=LISTA DE DESEADOS
 
@@ -33,7 +36,7 @@ BRIGHTNESS=BRILLO
 MAX=MÁXIMO
 MIN=MÍNIMO
 TANK CONTROLS=CONTROL DE TANQUE
-WALK/RUN TOGGLE=ALTERNAR CAMINAR/CORRER
+WALK/RUN TOGGLE=CORRER AL PULSAR
 HOLD SUBTITLES=SUBTÍTULOS FIJOS
 
 QUALITY SETTINGS=AJUSTES DE GRÁFICOS
@@ -47,6 +50,7 @@ APPLY=APLICAR
 <sprite\=102 tint\=1> : AIM=<sprite\=102 tint\=1> : APUNTAR
 <sprite\=100 tint\=1> : ATTACK=<sprite\=100 tint\=1> : ATACAR
 <sprite\=90 tint\=1> : RELOAD=<sprite\=90 tint\=1> : RECARGAR
+<sprite\=101 tint\=1> : STOMP=<sprite\=101 tint\=1> : PISOTEAR
 <sprite\=89 tint\=1> : SWITCH TARGET=<sprite\=89 tint\=1> : CAMBIAR OBJETIVO
 <sprite\=94 tint\=1> : RECENTER FOLLOW CAMERA=<sprite\=94 tint\=1> : CENTRAR CÁMARA DE SEGUIMIENTO
 <sprite\=81 tint\=1> : INVENTORY=<sprite\=81 tint\=1> : INVENTARIO
@@ -57,36 +61,39 @@ APPLY=APLICAR
 {action} : INTERACT/USE={action} : INTERACTUAR/USAR
 {action} : RETURN/CANCEL={action} : REGRESAR/CANCELAR
 {action} : RUN={action} : CORRER
-{action} : QUICK TURN (TANK ONLY)={action} : GIRO RÁPIDO (SOLO TANQUE)
 {action} : AIM={action} : APUNTAR
 {action} : ATTACK={action} : ATACAR
 {action} : RELOAD={action} : RECARGAR
+{action} : STOMP={action} : PISOTEAR
 {action} : SWITCH TARGET={action} : CAMBIAR OBJETIVO
 {action} : RECENTER FOLLOW CAMERA={action} : CENTRAR CÁMARA DE SEGUIMIENTO
 {action} : INVENTORY={action} : INVENTARIO
 {action} : TORCH ON/OFF={action} : LINTERNAS ENCENDIDAS/APAGADAS
 {action} : (HOLD) QUICK SELECT MENU={action} : (MANTENER) MENÚ DE SELECCIÓN RÁPIDA
-{action} : QUICK SELECT RANGED={action} : SELECCIÓN RÁPIDA DE ALCANCE
 {action} : PAUSE GAME={action} : PAUSAR JUEGO
+
+{action} : QUICK SELECT RANGED={action} : SELECCIÓN RÁPIDA DE ALCANCE
+{action} : QUICK TURN (TANK ONLY)={action} : GIRO RÁPIDO (SOLO TANQUE)
 
 //Calidad
 Resolution=Resolución
-Full screen=Pantalla completa
+Full screen=Pantalla\ncompleta
 r:"^(\d+) x (\d+) (\d+) hz$"=$1x$2 $3 Hz
+Motion blur=Desenfoque de movimiento
 Quality preset=Preajuste de calidad
 Low=Bajo
 Medium=Medio
 High=Alto
 Ultra=Ultra
 Custom=Personalizado
-Anti-aliasing=Suavizado de bordes
+Anti-aliasing=Suavizado\nde bordes
 Off=No
 2x=2x
 4x=4x
 8x=8x
 Texture quality=Calidad de texturas
 Max=Máximo
-V Sync (FPS Cap)=VSync (Limite de FPS)
+V Sync (FPS Cap)=VSync\n(Limite de FPS)
 Don't Sync=No sincronizar
 Every V Blank=Cada interrupción vertical
 Every Second V Blank=Cada segunda interrupción vertical
@@ -153,6 +160,7 @@ Horizontal Camera Nudge=Movimiento horizontal de cámara
 Vertical Camera Nudge=Movimiento vertical de cámara
 
 r:"^([A-Z])$"=$1
+r:"^(\d+)$"=$1
 ESC=ESC
 Space=Barra espaciadora
 Left Shift=Shift izquierdo
@@ -366,6 +374,7 @@ AREA MAP=--MAPA--
 
 //Status
 DANGER=PELIGRO
+CAUTION=PRECAUCIÓN
 FINE=BIEN
 
 //Objetos equipados
@@ -453,13 +462,13 @@ D-SERIES REVOLVER=REVÓLVER SERIE D
 
 <sprite\=89 tint\=1> Switch Taget=<sprite\=89 tint\=1> Cambiar objetivo
 <sprite\=100 tint\=1> [Active Target] Fire=<sprite\=100 tint\=1> Disparar [Objetivo Activo]
-<sprite\=100 tint\=1> [No Target] Stomp=<sprite\=100 tint\=1> Disparar [Sin Objetivo]
+<sprite\=100 tint\=1> [No Target] Stomp=<sprite\=100 tint\=1> Pisotear [Sin Objetivo]
 <sprite\=102 tint\=1> [Hold] Lock-On=<sprite\=102 tint\=1> Fijar objetivo [Mantener]
 
 {action} Reload={action} Recargar
 {action} Switch Taget={action} Cambiar objetivo
 {action} [Active Target] Fire={action} Disparar [Objetivo Activo]
-{action} [No Target] Stomp={action} Disparar [Sin Objetivo]
+{action} [No Target] Stomp={action} Pisotear [Sin Objetivo]
 {action} [Hold] Lock-On={action} Fijar objetivo [Mantener]
 
 //Cinematica 5
@@ -511,6 +520,7 @@ SAVE GAME=GUARDAR PARTIDA
 //Al entrar a los apartamentos
 Okay, time to find a way up to the roof.=Bien, es hora de encontrar una forma de subir al techo.
 Gater House Register has been added to Documents.=Se ha añadido Registro de la Casa Gater a los Documentos.
+r:"^\/\/GATER HOUSE REGISTER\n\nA list of residents, found in Gater House.\n\nSome names appear to be a moniker, this document must predate the Citizen E-ID Scheme.\n\nMiguel Roy\nKim Lambert\nMichaut Denis\nSully\nBart Martinez\nRichard Shilkus\nKennan Ward\nDeclan Masterson\nRich Selmon\nChris Orlando\nCallie Maxwell\nJared Stander\nScott Heath\nSean Noonan\nSkeeby Bath\nTom Poole\nLisa S.\nbeezyslayer\ncakeoneyu\nJames C. o'Hern, Jr.\nMalice M\nAri Sarkar\nGage McColgan\nReka Beres\nJosh Picard\nAndrew Dennis\nJoshua Bratton\nRoach\nAlessandro De Angelis\nSavegame\nMowseler\nMichael Garwood\nIsak Martinsson\nMartijn van der Meulen\nGavin Casey\nEduardo Flores\nDerek Foley\nMichael Hansen\nLiquafool\nKingKobayoyee\nJawnuhthun\nTheBrokenZone\nAdrian\nShmumbler\nJonny Hunter\nJeremy Adams\nStephanie Gulsby\nCaptainOblivious\nKlab Infinity\nLuc\nAdam\nJordan Ray Little\nVudix\nCoestar\nJaina\nHannes Winkler\nBridget Brave\nJared Goodroad$"=\\\REGISTRO DE GATER HOUSE\n\nUna lista de residentes, encontrada en Gater House.\n\nAlgunos nombres parecen ser seudónimos; este documento debe ser anterior al Esquema de Identificación Ciudadana E-ID.\n\nMiguel Roy\nKim Lambert\nMichaut Denis\nSully\nBart Martinez\nRichard Shilkus\nKennan Ward\nDeclan Masterson\nRich Selmon\nChris Orlando\nCallie Maxwell\nJared Stander\nScott Heath\nSean Noonan\nSkeeby Bath\nTom Poole\nLisa S.\nbeezyslayer\ncakeoneyu\nJames C. o'Hern, Jr.\nMalice M\nAri Sarkar\nGage McColgan\nReka Beres\nJosh Picard\nAndrew Dennis\nJoshua Bratton\nRoach\nAlessandro De Angelis\nSavegame\nMowseler\nMichael Garwood\nIsak Martinsson\nMartijn van der Meulen\nGavin Casey\nEduardo Flores\nDerek Foley\nMichael Hansen\nLiquafool\nKingKobayoyee\nJawnuhthun\nTheBrokenZone\nAdrian\nShmumbler\nJonny Hunter\nJeremy Adams\nStephanie Gulsby\nCaptainOblivious\nKlab Infinity\nLuc\nAdam\nJordan Ray Little\nVudix\nCoestar\nJaina\nHannes Winkler\nBridget Brave\nJared Goodroad\nZeedif
 Various old boxes and empty paint cans. Just junk.=Varias cajas viejas y latas de pintura vacías. Solo basura.
 A storage box locked with a large padlock.=Una caja de almacenamiento cerrada con un gran candado.
 Maybe I can find a way to pry it open.=Quizás pueda encontrar una forma de forzarla.
@@ -531,10 +541,13 @@ It's a pretty generic picture, just a wash of colours.=Es una imagen bastante ge
 Looks like something you'd find in a hotel room.=Parece algo que encontrarías en una habitación de hotel.
 
 //Pasillo
+It's boarded shut.=Está bloqueada con tablones.
 It's barred shut.=Está bloqueada con firmeza.
+It's boarded shut, it won't move.=Está bloqueada con tablones, no se mueve.
 It's been boarded shut.=Ha sido bloqueada con tablones.
 The door is boarded shut.=La puerta está bloqueada con tablones.
 The door's barred shut.=La puerta está bloqueada con firmeza.
+The door's boarded shut.=La puerta está bloqueada con tablones.
 
 There's no way I can get this open.=No hay forma de que pueda abrir esto.
 It's locked tight, there's no way to open it.=Está asegurada con llave, no hay forma de abrirla.
@@ -549,6 +562,7 @@ I'd kill for a shower right now but this one smells like death.=Mataría por una
 I'd love to wash my hands but there's no water.=Me encantaría lavarme las manos, pero no hay agua.
 Not that I trust the water anyway.=Además, no confiaría en el agua.
 This sink is filthy.=Este lavamanos está sucio.
+I'd rather not risk catching something.=Preferiría evitar el riesgo de contagiarme de algo.
 
 //Escena 6
 Babe are you sure you’re alright? You’ve not touched your dinner.=Cariño, ¿estás seguro de que estás bien? No has tocado tu cena.
@@ -599,7 +613,7 @@ A keycard is grasped in the body's hand.=Una tarjeta de acceso está agarrada en
 A filthy old bathtub, a pool of stale water sits at the bottom of the tub.=Una vieja bañera sucia, con un charco de agua estancada en el fondo.
 It smells like someone died in here.=Huele como si alguien hubiera muerto aquí.
 
-More packing boxes.=Más cajas de mudanza.
+More packing boxes.=Más cajas de cartón.
 I guess whoever lived here never got the chance to leave.=Supongo que quien que vivía aquí nunca tuvo la oportunidad de irse.
 Just trash and dirty plates. I'm not cleaning it.=Solo basura y platos sucios. No pienso limpiarlo.
 
@@ -663,4 +677,134 @@ A hammer lies embedded into the family portrait.=Un martillo está incrustado en
 Take the <b>Claw Hammer</b>?=¿Tomar el <b>Martillo de Garra</b>?
 Claw Hammer has been added to Inventory.=Se ha añadido Martillo de Garra al Inventario.
 It's sad to think this was once a happy home.=Es triste pensar que alguna vez fue un hogar feliz.
-[RESIDENTE=[Residente
+You couldn't pay me to sleep in this place.=No dormiría en este lugar ni aunque me pagaran.
+It's filthy. No way I'd sleep in something like that.=Está sucio. No hay forma de que duerma en algo así.
+There's nothing of any use in here.=Aquí no hay nada útil.
+
+[RESIDENTE]     CHARLIE  GAREWAL\n[FECHA DE NACIMIENTO] 27/9/54\n[OCUPACIÓN] ADOLESCENTE\r\n\r\n[CONDICIÓN] FALLECIDO\r\n[CAUSA] NEUMONÍA=[RESIDENTE]     CHARLIE  GAREWAL [FECHA DE NACIMIENTO] 27/9/54 [OCUPACIÓN] ADOLESCENTE\r\n\r\n[CONDICIÓN] FALLECIDO [CAUSA] NEUMONÍA
+
+The wall is water damaged exposing the plasterboard behind.=La pared está dañada por el agua, dejando al descubierto el yeso detrás.
+I may be able to break through with the right tool.=Podría romperla con la herramienta adecuada.
+The door's jammed. It won't open.=La puerta está atascada. No se abre.
+
+<i>CLAW HAMMER</i>=<i>MARTILLO DE GARRA</i>
+An old claw hammer. Useless as a weapon but good for breaking stuff.=Un viejo martillo de garra. Inútil como arma, pero bueno para romper cosas.
+
+An old television set. Probably worth a pretty penny to the right collector.=Un viejo televisor. Probablemente valga una buena suma para el coleccionista adecuado.
+A television set. This one has seen better days.=Un televisor. Seguro ha tenido tiempos mejores.
+A television set. Looks like one of the old tube based models.=Un televisor. Parece uno de esos viejos modelos de tubo.
+
+Well at least the bathtub's clean.=Bueno, al menos la bañera está limpia.
+Comparatively anyway.=Comparativamente, claro.
+This stuff is everywhere...=Esta cosa está por todas partes...
+Where's it coming from?=¿De dónde viene?
+
+Is that stuff coming from outside?=¿Esa cosa viene de afuera?
+It spreads like mould. Jeeze, I hope it's not airborne.=Se extiende como moho. Vaya, espero que no esté en el aire.
+It's all over the walls...=Está por todas las paredes...
+
+All the cupboards have been stripped bare.=Todos los armarios han sido vaciados.
+They cut off the city and left all these people to starve.=Aislaron la ciudad y dejaron a toda esta gente morir de hambre.
+Someone needs to answer for this.=Alguien tiene que responder por esto.
+
+[RESIDENT]      SHAUN BEWLEY\n[DOB] 16/02/18\r\n[OCCUPATION] CLASSIFIED\r\n\r\n[CONDITION] DECEASED\r\n[CAUSE] MYOCARDIAL INFARCTION\n              \r\n[VOID]=[RESIDENTE]     SHAUN BEWLEY\n[FECHA DE NACIMIENTO] 16/02/18\r\n[OCUPACIÓN] CLASIFICADA\r\n\r\n[CONDICIÓN] FALLECIDO\r\n[CAUSA] INFARTO DE MIOCARDIO\n              \r\n[VACÍO]
+A portable cell battery sits wired into a broken diagnostics device.=Una batería portátil está conectada a un dispositivo de diagnóstico roto.
+Take the <b>Portable Battery</b>?=¿Tomar la <b>Batería Portátil</b>?
+Portable Battery has been added to Inventory.=Se ha añadido Batería Portátil al inventario.
+The device is damaged beyond repair.=El dispositivo está tan dañado que no se puede reparar.
+<i>DAMAGED BATTERY</i>=<i>BATERÍA DAÑADA</i>
+A portable battery, the casing is damaged and leaking battery acid.=Una batería portátil, la carcasa está dañada y gotea ácido de batería.
+
+The kitchen's been filled with old rubbish bags.=La cocina está llena de viejas bolsas de basura.
+Ugh, the smell is revolting.=Ugh, el olor es repugnante.
+
+A small child's bed. Various toys and posters decorate the room.=La cama de un niño pequeño. Varios juguetes y pósters decoran la habitación.
+Either they left in a hurry or...=O se fueron de prisa o...
+
+I guess this is where the parents slept.=Supongo que aquí es donde dormían los padres.
+I wonder what happened to them.=Me pregunto qué les habrá pasado.
+I hope they got out.=Espero que hayan logrado salir.
+
+
+A old wooden bat pierced with rusty nails is embedded in the door.=Una vieja tabla de madera atravesada por clavos oxidados está incrustada en la puerta.
+Take the <b>Makeshift Club</b>?=¿Tomar el <b>Garrote Improvisado</b>?
+Makeshift Club has been added to Inventory.=Se ha añadido Garrote Improvisado al inventario.
+
+<i>MAKESHIFT CLUB</i>=<i>GARROTE IMPROVISADO</i>
+MAKESHIFT CLUB=GARROTE IMPROVISADO
+{action} Stomp={action} Pisotear
+{action} Melee Attack={action} Atacar
+<sprite\=101 tint\=1> Stomp=<sprite\=101 tint\=1> Pisotear
+<sprite\=100 tint\=1> Melee Attack=<sprite\=100 tint\=1> Atacar
+
+[RESIDENT]      HELEN BRIDGES\n[DOB] 04/10/25\n[OCCUPATION] O.T.\n\r\n[CONDITION] DECEASED\r\n[CAUSE] ISCHEMIC STROKE\n              \r\n[VOID]=[RESIDENTE]     HELEN BRIDGES\n[FECHA DE NACIMIENTO] 04/10/25\n[OCUPACIÓN] O.T.\n\r\n[CONDICIÓN] FALLECIDO\r\n[CAUSA] ISQUEMIA CEREBRAL\n              \r\n[VACÍO]
+A young woman celebrating a birthday. It looks like she has a kid, can't be more than three or four years old.=Una mujer joven celebrando un cumpleaños. Parece que tiene un hijo, no debe tener más de tres o cuatro años.
+A personal safe is mounted in the wall.=Una caja fuerte personal está empotrada en la pared.
+A letter from First Plus Health UK, confirming Helen Bridges' new patient details.=Una carta del First Plus Health UK, confirmando los nuevos datos de la paciente de Helen Bridges.
+Her name is listed alongside her date of birth, 4th October 2025.=Su nombre aparece junto a su fecha de nacimiento, 4 de octubre de 2025.
+Three girls at a university graduation.=Tres chicas en una graduación universitaria.
+One of them appears to be heavily pregnant.=Una de ellas parece estar muy embarazada.
+
+It's just a sink, nothing much to it.=Es solo un lavabo, no tiene nada del otro mundo.
+
+A university diploma hangs on the wall.=Un diploma universitario cuelga en la pared.
+Awarded at the University of Kingsbury to Helen Bridges, the degree of Doctor of Medicine.=Otorgado por la Universidad de Kingsbury a Helen Bridges, con el título de Doctora en Medicina.
+
+
+A large  metal key hides in the back of the safe.=Una gran llave de metal se oculta al fondo de la caja fuerte.
+Take the <b>Old Key</b>?=¿Tomar la <b>Llave Vieja</b>?
+Long Key has been added to Inventory.=Se ha añadido Llave Larga al inventario.
+There's nothing left in the safe.=No queda nada en la caja fuerte.
+
+<i>LONG KEY</i>=<i>LLAVE LARGA</i>
+A long iron key. Found in the safe of room 13. The tag reads 'Spare gate'.=Una larga llave de hierro. Encontrada en la caja fuerte de la habitación 13. La etiqueta dice "Llave de repuesto".
+
+
+
+
+
+The whole apartment is covered in blood...=Todo el apartamento está cubierto de sangre...
+It's like something out of a cheap B-movie, one of those old slasher films.=Parece sacado de una película de serie B barata, de esas películas viejas de terror slasher.
+Okay now I'm starting to freak myself out.=Vale, ya me estoy empezando a asustar.
+The doorway's blocked with old packing boxes.=La puerta está bloqueada con cajas de cartón viejas.
+
+The lock is no longer blocked.=La cerradura ya no está bloqueada.
+I've got no use for that here.=No tengo uso para eso aquí.
+Weird, it doesn't fit. I guess this key was just for the first floor.=Raro, no encaja. Supongo que esta llave era solo para el primer piso.
+
+A long key and an old card reader sit at the bottom of the lockbox.=Una llave larga y un viejo lector de tarjetas se encuentran en el fondo de la caja de almacenamiento.
+Take the <b>Items</b>?=¿Tomar los <b>Objetos</b>?
+Magnetic Card Writer and GF Gate Key added to Inventory.=Se ha añadido Escritor de Tarjetas Magnéticas y Llave de la Reja de la Planta Baja al Inventario.
+
+El escritor de tarjetas magnéticas y la tecla GF GAT agregada al inventario.
+Card Writer Note has been added to Documents.=Se ha añadido Nota del Escritor de Tarjetas a los Documentos.
+r:"^\/\/NOTE - CARD WRITER\n\nJayce, I’ve finally had all the locks updated, the only resident that refused was that whack-job in 14, we’ll see if the super can do something about him.\r\n\r\nAnyway, keep this remapper someplace SAFE. Next time you lose your card just hit the master button and swipe any of the spare room keys, it’ll rewrite the card to give you house access.\r\n\r\nAny of those kids on second give you shit again you call me, yeah?"=\\\NOTA - ESCRITOR DE TARJETAS\n\nJayce, finalmente he actualizado todas las cerraduras, el único residente que se negó fue ese loco de la habitación 14, ya veremos si el encargado puede hacer algo con él.\n\nDe todos modos, guarda este remapeador en un lugar SEGURO. La próxima vez que pierdas tu tarjeta, solo presiona el botón maestro y pasa cualquiera de las llaves de las habitaciones de repuesto, reescribirá la tarjeta para darte acceso a la casa.\n\nSi alguno de esos chicos del segundo te molesta de nuevo, me llamas, ¿vale?\n\nK
+
+
+
+There's nothing left.=No queda nada.
+<i>GF GATE KEY</i>=<i>LLAVE DE LA REJA BP</i>
+A long iron key. Found in the store room lockbox. The tag reads 'GF GATE'.=Una larga llave de hierro.\nEncontrada en la caja de almacenamiento del almacén. La etiqueta dice 'REJA PB'.
+
+That did the trick. It's unlocked.=Eso funcionó. Está desbloqueada.
+It's boarded shut, it wont budge.=Está bloqueada con tablones, no se mueve.
+
+[RESIDENT]      JULIAN GOLDENBERG\n[DOB] 05/10/05\n[OCCUPATION] DATA ANALYST\n\r\n[CONDITION] DECEASED\r\n[CAUSE] AORTIC DISSECTION\n              \r\n[VOID]=[RESIDENTE]     JULIAN GOLDENBERG\n[FECHA DE NACIMIENTO] 05/10/05\n[OCUPACIÓN] ANALISTA DE DATOS\n\r\n[CONDICIÓN] FALLECIDO\r\n[CAUSA] SEPARACIÓN AÓRTICA\n              \r\n[VACÍO]
+Noise Complaint has been added to Documents.=Se ha añadido Queja de Ruido a los Documentos.
+
+[RESIDENT]      COE STARR\n[DOB] UNKNOWN\n[OCCUPATION] CONTENT CREATOR\n\r\n[CONDITION] DECEASED\r\n[CAUSE] FOREIGN SUBSTANCE - MERCURY\n              \r\n[VOID]=[RESIDENTE]     COE STARR\n[FECHA DE NACIMIENTO] DESCONOCIDA\n[OCUPACIÓN] CREADOR DE CONTENIDO\n\r\n[CONDICIÓN] FALLECIDO\r\n[CAUSA] SUSTANCIA EXTRANJERA - MERCURIO\n              \r\n[VACÍO]
+
+Diary Entry has been added to Documents.=Se ha añadido Entrada de Diario a los Documentos.
+
+<i>MAGNETIC CARD WRITER</i>=<i>ESCRITOR DE TARJETAS MAGNÉTICAS</i>
+A magnetic card reader. Used for remapping room keys. Found in the store room lockbox.=Un lector de tarjetas magnéticas. Usado para\nreprogramar llaves de habitación. Encontrado en la caja de seguridad del almacén.
+
+<I>Master Room Key</I> added to inventory.=Se ha añadido <I>Llave Maestra de Habitación</I> al Inventario.
+<i>MASTER ROOM KEY</i>=<i>LLAVE MAESTRA DE HABITACIÓN</i>
+The door won't budge. It's a different type of lock to the other rooms.=La puerta no se mueve. Es un tipo de cerradura diferente al de las otras habitaciones.
+The key to room 3 on the second floor, now reprogrammed to unlock all rooms.=La llave de la habitación 3 en el segundo piso, ahora\nreprogramada para abrir todas las habitaciones.
+
+They always did say TV rots your brain.=Siempre decían que la televisión te pudre el cerebro.
+Yeah I'm definintely getting haunted for that one.=Sí, definitivamente me van a estar asustando por eso.
+
+
