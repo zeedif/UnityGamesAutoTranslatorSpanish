@@ -229,7 +229,7 @@ You don't make a call like that without some kind of beef.=No tomas una decisió
 Personally mine's pretty vanilla, they took my son.=Personalmente, lo mío es bastante sencillo, se llevaron a mi hijo.
 Oh jeeze, really? I'm sorry-=Oh, vaya, ¿en serio? Lo siento—
 Eh, that's public schools for ya. Kid fell into the wrong group, got offered a way out.=Eh, así son las escuelas públicas. El chico se metió en el grupo equivocado, le ofrecieron una salida.
-He signed up two years ago now.=Se alistó hace dos años ya.
+He signed up two years ago now.=Se inscribió hace dos años ya.
 I've heard stories...=He escuchado historias…
 Yeah I raised him to be smarter than that, or at least I thought so.=Sí, lo eduqué para que fuera más listo que eso, o al menos eso pensaba.
 Fucking parasites always find a way in, fill the kids heads with lies.=Esos malditos parásitos siempre encuentran la manera de entrar, llenan la cabeza de los chicos con mentiras.
@@ -334,6 +334,7 @@ SY  SOR=SY  SOR
 Sy so=Sy so
 S.=S.
 SYSTEM  CRITICAL=SISTEMA CRÍTICO
+SY  SORR=SY  SORR
 BATC=LOT
 LOTE=LOTE
 BATCH 00042B64=LOTE 00042B64
@@ -501,7 +502,7 @@ That stuff has completely covered this side of the building, sealing the doors s
 Maybe I can find another way in?=¿Quizás pueda encontrar otra forma de entrar?
 The gate to the parking lot is shut tight.=La puerta del estacionamiento está cerrada con llave.
 I need to find a way into those apartments anyway.=De todos modos, necesito encontrar una manera de entrar a esos apartamentos.
-[RESIDENT]      HARRY TYNDALE\n[DOB] 14/06/29\n[OCCUPATION] CIVIL SERVICES\n\r\n[CONDITION] DECEASED\r\n[CAUSE] PULMONARY EMBOLISM\n              \r\n[VOID]=[RESIDENTE]     HARRY TYNDALE\n[FECHA DE NACIMIENTO] 14/06/29\n[OCUPACIÓN] SERVICIOS PÚBLICOS\n\r\n[CONDICIÓN] FALLECIDO\r\n[CAUSA] EMBOLIA PULMONAR\n             \r\n[VACÍO]
+[RESIDENT]      HARRY TYNDALE\n[DOB] 14/06/29\n[OCCUPATION] CIVIL SERVICES\n\r\n[CONDITION] DECEASED\r\n[CAUSE] PULMONARY EMBOLISM\n              \r\n[VOID]=[RESIDENTE]     HARRY TYNDALE\n[FECHA DE NACIMIENTO] 14/06/29\n[OCUPACIÓN] SERVICIOS PÚBLICOS\n\r\n[CONDICIÓN] FALLECIDO\r\n[CAUSA] EMBOLIA PULMONAR\n             \r\n[ANULADO]
 
 -=-
 --=--
@@ -619,7 +620,7 @@ Just trash and dirty plates. I'm not cleaning it.=Solo basura y platos sucios. N
 
 
 Showers just make so much more sense.=Las duchas tienen mucho más sentido.
-[RESIDENT]      THURSTON M\n[DOB] 02/08/25\r\n[OCCUPATION] UNEMPLOYED\r\n\r\n[CONDITION] DECEASED\r\n[CAUSE] PANCREATIC NECROSIS\n              \r\n[VOID]=[RESIDENTE]     THURSTON M\n[FECHA DE NACIMIENTO] 02/08/25\n[OCUPACIÓN] DESOCUPADO\n\n[CONDICIÓN] FALLECIDO\n[CAUSA] NECROSIS PANCREÁTICA\n\n[VACÍO]
+[RESIDENT]      THURSTON M\n[DOB] 02/08/25\r\n[OCCUPATION] UNEMPLOYED\r\n\r\n[CONDITION] DECEASED\r\n[CAUSE] PANCREATIC NECROSIS\n              \r\n[VOID]=[RESIDENTE]     THURSTON M\n[FECHA DE NACIMIENTO] 02/08/25\n[OCUPACIÓN] DESEMPLEADO\n\n[CONDICIÓN] FALLECIDO\n[CAUSA] NECROSIS PANCREÁTICA\n\n[ANULADO]
 
 Take the <b>Room Key</b>?=¿Tomar la <b>Llave de Habitación</b>?
 Room Key has been added to Inventory.=Se ha añadido Llave de Habitación al inventario.
@@ -627,10 +628,10 @@ There's nothing left but the sorry corpse of an addict.=No queda nada más que e
 Just some old trash.=Solo un poco de basura vieja.
 
 
-r:"\/\/NEWSPAPER - NOV 16\n\nSocial enrichment charity Sherwood Announces Monumental Investment to Revamp Barnsdon's Infrastructure and Economy\r\n\r\nBarnsdon, November 19, 2063 – In a groundbreaking move set to redefine Barnsdon's landscape, Sherwood, a philanthropic organization, has declared plans for a transformative investment aimed at revitalizing the city's infrastructure. The initiative aims to usher in a new era of prosperity, promising job opportunities and modern transit systems in a city marred by economic struggles and social challenges.\r\n\r\nIn a statement released by Sherwood's CEO, Sarah Reynolds, the organization expressed its commitment to fostering positive change: \"We believe that every community deserves the chance to thrive. Our investment in Barnsdon aims to create a sustainable and vibrant future for its residents by addressing the systemic issues that have held the city back for far too long.\"\r\n\r\nThe announcement sparked enthusiasm among residents, businesses, and officials. Mayor Robert Thompson hailed it as a turning point, welcoming Sherwood's commitment and the transformative potential.\r\n\r\nSherwood's plan not only underscores their dedication to social welfare but also highlights the potential for private entities to play a pivotal role in uplifting communities facing socioeconomic challenges. As plans unfold, anticipation mounts for the monumental changes that lie ahead for the city of Barnsdon.\r\n\r\nFor inquiries or statements regarding the ongoing project, please contact Sherwood Estate Management Ltd at info@sherwoodestatesmanagement.com.\r\n\r\nWritten by Ahmet Lal, Contributing Writer\r\n$"=\\\\PERIÓDICO - 16 DE NOVIEMBRE\n\nLa organización benéfica Sherwood anuncia una inversión monumental para renovar la infraestructura y economía de Barnsdon\n\nBarnsdon, 19 de noviembre de 2063 – En un movimiento innovador que promete redefinir el paisaje de Barnsdon, Sherwood, una organización filantrópica, ha declarado planes para realizar una inversión transformadora con el objetivo de revitalizar la infraestructura de la ciudad. La iniciativa pretende inaugurar una nueva era de prosperidad, prometiendo oportunidades laborales y sistemas de transporte modernos en una ciudad marcada por dificultades económicas y desafíos sociales.\n\nEn un comunicado emitido por la directora ejecutiva de Sherwood, Sarah Reynolds, la organización expresó su compromiso con el cambio positivo: “Creemos que toda comunidad merece la oportunidad de prosperar. Nuestra inversión en Barnsdon busca crear un futuro sostenible y vibrante para sus residentes, abordando los problemas sistémicos que han frenado a la ciudad durante demasiado tiempo.”\n\nEl anuncio despertó entusiasmo entre los residentes, empresarios y autoridades. El alcalde Robert Thompson lo calificó como un punto de inflexión, elogiando el compromiso de Sherwood y su potencial transformador.\n\nEl plan de Sherwood no solo subraya su dedicación al bienestar social, sino que también destaca el potencial de las entidades privadas para desempeñar un papel fundamental en la mejora de comunidades que enfrentan desafíos socioeconómicos. A medida que se desarrollan los planes, crece la anticipación por los cambios monumentales que esperan a la ciudad de Barnsdon.\n\nPara consultas o declaraciones sobre el proyecto en curso, por favor contacte a Sherwood Estate Management Ltd en info@sherwoodestatesmanagement.com.\n\nEscrito por Ahmet Lal, Escritor Colaborador
+r:"\/\/NEWSPAPER - NOV 16\n\nSocial enrichment charity Sherwood Announces Monumental Investment to Revamp Barnsdon's Infrastructure and Economy\r\n\r\nBarnsdon, November 19, 2063 – In a groundbreaking move set to redefine Barnsdon's landscape, Sherwood, a philanthropic organization, has declared plans for a transformative investment aimed at revitalizing the city's infrastructure. The initiative aims to usher in a new era of prosperity, promising job opportunities and modern transit systems in a city marred by economic struggles and social challenges.\r\n\r\nIn a statement released by Sherwood's CEO, Sarah Reynolds, the organization expressed its commitment to fostering positive change: \"We believe that every community deserves the chance to thrive. Our investment in Barnsdon aims to create a sustainable and vibrant future for its residents by addressing the systemic issues that have held the city back for far too long.\"\r\n\r\nThe announcement sparked enthusiasm among residents, businesses, and officials. Mayor Robert Thompson hailed it as a turning point, welcoming Sherwood's commitment and the transformative potential.\r\n\r\nSherwood's plan not only underscores their dedication to social welfare but also highlights the potential for private entities to play a pivotal role in uplifting communities facing socioeconomic challenges. As plans unfold, anticipation mounts for the monumental changes that lie ahead for the city of Barnsdon.\r\n\r\nFor inquiries or statements regarding the ongoing project, please contact Sherwood Estate Management Ltd at info@sherwoodestatesmanagement.com.\r\n\r\nWritten by Ahmet Lal, Contributing Writer\r\n$"=\\\\PERIÓDICO: 16 DE NOVIEMBRE\n\nLa organización benéfica Sherwood anuncia una inversión monumental para renovar la infraestructura y economía de Barnsdon\n\nBarnsdon, 19 de noviembre de 2063 – En un movimiento innovador que promete redefinir el paisaje de Barnsdon, Sherwood, una organización filantrópica, ha declarado planes para realizar una inversión transformadora con el objetivo de revitalizar la infraestructura de la ciudad. La iniciativa pretende inaugurar una nueva era de prosperidad, prometiendo oportunidades laborales y sistemas de transporte modernos en una ciudad marcada por dificultades económicas y desafíos sociales.\n\nEn un comunicado emitido por la directora ejecutiva de Sherwood, Sarah Reynolds, la organización expresó su compromiso con el cambio positivo: “Creemos que toda comunidad merece la oportunidad de prosperar. Nuestra inversión en Barnsdon busca crear un futuro sostenible y vibrante para sus residentes, abordando los problemas sistémicos que han frenado a la ciudad durante demasiado tiempo.”\n\nEl anuncio despertó entusiasmo entre los residentes, empresarios y autoridades. El alcalde Robert Thompson lo calificó como un punto de inflexión, elogiando el compromiso de Sherwood y su potencial transformador.\n\nEl plan de Sherwood no solo subraya su dedicación al bienestar social, sino que también destaca el potencial de las entidades privadas para desempeñar un papel fundamental en la mejora de comunidades que enfrentan desafíos socioeconómicos. A medida que se desarrollan los planes, crece la anticipación por los cambios monumentales que esperan a la ciudad de Barnsdon.\n\nPara consultas o declaraciones sobre el proyecto en curso, por favor contacte a Sherwood Estate Management Ltd en info@sherwoodestatesmanagement.com.\n\nEscrito por Ahmet Lal, Escritor Colaborador
 
 //Habitación 2.14
-[RESIDENT]      KATHERINE DOWELL\n[DOB] 22/11/27\n[OCCUPATION] UNEMPLOYED\r\n\r\n[CONDITION] DECEASED\r\n[CAUSE] ACUTE DEHYDRATION\n              \r\n[VOID]=[RESIDENTE]     KATHERINE DOWELL\n[FECHA DE NACIMIENTO] 22/11/27\n[OCUPACIÓN] DESEMPLEADA\r\n\r\n[CONDICIÓN] FALLECIDA\r\n[CAUSA] DESHIDRATACIÓN AGUDA\n              \r\n[VACÍO]
+[RESIDENT]      KATHERINE DOWELL\n[DOB] 22/11/27\n[OCCUPATION] UNEMPLOYED\r\n\r\n[CONDITION] DECEASED\r\n[CAUSE] ACUTE DEHYDRATION\n              \r\n[VOID]=[RESIDENTE]     KATHERINE DOWELL\n[FECHA DE NACIMIENTO] 22/11/27\n[OCUPACIÓN] DESEMPLEADA\r\n\r\n[CONDICIÓN] FALLECIDA\r\n[CAUSA] DESHIDRATACIÓN AGUDA\n              \r\n[ANULADO]
 Gross, the sheets are stained.=Qué asco, las sábanas están manchadas.
 I hate to think how long it's been since those sheets have been washed.=Odio pensar cuánto tiempo ha pasado desde que se lavaron esas sábanas.
 It's full of old rotten garments.=Está lleno de viejas prendas podridas.
@@ -652,7 +653,7 @@ Err... Hello?=Ehh… ¿Hola?
 Is err... Is anyone there?=¿Hay ehh… hay alguien ahí?
 Unknown -=Desconocido:
 You don't belong here.=No perteneces aquí.
-Should have stayed where it was warm, little sparrow.=Deberías haberte quedado donde hacía calor, pequeño gorrión.
+Should have stayed where it was warm, little sparrow.=Deberías haberte quedado donde hacía calor, pequeña gorrión.
 I'm sorry, who is this?=Lo siento, ¿quién es?
 Patience baby bird, you've barely spread your wings.=Paciencia, pajarito, apenas has extendido tus alas.
 How are you... How is this line still active?= ¿Cómo es que… cómo sigue activa esta línea?
@@ -666,10 +667,10 @@ Yeah this is a waste of time. I'm hanging up.=Sí, esto es una pérdida de tiemp
 Watch out for the strays, they haven't had a proper meal in weeks.=Ten cuidado con los callejeros, no han tenido una comida decente en semanas.
 Creepy fuckin' robot.=Maldito robot espeluznante.
 
-[RESIDENT]      CHARLIE  GAREWAL\n[DOB] 27/9/54\n[OCCUPATION] ADOLESCENT\r\n\r\n[CONDITION] DECEASED\r\n[CAUSE] ASPIRATION PNEUMONIA\n              \r\n[VOID]=[RESIDENTE]     CHARLIE  GAREWAL\n[FECHA DE NACIMIENTO] 27/9/54\n[OCUPACIÓN] ADOLESCENTE\r\n\r\n[CONDICIÓN] FALLECIDO\r\n[CAUSA] NEUMONÍA POR ASPIRACIÓN\n              \r\n[VACÍO]
+[RESIDENT]      CHARLIE  GAREWAL\n[DOB] 27/9/54\n[OCCUPATION] ADOLESCENT\r\n\r\n[CONDITION] DECEASED\r\n[CAUSE] ASPIRATION PNEUMONIA\n              \r\n[VOID]=[RESIDENTE]     CHARLIE  GAREWAL\n[FECHA DE NACIMIENTO] 27/9/54\n[OCUPACIÓN] ADOLESCENTE\r\n\r\n[CONDICIÓN] FALLECIDO\r\n[CAUSA] NEUMONÍA POR ASPIRACIÓN\n              \r\n[ANULADO]
 
 Child's Drawing has been added to Documents.=Se ha añadido Dibujo Infantil a los Documentos.
-r:"^\/\/CHILD'S DRAWING - BAZILIONR\n\nIf I was a bazilionr I woud buy mommy a new daddy and get pizza EVERY DAYYYY!!!!\n$"=\\\DIBUJO INFANTIL - BAZILIONARIO\n\nSi yo fuera un bazilionario, le compraría a mamá un nuevo papá y comeríamos pizza TODOS LOS DÍASSSS.\n
+r:"^\/\/CHILD'S DRAWING - BAZILIONR\n\nIf I was a bazilionr I woud buy mommy a new daddy and get pizza EVERY DAYYYY!!!!\n$"=\\\DIBUJO INFANTIL: BAZILIONARIO\n\nSi yo fuera un bazilionario, le compraría a mamá un nuevo papá y comeríamos pizza TODOS LOS DÍASSSS.\n
 
 The radiator appears to be damaged, barely hanging to the wall.=El radiador parece estar dañado, apenas colgando de la pared.
 Remove the <b>Radiator</b>?=¿Quitar el <b>Radiador</b>?
@@ -707,7 +708,7 @@ All the cupboards have been stripped bare.=Todos los armarios han sido vaciados.
 They cut off the city and left all these people to starve.=Aislaron la ciudad y dejaron a toda esta gente morir de hambre.
 Someone needs to answer for this.=Alguien tiene que responder por esto.
 
-[RESIDENT]      SHAUN BEWLEY\n[DOB] 16/02/18\r\n[OCCUPATION] CLASSIFIED\r\n\r\n[CONDITION] DECEASED\r\n[CAUSE] MYOCARDIAL INFARCTION\n              \r\n[VOID]=[RESIDENTE]     SHAUN BEWLEY\n[FECHA DE NACIMIENTO] 16/02/18\r\n[OCUPACIÓN] CLASIFICADA\r\n\r\n[CONDICIÓN] FALLECIDO\r\n[CAUSA] INFARTO DE MIOCARDIO\n              \r\n[VACÍO]
+[RESIDENT]      SHAUN BEWLEY\n[DOB] 16/02/18\r\n[OCCUPATION] CLASSIFIED\r\n\r\n[CONDITION] DECEASED\r\n[CAUSE] MYOCARDIAL INFARCTION\n              \r\n[VOID]=[RESIDENTE]     SHAUN BEWLEY\n[FECHA DE NACIMIENTO] 16/02/18\r\n[OCUPACIÓN] CLASIFICADO\r\n\r\n[CONDICIÓN] FALLECIDO\r\n[CAUSA] INFARTO DE MIOCARDIO\n              \r\n[ANULADO]
 A portable cell battery sits wired into a broken diagnostics device.=Una batería portátil está conectada a un dispositivo de diagnóstico roto.
 Take the <b>Portable Battery</b>?=¿Tomar la <b>Batería Portátil</b>?
 Portable Battery has been added to Inventory.=Se ha añadido Batería Portátil al inventario.
@@ -737,7 +738,7 @@ MAKESHIFT CLUB=GARROTE IMPROVISADO
 <sprite\=101 tint\=1> Stomp=<sprite\=101 tint\=1> Pisotear
 <sprite\=100 tint\=1> Melee Attack=<sprite\=100 tint\=1> Atacar
 
-[RESIDENT]      HELEN BRIDGES\n[DOB] 04/10/25\n[OCCUPATION] O.T.\n\r\n[CONDITION] DECEASED\r\n[CAUSE] ISCHEMIC STROKE\n              \r\n[VOID]=[RESIDENTE]     HELEN BRIDGES\n[FECHA DE NACIMIENTO] 04/10/25\n[OCUPACIÓN] O.T.\n\r\n[CONDICIÓN] FALLECIDO\r\n[CAUSA] ISQUEMIA CEREBRAL\n              \r\n[VACÍO]
+[RESIDENT]      HELEN BRIDGES\n[DOB] 04/10/25\n[OCCUPATION] O.T.\n\r\n[CONDITION] DECEASED\r\n[CAUSE] ISCHEMIC STROKE\n              \r\n[VOID]=[RESIDENTE]     HELEN BRIDGES\n[FECHA DE NACIMIENTO] 04/10/25\n[OCUPACIÓN] TERAPEUTA OCUPACIONAL\n\r\n[CONDICIÓN] FALLECIDO\r\n[CAUSA] ISQUEMIA CEREBRAL\n              \r\n[ANULADO]
 A young woman celebrating a birthday. It looks like she has a kid, can't be more than three or four years old.=Una mujer joven celebrando un cumpleaños. Parece que tiene un hijo, no debe tener más de tres o cuatro años.
 A personal safe is mounted in the wall.=Una caja fuerte personal está empotrada en la pared.
 A letter from First Plus Health UK, confirming Helen Bridges' new patient details.=Una carta del First Plus Health UK, confirmando los nuevos datos de la paciente de Helen Bridges.
@@ -778,7 +779,7 @@ Magnetic Card Writer and GF Gate Key added to Inventory.=Se ha añadido Escritor
 
 El escritor de tarjetas magnéticas y la tecla GF GAT agregada al inventario.
 Card Writer Note has been added to Documents.=Se ha añadido Nota del Escritor de Tarjetas a los Documentos.
-r:"^\/\/NOTE - CARD WRITER\n\nJayce, I’ve finally had all the locks updated, the only resident that refused was that whack-job in 14, we’ll see if the super can do something about him.\r\n\r\nAnyway, keep this remapper someplace SAFE. Next time you lose your card just hit the master button and swipe any of the spare room keys, it’ll rewrite the card to give you house access.\r\n\r\nAny of those kids on second give you shit again you call me, yeah?"=\\\NOTA - ESCRITOR DE TARJETAS\n\nJayce, finalmente he actualizado todas las cerraduras, el único residente que se negó fue ese loco de la habitación 14, ya veremos si el encargado puede hacer algo con él.\n\nDe todos modos, guarda este remapeador en un lugar SEGURO. La próxima vez que pierdas tu tarjeta, solo presiona el botón maestro y pasa cualquiera de las llaves de las habitaciones de repuesto, reescribirá la tarjeta para darte acceso a la casa.\n\nSi alguno de esos chicos del segundo te molesta de nuevo, me llamas, ¿vale?\n\nK
+r:"^\/\/NOTE - CARD WRITER\n\nJayce, I’ve finally had all the locks updated, the only resident that refused was that whack-job in 14, we’ll see if the super can do something about him.\r\n\r\nAnyway, keep this remapper someplace SAFE. Next time you lose your card just hit the master button and swipe any of the spare room keys, it’ll rewrite the card to give you house access.\r\n\r\nAny of those kids on second give you shit again you call me, yeah?"=\\\NOTA: ESCRITOR DE TARJETAS\n\nJayce, finalmente he actualizado todas las cerraduras, el único residente que se negó fue ese loco de la habitación 14, ya veremos si el encargado puede hacer algo con él.\n\nDe todos modos, guarda este remapeador en un lugar SEGURO. La próxima vez que pierdas tu tarjeta, solo presiona el botón maestro y pasa cualquiera de las llaves de las habitaciones de repuesto, reescribirá la tarjeta para darte acceso a la casa.\n\nSi alguno de esos chicos del segundo te molesta de nuevo, me llamas, ¿vale?\n\nK
 
 
 
@@ -789,12 +790,12 @@ A long iron key. Found in the store room lockbox. The tag reads 'GF GATE'.=Una l
 That did the trick. It's unlocked.=Eso funcionó. Está desbloqueada.
 It's boarded shut, it wont budge.=Está bloqueada con tablones, no se mueve.
 
-[RESIDENT]      JULIAN GOLDENBERG\n[DOB] 05/10/05\n[OCCUPATION] DATA ANALYST\n\r\n[CONDITION] DECEASED\r\n[CAUSE] AORTIC DISSECTION\n              \r\n[VOID]=[RESIDENTE]     JULIAN GOLDENBERG\n[FECHA DE NACIMIENTO] 05/10/05\n[OCUPACIÓN] ANALISTA DE DATOS\n\r\n[CONDICIÓN] FALLECIDO\r\n[CAUSA] SEPARACIÓN AÓRTICA\n              \r\n[VACÍO]
+[RESIDENT]      JULIAN GOLDENBERG\n[DOB] 05/10/05\n[OCCUPATION] DATA ANALYST\n\r\n[CONDITION] DECEASED\r\n[CAUSE] AORTIC DISSECTION\n              \r\n[VOID]=[RESIDENTE]     JULIAN GOLDENBERG\n[FECHA DE NACIMIENTO] 05/10/05\n[OCUPACIÓN] ANALISTA DE DATOS\n\r\n[CONDICIÓN] FALLECIDO\r\n[CAUSA] DISECCIÓN AÓRTICA\n              \r\n[ANULADO]
 
 Noise Complaint has been added to Documents.=Se ha añadido Queja de Ruido a los Documentos.
 r:"^\/\/NOISE COMPLAINT\n\nI tell them somethings off, and they have the audacity to tell me it’s the pipes. Well I might not be captain obvious, but I already checked the pipes.\n\nThey don’t act up at 2am. I swear to god that If I hear that unit upstairs stomping around again, I’m going up there myself to give them a piece of my mind. Fucking idiots.$"=\\\QUEJA DE RUIDO\n\nLes digo que algo anda mal, y tienen el descaro de decirme que son las tuberías. Bueno, tal vez no sea el capitán obvio, pero ya revisé las tuberías.\n\nNo se ponen ruidosas a las 2 de la mañana. Juro por dios que si escucho otra vez a esa unidad de arriba andando como loca, subiré yo mismo a darles un buen sermón. Malditos idiotas.
 
-[RESIDENT]      COE STARR\n[DOB] UNKNOWN\n[OCCUPATION] CONTENT CREATOR\n\r\n[CONDITION] DECEASED\r\n[CAUSE] FOREIGN SUBSTANCE - MERCURY\n              \r\n[VOID]=[RESIDENTE]     COE STARR\n[FECHA DE NACIMIENTO] DESCONOCIDA\n[OCUPACIÓN] CREADOR DE CONTENIDO\n\r\n[CONDICIÓN] FALLECIDO\r\n[CAUSA] SUSTANCIA EXTRANJERA - MERCURIO\n              \r\n[VACÍO]
+[RESIDENT]      COE STARR\n[DOB] UNKNOWN\n[OCCUPATION] CONTENT CREATOR\n\r\n[CONDITION] DECEASED\r\n[CAUSE] FOREIGN SUBSTANCE - MERCURY\n              \r\n[VOID]=[RESIDENTE]     COE STARR\n[FECHA DE NACIMIENTO] DESCONOCIDA\n[OCUPACIÓN] CREADOR DE CONTENIDO\n\r\n[CONDICIÓN] FALLECIDO\r\n[CAUSA] SUSTANCIA EXTRAÑA - MERCURIO\n              \r\n[ANULADO]
 
 Diary Entry has been added to Documents.=Se ha añadido Entrada de Diario a los Documentos.
 r:"^\/\/DIARY ENTRY\n\nWednesday - September 6th\r\n\r\nSpent most of today helping Laura and little Chris move. Work on the old shopping center is due to start tomorrow and she doesn’t fancy her chances of Chris sleeping through the night with all that going on. They told the locals to keep their windows closed because they have people working round the clock, not exactly making a good first impression if you ask me.\r\n\r\nAnyway, the work’s slated for two months and Laura’s mum’s taking them for the second one so it shouldn't be too disruptive. It’ll be nice having Chris around, kids bring good vibes into the house and he can’t get enough of my old consoles. Chris has taken to using a controller pretty well but still insists on tapping on the CRT like it’s a touch screen. Honestly it’s just nice to have a player two, it’s been years since I’ve played some of these games.\r\n\r\nMaybe I can convince Laura to join us for a game or two, I think I still have my multitap somewhere.\r$"=\\\ENTRADA DE DIARIO\n\nMiércoles - 6 de septiembre\r\n\r\nPasé la mayor parte del día ayudando a Laura y al pequeño Chris a mudarse. Mañana empiezan las obras en el viejo centro comercial y no cree que Chris vaya a poder dormir con todo ese ruido. Les dijeron a los vecinos que mantengan las ventanas cerradas porque van a trabajar las 24 horas, no es exactamente la mejor primera impresión si me preguntas.\r\n\r\nEn fin, el trabajo está programado para durar dos meses y la mamá de Laura se los llevará el segundo mes, así que no debería ser tan molesto. Será agradable tener a Chris por aquí, los niños traen buenas vibras a la casa y no se cansa de mis viejas videoconsolas. Chris ha aprendido a usar el mando bastante bien, pero sigue insistiendo en tocar el CRT como si fuera una pantalla táctil. La verdad, es genial tener un jugador dos, hace años que no jugaba algunos de estos juegos.\r\n\r\nQuizás pueda convencer a Laura de que se una a una partida o dos, creo que todavía tengo el multitap por ahí.
@@ -802,7 +803,7 @@ r:"^\/\/DIARY ENTRY\n\nWednesday - September 6th\r\n\r\nSpent most of today help
 <i>MAGNETIC CARD WRITER</i>=<i>ESCRITOR DE TARJETAS MAGNÉTICAS</i>
 A magnetic card reader. Used for remapping room keys. Found in the store room lockbox.=Un lector de tarjetas magnéticas. Usado para\nreprogramar llaves de habitación. Encontrado en la caja de seguridad del almacén.
 
-<I>Master Room Key</I> added to inventory.=Se ha añadido <I>Llave Maestra de Habitación</I> al Inventario.
+<I>Master Room Key</I> added to inventory.=Se ha añadido Llave Maestra de Habitación al Inventario.
 <i>MASTER ROOM KEY</i>=<i>LLAVE MAESTRA DE HABITACIÓN</i>
 The door won't budge. It's a different type of lock to the other rooms.=La puerta no se mueve. Es un tipo de cerradura diferente al de las otras habitaciones.
 The key to room 3 on the second floor, now reprogrammed to unlock all rooms.=La llave de la habitación 3 en el segundo piso, ahora\nreprogramada para abrir todas las habitaciones.
@@ -820,13 +821,13 @@ I hate to think what has happened in this room.=Odio pensar lo que ha pasado en 
 Sleeping with the dead... Some people are really messed up.=Dormir con los muertos… Hay gente que está muy mal.
 The drawers are filled with incense, candles and various herbs.=Los cajones están llenos de incienso, velas y varias hierbas.
 
-[RESIDENT]      ALICE HEARTH\n[DOB] 29/04/15\r\n[OCCUPATION] SOCIAL WORKER\r\n\r\n[CONDITION] DECEASED\r\n[CAUSE] ACUTE MALNUTRITION\n              \r\n[VOID]=[RESIDENTE]     ALICE HEARTH\n[FECHA DE NACIMIENTO] 29/04/15\r\n[OCUPACIÓN] TRABAJADORA SOCIAL\r\n\r\n[CONDICIÓN] FALLECIDA\r\n[CAUSA] MALNUTRICIÓN AGUDA\n              \r\n[VACÍO]
+[RESIDENT]      ALICE HEARTH\n[DOB] 29/04/15\r\n[OCCUPATION] SOCIAL WORKER\r\n\r\n[CONDITION] DECEASED\r\n[CAUSE] ACUTE MALNUTRITION\n              \r\n[VOID]=[RESIDENTE]     ALICE HEARTH\n[FECHA DE NACIMIENTO] 29/04/15\r\n[OCUPACIÓN] TRABAJADORA SOCIAL\r\n\r\n[CONDICIÓN] FALLECIDA\r\n[CAUSA] DESNUTRICIÓN AGUDA\n              \r\n[ANULADO]
 Some of these bodies aren't as decayed as the others.=Algunos de estos cuerpos no están tan descompuestos como los otros.
 I wonder if there's anyone left alive?=Me pregunto si queda alguien con vida.
 
 
 Nobody likes washing up but this is just disgusting.=A nadie le gusta lavar los platos, pero esto es simplemente asqueroso.
-[RESIDENT]      BEN BRISWELL\n[DOB] 19/01/38\n[OCCUPATION] RETAIL WORKER\r\n\r\n[CONDITION] DECEASED\r\n[CAUSE] INTRACRANIAL HEMATOMA\n              \r\n[VOID]=[RESIDENTE]     BEN BRISWELL\n[FECHA DE NACIMIENTO] 19/01/38\n[OCUPACIÓN] TRABAJADOR DE TIENDA\r\n\r\n[OCUPACIÓN] FALLECIDO\r\n[CAUSA] HEMATOMA INTRACRANEAL\n              \r\n[VACÍO]
+[RESIDENT]      BEN BRISWELL\n[DOB] 19/01/38\n[OCCUPATION] RETAIL WORKER\r\n\r\n[CONDITION] DECEASED\r\n[CAUSE] INTRACRANIAL HEMATOMA\n              \r\n[VOID]=[RESIDENTE]     BEN BRISWELL\n[FECHA DE NACIMIENTO] 19/01/38\n[OCUPACIÓN] TRABAJADOR DE VENTAS\r\n\r\n[OCUPACIÓN] FALLECIDO\r\n[CAUSA] HEMATOMA INTRACRANEAL\n              \r\n[ANULADO]
 Poor guy...=Pobre tipo…
 There's no card reader on this door, just a keyhole.=No hay lector de tarjetas en esta puerta, solo una cerradura.
 
@@ -891,7 +892,7 @@ I've soaked the contents in alcohol.=He empapado el contenido en alcohol.
 It's locked tight. The keycard reader is blocked with some kind of growth.=Está bien cerrada. El lector de tarjetas está bloqueado por algún tipo de crecimiento.
 The gate is firmly stuck, entangled in that gross fleshy mass.=La puerta está firmemente atascada, enredada en esa masa asquerosa y carnosa.
 
-[RESIDENT]      HANNES WINKLER\n[DOB] 21/06/16\n[OCCUPATION] ML ENGINEER\n\r\n[CONDITION] DECEASED\r\n[CAUSE] SEPSIS 2ND PNEUMONIA\n              \r\n[VOID]=[RESIDENTE]     HANNES WINKLER\n[FECHA DE NACIMIENTO] 21/06/16\n[OCUPACIÓN] INGENIERO EN ML\n\r\n[CONDICIÓN] FALLECIDO\r\n[CAUSA] SEPSIS 2DA POR NEUMONÍA\n              \r\n[VACÍO]
+[RESIDENT]      HANNES WINKLER\n[DOB] 21/06/16\n[OCCUPATION] ML ENGINEER\n\r\n[CONDITION] DECEASED\r\n[CAUSE] SEPSIS 2ND PNEUMONIA\n              \r\n[VOID]=[RESIDENTE]     HANNES WINKLER\n[FECHA DE NACIMIENTO] 21/06/16\n[OCUPACIÓN] INGENIERO EN ML\n\r\n[CONDICIÓN] FALLECIDO\r\n[CAUSA] SEPSIS 2DA POR NEUMONÍA\n              \r\n[ANULADO]
 
 Some old chopsticks, could be useful.=Unos palillos viejos, podrían ser útiles.
 Take the <b>Chopsticks</b>?=¿Tomar los <b>Palillos</b>?
@@ -1200,5 +1201,320 @@ This place used to be so full of life. Now it's just us.=Este lugar solía estar
 // Saliendo de los departamentos
 It's getting dark, we should hurry.=Se está oscureciendo, deberíamos apurarnos.
 Shift Schedule has been added to Documents.=Se ha añadido Horario de Turnos a los Documentos.
-[VOID]      CLASSIFIED\n[DOB] XX/XX/XXXX\n[OCCUPATION] CLASSIFIED\n\r\n[CONDITION] CLASSIFIED\r\n[CAUSE] CLASSIFIED\n              \r\n[VOID]=[ANULADO]      CLASIFICADO\n[FECHA DE NACIMIENTO] XX/XX/XXXX\n[OCUPACIÓN] CLASIFICADO\n\r\n[CONDICIÓN] CLASIFICADO\r\n[CAUSA] CLASIFICADO\n              \r\n[VACÍO]
+[VOID]      CLASSIFIED\n[DOB] XX/XX/XXXX\n[OCCUPATION] CLASSIFIED\n\r\n[CONDITION] CLASSIFIED\r\n[CAUSE] CLASSIFIED\n              \r\n[VOID]=[ANULADO]      CLASIFICADO\n[FECHA DE NACIMIENTO] XX/XX/XXXX\n[OCUPACIÓN] CLASIFICADO\n\r\n[CONDICIÓN] CLASIFICADO\r\n[CAUSA] CLASIFICADO\n              \r\n[ANULADO]
 
+
+r:"^\/\/SHIFT SCHEDULE\n\nSlight change up for next week’s shifts, we got the new guy on from Monday so he’ll be making up for losing Stu. Team 3 you’re on the night again until Stu 2 gets his bearings.\r\n\r\nLocation: Wick Street Checkpoint\r\n\r\nThis Week's Crew \(22/06\):\r\n\r\nMorning Shift \(M\): Team 1\r\n\r\nAlex, Bailey, Casey\r\nAfternoon Shift \(A\): Team 2\r\n\r\nDrew, Erin, Flynn\r\nNight Shift \(N\): Team 3\r\n\r\nGale, Hayden, Imani\r\nHey Team,\r\n\r\nMonday to Sunday:\r\n\r\nM: Team 1\r\nA: Team 2\r\nN: Team 3\r\n\r\nJust run the shifts and keep your heads down. Any serious trouble then let me know and I’ll get some boys down. Don’t give them the time of day, hold the line and restrain if necessary. Feral fuckers.\r\n\r\nSteve\r$"=\\\HORARIO DE TURNOS\n\nPequeño ajuste para los turnos de la próxima semana, tenemos al chico nuevo desde el lunes, así que cubrirá la baja de Stu. Equipo 3, están de nuevo en el turno de noche hasta que Stu 2 se acostumbre.\r\n\r\nUbicación: Punto de Control en Wick Street\r\n\r\nEquipo de esta semana (22/06):\r\n\r\nTurno de mañana (M): Equipo 1\r\n\r\nAlex, Bailey, Casey\r\nTurno de tarde (T): Equipo 2\r\n\r\nDrew, Erin, Flynn\r\nTurno de noche (N): Equipo 3\r\n\r\nGale, Hayden, Imani\r\nHola, equipo,\r\n\r\nDe lunes a domingo:\r\n\r\nM: Equipo 1\r\nT: Equipo 2\r\nN: Equipo 3\r\n\r\nSimplemente cumplan con los turnos y manténganse alerta. Si hay problemas serios, avísenme y mandaré a algunos chicos. No les den importancia, mantengan la posición y retengan si es necesario. Malditos salvajes.\r\n\r\nSteve\r
+
+
+I don't think there's any reason to go inside.=No creo que haya ninguna razón para entrar.
+I've got no reason to go in there.=No tengo motivo para entrar ahí.
+
+[RESIDENT]      JORDAN LITTLE\n[DOB] 05/21/15\n[OCCUPATION] FREELANCE ARTIST\n\r\n[CONDITION] DECEASED\r\n[CAUSE] ISCHEMIC STROKE\n              \r\n[VOID]=[RESIDENTE]      JORDAN LITTLE\n[FECHA DE NACIMIENTO] 05/21/15\n[OCUPACIÓN] ARTISTA FREELANCE\n\r\n[CONDICIÓN] FALLECIDO\r\n[CAUSA] ISQUEMIA CEREBRAL\n              \r\n[ANULADO]
+
+Artist's Note has been added to Documents.=Se ha añadido Nota del Artista a los Documentos.
+
+r:"^\/\/ARTIST'S NOTE\n\nToday is a good day\!\n\nI managed to sell a new piece\! I was starting to think nobody cared, all those years spent studying are finally paying off. They even said they'd be interested in my other works, maybe they have rich friends too\?\s+\n\s*I have a feeling that everything's going to be okay\!"=\\\NOTA DEL ARTISTA\n\n¡Hoy es un buen día! ¡Logré vender una nueva obra! Ya empezaba a pensar que a nadie le importaba, todos esos años estudiando finalmente están dando frutos.\n\nIncluso dijeron que estarían interesados en mis otros trabajos, ¿quizás tengan amigos ricos también? ¡Tengo el presentimiento de que todo va a estar bien!
+
+
+
+
+
+
+
+Arrows in a leather quiver, they're missing a bow.=Flechas en un carcaj de cuero, les faltan un arco.
+Take the <b>Quiver and Arrows</b>?=¿Tomar el <b>Carcaj y Flechas</b>?
+Quiver and Arrows have been added to Inventory.=Se han añadido Carcaj y Flechas al Inventario.
+<I>QUIVER AND ARROWS</I>=<I>CARCAJ Y FLECHAS</I>
+A quiver and several arrows.=Un carcaj y varias flechas.
+It's just another run down house. I'll leave it alone.=Es solo otra casa deteriorada. La dejaré en paz.
+I doubt there's anything worthwhile inside.=Dudo que haya algo valga la pena adentro.
+I don't see the point in going inside.=No veo el sentido de entrar.
+
+You'll catch your death out there.=Te vas a enfermar ahí fuera.
+Disgusting weather.=Clima asqueroso.
+Why do you keep calling me?=¿Por qué sigues llamándome?
+It's for your own good.=Es por tu propio bien.
+
+I see you made a friend.=Veo que hiciste un amigo.
+Yeah. We're getting out of here.=Sí. Nos vamos de aquí.
+
+You should too, if you know what's good for you.=Tú también deberías, si sabes lo que te conviene.
+They don't know you like I do.=Ellos no te conocen como yo.
+Not really.=No realmente.
+You don't know me.=No me conoces.
+Fuck, why am I even talking to you.=Joder, ¿por qué siquiera te estoy hablando?
+Holloway.=Holloway.
+What did you say?=¿Qué dijiste?
+Holloway...=Holloway...
+How do you know my name?!=¡¿Cómo sabes mi nombre?!
+Miiiiica. Miiiiiiiiiiiiica...=Miiiiica. Miiiiiiiiiiiiica...
+How the fuck do you know my name?=¿Cómo diablos sabes mi nombre?
+*Giggling*=*Riendo*
+You're acting irrational.=Estás actuando irracionalmente.
+I'm acting perfectly fucking rational given the situation.=Joder, estoy actuando totalmente racional dada la situación.
+Who are you? Who put you up to this?=¿Quién eres? ¿Quién te puso en esto?
+You're scaring your new friend.=Estás asustando a tu nuevo amigo.
+
+What do you mean, it's for my own good?=¿Qué quieres decir con que es por mi bien?
+You didn't save him.=No lo salvaste.=Ese hombre estaba enfermo, te necesitaba.
+That man was sick, he needed you.=Le fallaste. Igual que a todos los demás.
+You failed him. Just like everyone else.=Le fallaste. Igual que a todos los demás.
+What the fuck do you know?=¿Qué diablos sabes tú?
+You needed him.=Tú lo necesitabas.
+He was important.=Él era importante.
+Yeah I'm getting out of here, my friends are probably worried sick.=Sí, me voy de aquí, mis amigos probablemente están muy preocupados.
+
+
+[RESIDENT]      ERIN MARLOWE\n[DOB] 05/07/11\r\n[OCCUPATION] TEACHER\n\r\n[CONDITION] DECEASED\r\n[CAUSE] CEREBRAL HEMMORRHAGE\n              \r\n[VOID]=[RESIDENTE]     ERIN MARLOWE\n[FECHA DE NACIMIENTO] 05/07/11\r\n[OCUPACIÓN] MAESTRA\n\r\n[CONDICIÓN] FALLECIDA\r\n[CAUSA] HEMORRAGIA CEREBRAL\n              \r\n[ANULADO]
+A wooden bow is grasped in the body's hand. It's missing arrows.=Un arco de madera está en la mano del cuerpo. Le faltan flechas.
+Take the <b>Wooden Bow</b>?=¿Tomar el <b>Arco de Madera</b>?
+Wooden Bow have been added to Inventory.=Se ha añadido Arco de Madera al Inventario.
+<I>WOODEN BOW</I>=<I>ARCO DE MADERA</I>
+An old wooden bow, it's missing arrows.=Un viejo arco de madera, le faltan flechas.
+<I>Bow and Arrows</I> added to inventory.=Se ha añadido Arco y Flechas al Inventario.
+r:"^<i>BOW AND ARROWS \((\d+)\)</i>$"=<i>ARCO Y FLECHAS ($1)</i>
+An old wooden bow.=Un viejo arco de madera.
+BOW=ARCO
+
+They just dumped them here. Fuck.=Solo los tiraron aquí. Maldición.
+
+//Suena en la radio una conversación
+Is that the last of them?=¿Es el último de ellos?
+For today? Sure.=¿Por hoy? Seguro.
+Jesus. This is so messed up.=Jesús. Esto es tan desastroso.
+You're in a little deep to suddenly grow a conscience, don't you think?=Estás un poco hundido para de repente desarrollar conciencia, ¿no crees?
+I didn’t sign up for this shit. I wanted to help…=No me inscribí para esta mierda. Quería ayudar...
+You really thought all those background checks and waivers were for some humanitarian effort?=¿Realmente pensabas que todos esos antecedentes y exenciones eran para algún esfuerzo humanitario?
+Give me a break, you needed the money. Just like the rest of us.=Dame un respiro, necesitabas el dinero. Igual que el resto de nosotros.
+We’re burying fucking bodies man, people, they don’t deserve to end like this.=Estamos enterrando malditos cuerpos, joder, gente que no merece terminar así.
+Do we have a problem here? I need to make that call?=¿Tenemos un problema aquí? ¿Necesito hacer esa llamada?
+No. Just…=No. Solo...
+Come on. Let’s get outta here.=Vamos. Salgamos de aquí.
+
+// Mica se encuentra con una montaña de carne
+God, the smell is unbearable.=Dios, el olor es insoportable.
+So many bodies...=Cuántos cuerpos...
+
+//En la reja del parque
+[RESIDENT]      MIA KAMILA\n[DOB] 27/06/23\r\n[OCCUPATION] ACCOUNTANT\n\r\n[CONDITION] DECEASED\r\n[CAUSE] ACUTE MALNUTRITION\n              \r\n[VOID]=[RESIDENTE]     MIA KAMILA\n[FECHA DE NACIMIENTO] 27/06/23\r\n[OCUPACIÓN] CONTADORA\n\r\n[CONDICIÓN] FALLECIDA\r\n[CAUSA] DESNUTRICIÓN AGUDA\n              \r\n[ANULADO]
+A disfigured body hangs from the gate.=Un cuerpo desfigurado cuelga de la reja.
+The body is woven with chains, a heart shaped padlock rests in the chest of this poor woman.=El cuerpo está envuelto en cadenas, un candado en forma de corazón descansa en el pecho de esta pobre mujer.
+An old wallet has been left on the ground.=Una vieja billetera ha sido dejada en el suelo.
+Take the <b>Wallet</b>?=¿Tomar la <b>Billetera</b>?
+Worn Leather Wallet has been added to Inventory.=Se ha añadido Billetera de Cuero Desgastada al Inventario.
+I wonder who this belongs to...=Me pregunto a quién le pertenece...
+<i>WORN LEATHER WALLET</i>=<i>BILLETERA DE CUERO DESGASTADA</i>
+An old worn leather wallet.=Una vieja billetera de cuero desgastada.
+There's a digilock house key tucked inside.=Hay una llave de casa para cerradura digital guardada dentro.
+<I>DIGILOCK HOUSE KEY</I> added to inventory.=Se ha añadido Llave de Casa con Cerradura Digital al Inventario.
+<I>HOUSE KEY & WALLET</I>=<I>LLAVE DE CASA Y BILLETERA</I>
+There's an ID card in the wallet, the address seems to be nearby.=Hay una tarjeta de identificación en la billetera, la dirección parece ser cercana.
+House number 21.=Casa número 21.
+
+// En la casa número 21
+Well at least it's dry in here.=Bueno, al menos está seco aquí.
+Yeah I guess, let's not get too comfortable.=Sí, supongo que no nos ponemos demasiado cómodos.
+
+// Escena de la videocamara
+A dusty camcorder sits wired into an old television.=Una videocámara polvorienta está conectada a un viejo televisor.
+Take the <b>Camcorder</b>?=¿Tomar la <b>Videocámara</b>?
+Camcorder has been added to Inventory.=Se ha añadido Videocámara al Inventario.
+<I>CAMCORDER</I>=<I>VIDEOCÁMARA</I>
+An old consumer camcorder. It has a tripod plate attached to the bottom.=Una vieja videocámara de uso doméstico. Tiene una placa para trípode adherida en la parte inferior.
+I don't have time to watch all these tapes.=No tengo tiempo para ver todas estas cintas.
+
+// Escena en la ventana del segundo piso
+Is that blood?=¿Eso es sangre?
+I'm sorry little guy.=Lo siento, pequeño.
+You can rest now.=Ahora puedes descansar.
+
+//Habitaciones
+[RESIDENT]      ROSIE HARDWELL\n[DOB] 14/01/13\r\n[OCCUPATION] NURSE (SCPHN)\n\r\n[CONDITION] DECEASED\r\n[CAUSE] CIRCULATORY SHOCK\n              \r\n[VOID]=[RESIDENTE]     ROSIE HARDWELL\n[FECHA DE NACIMIENTO] 14/01/13\r\n[OCUPACIÓN] Enfermera (S. Pública)\n\r\n[CONDICIÓN] FALLECIDA\r\n[CAUSA] SHOCK CIRCULATORIO\n              \r\n[ANULADO]
+Ugh, the flowers do little to mask the awful smell.=Ugh, las flores hacen poco para disimular el horrible olor.
+
+// Escena de la radio
+You sure this will work?=¿Estás segura de que esto va a funcionar?
+That’s half a bottle, each. It’s enough.=Es media botella para cada una. Es suficiente.
+I wonder what it tastes like.=Me pregunto a qué sabe.
+Bitter. I added honey but it's not going to make much difference.=Amargo. Le añadí miel, pero no va a hacer mucha diferencia.
+Just do it in one. Try not to think about it.=Tómalo de un solo trago. Trata de no pensarlo.
+So this is it. We just lie here and wait for it to all be over.=Así que esto es todo. Solo nos acostamos aquí y esperamos a que todo termine.
+We’re doing this on our terms, not theirs.=Lo estamos haciendo bajo nuestros términos, no los de ellos.
+We’ve held on long enough sis, we gave it our best shot.=Hemos aguantado lo suficiente, hermana, hicimos lo mejor que pudimos.
+I don't wanna end up like one of them.=No quiero acabar como uno de ellos.
+This is the way. We do this together.=Esta es la manera. Lo hacemos juntas.
+Together.=Juntas.
+I guess I’ll see you after.=Supongo que te veré después.
+I hope so. Drink up.=Eso espero. Bébelo.
+I love you.=Te quiero.
+
+A tripod is set up pointing out the window.=Un trípode está colocado apuntando hacia la ventana.
+It's pointing right at that house.=Está apuntando justo a esa casa.
+
+// Casa de enfrente
+What's that smell?=¿Qué es ese olor?
+Huh, kinda smells like bacon.=Huh, huele un poco a tocino.
+r:"^\/\/COLBOLT CHRONICLE\n\nAI NANO CELLS - ANTI-AGING OR FAST TRACK FATALITY\?\r\n\r\nA third fatality at the hands of controversial pharmaceutical conglomerate Echo Gardens prompts backlash with the wider medical community as tests continue for Echo’s diverse new AI powered nano cell initiative.\r\n\r\nPromising to stunt the effects of aging by as high as 90%, this alluring new technology has yet to see a commercial release but is stated to enter full production in just 12 months from now. Many fear Echo’s ambitions may be detrimental to the wider medical industry as the company grows to a staggering 87% market dominance, raising cause for concern surrounding the supply of raw materials used in common medicines.\r\n\r\nEcho Garden have declined to comment on this third tragic fatality, once again echoing \(excuse the pun\) their previous messaging that ‘all parties involved in ongoing medical trials are fully aware of the risks and compensated appropriately’. Which begs the question, what good is a lump of cash when you’re six feet underground\?"=\\\COLBOLT CHRONICLE\n\nNANOCÉLULAS AI: ¿ANTIENVEJECIMIENTO O RUTA RÁPIDA A LA MUERTE?\r\n\r\nUna tercera muerte a manos del polémico conglomerado farmacéutico Echo Gardens provoca una reacción negativa en la comunidad médica mientras continúan las pruebas para la nueva y diversa iniciativa de nanocélulas con IA de Echo.\r\n\r\nPrometiendo frenar los efectos del envejecimiento hasta en un 90%, esta seductora nueva tecnología aún no ha visto un lanzamiento comercial, pero se espera que entre en plena producción en solo 12 meses. Muchos temen que las ambiciones de Echo puedan ser perjudiciales para la industria médica en general, ya que la empresa alcanza un asombroso 87% de dominio en el mercado, lo que genera preocupación en torno al suministro de materias primas utilizadas en medicamentos comunes.\r\n\r\nEcho Garden ha declinado comentar sobre esta tercera muerte trágica, reiterando (disculpen el juego de palabras) su mensaje anterior de que “todas las partes involucradas en los ensayos médicos en curso son plenamente conscientes de los riesgos y están debidamente compensadas”. Lo que nos lleva a preguntar, ¿de qué sirve un montón de dinero si estás seis pies bajo tierra?
+
+//Bañera
+Ugh, god. I think I'm gonna be sick.=Ugh, dios. Creo que voy a vomitar.
+Yeah that's not bacon.=Sí, eso no es tocino.
+There's a live current running through the bathwater.=Hay una corriente eléctrica pasando por el agua de la bañera.
+I can see something lying at the bottom of the tub, just below the water's surface.=Puedo ver algo en el fondo de la tina, justo debajo de la superficie del agua.
+I'll need to find a way to hook out the plug if I want to drain the water.=Necesitaré encontrar una manera de sacar el tapón si quiero drenar el agua.
+Something has been wired directly into the socket.=Algo ha sido conectado directamente al enchufe.
+There's no way I'm touching it.=No hay forma de que lo toque.
+
+//Habitaciones
+All that's inside is a single metal coathanger.=Todo lo que hay dentro es solo una percha de metal.
+Take the <b>Coathanger</b>?=¿Tomar la <b>Percha de Metal</b>?
+Coathanger has been added to Inventory.=Se ha añadido Percha de Metal al Inventario.
+<I>COATHANGER</I>=<I>PERCHA DE METAL</I>
+A metal coathanger with a hook on one end.=Una percha de metal con un gancho en un extremo.
+The coathanger's not going to be much use here.=La percha de metal no va a servir mucho aquí.
+There's nothing left inside.=No queda nada dentro.
+The body has an old metal road sign protruding from its chest.=El cuerpo tiene una vieja señal de tráfico metálica sobresaliendo de su pecho.
+Take the <b>Makeshift Axe</b>?=¿Tomar el <b>Hacha Improvisada</b>?
+Makeshift Axe has been added to Inventory.=Se ha añadido Hacha Improvisada al Inventario.
+<i>MAKESHIFT AXE</i>=<i>HACHA IMPROVISADA</i>
+An old road sign. It's been repurposed as a rudimentary axe of sorts.=Una vieja señal de tráfico. Ha sido reutilizada como una especie de hacha rudimentaria.
+MAKESHIFT SPEAR=HACHA IMPROVISADA
+Rest in peace.=Descansa en paz.
+
+\/\/CHILD'S DRAWING - WAVING MAN\n\nThe man in the widnow says helloo=\\\DIBUJO INFANTIL: HOMBRE QUE SALUDA\n\nEl hombre en la ventana dice holaa
+A child's Yo-yo toy sits on the table.=Un yoyo de juguete está sobre la mesa.
+Take the <b>Yoyo Toy</b>?=¿Tomar el <b>Yoyo</b>?
+Yo-yo Toy has been added to Inventory.=Se ha añadido Yoyo de Juguete al Inventario.
+<I>YO-YO TOY</I>=<I>YOYO DE JUGUETE</I>
+A child's Yo-yo. It's made of wood and string.=Un yoyo infantil. Está hecho de madera y cuerda.
+This is no time for playing Yo-yo.=Este no es momento para jugar con el yoyo.
+There's nothing else worth taking.=No hay nada más que valga la pena llevar.
+
+<I>Makeshift Hook</I> added to inventory.=Se ha añadido Gancho Improvisado al Inventario.
+<I>MAKESHIFT HOOK</I>=<I>GANCHO IMPROVISADO</I>
+I've tied the Yo-yo to the coathanger. It's time to go fishling.=He atado el yoyo al gancho de metal. Es hora de pescar.
+There's no use for the hook here.=No hay uso para el gancho aquí.
+Heart Shaped Key has been added to Inventory.=Se ha añadido Llave con Forma de Corazón al Inventario.
+<I>HEART SHAPED KEY</I>=<I>LLAVE CON FORMA DE CORAZÓN</I>
+A heart shaped key to fit a heart shaped lock.=Una llave con forma de corazón para encajar en una cerradura con la misma forma.
+
+// Cemeneterio
+It seems even the dead weren't spared when the looting started.=Parece que ni siquiera los muertos se salvaron cuando comenzó el saqueo.
+I'm more worried about who keeps those candles lit.=Estoy más preocupada por quién mantiene esas velas encendidas.
+
+//Viendo los ataudes
+In Ever Loving Memory of Charlie Marcus Helson.=En memoria eterna de Charlie Marcus Helson.
+The Lord watch between me and thee, while we are absent, one from the other.=El Señor vigile entre tú y yo, mientras estemos ausentes el uno del otro.
+Sacred to the Memory of Jack Felix Markus.=Sagrado a la memoria de Jack Felix Markus.
+A tiny flower, lent not given, to bud on earth.=Una pequeña flor, prestada, no dada, para brotar en la tierra.
+Precious Memories of Alexander Harrison.=Recuerdos preciados de Alexander Harrison.
+The Lord is my Shepherd I shall not want.=El Señor es mi pastor, nada me faltará.
+Loved and Remembered Always, Olivia Richmond.=Siempre amada y recordada, Olivia Richmond.
+Gone is the face we loved so dear, silent the voice we loved to hear.=Se ha ido el rostro que tanto amamos, en silencio la voz que solíamos escuchar.
+In Ever Loving Memory of Mike Kaufman.=En memoria eterna de Mike Kaufman.
+Blessed are the pure in heart, for they shall see God.=Bienaventurados los puros de corazón, porque ellos verán a Dios.
+In Ever Loving Memory of Tara Trent Silbury.=En memoria eterna de Tara Trent Silbury.
+Gone from our home, but not from our hearts.=Se ha ido de nuestro hogar, pero no de nuestros corazones.
+Sacred to the Memory of Beverly Hammond.=Sagrado a la memoria de Beverly Hammond.
+Requiescat in Pace.=Que descanse en paz.
+Treasured Memories of Frederick Stillman.=Recuerdos atesorados de Frederick Stillman.
+A tiny flower, lent not given, to bud on earth and bloom in heaven.=Una pequeña flor, prestada, no dada, para brotar en la tierra y florecer en el cielo.
+Kurt C Shelling, Always In Our Thoughts.=Kurt C. Shelling, siempre en nuestros pensamientos.
+Resting where no shadows fall.=Descansando donde no caen las sombras.
+
+//Entrar a la capilla
+The house of God... Doesn't look like they're home.=La casa de Dios... No parece que estén en casa.
+Yeah, let's not hang around.=Sí, mejor no nos quedemos mucho tiempo.
+
+//Velas
+Ten candles are lined up in two rows of five.=Diez velas están alineadas en dos filas de cinco.
+There's a message underneath...=Hay un mensaje debajo...
+"TO THE GLORY OF GOD"="PARA LA GLORIA DE DIOS"
+"In Hallowed Memory of those members and associates of this Church-"="En memoria sagrada de aquellos miembros y asociados de esta iglesia—"
+"-who gave themselves to free our path in the service of our Lord and saviour."="—que se entregaron para liberar nuestro camino en el servicio de nuestro Señor y salvador."
+There's a list of names. "May their flame light our way." is written underneath.=Hay una lista de nombres. "Que su llama ilumine nuestro camino." está escrito debajo.
+
+// Encendiendo las velas
+Select candles to light.=Selecciona las velas para encender.
+
+//Confesionario
+There's no one inside.=No hay nadie dentro.
+It's empty.=Está vacío.
+
+//Encuentras una escopeta al centro de la capilla
+A shotgun has been left on the altar.=Una escopeta ha sido dejada en el altar.
+Take the <b>Steelpoint Shotgun</b>?=¿Tomar la <b>Escopeta Steelpoint</b>?
+Steelpoint Shotgun has been added to Inventory.=Se ha añadido Escopeta Steelpoint al Inventario.
+<i>STEELPOINT SHOTGUN (EMPTY)</i>=<i>ESCOPETA STEELPOINT (VACÍA)</i>
+r:"^<i>STEELPOINT SHOTGUN</i> \((\d+)\)$"=<i>ESCOPETA STEELPOINT</i> ($1)
+A Steelpoint pump-action shotgun.=Una escopeta Steelpoint de acción por bombeo.
+r:"^<i>SHOTGUN AMMO</i> \((\d+)\)$"=<i>MUNICIÓN DE ESCOPETA</i> ($1)
+10-Gauge shotgun shells.=Cartuchos de escopeta calibre 10.
+STEELPOINT SHOTGUN=ESCOPETA STEELPOINT
+
+//
+
+Tax has been worried sick. He really cares, y’know.=Tax ha estado muy preocupado. En serio le importas, ¿sabes?
+Tough guy that’s soft as pudding, that’s what you said wasn’t it?=Un tipo duro pero blando como pudín, eso fue lo que dijiste, ¿no?
+The bar’s seen better days. All those genco suits sweet talkin’ our regulars.=El bar ha visto mejores días. Todos esos trajes de Genco endulzando a nuestros clientes habituales.
+State paycheque and a roof over your head, It’s hard to say no when you’re out of options.=Un cheque estatal y un techo sobre tu cabeza, es difícil decir que no cuando no tienes opciones.
+Fucking boiling pot of bad eggs.=Un maldito hervidero de huevos podridos.
+I can only imagine what it’s like, to have been through all of it…=Solo puedo imaginar lo que es, haber pasado por todo eso...
+But you need to know you’re not alone, we’re not alone.=Pero necesitas saber que no estás sola, no estamos solas.
+That pot’s boiling over and soon they’re gonna get burnt.=Esa olla está a punto de desbordarse, y pronto se van a quemar.
+Whatever it takes, remember?=Lo que sea necesario, ¿recuerdas?
+This place is giving me the creeps...=Este lugar me da escalofríos...
+Secret underground crypts not normally your thing?=¿Las criptas subterráneas secretas no son lo tuyo?
+Yeah I kinda skipped my goth phase.=Sí, como que me salté mi fase gótica.
+The gate is securely chained and woven with... intestines?=La puerta está asegurada con cadenas y entrelazada con... ¿intestinos?
+Gross. There are three locks, each with a dumb symbol painted on the side.=Qué asco. Hay tres cerraduras, cada una con un símbolo tonto pintado al costado.
+
+[RESIDENT]      STUART MASON\n[DOB] 28/08/34\n[OCCUPATION] PUBLIC SERVICES\n\r\n[CONDITION] DECEASED\r\n[CAUSE] MULTI-ORGAN FAILURE\n              \r\n[VOID]=[RESIDENTE]     STUART MASON\n[FECHA DE NACIMIENTO] 28/08/34\n[OCUPACIÓN] SERVICIOS PÚBLICOS\n\r\n[CONDICIÓN] FALLECIDO\r\n[CAUSA] FALLA MULTIORGÁNICA\n              \r\n[ANULADO]
+
+It's still beating...=Aún está latiendo...
+Beating Heart has been added to Inventory.=Se ha añadido Corazón Latente al Inventario.
+Pulsating Heart has been added to Inventory.=Se ha añadido Corazón Pulsante al Inventario.
+This is insane...=Esto es una locura...
+The machine has four arms reaching forward, as if waiting for me to place something in their palms.=La máquina tiene cuatro brazos extendidos hacia adelante, como si esperara que colocara algo en sus palmas.
+
+Throbbing Heart has been added to Inventory.=Se ha añadido Corazón Palpitante al Inventario.
+It has no pulse.=No tiene pulso.
+Dead Heart has been added to Inventory.=Se ha añadido Corazón Muerto al Inventario.
+r:"^Shotgun Ammo \((\d+)\) has been added to Inventory.$"=Se ha añadido Munición de Escopeta ($1) al inventario.
+BEATING HEART=CORAZÓN LATENTE
+PULSATING HEART=CORAZÓN PULSANTE
+THROBBING HEART=CORAZÓN PALPITANTE
+DEAD HEART=CORAZÓN MUERTO
+I don't remember picking this up.=No recuerdo haber recogido esto.
+
+
+It stopped beating.=Ha dejado de latir.
+I don't know what compelled me to do that.=No sé qué me impulsó a hacer eso.
+It's not beating anymore.=Ya no está latiendo.
+My head hurts...=Me duele la cabeza...
+I can hear a distant thumping noise.=Puedo escuchar un ruido a lo lejos.
+
+// Saliendo de las alcantarillas
+I never thought I'd be thankful to breathe the city air but here we are.=Nunca pensé que agradecería respirar el aire de la ciudad, pero aquí estamos.
+You couldn't pay me to go back down there. C'mon, let's get moving.=No volvería ahí abajo ni aunque me pagaran. Vamos, sigamos adelante.
+
+
+Are you feeling alright little sparrow, you look pale.=¿Te sientes bien, pequeña gorrión? Te ves pálida.
+What do you care.=¿Qué te importa?
+You look like you've seen a ghost.=Pareces como si hubieras visto un fantasma.
+I don't know what's real any more.=Ya no sé qué es real.
+They keep coming...=Siguen viniendo...
+Dear, you were doing so well.=Querida, lo estabas haciendo tan bien.
+It's a shame you're not cut out for this.=Es una pena que no estés hecha para esto.
+Fuck you.=Que te jodan.
+Such a filty mouth for a pretty little thing.=Qué boca tan sucia para una cosita tan linda.
+What are you trying to achieve here?=¿Qué intentas lograr con esto?
+Why do you keep picking up?=¿Por qué sigues contestando?
+...=...
+I just want to find her.=Solo quiero encontrarla.
+Tell me, is she still alive?=Dime, ¿aún sigue viva?
+Fuck, what am I saying.=Joder, ¿qué estoy diciendo?
+I can't stay here.=No puedo quedarme aquí.
+Best get moving.=Mejor sigue moviéndote.
+You've not got long left.=No te queda mucho tiempo.
