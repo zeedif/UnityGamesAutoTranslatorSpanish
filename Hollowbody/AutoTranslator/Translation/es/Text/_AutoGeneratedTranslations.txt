@@ -368,8 +368,8 @@ Press {action} to toggle Mica's torch.=Pulsa {action} para alternar la linterna 
 Press <sprite\=77 tint\=1> to interact when [PICK UP] is displayed.=Pulsa <sprite\=77 tint\=1> para interactuar cuando aparezca [RECOGER].
 Press {action} to interact when [PICK UP] is displayed.=Pulsa {action} para interactuar cuando aparezca [RECOGER].
 ----\n[PICKUP]=----\n[RECOGER]
-Press <sprite\=81 tint\=1> to open Mica's inventory and [USE] the Repair Spray.=Pulsa <sprite\=81 tint\=1> para abrir el inventario de Mica y [USAR] el Spray de Curación.
-Press {action} to open Mica's inventory and [USE] the Repair Spray.=Pulsa {action} para abrir el inventario de Mica y [USAR] el Spray de Reparación.
+Press <sprite\=81 tint\=1> to open Mica's inventory and [USE] the Repair Spray.=Pulsa <sprite\=81 tint\=1> para abrir el Inventario de Mica y [USAR] el Spray de Curación.
+Press {action} to open Mica's inventory and [USE] the Repair Spray.=Pulsa {action} para abrir el Inventario de Mica y [USAR] el Spray de Reparación.
 ----\n[USE]=----\n[USAR]
 
 AREA MAP=--MAPA--
@@ -499,7 +499,14 @@ Press {action} to recenter camera.=Pulsa {action} para centrar la cámara.
 Press <sprite\=94 tint\=1> to recenter camera.=Pulsa <sprite\=94 tint\=1> para centrar la cámara.
 <sprite\=69 tint\=1> can be used to nudge moving cameras.=Usa <sprite\=69 tint\=1> para mover la cámara ligeramente.
 
+// Final de la calle
+Looks like this street was intentionally closed off but what were they trying to keep out?=Parece que esta calle fue cerrada intencionalmente, pero ¿qué intentaban mantener fuera?
+Nevermind, need to get a signal through to Tax.=No importa, necesito enviarle una señal a Tax.
+Think I saw an alleyway leading to the apartment block back by that rusty mech.=Creo que vi un callejón que lleva al bloque de apartamentos, cerca de ese meca oxidado.
+Observation Report has been added to Documents.=Se ha añadido Informe de Observación a los Documentos.
+r:"^\/\/OBSERVATION REPORT\n\nThe paper is covered with rows of numbers and dates.\r\n\r\nSome lines appear marked with a red X.\s+\r\n\r\nIt seems to be some sort of observation report, possibly monitoring activities of various residents."=\\\INFORME DE OBSERVACIÓN\n\nEl papel está cubierto de filas de números y fechas.\r\n\r\nAlgunas líneas parecen estar marcadas con una X roja.\r\n\r\nParece ser algún tipo de informe de observación, posiblemente monitoreando las actividades de varios residentes.
 
+// Exterior de los apartamentos
 That stuff has completely covered this side of the building, sealing the doors shut.=Esa cosa ha cubierto por completo este lado del edificio, sellando las puertas.
 Maybe I can find another way in?=¿Quizás pueda encontrar otra forma de entrar?
 The gate to the parking lot is shut tight.=La puerta del estacionamiento está cerrada con llave.
@@ -578,10 +585,11 @@ What?=¿Qué?
 Take a walk, give me some fucking space.=Da un paseo, dame un maldito espacio.
 I… Honey you’re scaring me.=Yo… Cariño, me estás asustando.
 Please, tell me what’s wrong.=Por favor, dime qué pasa.
+We can work this out.=Podemos resolver esto.
 I’m fine. I’m not hungry. I need some space.=Estoy bien. No tengo hambre. Necesito algo de espacio.
 Maybe this construction job wasn’t such a great idea-=Quizás este trabajo de construcción no fue una gran idea—
 Take a walk.=Sal a dar un paseo.
-It’s raining out… Where can I go, I…Está lloviendo afuera… ¿Adónde puedo ir? Yo…
+It’s raining out… Where can I go, I…=Está lloviendo afuera… ¿Adónde puedo ir? Yo…
 I said, take a walk.=Dije, sal a dar un paseo.
 This is our home, I live here…=Este es nuestro hogar, vivo aquí…
 GET THE FUCK OUT OF MY HOUSE.=LÁRGATE YA DE MI CASA, JODER.
@@ -634,6 +642,8 @@ r:"\/\/NEWSPAPER - NOV 16\n\nSocial enrichment charity Sherwood Announces Monume
 
 //Habitación 2.14
 [RESIDENT]      KATHERINE DOWELL\n[DOB] 22/11/27\n[OCCUPATION] UNEMPLOYED\r\n\r\n[CONDITION] DECEASED\r\n[CAUSE] ACUTE DEHYDRATION\n              \r\n[VOID]=[RESIDENTE]     KATHERINE DOWELL\n[FECHA DE NACIMIENTO] 22/11/27\n[OCUPACIÓN] DESEMPLEADA\r\n\r\n[CONDICIÓN] FALLECIDA\r\n[CAUSA] DESHIDRATACIÓN AGUDA\n              \r\n[ANULADO]
+I can see right through to the ground floor.=Puedo ver hasta la planta baja.
+There's something on the table, I can't reach it with my bare hands.=Hay algo en la mesa, pero no puedo alcanzarlo con mis manos desnudas.
 Gross, the sheets are stained.=Qué asco, las sábanas están manchadas.
 I hate to think how long it's been since those sheets have been washed.=Odio pensar cuánto tiempo ha pasado desde que se lavaron esas sábanas.
 It's full of old rotten garments.=Está lleno de viejas prendas podridas.
@@ -721,8 +731,8 @@ A portable battery, the casing is damaged and leaking battery acid.=Una batería
 The kitchen's been filled with old rubbish bags.=La cocina está llena de viejas bolsas de basura.
 Ugh, the smell is revolting.=Ugh, el olor es repugnante.
 
-A small child's bed. Various toys and posters decorate the room.=La cama de un niño pequeño. Varios juguetes y pósters decoran la habitación.
-Either they left in a hurry or...=O se fueron de prisa o…
+A small child's bed. Various toys and posters decorate the room.=Una pequeña cama infantil. Varios juguetes y pósters decoran la habitación.
+Either they left in a hurry or...=Parece que se fueron de prisa o…
 
 I guess this is where the parents slept.=Supongo que aquí es donde dormían los padres.
 I wonder what happened to them.=Me pregunto qué les habrá pasado.
@@ -1851,3 +1861,17 @@ Although nothing quite amounts to that which has taken place over the past 48 ho
 Why don't you start from the beginning.=¿Por qué no empiezas desde el principio?
 After all, we've got all the time in the world.=Después de todo, tenemos todo el tiempo del mundo.
 NEW GAME+=NUEVO JUEGO+
+
+//Nuevo juego+
+Would you like to skip the Prologue?=¿Te gustaría saltar el Prólogo?
+PLAY PROLOGUE=JUGAR PRÓLOGO
+SKIP PROLOGUE=SALTAR PRÓLOGO
+
+Huge towering walls surround the city.=Enormes murallas rodean la ciudad.
+<I>BIG HEAD MODE (OFF)</I>=<I>MODO CABEZA GRANDE (APAGADO)</I>
+<I>BIG HEAD MODE (ON)</I>=<I>MODO CABEZA GRANDE (ENCENDIDO)</I>
+A bobble head keychain. Can be used to turn Big Head Mode on or off.=Un llavero de cabeza balanceante. Puede usarse para activar o desactivar el Modo Cabeza Grande.
+
+<I>DUNGEON CRAWL MODE (OFF)</I>=<I>MODO DUNGEON CRAWL (APAGADO)</I>
+<I>DUNGEON CRAWL MODE (ON)</I>=<I>MODO DUNGEON CRAWL (ENCENDIDO)</I>
+An eyeball keychain. Can be used to turn First Person Mode on or off.=Un llavero de ojo. Puede usarse para activar o desactivar el Modo en Primera Persona.
