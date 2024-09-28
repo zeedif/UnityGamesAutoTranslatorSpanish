@@ -1852,6 +1852,7 @@ Dungeon Crawl Mode (First Person) has been unlocked (New Game+)=Modo Dungeon Cra
 Big Head Mode has been unlocked (New Game+)=Modo Cabeza Grande desbloqueado (Nuevo Juego+)
 Punished Difficulty has been unlocked (New Game+)=Dificultad Difícil desbloqueada (Nuevo Juego+)
 
+// Riven Ending
 UNDISCLOSED LOCATION=UBICACIÓN DESCONOCIDA
 Mrs Holloway.=Sra. Holloway.
 We've been watching you for quite some time now.=Te hemos estado observando por un buen tiempo.
@@ -1860,9 +1861,21 @@ Trafficking of contraband, unauthorised air travel, petty theft... The list is l
 Although nothing quite amounts to that which has taken place over the past 48 hours.=Aunque nada se compara con lo que ha ocurrido en las últimas 48 horas.
 Why don't you start from the beginning.=¿Por qué no empiezas desde el principio?
 After all, we've got all the time in the world.=Después de todo, tenemos todo el tiempo del mundo.
-NEW GAME+=NUEVO JUEGO+
 
-//Nuevo juego+
+// Reunion Ending
+24 YEARS LATER=24 AÑOS DESPUÉS
+
+// Secret Ending
+Probably a doghouse, though I'm not sure since there's no dog around.=Probablemente sea una caseta para perros, aunque no estoy seguro porque no hay ningún perro cerca.
+Mica! I'm so glad I've found you.=¡Mica! ¡Estoy tan contento de haberte encontrado!
+I know how to get out of here! I already told Sasha, she's waiting for you outside.=¡Sé cómo salir de aquí! Ya se lo dije a Sasha, ella te está esperando afuera.
+Follow me! I know the way!=¡Sígueme! ¡Conozco el camino!
+Here we are! A boat! Boats travel across water!=¡Aquí estamos! ¡Un bote! ¡Los botes cruzan el agua!
+But where's the captain?=¿Pero dónde está el capitán?
+Arr matey!!=¡¡Arr, grumete!!
+It's time to set sail for the city of Aeonis! Let's go!=¡Es hora de zarpar hacia la ciudad de Aeonis! ¡Vamos!
+
+NEW GAME+=NUEVO JUEGO+
 Would you like to skip the Prologue?=¿Te gustaría saltar el Prólogo?
 PLAY PROLOGUE=JUGAR PRÓLOGO
 SKIP PROLOGUE=SALTAR PRÓLOGO
