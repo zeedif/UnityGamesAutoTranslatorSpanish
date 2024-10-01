@@ -23,7 +23,7 @@ Each Red Heart heals you for 80 HP. Maid Marija receives even more healing.=Cada
 Buro has a secret power that can make food disappear.=Buro tiene un poder secreto que puede hacer que la comida desaparezca.
 Match your characters and Elfins wisely.=Empareja a tus personajes y Elfins sabiamente.
 Buro's bear is called Ola because it's making the Ola-ola-ola sound all the time.=El oso de Buro se llama Ola porque hace el sonido Ola-ola-ola todo el tiempo.
-Rumor has it that something might happen if you cleared [Milk]?!=¡¿Corre el rumor de que algo podría pasar si despejas [Milk]?!
+Rumor has it that something might happen if you cleared [Milk]?!=¡¿Corre el rumor de que algo podría pasar si superas [Milk]?!
 How old are the girls? You're asking too many questions!=¿Cuántos años tienen las chicas? ¡Estás haciendo demasiadas preguntas!
 Did you know? We actually have an official Wiki. Come and find it in the announcement page.=¿Sabías? En realidad tenemos un Wiki oficial. Ven y encuéntralo en la página de anuncios.
 Hit the hammer not dodge it=Golpea el martillo, no lo esquives.
@@ -52,7 +52,7 @@ Completed=Sincronización completa
 
 提示=AVISO
 <color\=#5F85FFFF>通关</color>，完成<color\=#5F85FFFF>挑战</color>和<color\=#5F85FFFF>成就</color>可以获得用于提升等级的经验。 提升等级将会获得用于解锁游戏内容的<color\=#5F85FFFF>道具</color>！=Completar <color\=#5F85FFFF>niveles</color>, <color\=#5F85FFFF>desafíos</color> y <color\=#5F85FFFF>logros</color> te otorgará experiencia para subir de nivel. ¡Subir de nivel te permitirá desbloquear <color\=#5F85FFFF>objetos</color> del juego!
-<color\=#5F85FFFF>Clear stages</color>, finish <color\=#5F85FFFF>challenges</color> and get <color\=#5F85FFFF>achievements</color> to gain EXP for leveling up.  Level up to gain <color\=#5F85FFFF>items</color> used for unlock game content!=Completa <color\=#5F85FFFF>escenarios</color>, <color\=#5F85FFFF>desafíos</color> y <color\=#5F85FFFF>logros</color> para ganar experiencia y subir de nivel. ¡Sube de nivel para desbloquear <color\=#5F85FFFF>objetos</color> del juego!
+<color\=#5F85FFFF>Clear stages</color>, finish <color\=#5F85FFFF>challenges</color> and get <color\=#5F85FFFF>achievements</color> to gain EXP for leveling up.  Level up to gain <color\=#5F85FFFF>items</color> used for unlock game content!=Supera <color\=#5F85FFFF>escenarios</color>, completa <color\=#5F85FFFF>desafíos</color> y <color\=#5F85FFFF>logros</color> para ganar experiencia y subir de nivel. ¡Sube de nivel para desbloquear <color\=#5F85FFFF>objetos</color> del juego!
 
 
 ATTENTION=ATENCIÓN
@@ -194,6 +194,7 @@ Swindler King Shows off=Rey Apostador se luce
 Fe-nya!=¡Fe-nya!
 
 Mutown=Mutown
+Lab=Laboratorio
 
 r:"^([A-Z])$"=$1
 "^Keypad(\d)$"=Num $1
@@ -347,7 +348,7 @@ Maybe your network is poor. Please retry.=Quizás tu conexión a internet sea d�
 r:"^LV.(\d+)$"=NV. $1
 r:"^Account：(.+)?$"=Cuenta:$1
 ID：=ID:
-r:"^玩家(.*)$"=Jugador $1
+r:"^玩家(.*)$"=PJ $1
 CANCEL=VOLVER
 Copy the UID=COPIAR UID
 LOG OUT=DESVINCULAR
@@ -433,6 +434,7 @@ r:"^Magical Girl (- )?Marija$"=Chica Mágica $1Marija
 r:"^Little Devil (- )?Marija$"=Diablilla $1Marija
 r:"^The Girl In Black (- )?Marija$"=La Chica de Negro $1Marija
 r:"^Sister (- )?Marija$"=Monja $1Marija
+r:"^Mechanical Ballerina (- )?Marija$"=Bailarina Mecánica $1Marija
 Yume=Yume
 Navigator - Yume=Navegadora - Yume
 NEKO#ΦωΦ=NEKO#ΦωΦ
@@ -537,7 +539,7 @@ Your hand is boiling hot...are you sick?=Tu mano está ardiendo... ¿estás enfe
 Wait, it...it's working time now...=Espera, es... es hora de trabajar ahora...
 Can I change my old suit back?=¿Puedo cambiar a mi vestimenta anterior?
 The carrot is only used for battles!!=¡¡La zanahoria solo se usa para batallas!!
-Here is your Stage Clear award. Don't, don't relate to anything nasty!!=Aquí está tu premio de Escenario superado. ¡No, no lo relaciones con nada desagradable!
+Here is your Stage Clear award. Don't, don't relate to anything nasty!!=Aquí está tu premio por superar el Escenario. ¡No, no lo relaciones con nada desagradable!
 
 Christmas Gift=Regalo de Navidad
 
@@ -834,7 +836,7 @@ I was called by a dangerous-looking girl in black to dust her car… Do I look l
 Treating every enemy with care is not my style. Let me teach you how to use Master Spark ~ ☆=Tratar a cada enemigo con cuidado no es mi estilo. Permíteme enseñarte cómo usar el Master Spark~ ☆
 Stop—I handed over everything I stole... I took!If you dare do something that crosses the line, I'll call Reimu to sort you out!=Detente—devolví todo lo que robé... ¡tomé! Si te atreves a hacer algo que cruce la línea, ¡llamaré a Reimu para que te ponga en orden!
 It's Marija's book, I borrowed it! ...Taking a book can't be considered stealing!=¡Es el libro de Marija, lo tomé prestado! ...¡Tomar un libro no puede considerarse robo!
-Ah~ There are too many notes in some stages. Now, I understand how they feel when they see my danmaku…=Ah~ Hay demasiadas notas en algunos escenarios. Ahora, entiendo cómo se sienten cuando ven mi danmaku...
+Ah~ There are too many notes in some stages. Now, I understand how they feel when they see my danmaku…=Ah~ Hay demasiadas notas en algunos escenarios. Ahora, entiendo cómo se sienten cuando ven mis danmaku...
 You can't eat that mushroom! It is… the magic mushroom, which can increase intimacy between you and who you love… I don't know the details! I didn't eat it!!=¡No puedes comer ese hongo! Es... el hongo mágico, que puede aumentar la intimidad entre tú y quien amas... ¡No sé los detalles! ¡No lo comí!
 What are you staring at?! Ah… How do you know there are bombs under my dress?=¿Qué estás mirando?! Ah... ¿Cómo sabes que hay bombas debajo de mi vestido?
 The mushroom world is really complicated! It took me a night to do a little research! So—please don't look at me as if I were an overachiever.=¡El mundo de los hongos es realmente complicado! ¡Me tomó una noche hacer una pequeña investigación! Así que—por favor, no me mires como si fuera una sobresaliente.
@@ -901,6 +903,9 @@ Let me tell you how to comb my hair. From the ear to the tail... Take it slow an
 You can't see the back of your head, right? And the werewolf itself doesn't know what it looks like after the transformation... But I'm quite sure that I must be a fierce one. You should be cafeful of that~=No puedes ver la parte de atrás de tu cabeza, ¿verdad? Y el hombre lobo no sabe cómo se ve después de la transformación... Pero estoy bastante segura de que debo ser feroz. Deberías tener cuidado con eso~
 This is not the cat ear, and that is not the dog tail. Wolf, have you heard of the wolf?=Esto no es la oreja de un gato, y eso no es la cola de un perro. Lobo, ¿has oído hablar del lobo?
 When I'm fast, the moon is close; when I'm slow, the moon is far.=Cuando soy rápida, la luna está cerca; cuando soy lenta, la luna está lejos.
+
+The new character「<color\=#FF33D8FF>Mechanical Ballerina</color>」comes on stage!=¡El nuevo personaje 「<color\=#FF33D8FF>Bailarina Mecánica</color>」 sube al escenario!
+Mechanical Ballerina=Bailarina Mecánica
 
 
 RESTORE=RESTAURAR
@@ -1031,7 +1036,7 @@ Love -- Only at Neon Radio=Amor -- Solo en Neon Radio
 Reimuuuuuuu! This is even harder than the danmaku games!\nCan I just blast them all at once?=¡Reimuuuuuuu! Esto es incluso más difícil que los juegos de danmaku. ¿Puedo simplemente explotarlos a todos de una vez?
 Exclusive report from Memory News. The Girl In Black is rendezvousing with Tairitsu in a brand-new dress. According to the police, the driver's personal safety is the top priority.=Informe exclusivo de Memory News. La Chica de Negro se está encontrando con Tairitsu en un vestido completamente nuevo. Según la policía, la seguridad personal del conductor es la máxima prioridad.
 Skilled but a little rusty, joyful mixed with rage—this is how the impressing "Dissonance"in the miracle performance with Clear and Rin will be!=Habilidosa pero un poco oxidada, alegre a la vez que furiosa: así será la impresionante "Disonancia" en el milagroso concierto con Clear y Rin.
-A new member has joined MUSE RADIO, though the club activity seems to remain in the stage of\n " everyone listening to their own song lists with headphones"?=Un nuevo miembro se ha unido a MUSE RADIO, aunque la actividad del club parece permanecer en la etapa de "todos escuchando sus propias listas de canciones con auriculares".
+A new member has joined MUSE RADIO, though the club activity seems to remain in the stage of\n " everyone listening to their own song lists with headphones"?=Un nuevo miembro se ha unido a MUSE RADIO, aunque la actividad del club parece que sigue en la fase de "todos escuchando sus propias listas de canciones con auriculares".
 Fresh food and lovely friends at a celebration banquet as usual… \nNow, after you take a seat beside me, the banquet can start.=Comida fresca y amigos encantadores en un banquete de celebración como de costumbre... Ahora, después de que te sientes a mi lado, ¡el banquete puede comenzar!
 Tomorrow, make sure to chat with the new member... What's her name again... Marija?=Mañana, asegúrate de charlar con el nuevo miembro... ¿Cómo era su nombre otra vez? Ah, sí... ¿Marija?
 Tengu Rin from the outside and Representative Marisa of the Gensokyo, bet [Game Rules] in the Drinking Challenge? The bonus is the money in that Saisen Box!=¿Tengu Rin desde afuera y la Representante Marisa de Gensokyo, ¿apuestan [Reglas del Juego] en el Desafío de Beber?  ¡El bono es el dinero en esa Caja de Saisen!
@@ -1073,10 +1078,10 @@ Level up to collect random chips to unlock「Illus.Miku in Museland 3」=Sube de
 Level up to collect random chips to unlock「Illus.Autumn 2023」=Sube de nivel para recoger chips aleatorios para desbloquear「Illus.Otoño 2023」
 Level up to collect random chips to unlock「Illus.Christmas 2023」=Sube de nivel para recoger chips aleatorios para desbloquear「Illus.Navidad 2023」
 
-Clear [Say! Fanfare! - Fubuki Shirakami] in Default Music at any difficulty level to unlock it=Completa [Say! Fanfare! - Fubuki Shirakami] de la Música predeterminada en cualquier nivel de dificultad para desbloquear
+Clear [Say! Fanfare! - Fubuki Shirakami] in Default Music at any difficulty level to unlock it=Supera [Say! Fanfare! - Fubuki Shirakami] de la Música predeterminada en cualquier nivel de dificultad para desbloquear
 Fail any Lv. 9+ stage to unlock it=Falla cualquier escenario de NV. 9 o superior para desbloquear
-Clear [Mezame Eurythmics-bermei.inazawa] or [Shenri Kuaira -repeat--bermei.inazawa] \n in Default Music at any difficulty level to unlock it=Completa [Mezame Eurythmics-bermei.inazawa] o [Shenri Kuaira -repeat--bermei.inazawa] de la Música predeterminada en cualquier nivel de dificultad para desbloquear
-Clear [INTERNET OVERDOSE（Aiobahn feat.KOTOKO）- "NEEDY STREAMER OVERLOAD" theme song] \n in Default Music at any difficulty level to unlock it=Completa [INTERNET OVERDOSE（Aiobahn feat.KOTOKO）- "NEEDY STREAMER OVERLOAD" theme song] de la Música predeterminada en cualquier nivel de dificultad para desbloquear
+Clear [Mezame Eurythmics-bermei.inazawa] or [Shenri Kuaira -repeat--bermei.inazawa] \n in Default Music at any difficulty level to unlock it=Supera [Mezame Eurythmics-bermei.inazawa] o [Shenri Kuaira -repeat--bermei.inazawa] de la Música predeterminada en cualquier nivel de dificultad para desbloquear
+Clear [INTERNET OVERDOSE（Aiobahn feat.KOTOKO）- "NEEDY STREAMER OVERLOAD" theme song] \n in Default Music at any difficulty level to unlock it=Supera [INTERNET OVERDOSE（Aiobahn feat.KOTOKO）- "NEEDY STREAMER OVERLOAD" theme song] de la Música predeterminada en cualquier nivel de dificultad para desbloquear
 
 
 Waaaaat?! Four fingers can tap the screen faster than two?! ∑(ﾟДﾟノ)ノ=¡¿Qué?! ¿¡Cuatro dedos pueden tocar la pantalla más rápido que dos?! ∑(ﾟДﾟノ)ノ
@@ -1130,21 +1135,21 @@ r:"^(\d+):(\d+):(\d+)$"=$1:$2:$3
 挑战=Desafíos
 CHALLENGES=DESAFÍOS
 r:"^Clear a stage and reach (\d+) Combo.$"=Supera un escenario y alcanza un Combo de $1.
-r:"^Consecutively clear (\d+) different stages and totally dodge (\d+)\+ barriers.(\s*\(\d+/\d+\))?$"=Completa consecutivamente $1 escenarios diferentes y esquiva un total de $2 barreras o más.$3
-r:"^Consecutively clear (\d+) different stages.(\s*\(\d+/\d+\))?$"=Completa consecutivamente $1 escenarios diferentes.$2
+r:"^Consecutively clear (\d+) different stages and totally dodge (\d+)\+ barriers.(\s*\(\d+/\d+\))?$"=Supera consecutivamente $1 escenarios diferentes y esquiva un total de $2 barreras o más.$3
+r:"^Consecutively clear (\d+) different stages.(\s*\(\d+/\d+\))?$"=Supera consecutivamente $1 escenarios diferentes.$2
 下一个挑战=Próximo desafío en:
 
-r:"^Consecutively clear (\d+) different Lv.(\d+)\+ stages and totally achieve (\d+)\+ "Perfect" judgements.(\s*\(\d+/\d+\))?$"=Completa consecutivamente $1 escenarios diferentes de NV.$2 o superior y logra un total de $3 valoraciones de "Perfecto" o más.$4
-r:"^Consecutively clear (\d+) different Lv.(\d+)\+ stages and totally dodge (\d+)\+ barriers.(\s*\(\d+/\d+\))?$"=Completa consecutivamente $1 escenarios diferentes de NV.$2 o superior y esquiva totalmente $3 barreras o más.$4
-r:"^Consecutively clear (\d+) different Lv.(\d+)\+ stages and keep HP more than (\d+)\%.(\s*\(\d+/\d+\))?$"=Completa consecutivamente $1 escenarios diferentes de NV.$2 o superior y mantén HP más del $3%.$4
-r:"^Consecutively clear (\d+) different stages and totally knock back (\d+)\+ enemies or BOSS's attacks.(\s*\(\d+/\d+\))?$"=Completa consecutivamente $1 escenarios diferentes y repele un total de $2 ataques o más de enemigos o jefes.$3
+r:"^Consecutively clear (\d+) different Lv.(\d+)\+ stages and totally achieve (\d+)\+ "Perfect" judgements.(\s*\(\d+/\d+\))?$"=Supera consecutivamente $1 escenarios diferentes de NV.$2 o superior y logra un total de $3 valoraciones de "Perfecto" o más.$4
+r:"^Consecutively clear (\d+) different Lv.(\d+)\+ stages and totally dodge (\d+)\+ barriers.(\s*\(\d+/\d+\))?$"=Supera consecutivamente $1 escenarios diferentes de NV.$2 o superior y esquiva totalmente $3 barreras o más.$4
+r:"^Consecutively clear (\d+) different Lv.(\d+)\+ stages and keep HP more than (\d+)\%.(\s*\(\d+/\d+\))?$"=Supera consecutivamente $1 escenarios diferentes de NV.$2 o superior y mantén HP más del $3%.$4
+r:"^Consecutively clear (\d+) different stages and totally knock back (\d+)\+ enemies or BOSS's attacks.(\s*\(\d+/\d+\))?$"=Supera consecutivamente $1 escenarios diferentes y repele un total de $2 ataques o más de enemigos o jefes.$3
 
 
 成就=Logros
-r:"The First Time      <color\=#FFFFFFB2>Clear a Lv.(\d+).*"=La Primera Vez      <color\=#FFFFFFB2>Completa un escenario de nivel $1 o superior.</color>
-r:"The Best Player Available      <color\=#FFFFFFB2>Clear (\d+) Easy Mode stages.</color>"=El Mejor Jugador Disponible      <color\=#FFFFFFB2>Completa $1 escenarios en Modo Fácil.</color>
-r:"Tower of Strength      <color\=#FFFFFFB2>Clear (\d+) Hard Mode stages.</color>"=Torre de Fortaleza      <color\=#FFFFFFB2>Completa $1 escenarios en Modo Difícil.</color>
-r:"Already a Master      <color\=#FFFFFFB2>Clear (\d+) Master Mode stages.</color>"=Ya un Maestro      <color\=#FFFFFFB2>Completa $1 escenarios en Modo Maestro.</color>
+r:"The First Time      <color\=#FFFFFFB2>Clear a Lv.(\d+).*"=La Primera Vez      <color\=#FFFFFFB2>Supera un escenario de nivel $1 o superior.</color>
+r:"The Best Player Available      <color\=#FFFFFFB2>Clear (\d+) Easy Mode stages.</color>"=El Mejor Jugador Disponible      <color\=#FFFFFFB2>Supera $1 escenarios en Modo Fácil.</color>
+r:"Tower of Strength      <color\=#FFFFFFB2>Clear (\d+) Hard Mode stages.</color>"=Torre de Fortaleza      <color\=#FFFFFFB2>Supera $1 escenarios en Modo Difícil.</color>
+r:"Already a Master      <color\=#FFFFFFB2>Clear (\d+) Master Mode stages.</color>"=Ya un Maestro      <color\=#FFFFFFB2>Supera $1 escenarios en Modo Maestro.</color>
 r:"(\w)      <color\=#FFFFFFB2>Achieve grade ("\w") in a stage for (\d+) times.</color>"=$1      <color\=#FFFFFFB2>Alcanza la calificación $2 en un escenario $3 veces. </color>
 r:"S      <color\=#FFFFFFB2>Achieve grade "S" in a Lv.(\d+)\+ stage.</color>"=S      <color\=#FFFFFFB2>Alcanza la calificación "S" en un escenario de nivel $1 o superior.</color>
 S      <color\=#FFFFFFB2>Achieve grade "S" in a stage.</color>=S      <color\=#FFFFFFB2>Alcanza la calificación "S" en un escenario.</color>
@@ -1165,8 +1170,8 @@ r:"Illustration Collection      <color\=#FFFFFFB2>Collect (\d+) illustrations.</
 Just as Planned! (Hidden)      <color\=#FFFFFFB2>Purchase 「Just as Planned」.</color>=¡Según lo Planeado! (Oculto)      <color\=#FFFFFFB2>Compra「Just as Planned」.</color>
 Nyanpasu! (Hidden)      <color\=#FFFFFFB2>Purchase「Muse Plus」.</color>=¡Nyanpasu! (Oculto)      <color\=#FFFFFFB2>Compra「Muse Plus」.</color>
 r:"Battle-seasoned      <color\=#FFFFFFB2>Totally knock back (\d+) enemies or BOSS's remote attacks.</color>"=Experimentado en Batalla      <color\=#FFFFFFB2>Repele totalmente $1 ataques remotos de enemigos o JEFES.</color>
-r:"Give Up Treatment (Hidden)      <color\=#FFFFFFB2>Clear a Lv.7+ stage without collecting Red Hearts.</color>"=Renuncia al Tratamiento (Oculto)      <color\=#FFFFFFB2>Completa un escenario de nivel $1 o superior sin recolectar Corazones Rojos.</color>
-Is That OK? (Hidden)      <color\=#FFFFFFB2>Clear a stage without knocking back enemies.</color>=¿Está Bien Eso? (Oculto)      <color\=#FFFFFFB2>Completa un escenario sin derribar enemigos.</color>
+r:"Give Up Treatment (Hidden)      <color\=#FFFFFFB2>Clear a Lv.7+ stage without collecting Red Hearts.</color>"=Renuncia al Tratamiento (Oculto)      <color\=#FFFFFFB2>Supera un escenario de nivel $1 o superior sin recolectar Corazones Rojos.</color>
+Is That OK? (Hidden)      <color\=#FFFFFFB2>Clear a stage without knocking back enemies.</color>=¿Está Bien Eso? (Oculto)      <color\=#FFFFFFB2>Supera un escenario sin derribar enemigos.</color>
 r:"The Pinnacle of Life (Hidden)      <color\=#FFFFFFB2>Achieve (\d+)\% Accuracy in a Lv.(\d+)\+ stage.</color>"=La Cima de la Vida (Oculto)      <color\=#FFFFFFB2>Logra un $1% de Precisión en un escenario de de nivel $2 o superior.</color>
 r:"Almost Full Combo (Hidden)      <color\=#FFFFFFB2>Achieve only (\d+) "Miss" judgement in a Lv.(\d+)\+ stage.</color>"=Casi Combo Completo (Oculto)      <color\=#FFFFFFB2>Logra solo $1 Fallo en un escenario de nivel $2 o superior.</color>
 
@@ -1199,9 +1204,10 @@ GRADE=RANGO
 连击=COMBO
 准确率=PRECISIÓN
 通关数=COMPLETADON
-CLEAR=COMPLETADO
+CLEAR=SUPERADO
 ID=ID
 r:"^(\d+\.\d+\s+\%)$"=$1
+STAGE ACHIEVEMENTS=LOGROS DE ESCENARIO
 
 PERFECT=PERFECTO
 GREAT=GENIAL
@@ -1380,7 +1386,7 @@ This chart has not been uploaded!=¡Esta pista no se ha subido a Headquarters!
 This is a message.=Este es un mensaje.
 Amiya=Amiya
 Leader of Rhodes Island=Líder de la Isla de Rodas
-r:"^Leader of Rhodes Island (- )Amiya$=Líder de la Isla de Rodas $1Amiya
+r:"^Leader of Rhodes Island (- )Amiya$"=Líder de la Isla de Rodas $1Amiya
 Yosetsu=Yosetsu
 Knoll格子衫=Knoll格子衫
 裏方(Uracata)=裏方(Uracata)
@@ -1533,7 +1539,7 @@ Level up to collect random chips to unlock「Illus.6th Anniversary」=Nivelado p
 When I ask who remembers what the Notification says, the whole world is silent.=Cuando pregunto quién recuerda lo que dice la notificación, el mundo entero está en silencio.
 Otaku offers a substantial reward for being reincarnated but gets overwhelmed by the mobs as he awakens, shouting "I'm scammed, it's a rhythm game!"=Otaku ofrece una recompensa sustancial por ser reencarnado, pero se siente abrumado por las turbas mientras se despierta, gritando "Estoy estafado, ¡es un juego de ritmo!"
 Date with the Maids 6th Anniversary Goods Released=Fecha con los bienes de 6º aniversario de las mucamas publicadas
-Stage Tutorials=Tutoriales de etapa
+Stage Tutorials=Tutoriales de escenario
 
 Function Description=Descripción de funciones
 <color\=#FF33D8FF>Filter</color> can help you find the songs you want to play faster.\nAttention please! If you can't find a song, please check <color\=#FF33D8FF>Music Index</color> first~=<color\=#FF33D8FF>Filtrar</color> puede ayudarte a encontrar las canciones que deseas jugar más rápido.\n¡Atención! Si no puedes encontrar una canción, revisa primero el <color\=#FF33D8FF>Índice de Música</color>~
@@ -1578,7 +1584,7 @@ Google\n=Google\n
 
 //CANCIONES DEL GRUPO PREDTERMINADO
 
-r:"^UNLOCKED AT LV.(\d+)$"=DISPONIBLE AL NV.$1
+r:"^UNLOCKED AT LV.(\d+)$"=ACCESIBLE AL NV.$1
 
 Magical Wonderland (More colorful mix)=Magical Wonderland (More colorful mix)
 Iyaiya=Iyaiya
@@ -2001,7 +2007,7 @@ r:"^Marmalade Twins(.*)$"=Marmalade Twins$1
 r:"^DOMINATOR(.*)$"=DOMINATOR$1
 r:"^てしかに\( TESHiKANi \)(.*)$"=てしかに( TESHiKANi )$1
 
-Valentine Stage=Etapa de San Valentín
+Valentine Stage=Valentine Stage
 
 r:"^Sweet Dream\(VIVINOS - 'Alien Stage OST Part.2'\)(.*)$"=Sweet Dream(VIVINOS - 'Alien Stage OST Part.2')$1
 r:"^Ruler Of My Heart\(VIVINOS - 'Alien Stage Pt5'\)(.*)$"=Ruler Of My Heart(VIVINOS - 'Alien Stage Pt5')$1
@@ -2303,7 +2309,7 @@ r:"^Helixir(.*)$"=Helixir$1
 r:"^人鱼电台(.*)$"=人鱼电台$1
 r:"^SyZyGy(.*)$"=SyZyGy$1
 r:"^Crow Rabbit(.*)$"=Crow Rabbit$1
-r:"^Is there no way I'm defeated by OTOGE-BOSS-KYOKU-CHAN is strongly provoking?????(.*)$"=Is there no way I'm defeated by OTOGE-BOSS-KYOKU-CHAN is strongly $1provoking?????
+r:"^Is there no way I'm defeated by OTOGE-BOSS-KYOKU-CHAN is strongly provoking\?\?\?\?\?(.*)$"=Is there no way I'm defeated by OTOGE-BOSS-KYOKU-CHAN is strongly $1provoking?????
 r:"^Random(.*)$"=Random$1
 r:"^Silver Bullet(.*)$"=Silver Bullet$1
 r:"^The Day We Become Family(.*)$"=The Day We Become Family$1
@@ -2373,6 +2379,20 @@ r:"^Hydra(.*)$"=Hydra$1
 r:"^Pastel Lines(.*)$"=Pastel Lines$1
 r:"^LINK x LIN#S(.*)$"=LINK x LIN#S$1
 r:"^Arcade ViruZ(.*)$"=Arcade ViruZ$1
+
+//Concept Pack
+Endless Pirouette=Endless Pirouette
+
+r:"^Eve Avenir(.*)$"=Eve Avenir$1
+r:"^Silverstring(.*)$"=Silverstring$1
+r:"^Melusia(.*)$"=Melusia$1
+r:"^Devil's Castle(.*)$"=Devil's Castle$1
+r:"^Abatement(.*)$"=Abatement$1
+r:"^Azalea(.*)$"=Azalea$1
+r:"^Brightly World(.*)$"=Brightly World$1
+r:"^We'll meet in every world ★★★(.*)$"=We'll meet in every world ★★★$1
+r:"^Collapsar(.*)$"=Collapsar$1
+r:"^Parousia(.*)$"=Parousia$1
 
 //CANCIONES CUSTOM
 r:"^BBBang(.*)$"=BBBang$1
@@ -2738,6 +2758,18 @@ mossari feat.TEA=mossari feat.TEA
 MK=MK
 uma with Morimori Atsushi feat. masiro=uma with Morimori Atsushi feat. masiro
 ビートまりお=ビートまりお
+BlackY feat. Risa Yuzuki=BlackY feat. Risa Yuzuki
+Se-U-Ra × seatrus=Se-U-Ra × seatrus
+Mizku & SNKS=Mizku & SNKS
+Ryusei Trap Boys=Ryusei Trap Boys
+uma vs. M-UE=uma vs. M-UE
+Salad Savior=Salad Savior
+
+Unknown Error(´×ω×`)=Error desconocido (´×ω×`)
+r:"Please log in to redeem the content."=Inicia sesión para canjear el contenido.
+Unable to refresh the notifications, please check your network.=No se pueden actualizar las notificaciones, revisa tu conexión de red.
+<color\=#FF33D8FF>Refresh error. Please retry later QAQ</color>=<color\=#FF33D8FF>Error al actualizar. Inténtalo de nuevo más tarde QAQ</color>
+The search box is empty, please enter=El cuadro de búsqueda está vacío, ingresa algo.
 
 
 
