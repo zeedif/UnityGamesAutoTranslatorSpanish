@@ -3,6 +3,7 @@ Press {action} to progress any on-screen text.=Pulsa {action} para avanzar cualq
 Press <sprite\=77 tint\=1> to progress any on-screen text.=Pulsa <sprite\=77 tint\=1> para avanzar cualquier texto en pantalla.
 <sprite\=77 tint\=1>=<sprite\=77 tint\=1>
 <sprite\=7 tint\=1>=<sprite\=7 tint\=1>
+<sprite\=6 tint\=1>=<sprite\=6 tint\=1>
 Some parts of this game may be considered violent, disturbing or cruel.=Algunas partes de este juego pueden considerarse violentas, perturbadoras o crueles.
 It is best enjoyed with a controller.=Se disfruta mejor con un mando.
 Hollowbody contains flashing lights that may make it unsuitable for people with photosensitive epilepsy or other photosensitive conditions. Player discretion is advised.=Hollowbody contiene luces intermitentes que podrían no ser adecuadas para personas con epilepsia fotosensible u otras condiciones similares. Se recomienda precaución al jugar.
