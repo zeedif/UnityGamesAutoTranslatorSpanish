@@ -1,9 +1,7 @@
 ﻿LOADING=CARGANDO
 Press {action} to progress any on-screen text.=Pulsa {action} para avanzar cualquier texto en pantalla.
 Press <sprite\=77 tint\=1> to progress any on-screen text.=Pulsa <sprite\=77 tint\=1> para avanzar cualquier texto en pantalla.
-<sprite\=77 tint\=1>=<sprite\=77 tint\=1>
-<sprite\=7 tint\=1>=<sprite\=7 tint\=1>
-<sprite\=6 tint\=1>=<sprite\=6 tint\=1>
+r:"^<sprite\=(\d+) tint\=(\d+)>$"=<sprite\=$1 tint\=$2>
 Some parts of this game may be considered violent, disturbing or cruel.=Algunas partes de este juego pueden considerarse violentas, perturbadoras o crueles.
 It is best enjoyed with a controller.=Se disfruta mejor con un mando.
 Hollowbody contains flashing lights that may make it unsuitable for people with photosensitive epilepsy or other photosensitive conditions. Player discretion is advised.=Hollowbody contiene luces intermitentes que podrían no ser adecuadas para personas con epilepsia fotosensible u otras condiciones similares. Se recomienda precaución al jugar.
@@ -743,6 +741,7 @@ I hope they got out.=Espero que hayan logrado salir.
 A old wooden bat pierced with rusty nails is embedded in the door.=Una vieja tabla de madera atravesada por clavos oxidados está incrustada en la puerta.
 Take the <b>Makeshift Club</b>?=¿Tomar el <b>Garrote Improvisado</b>?
 Makeshift Club has been added to Inventory.=Se ha añadido Garrote Improvisado al inventario.
+A makeshift club built from an old plank of wood and some nine inch nails.=Un garrote improvisado hecho de una vieja tabla de madera y algunos clavos de nueve pulgadas.
 
 <i>MAKESHIFT CLUB</i>=<i>GARROTE IMPROVISADO</i>
 MAKESHIFT CLUB=GARROTE IMPROVISADO
@@ -1849,7 +1848,7 @@ Signals Found:=Señales Encontradas:
 Total Time:=Tiempo Total:
 0h : 18m : 28s=A
 
-Dungeon Crawl Mode (First Person) has been unlocked (New Game+)=Modo Dungeon Crawl (Primera Persona) desbloqueado (Nuevo Juego+)
+Dungeon Crawl Mode (First Person) has been unlocked (New Game+)=Modo Primera Persona desbloqueado (Nuevo Juego+)
 Big Head Mode has been unlocked (New Game+)=Modo Cabeza Grande desbloqueado (Nuevo Juego+)
 Punished Difficulty has been unlocked (New Game+)=Dificultad Difícil desbloqueada (Nuevo Juego+)
 
@@ -1886,6 +1885,6 @@ Huge towering walls surround the city.=Enormes murallas rodean la ciudad.
 <I>BIG HEAD MODE (ON)</I>=<I>MODO CABEZA GRANDE (ENCENDIDO)</I>
 A bobble head keychain. Can be used to turn Big Head Mode on or off.=Un llavero de cabeza balanceante. Puede usarse para activar o desactivar el Modo Cabeza Grande.
 
-<I>DUNGEON CRAWL MODE (OFF)</I>=<I>MODO DUNGEON CRAWL (APAGADO)</I>
-<I>DUNGEON CRAWL MODE (ON)</I>=<I>MODO DUNGEON CRAWL (ENCENDIDO)</I>
-An eyeball keychain. Can be used to turn First Person Mode on or off.=Un llavero de ojo. Puede usarse para activar o desactivar el Modo en Primera Persona.
+<I>DUNGEON CRAWL MODE (OFF)</I>=<I>MODO PRIMERA PERSONA (APAGADO)</I>
+<I>DUNGEON CRAWL MODE (ON)</I>=<I>MODO PRIMERA PERSONA (ENCENDIDO)</I>
+An eyeball keychain. Can be used to turn First Person Mode on or off.=Un llavero de ojo. Puede usarse para activar o desactivar el Modo Primera Persona.
