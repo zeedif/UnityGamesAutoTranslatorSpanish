@@ -54,7 +54,6 @@ Completed=Sincronización completa
 <color\=#5F85FFFF>通关</color>，完成<color\=#5F85FFFF>挑战</color>和<color\=#5F85FFFF>成就</color>可以获得用于提升等级的经验。 提升等级将会获得用于解锁游戏内容的<color\=#5F85FFFF>道具</color>！=Completar <color\=#5F85FFFF>niveles</color>, <color\=#5F85FFFF>desafíos</color> y <color\=#5F85FFFF>logros</color> te otorgará experiencia para subir de nivel. ¡Subir de nivel te permitirá desbloquear <color\=#5F85FFFF>objetos</color> del juego!
 <color\=#5F85FFFF>Clear stages</color>, finish <color\=#5F85FFFF>challenges</color> and get <color\=#5F85FFFF>achievements</color> to gain EXP for leveling up.  Level up to gain <color\=#5F85FFFF>items</color> used for unlock game content!=Supera <color\=#5F85FFFF>escenarios</color>, completa <color\=#5F85FFFF>desafíos</color> y <color\=#5F85FFFF>logros</color> para ganar experiencia y subir de nivel. ¡Sube de nivel para desbloquear <color\=#5F85FFFF>objetos</color> del juego!
 
-
 ATTENTION=ATENCIÓN
 Are you sure you wanna <color\=#FF33D8FF>QUIT</color> the game?=¿Estás seguro de que quieres <color\=#FF33D8FF>SALIR</color> del juego?
 YES=SÍ
@@ -1170,7 +1169,7 @@ r:"Illustration Collection      <color\=#FFFFFFB2>Collect (\d+) illustrations.</
 Just as Planned! (Hidden)      <color\=#FFFFFFB2>Purchase 「Just as Planned」.</color>=¡Según lo Planeado! (Oculto)      <color\=#FFFFFFB2>Compra「Just as Planned」.</color>
 Nyanpasu! (Hidden)      <color\=#FFFFFFB2>Purchase「Muse Plus」.</color>=¡Nyanpasu! (Oculto)      <color\=#FFFFFFB2>Compra「Muse Plus」.</color>
 r:"Battle-seasoned      <color\=#FFFFFFB2>Totally knock back (\d+) enemies or BOSS's remote attacks.</color>"=Experimentado en Batalla      <color\=#FFFFFFB2>Repele totalmente $1 ataques remotos de enemigos o JEFES.</color>
-r:"Give Up Treatment (Hidden)      <color\=#FFFFFFB2>Clear a Lv.7+ stage without collecting Red Hearts.</color>"=Renuncia al Tratamiento (Oculto)      <color\=#FFFFFFB2>Supera un escenario de nivel $1 o superior sin recolectar Corazones Rojos.</color>
+r:"Give Up Treatment (Hidden)      <color\=#FFFFFFB2>Clear a Lv.7+ stage without collecting Red Hearts.</color>"=Ríndete al Tratamiento (Oculto)      <color\=#FFFFFFB2>Supera un escenario de nivel $1 o superior sin recolectar Corazones Rojos.</color>
 Is That OK? (Hidden)      <color\=#FFFFFFB2>Clear a stage without knocking back enemies.</color>=¿Está Bien Eso? (Oculto)      <color\=#FFFFFFB2>Supera un escenario sin derribar enemigos.</color>
 r:"The Pinnacle of Life (Hidden)      <color\=#FFFFFFB2>Achieve (\d+)\% Accuracy in a Lv.(\d+)\+ stage.</color>"=La Cima de la Vida (Oculto)      <color\=#FFFFFFB2>Logra un $1% de Precisión en un escenario de de nivel $2 o superior.</color>
 r:"Almost Full Combo (Hidden)      <color\=#FFFFFFB2>Achieve only (\d+) "Miss" judgement in a Lv.(\d+)\+ stage.</color>"=Casi Combo Completo (Oculto)      <color\=#FFFFFFB2>Logra solo $1 Fallo en un escenario de nivel $2 o superior.</color>
@@ -1281,8 +1280,8 @@ Weekly free track=Pista semanal gratuita
 Default Music=Música predeterminada
 Concept Pack=Paquete de concepto
 Happy Otaku Pack=Pack Otaku Feliz
-Cute Is Everything=Cute Is Everything
-Give Up TREATMENT=Give Up TREATMENT
+Cute Is Everything=La Dulzura Lo Es Todo
+Give Up TREATMENT=Ríndete al TRATAMIENTO
 Collab=Colaboración
 MD Plus Project=Proyecto MD Plus
 Hidden=Ocultas
@@ -1508,7 +1507,6 @@ One of Amiya's ten rings. Not sure which finger it's for, but it definitely won'
 
 
 
-
 [ Just As Planned ]  <color\=#FF00C1FF>unlocks all 486 paid songs, 27 characters , 11 elfins, 20 title screens, and 48 illustrations at once. </color>\n\nAdditionally, you will get every upcoming paid content for free as well, \nwhich means you don't need to pay for anything after purchasing [Just as Planned] (ゝ∀･) ~\n\nHowever, the default songs and the default illustrations cannot be unlocked at once by purchasing [Just as Planned]. \nLevel up to unlock them. You will also earn 1.5 times more exp after purchasing [Just as Planned]!\n\nSpecial attention though, in-App purchase (including [Just as Planned]) cannot be synced between platforms.=[ Just As Planned ]  <color\=#FF00C1FF>unlocks all 486 paid songs, 27 characters , 11 elfins, 20 title screens, and 48 illustrations at once. </color>\n\nAdditionally, you will get every upcoming paid content for free as well, which means you don't need to pay for anything after purchasing [Just as Planned] (ゝ∀･) ~\n\nHowever, the default songs and the default illustrations cannot be unlocked at once by purchasing [Just as Planned]. Level up to unlock them. You will also earn 1.5 times more exp after purchasing [Just as Planned]!\n\nSpecial attention though, in-App purchase (including [Just as Planned]) cannot be synced between platforms.
 \n<color\=#FF33D8FF>[MD Plus Project]</color> is the special content that can only be unlocked by purchasing [Just as Planned]. Unlike music packs, it cannot be purchased separately.\nTo express our gratitude to [Just as Planned] players, there will be more new content, including songs, characters, and title screens for <color\=#FF33D8FF>[MD Plus Project]</color> in the future~\n=\n<color\=#FF33D8FF>[MD Plus Project]</color> is the special content that can only be unlocked by purchasing [Just as Planned]. Unlike music packs, it cannot be purchased separately. To express our gratitude to [Just as Planned] players, there will be more new content, including songs, characters, and title screens for <color\=#FF33D8FF>[MD Plus Project]</color> in the future~\n
 
@@ -1581,859 +1579,15 @@ I have to read and agreed to the <color\=#FB36D6>Terms of Service</color> and <c
 Facebook=Facebook
 Google\n=Google\n
 
-
-//CANCIONES DEL GRUPO PREDTERMINADO
-
-r:"^UNLOCKED AT LV.(\d+)$"=ACCESIBLE AL NV.$1
-
-Magical Wonderland (More colorful mix)=Magical Wonderland (More colorful mix)
-Iyaiya=Iyaiya
-Wonderful Pain=Wonderful Pain
-Breaking Dawn=Breaking Dawn
-单向地铁 Feat.karin=单向地铁 Feat.karin
-Yume Ou Mono Yo feat. Wotoha - Neko Hacker=Yume Ou Mono Yo feat. Wotoha - Neko Hacker
-Frost Land=Frost Land
-Heart-Pounding Flight=Heart-Pounding Flight
-Pancake is Love=Pancake is Love
-时光涂鸦=时光涂鸦
-Evolution=Evolution
-海豚与广播 feat.Uranyan=海豚与广播 feat.Uranyan
-Yuki no Shizuku Ame no Oto=Yuki no Shizuku Ame no Oto
-Best One feat.tooko=Best One feat.tooko
-糖果色恋爱学=糖果色恋爱学
-Night Wander (cnsouka Remix)=Night Wander (cnsouka Remix)
-Dohna Dohna no Uta=Dohna Dohna no Uta
-Spring Carnival=Spring Carnival
-DISCO NIGHT=DISCO NIGHT
-Koi no Moonlight=Koi no Moonlight
-恋爱语音导航 feat.yousa=恋爱语音导航 feat.yousa
-Lights of Muse=Lights of Muse
-midstream jam=midstream jam
-Nihao=Nihao
-Confession=Confession
-Galaxy Striker=Galaxy Striker
-Departure Road=Departure Road
-Bass Telekinesis=Bass Telekinesis
-Cage of Almeria=Cage of Almeria
-Ira=Ira
-Blackest Luxury Car=Blackest Luxury Car
-Medicine of Sing=Medicine of Sing
-irregulyze=irregulyze
-I don't care about Christmas though=I don't care about Christmas though
-Imaginary World=Imaginary World
-Dysthymia=Dysthymia
-新世界より=新世界より
-NISEGAO=NISEGAO
-Say! Fanfare!=Say! Fanfare!
-Star Driver=Star Driver
-Formation=Formation
-Shinsou Masui=Shinsou Masui
-Mezame Eurythmics=Mezame Eurythmics
-Shenri Kuaira -repeat-=Shenri Kuaira -repeat-
-Latitude=Latitude
-Aqua Stars=Aqua Stars
-Funkotsu Saishin Casino=Funkotsu Saishin Casino
-Clock Room & Spiritual World=Clock Room & Spiritual World
-INTERNET OVERDOSE（Aiobahn feat.KOTOKO）=INTERNET OVERDOSE（Aiobahn feat.KOTOKO）
-徒 花=徒 花
-Mujinku-Vacuum Track#ADD8E6-=Mujinku-Vacuum Track#ADD8E6-
-MilK=MilK
-umpopoff=umpopoff
-Mopemope=Mopemope
-
-r:"^Echo over you...(.*)$"=Echo over you...$1
-
-Budget Is Burning: Nano Core=Budget Is Burning: Nano Core
-
-r:"^Glimmer feat.祈Inory(.*)$"=Glimmer feat.祈Inory$1
-r:"^EXIST feat.米雅(.*)$"=EXIST feat.米雅$1
-r:"^Irreplaceable feat.夏铜子(.*)$"=Irreplaceable feat.夏铜子$1
-
-Budget Is Burning Vol.1=Budget Is Burning Vol. 1
-
-r:"^Out of Sense(.*)$"=Out of Sense$1
-r:"^My Life Is For You(.*)$"=My Life Is For You$1
-r:"^Etude -Sunset-(.*)$"=Etude -Sunset-$1
-r:"^Goodbye Boss(.*)$"=Goodbye Boss$1
-r:"^Stargazer(.*)$"=Stargazer$1
-r:"^Lys Tourbillon(.*)$"=Lys Tourbillon$1
-
-Cute Is Everything Vol.7=Cute Is Everything Vol.7
-
-r:"^琉璃色前奏曲(.*)$"=琉璃色前奏曲$1
-r:"^Neonlights(.*)$"=Neonlights$1
-r:"^Hope for the flowers(.*)$"=Hope for the flowers$1
-r:"^Seaside Cycling on May 30(.*)$"=Seaside Cycling on May 30$1
-r:"^SKY↑HIGH(.*)$"=SKY↑HIGH$1
-r:"^Mousou Chu!!(.*)$"=Mousou Chu!!$1
-
-Cute Is Everything Vol.6=Lindo es todo vol.6
-
-r:"^Girly Cupid(.*)$"=Girly Cupid$1
-r:"^sheep in the light(.*)$"=sheep in the light$1
-r:"^Breaker city(.*)$"=Breaker city$1
-r:"^heterodoxy(.*)$"=heterodoxy$1
-r:"^Computer Music Girl(.*)$"=Computer Music Girl$1
-r:"^焦点 feat.早木旋子(.*)$"=焦点 feat.早木旋子$1
-
-Cute Is Everything Vol.5=Cute Is Everything Vol.5
-
-r:"^雨后甜点(.*)$"=雨后甜点$1
-r:"^告白应援方程式(.*)$"=告白应援方程式$1
-r:"^Omatsuri feat.兔子ST(.*)$"=Omatsuri feat.兔子ST$1
-r:"^FUTUREPOP(.*)$"=FUTUREPOP$1
-r:"^The Breeze(.*)$"=The Breeze$1
-r:"^I LOVE LETTUCE FRIED RICE!!(.*)$"=I LOVE LETTUCE FRIED RICE!!$1
-
-Cute Is Everything Vol.4=Cute Is Everything Vol.4
-
-r:"^SWEETSWEETSWEET(.*)$"=SWEETSWEETSWEET$1
-r:"^深蓝与夜的呼吸(.*)$"=深蓝与夜的呼吸$1
-r:"^Joy Connection(.*)$"=Joy Connection$1
-r:"^Self Willed Girl Ver.B(.*)$"=Self Willed Girl Ver.B$1
-r:"^就是不听话(.*)$"=就是不听话$1
-r:"^Holy Shit Grass Snake(.*)$"=Holy Shit Grass Snake$1
-
-Cute Is Everything Vol.3=Cute Is Everything Vol.3
-
-r:"^魔咒 feat.早木旋子(.*)$"=魔咒 feat.早木旋子$1
-r:"^斑斓星，彩绘，旅行诗(.*)$"=斑斓星，彩绘，旅行诗$1
-r:"^Satell Knight(.*)$"=Satell Knight$1
-r:"^Black River Feat.Mes(.*)$"=Black River Feat.Mes$1
-r:"^生而为人，我很抱歉(.*)$"=生而为人，我很抱歉$1
-r:"^Ueta Tori Tachi(.*)$"=Ueta Tori Tachi$1
-
-Cute Is Everything Vol.2=Lindo es todo vol.2
-
-r:"^速溶霓虹 feat.kumako(.*)$"=速溶霓虹 feat.kumako$1
-r:"^星球上的追溯诗(.*)$"=星球上的追溯诗$1
-r:"^我要买买买(.*)$"=我要买买买$1
-r:"^约会宣言(.*)$"=约会宣言$1
-r:"^初雪(.*)$"=初雪$1
-r:"^心上华海(.*)$"=心上华海$1
-
-Cute Is Everything Vol.1=Lindo es todo vol.1
-
-r:"^Sunshine and Rainbow after August Rain(.*)$"=Sunshine and Rainbow after August Rain$1
-r:"^Magical Number(.*)$"=Magical Number$1
-r:"^Dreaming Girl(.*)$"=Dreaming Girl$1
-r:"^Daruma-san Fell Over(.*)$"=Daruma-san Fell Over$1
-r:"^Different(.*)$"=Different$1
-r:"^The Future of the Phantom(.*)$"=The Future of the Phantom$1
-r:"^Urban Magic(.*)$"=Urban Magic$1
-
-Happy Otaku Pack Vol.19=Pack Otaku Feliz Vol.19
-
-r:"^Maid's Prank(.*)$"=Maid's Prank$1
-r:"^Dance Dance 晚安舞会(.*)$"=Dance Dance 晚安舞会$1
-r:"^Ops:Limone(.*)$"=Ops:Limone$1
-r:"^NOVA(.*)$"=NOVA$1
-r:"^Heaven's Gradius(.*)$"=Heaven's Gradius$1
-
-Happy Otaku Pack Vol.18=Pack Otaku Feliz Vol.18
-
-r:"^Rainy Angel(.*)$"=Rainy Angel$1
-r:"^Gullinkambi(.*)$"=Gullinkambi$1
-r:"^RakiRaki Rebuilders!!!(.*)$"=RakiRaki Rebuilders!!!$1
-r:"^Laniakea(.*)$"=Laniakea$1
-r:"^OTTAMA GAZER(.*)$"=OTTAMA GAZER$1
-r:"^Sleep Tight feat.Macoto(.*)$"=Sleep Tight feat.Macoto$1
-
-Happy Otaku Pack Vol.17=Pack Otaku Feliz Vol.17
-
-r:"^【东爱璃Lovely】Lovely(.*)$"=【东爱璃Lovely】Lovely$1
-r:"^森海の船(.*)$"=森海の船$1
-r:"^Ooi(.*)$"=Ooi$1
-r:"^沼った！！(.*)$"=沼った！！$1
-r:"^SATELLITE(.*)$"=SATELLITE$1
-r:"^Fantasia Sonata Colorful feat. V!C(.*)$"=Fantasia Sonata Colorful feat. V!C$1
-
-Happy Otaku Pack Vol.16=Pack Otaku Feliz Vol.16
-
-r:"^Tokimeki★Meteostrike(.*)$"=Tokimeki★Meteostrike$1
-r:"^Down Low(.*)$"=Down Low$1
-r:"^LOUDER MACHINE(.*)$"=LOUDER MACHINE$1
-r:"^それはもうらぶちゅ(.*)$"=それはもうらぶちゅ$1
-r:"^Rave_Tech(.*)$"=Rave_Tech$1
-r:"^Brilliant & Shining! \(Game Edit.\)(.*)$"=Brilliant & Shining! (Game Edit.)$1
-
-Happy Otaku Pack Vol.15=Pack Otaku Feliz Vol.15
-
-r:"^On And On!!(.*)$"=On And On!!$1
-r:"^Trip!(.*)$"=Trip!$1
-r:"^Hoshi no otoshimono(.*)$"=Hoshi no otoshimono$1
-r:"^Plucky Race(.*)$"=Plucky Race$1
-r:"^Fantasia Sonata Destiny(.*)$"=Fantasia Sonata Destiny$1
-r:"^Run through(.*)$"=Ejecutar a través de$1
-r:"^Howard_Y(.*)$"=Howard_yRun through(.*)$"=Howard_Y(.*)$"=Howard_yRun through$1
-
-Happy Otaku Pack Vol.14=Pack Otaku Feliz Vol.14
-
-r:"^Bang!!(.*)$"=Bang!!$1
-r:"^Paradise Ⅱ(.*)$"=Paradise Ⅱ$1
-r:"^Symbol(.*)$"=Symbol$1
-r:"^Nekojarashi(.*)$"=Nekojarashi$1
-r:"^A Philosophical Wanderer(.*)$"=A Philosophical Wanderer$1
-r:"^Isouten(.*)$"=Isouten$1
-
-Happy Otaku Pack Vol.13=Pack Otaku Feliz Vol.13
-
-r:"^Party in the HOLLOWood feat. ななひら(.*)$"=Party in the HOLLOWood feat. ななひら$1
-r:"^嘤嘤大作战(.*)$"=嘤嘤大作战$1
-r:"^Howlin' Pumpkin(.*)$"=Howlin' Pumpkin$1
-
-Happy Otaku Pack Vol.12=Pack Otaku Feliz Vol.12
-
-r:"^Rush-More(.*)$"=Rush-More$1
-r:"^Kill My Fortune(.*)$"=Kill My Fortune$1
-r:"^Yosari Tsukibotaru Suminoborite(.*)$"=Yosari Tsukibotaru Suminoborite$1
-r:"^JUMP! HardCandy(.*)$"=JUMP! HardCandy$1
-r:"^Hibari(.*)$"=Hibari$1
-r:"^OCCHOCO-REST-LESS(.*)$"=OCCHOCO-REST-LESS$1
-
-Happy Otaku Pack SP=Pack Otaku Feliz SP
-
-r:"^MuseDashを作っているPeroPeroGamesさんが倒産しちゃったよ～(.*)$"=MuseDashを作っているPeroPeroGamesさんが倒産しちゃったよ～$1
-r:"^MARENOL(.*)$"=MARENOL$1
-r:"^僕の和風本当上手(.*)$"=僕の和風本当上手$1
-r:"^Rush B(.*)$"=Rush B$1
-r:"^DataErr0r(.*)$"=DataErr0r$1
-r:"^Burn(.*)$"=Burn$1
-
-Happy Otaku Pack Vol.11=Pack Otaku Feliz Vol.11
-
-r:"^The 90's Decision(.*)$"=The 90's Decision$1
-r:"^Medusa(.*)$"=Medusa$1
-r:"^Final Step!(.*)$"=Final Step!$1
-r:"^MAGENTA POTION(.*)$"=MAGENTA POTION$1
-r:"^Cross†Ray \(feat. 月下Lia\)(.*)$"=Cross†Ray (feat. 月下Lia)$1
-r:"^Square Lake(.*)$"=Square Lake$1
-
-Happy Otaku Pack Vol.10=Pack Otaku Feliz Vol.10
-
-r:"^Heisha Onsha(.*)$"=Heisha Onsha$1
-r:"^Ginevra(.*)$"=Ginevra$1
-r:"^Paracelestia(.*)$"=Paracelestia$1
-r:"^un secret(.*)$"=un secret$1
-r:"^Good Life(.*)$"=Good Life$1
-r:"^ニニ-nini-(.*)$"=ニニ-nini-$1
-
-Happy Otaku Pack Vol.9=Pack Otaku Feliz Vol.9
-
-r:"^The Last Page(.*)$"=The Last Page$1
-r:"^IKAROS(.*)$"=IKAROS$1
-r:"^Tsukuyomi(.*)$"=Tsukuyomi$1
-r:"^Future Stream(.*)$"=Future Stream$1
-r:"^FULi AUTO SHOOTER(.*)$"=FULi AUTO SHOOTER$1
-r:"^GOODFORTUNE(.*)$"=GOODFORTUNE$1
-
-Happy Otaku Pack Vol.8=Pack Otaku Feliz Vol.8
-
-r:"^Moonlight Banquet(.*)$"=Moonlight Banquet$1
-r:"^Flashdance(.*)$"=Flashdance$1
-r:"^INFiNiTE ENERZY -Overdoze-(.*)$"=INFiNiTE ENERZY -Overdoze-$1
-r:"^One Way Street(.*)$"=One Way Street$1
-r:"^This Club is Not 4 U(.*)$"=This Club is Not 4 U$1
-r:"^ULTRA MEGA HAPPY PARTY!!!(.*)$"=ULTRA MEGA HAPPY PARTY!!!$1
-
-Happy Otaku Pack Vol.7=Pack Otaku Feliz Vol.7
-
-r:"^Cotton Candy Wonderland(.*)$"=Cotton Candy Wonderland$1
-r:"^Punai Punai Taiso(.*)$"=Punai Punai Taiso$1
-r:"^Fly↑High(.*)$"=Fly↑High$1
-r:"^prejudice(.*)$"=prejudice$1
-r:"^The 89's Momentum(.*)$"=The 89's Momentum$1
-r:"^energy night\(DASH mix\)(.*)$"=energy night(DASH mix)$1
-
-Happy Otaku Pack Vol.6=Pack Otaku Feliz Vol.6
-
-r:"^Elysion's Old Mans(.*)$"=Elysion's Old Mans$1
-r:"^AXION(.*)$"=AXION$1
-r:"^Amnesia(.*)$"=Amnesia$1
-r:"^Onsen Dai Sakusen(.*)$"=Onsen Dai Sakusen$1
-r:"^Gleam stone(.*)$"=Gleam stone$1
-r:"^GOODWORLD(.*)$"=GOODWORLD$1
-
-Happy Otaku Pack Vol.5=Pack Otaku Feliz Vol.5
-
-r:"^Brave My Heart(.*)$"=Brave My Heart$1
-r:"^Sakura Fubuki(.*)$"=Sakura Fubuki$1
-r:"^8bit Adventurer(.*)$"=8bit Adventurer$1
-r:"^Suffering of screw(.*)$"=Suffering of screw$1
-r:"^tiny lady(.*)$"=tiny lady$1
-r:"^Power Attack(.*)$"=Power Attack$1
-
-Happy Otaku Pack Vol.4=Pack Otaku Feliz Vol.4
-
-r:"^Leave It Alone(.*)$"=Leave It Alone$1
-r:"^Tsubasa no Oreta Tenshitachi no Requiem(.*)$"=Tsubasa no Oreta Tenshitachi no Requiem$1
-r:"^Chronomia(.*)$"=Chronomia$1
-r:"^Dandelion's Daydream(.*)$"=Dandelion's Daydream$1
-r:"^Lorikeet ~Flat design~(.*)$"=Lorikeet ~Flat design~$1
-r:"^GOODRAGE(.*)$"=GOODRAGE$1
-
-Happy Otaku Pack Vol.3=Pack Otaku Feliz Vol.3
-
-r:"^Thirty Million Persona(.*)$"=Thirty Million Persona$1
-r:"^conflict(.*)$"=conflict$1
-r:"^Enka Dance Music(.*)$"=Enka Dance Music$1
-r:"^XING(.*)$"=XING$1
-r:"^Amakakeru Soukyuu no Serenade(.*)$"=Amakakeru Soukyuu no Serenade$1
-r:"^Gift box(.*)$"=Gift box$1
-
-Happy Otaku Pack Vol.2=Pack Otaku Feliz Vol.2
-
-r:"^MUSEDASH!!!!(.*)$"=MUSEDASH!!!!$1
-r:"^Imprinting(.*)$"=Imprinting$1
-r:"^Skyward(.*)$"=Skyward$1
-r:"^La nuit de vif(.*)$"=La nuit de vif$1
-r:"^Bit-alize(.*)$"=Bit-alize$1
-r:"^GOODTEK\(Hyper Edit\)(.*)$"=GOODTEK(Hyper Edit)$1
-
-Happy Otaku Pack Vol.1=Pack Otaku Feliz Vol.1
-
-r:"^Maharajah(.*)$"=Maharajah$1
-r:"^keep on running(.*)$"=keep on running$1
-r:"^Käfig(.*)$"=Käfig$1
-r:"^\-\+(.*)$"=−+$1
-r:"^Tenri Kaku Jou(.*)$"=Tenri Kaku Jou$1
-r:"^Adjudicatorz-DanZai-(.*)$"=Adjudicatorz-DanZai-$1
-
-Give Up TREATMENT Vol.11=Give Up TREATMENT Vol.11
-
-r:"^Psyched Fevereiro(.*)$"=Psyched Fevereiro$1
-r:"^Inferno City(.*)$"=Inferno City$1
-r:"^Paradigm Shift(.*)$"=Paradigm Shift$1
-r:"^Snapdragon(.*)$"=Snapdragon$1
-r:"^Prestige and Vestige(.*)$"=Prestige and Vestige$1
-r:"^Tiny Fate(.*)$"=Tiny Fate$1
-
-Give Up TREATMENT Vol.10=Give Up TREATMENT Vol.10
-
-r:"^NightTheater(.*)$"=NightTheater$1
-r:"^Cutter(.*)$"=Cutter$1
-r:"^bamboo(.*)$"=bamboo$1
-r:"^enchanted love(.*)$"=enchanted love$1
-r:"^c.s.q.n.(.*)$"=c.s.q.n.$1
-r:"^Booouncing!!(.*)$"=Booouncing!!$1
-
-Give Up TREATMENT Vol.9=Give Up TREATMENT Vol.9
-
-r:"^Legend of Eastern Rabbit -SKY DEFENDER-(.*)$"=Legend of Eastern Rabbit -SKY DEFENDER-$1
-r:"^ENERGY SYNERGY MATRIX(.*)$"=ENERGY SYNERGY MATRIX$1
-r:"^Punai Punai Genso ~Punai Punai in Wonderland~(.*)$"=Punai Punai Genso ~Punai Punai in Wonderland~$1
-r:"^Better Graphic Animation(.*)$"=Better Graphic Animation$1
-r:"^Variant Cross(.*)$"=Variant Cross$1
-r:"^Ultra Happy Miracle Bazoooooka!!(.*)$"=Ultra Happy Miracle Bazoooooka!!$1
-
-Give Up TREATMENT Vol.8=Give Up TREATMENT Vol.8
-
-r:"^The NightScape(.*)$"=The NightScape$1
-r:"^FREEDOM DiVE↓(.*)$"=FREEDOM DiVE↓$1
-r:"^Φ(.*)$"=Φ$1
-r:"^Lueur de la nuit(.*)$"=Lueur de la nuit$1
-r:"^Creamy Sugary OVERDRIVE!!!(.*)$"=Creamy Sugary OVERDRIVE!!!$1
-r:"^Disorder \(feat.YURI\)(.*)$"=Disorder (feat.YURI)$1
-
-Give Up TREATMENT Vol.7=Renunciar al tratamiento Vol.7
-
-r:"^INFINITY(.*)$"=INFINITY$1
-r:"^Punai Punai Senso(.*)$"=Punai Punai Senso$1
-r:"^Maxi(.*)$"=Maxi$1
-r:"^YInMn Blue(.*)$"=YInMn Blue$1
-r:"^Plumage(.*)$"=Plumage$1
-r:"^Dr.Techro(.*)$"=Dr.Techro$1
-
-Give Up TREATMENT Vol.6=Give Up TREATMENT Vol.6
-
-r:"^Future Dive(.*)$"=Future Dive$1
-r:"^Re：End of a Dream(.*)$"=Re：End of a Dream$1
-r:"^Etude -Storm-(.*)$"=Etude -Storm-$1
-r:"^Unlimited Katharsis(.*)$"=Unlimited Katharsis$1
-r:"^Magic Knight Girl(.*)$"=Magic Knight Girl$1
-r:"^Eeliaas(.*)$"=Eeliaas$1
-
-Give Up TREATMENT Vol.5=Give Up TREATMENT Vol.5
-
-r:"^Gaikan Chrysalis(.*)$"=Gaikan Chrysalis$1
-r:"^Sterelogue(.*)$"=Sterelogue$1
-r:"^Cheshire's Dance(.*)$"=Cheshire's Dance$1
-r:"^Skrik(.*)$"=Skrik$1
-r:"^Soda Pop Canva5!(.*)$"=Soda Pop Canva5!$1
-r:"^ЯUBY:LINTe(.*)$"=ЯUBY:LINTe$1
-
-Give Up TREATMENT Vol.4=Give Up TREATMENT Vol.4
-
-r:"^Destr0yer(.*)$"=Destr0yer$1
-r:"^Noël(.*)$"=Noël$1
-r:"^Kyoukiranbu(.*)$"=Kyoukiranbu$1
-r:"^Two Phace(.*)$"=Two Phace$1
-r:"^Fly Again(.*)$"=Fly Again$1
-r:"^ouroVoros(.*)$"=ouroVoros$1
-
-Give Up TREATMENT Vol.3=Give Up TREATMENT Vol.3
-
-r:"^Altale(.*)$"=Altale$1
-r:"^Brain Power(.*)$"=Brain Power$1
-r:"^Berry Go!!(.*)$"=Berry Go!!$1
-r:"^Sweet\* Witch\* Girl\*(.*)$"=Sweet* Witch* Girl*$1
-r:"^trippers feeling!(.*)$"=trippers feeling!$1
-r:"^Lilith ambivalence lovers(.*)$"=Lilith ambivalence lovers$1
-
-Give Up TREATMENT Vol.2=Renunciar al tratamiento Vol.2
-
-r:"^Brave My Soul(.*)$"=Brave My Soul$1
-r:"^Halcyon(.*)$"=Halcyon$1
-r:"^Crimson Nightingale(.*)$"=Crimson Nightingale$1
-r:"^Invader(.*)$"=Invader$1
-r:"^Lyrith(.*)$"=Lyrith$1
-r:"^GOODBOUNCE \(Groove Edit\)(.*)$"=GOODBOUNCE (Groove Edit)$1
-
-r:"^Give Up TREATMENT Vol.1(.*)$"=Give Up TREATMENT Vol.1$1
-r:"^Oriens(.*)$"=Oriens$1
-r:"^PUPA(.*)$"=PUPA$1
-r:"^Luna Express 2032(.*)$"=Luna Express 2032$1
-r:"^Ukiyoe Yokochou(.*)$"=Ukiyoe Yokochou$1
-r:"^Alice in Misanthrope(.*)$"=Alice in Misanthrope$1
-r:"^GOODMEN(.*)$"=GOODMEN$1
-
-Legends of Muse Warriors=Legends of Muse Warriors
-
-r:"^P E R O P E R O兄✰貴✰乱✰舞（feat.音游部, howsoon）(.*)$"=P E R O P E R O兄✰貴✰乱✰舞（feat.音游部, howsoon）$1
-r:"^PA☆PPA☆PANIC(.*)$"=PA☆PPA☆PANIC$1
-r:"^How To Make 音ゲ～曲！(.*)$"=How To Make 音ゲ～曲！$1
-r:"^Ré：Ré(.*)$"=Ré：Ré$1
-r:"^Marmalade Twins(.*)$"=Marmalade Twins$1
-r:"^DOMINATOR(.*)$"=DOMINATOR$1
-r:"^てしかに\( TESHiKANi \)(.*)$"=てしかに( TESHiKANi )$1
-
-Valentine Stage=Valentine Stage
-
-r:"^Sweet Dream\(VIVINOS - 'Alien Stage OST Part.2'\)(.*)$"=Sweet Dream(VIVINOS - 'Alien Stage OST Part.2')$1
-r:"^Ruler Of My Heart\(VIVINOS - 'Alien Stage Pt5'\)(.*)$"=Ruler Of My Heart(VIVINOS - 'Alien Stage Pt5')$1
-r:"^Reality Show(.*)$"=Reality show$1
-r:"^SIG feat.Tobokegao(.*)$"=SIG feat.Tobokegao$1
-r:"^蔷薇の恋心 feat.AKA(.*)$"=蔷薇の恋心 feat.AKA$1
-r:"^Euphoria(.*)$"=Euphoria$1
-
-Gambler's Tricks=Gambler's Tricks
-
-r:"^New York Back Raise(.*)$"=New York Back Raise$1
-r:"^slic.hertz(.*)$"=slic.hertz$1
-r:"^Fuzzy-Navel(.*)$"=Fuzzy-Navel$1
-r:"^Swing Edge(.*)$"=Swing Edge$1
-r:"^Twisted Escape(.*)$"=Twisted Escape$1
-r:"^Swing Sweet Twee Dance(.*)$"=Swing Sweet Twee Dance$1
-
-COSMIC RADIO PEROLIST=COSMIC RADIO PEROLIST
-
-r:"^すとり～ま～FIRE!?!?(.*)$"=すとり～ま～FIRE!?!?$1
-r:"^Tanuki Step(.*)$"=Tanuki Step$1
-r:"^Space Stationery(.*)$"=Space Stationery$1
-r:"^Songs Are Judged 90% by Chorus feat. Mameko(.*)$"=Songs Are Judged 90% by Chorus feat. Mameko$1
-r:"^Kawaiク華麗に宇宙怪盗(.*)$"=Kawai brillantemente espacial Phantom Thief$1
-r:"^Night City Runway(.*)$"=Night City Runway$1
-r:"^Chaos Shotgun feat. ChumuNote(.*)$"=Chaos Shotgun feat. ChumuNote$1
-r:"^mew mew magical summer(.*)$"=mew mew magical summer$1
-
-MUSE RADIO FM104=MUSE RADIO FM104
-
-r:"^Doki Doki Jump! \(feat. ぷにぷに電機\)(.*)$"=Doki Doki Jump! (feat. ぷにぷに電機)$1
-r:"^100年モノのストリーマーズ・ハイ(.*)$"=100年モノのストリーマーズ・ハイ$1
-r:"^Love Patrol(.*)$"=Love Patrol$1
-r:"^Mahorova feat.omoto(.*)$"=Mahorova feat.omoto$1
-r:"^夜の街(.*)$"=夜の街$1
-r:"^INTERNET YAMERO（Aiobahn feat.KOTOKO）(.*)$"=INTERNET YAMERO（Aiobahn feat.KOTOKO）$1
-
-Ola Dash=Ola Dash
-
-r:"^MuseDashヵヽﾞ何ヵヽ干∋ッ`⊂ぉヵヽＵ＜ﾅょッﾅﾆ気ヵヽﾞ￡ゑょ(.*)$"=MuseDashヵヽﾞ何ヵヽ干∋ッ`⊂ぉヵヽＵ＜ﾅょッﾅﾆ気ヵヽﾞ￡ゑょ$1
-r:"^Aleph-0(.*)$"=Aleph-0$1
-r:"^ぶっとばスーパーノヴァ(.*)$"=ぶっとばスーパーノヴァ$1
-r:"^Rush-Hour(.*)$"=Rush-Hour$1
-r:"^3rd Avenue(.*)$"=3rd Avenue$1
-r:"^WORLDINVADER(.*)$"=WORLDINVADER$1
-
-MUSE RADIO FM103=MUSE RADIO FM103
-
-r:"^marooned night(.*)$"=marooned night$1
-r:"^daydream girl(.*)$"=daydream girl$1
-r:"^Ornamentじゃない\(Muse Dash Mix\)(.*)$"=Ornamentじゃない(Muse Dash Mix)$1
-r:"^Baby Pink \(w/ YUC'e\)(.*)$"=Baby Pink (w/ YUC'e)$1
-r:"^I'm Here(.*)$"=I'm Here$1
-
-r:"^Virtual Idol Production(.*)$"=Virtual Idol Production$1
-r:"^假面日记(.*)$"=假面日记$1
-r:"^Reminiscence(.*)$"=Reminiscence$1
-r:"^DarakuDatenshi(.*)$"=DarakuDatenshi$1
-r:"^D.I.Y.(.*)$"=D.I.Y.$1
-r:"^男子in☆バーチャランド(.*)$"=男子in☆バーチャランド$1
-r:"^kuí(.*)$"=kuí$1
-
-Nyanya Universe!=Nyanya Universe!
-
-r:"^Nyan Cat(.*)$"=Nyan Cat$1
-r:"^PeroPero in the Universe(.*)$"=PeroPero in the Universe$1
-r:"^In-kya Yo-kya Onmyoji(.*)$"=In-kya Yo-kya Onmyoji$1
-r:"^KABOOOOOM!!!!(.*)$"=KABOOOOOM!!!!$1
-r:"^Doppelganger(.*)$"=Doppelganger$1
-
-DokiDoki! Valentine!=DokiDoki! Valentine!
-
-r:"^Pray a LOVE(.*)$"=Pray a LOVE$1
-r:"^恋愛回避依存症(.*)$"=恋愛回避依存症$1
-r:"^Daisuki Dayo feat.Wotoha(.*)$"=Daisuki Dayo feat.Wotoha$1
-r:"^去剪海的日子(.*)$"=去剪海的日子$1
-
-MUSE RADIO FM102=MUSE RADIO FM102
-
-r:"^happy hour(.*)$"=happy hour$1
-r:"^Seikimatsu no Natsu(.*)$"=Seikimatsu no Natsu$1
-r:"^twinkle night(.*)$"=twinkle night$1
-r:"^ARUYA HARERUYA(.*)$"=ARUYA HARERUYA$1
-r:"^Blush \(feat. MYLK\)(.*)$"=Blush (feat. MYLK)$1
-r:"^裸のSummer(.*)$"=裸のSummer$1
-r:"^BLESS ME\(Samplingsource\)(.*)$"=BLESS ME(Samplingsource)$1
-
-MUSE RADIO FM101=MUSE RADIO FM101
-
-r:"^tape/stop/night(.*)$"=tape/stop/night$1
-r:"^Pixel Galaxy(.*)$"=Pixel Galaxy$1
-r:"^Notice(.*)$"=Notice$1
-r:"^<b>sᴛʀᴀᴡʙᴇʀʀʏ ɢᴏᴅᴢɪʟʟᴀ</b>(.*)$"=<b>sᴛʀᴀᴡʙᴇʀʀʏ ɢᴏᴅᴢɪʟʟᴀ</b>$1
-r:"^OKIMOCHI EXPRESSION(.*)$"=OKIMOCHI EXPRESSION$1
-r:"^君とpool disco(.*)$"=君とpool disco$1
-
-Rin·Len's Mirrorland=Rin·Len's Mirrorland
-
-r:"^劣等上等(.*)$"=劣等上等$1
-r:"^テレキャスタービーボーイ(.*)$"=テレキャスタービーボーイ$1
-r:"^い～やい～やい～や(.*)$"=い～やい～やい～や$1
-r:"^ねぇねぇねぇ。(.*)$"=ねぇねぇねぇ。$1
-r:"^Chaotic Love Revolution(.*)$"=Chaotic Love Revolution$1
-r:"^しかばねの踊り(.*)$"=しかばねの踊り$1
-r:"^ビターチョコデコレーション(.*)$"=ビターチョコデコレーション$1
-r:"^ダンスロボットダンス(.*)$"=ダンスロボットダンス$1
-r:"^Sweet Devil(.*)$"=Sweet Devil$1
-r:"^Someday'z Coming(.*)$"=Someday'z Coming$1
-
-Touhou Mugakudan -Ⅲ-=Touhou Mugakudan -Ⅲ-
-
-r:"^Samayoi no mei ～Amatsu～(.*)$"=Samayoi no mei ～Amatsu～$1
-r:"^INTERNET SURVIVOR(.*)$"=INTERNET SURVIVOR$1
-r:"^Shuki☆RaiRai!!!(.*)$"=Shuki☆RaiRai!!!$1
-r:"^HELLOHELL(.*)$"=HELLOHELL$1
-r:"^Calamity Fortune(.*)$"=Calamity Fortune$1
-r:"^つるぺったん(.*)$"=つるぺったん$1
-
-Miku in Museland=Miku in Museland
-
-r:"^39みゅーじっく！(.*)$"=39みゅーじっく！$1
-r:"^Hand in Hand(.*)$"=Hand in Hand$1
-r:"^シニカルナイトプラン(.*)$"=シニカルナイトプラン$1
-r:"^神っぽいな(.*)$"=神っぽいな$1
-r:"^ダーリンダンス(.*)$"=ダーリンダンス$1
-r:"^初音天地開闢神話(.*)$"=初音天地開闢神話$1
-r:"^ヴァンパイア(.*)$"=ヴァンパイア$1
-r:"^フューチャー・イヴ(.*)$"=フューチャー・イヴ$1
-r:"^Unknown・MotherGoose(.*)$"=Unknown・MotherGoose$1
-r:"^春嵐(.*)$"=春嵐$1
-
-NeonAbyss=NeonAbyss
-
-r:"^BrainDance(.*)$"=BrainDance$1
-r:"^My Focus!(.*)$"=My Focus!$1
-r:"^ABABABA BURST(.*)$"=ABABABA BURST$1
-r:"^ULTRA HIGHER(.*)$"=ULTRA HIGHER$1
-
-maimai DX Limited-time Suite=maimai DX Limited-time Suite
-
-r:"^N3V3R G3T OV3R(.*)$"=N3V3R G3T OV3R$1
-r:"^Oshama Scramble!(.*)$"=Oshama Scramble!$1
-r:"^Valsqotch(.*)$"=Valsqotch$1
-r:"^Paranormal My Mind(.*)$"=Paranormal My Mind$1
-r:"^Flower, snow and Drum'n'bass.(.*)$"=Flower, snow and Drum'n'bass.$1
-r:"^Amenohoakari(.*)$"=Amenohoakari$1
-
-Nanahira Paradise=Nanahira Paradise
-
-r:"^People People(.*)$"=People People$1
-r:"^Endless Error Loop(.*)$"=Endless Error Loop$1
-r:"^Forbidden Pizza!(.*)$"=Forbidden Pizza!$1
-r:"^ボーカルに無茶させんな(.*)$"=ボーカルに無茶させんな$1
-
-Touhou Mugakudan -Ⅱ-=Touhou Mugakudan -Ⅱ-
-
-r:"^月に叢雲華に風(.*)$"=月に叢雲華に風$1
-r:"^Patchouli's - Best Hit GSK(.*)$"=Patchouli's - Best Hit GSK$1
-r:"^物凄いスペースシャトルでこいしが物凄いうた(.*)$"=物凄いスペースシャトルでこいしが物凄いうた$1
-r:"^囲い無き世は一期の月影(.*)$"=囲い無き世は一期の月影$1
-r:"^Psychedelic Kizakura Doumei(.*)$"=Psychedelic Kizakura Doumei$1
-r:"^Mischievous Sensation(.*)$"=Mischievous Sensation$1
-
-MEGAREX THE FUTURE=MEGAREX THE FUTURE
-
-r:"^White Canvas \(feat. 藍月なくる\)(.*)$"=White Canvas (feat. 藍月なくる)$1
-r:"^Gloomy Flash \(feat. Mami\)(.*)$"=Gloomy Flash (feat. Mami)$1
-r:"^今月のおすすめプレイリストを検索します(.*)$"=今月のおすすめプレイリストを検索します$1
-r:"^Sunday Night \(feat. Kanata.N\)(.*)$"=Sunday Night (feat. Kanata.N)$1
-r:"^Goodbye Goodnight \(feat. Shully\)(.*)$"=Goodbye Goodnight (feat. Shully)$1
-r:"^ENDLESS CIDER \(feat. Such\)(.*)$"=ENDLESS CIDER (feat. Such)$1
-
-DJMAX Reflect=DJMAX Reflect
-
-r:"^glory day(.*)$"=glory day$1
-r:"^Bright Dream(.*)$"=Bright Dream$1
-r:"^Groovin Up(.*)$"=Groovin Up$1
-r:"^I Want You(.*)$"=I Want You$1
-r:"^OBLIVION(.*)$"=OBLIVION$1
-r:"^Elastic STAR(.*)$"=Elastic STAR$1
-r:"^U.A.D(.*)$"=U.A.D$1
-r:"^Jealousy(.*)$"=Jealousy$1
-r:"^Memory of Beach(.*)$"=Memory of Beach$1
-r:"^Don't Die(.*)$"=Don't Die$1
-r:"^Y \(CE Ver.\)(.*)$"=Y (CE Ver.)$1
-r:"^Fancy Night(.*)$"=Fancy Night$1
-r:"^Can We Talk(.*)$"=Can We Talk$1
-r:"^Give Me 5(.*)$"=Give Me 5$1
-r:"^Nightmare(.*)$"=Nightmare$1
-
-Arcaea=Arcaea
-
-r:"^GIMME DA BLOOD(.*)$"=GIMME DA BLOOD$1
-r:"^Libertas(.*)$"=Libertas$1
-r:"^Cyaegha(.*)$"=Cyaegha$1
-
-WACCA Horizon=WACCA Horizon
-
-r:"^ONOMATO Pairing!!!(.*)$"=ONOMATO Pairing!!!$1
-r:"^with U(.*)$"=with U$1
-r:"^Chariot(.*)$"=Chariot$1
-r:"^GASHATT(.*)$"=GASHATT$1
-r:"^LIN NE KRO NE feat. lasah(.*)$"=LIN NE KRO NE feat. lasah$1
-r:"^ANGEL HALO(.*)$"=ANGEL HALO$1
-
-Touhou Mugakudan -Ⅰ-=Touhou Mugakudan -Ⅰ-
-
-r:"^Bad Apple!! feat. Nomico(.*)$"=Bad Apple!! feat. Nomico$1
-r:"^色は匂へど散りぬるを(.*)$"=色は匂へど散りぬるを$1
-r:"^Cirno's Perfect Math Class(.*)$"=Cirno's Perfect Math Class$1
-r:"^緋色月下、狂咲ノ絶(.*)$"=緋色月下、狂咲ノ絶$1
-r:"^Flowery Moonlit Night(.*)$"=Flowery Moonlit Night$1
-r:"^Unconscious Requiem(.*)$"=Unconscious Requiem$1
-
-7th Beat Games=7th Beat Games
-
-r:"^Super Battleworn Insomniac(.*)$"=Super Battleworn Insomniac$1
-r:"^Bomb-Sniffing Pomeranian(.*)$"=Bomb-Sniffing Pomeranian$1
-r:"^Rollerdisco Rumble(.*)$"=Rollerdisco Rumble$1
-r:"^Rose Garden(.*)$"=Rose Garden$1
-r:"^EMOMOMO(.*)$"=EMOMOMO$1
-r:"^Heracles(.*)$"=Heracles$1
-
-r:"^Phigros(.*)$"=Phigros$1
-r:"^NO ONE YES MAN(.*)$"=NO ONE YES MAN$1
-r:"^雪降り、メリクリ （MD edit）(.*)$"=雪降り、メリクリ （MD edit）$1
-r:"^Igallta(.*)$"=Igallta$1
-
-r:"^HARDCORE TANO\*C(.*)$"=HARDCORE TANO*C$1
-r:"^//CHECAR
-r:"^ALiVE(.*)$"=ALiVE$1
-r:"^BATTLE NO.1(.*)$"=BATTLE NO.1$1
-r:"^Cthugha(.*)$"=Cthugha$1
-r:"^TWINKLE★MAGIC(.*)$"=TWINKLE★MAGIC$1
-r:"^Comet Coaster(.*)$"=Comet Coaster$1
-r:"^XODUS(.*)$"=XODUS$1
-
-cyTus=cyTus
-
-r:"^Fireflies \(Funk Fiction remix\)(.*)$"=Fireflies (Funk Fiction remix)$1
-r:"^Light up my love!!(.*)$"=Light up my love!!$1
-r:"^Happiness Breeze(.*)$"=Happiness Breeze$1
-r:"^Chrome VOX(.*)$"=Chrome VOX$1
-r:"^CHAOS(.*)$"=CHAOS$1
-r:"^Saika(.*)$"=Saika$1
-r:"^Standby for Action(.*)$"=Standby for Action$1
-r:"^Hydrangea(.*)$"=Hydrangea$1
-r:"^Amenemhat(.*)$"=Amenemhat$1
-r:"^Santouka(.*)$"=Santouka$1
-r:"^HEXENNACHTROCK-katashihaya-(.*)$"=HEXENNACHTROCK-katashihaya-$1
-r:"^Blah!!(.*)$"=Blah!!$1
-
-Let's Do Bad Things Together=Let's Do Bad Things Together
-
-r:"^Preparara(.*)$"=Preparara$1
-r:"^Whatcha;Whatcha Doin'(.*)$"=Whatcha;Whatcha Doin'$1
-r:"^Madara(.*)$"=Madara$1
-r:"^pICARESq(.*)$"=pICARESq$1
-r:"^Desastre(.*)$"=Desastre$1
-r:"^Shoot for the Moon(.*)$"=Shoot for the Moon$1
-
-Let' s GROOVE！=Let' s GROOVE！
-
-r:"^Groove Prayer(.*)$"=Groove Prayer$1
-r:"^FUJIN Rumble(.*)$"=FUJIN Rumble$1
-r:"^Marry me, Nightmare(.*)$"=Marry me, Nightmare$1
-r:"^HG魔改造ポリビニル少年(.*)$"=HG魔改造ポリビニル少年$1
-r:"^聖者の息吹(.*)$"=聖者の息吹$1
-r:"^ouroboros -twin stroke of the end-(.*)$"=ouroboros -twin stroke of the end-$1
-
-Nanahira Festival=Festival de Nanahira
-
-r:"^Can I friend you on Bassbook? lol(.*)$"=Can I friend you on Bassbook? lol$1
-r:"^Gaming☆Everything(.*)$"=Gaming☆Everything$1
-r:"^Renji de haochi☆Denshi choriki shiyou chuka ryori 4000nen rekishi shunkan chori kanryo butouteki ryoricho☆(.*)$"=Renji de haochi☆Denshi choriki shiyou chuka $1ryori 4000nen rekishi shunkan chori kanryo butouteki ryoricho☆
-r:"^You Make My Life 1UP(.*)$"=You Make My Life 1UP$1
-r:"^Newbies take 3 years, geeks 8 years, and internets are forever(.*)$"=Newbies take 3 years, geeks 8 years, and internets are forever$1
-r:"^Onegai!Kon kon Oinarisama(.*)$"=Onegai!Kon kon Oinarisama$1
-
-//CANCIONES DEL GRUPO MUSE DASH PLUS
-
-r:"^Niki Tousen(.*)$"=Niki Tousen$1
-r:"^AlterLuna(.*)$"=AlterLuna$1
-r:"^Narcissism Angel(.*)$"=Narcissism Angel$1
-r:"^Meteor \(feat. TEA\)(.*)$"=Meteor (feat. TEA)$1
-r:"^Hey Vincent.(.*)$"=Hey Vincent.$1
-r:"^Haunted Dance(.*)$"=Haunted Dance$1
-r:"^Blue Lemonade(.*)$"=Blue Lemonade$1
-r:"^Heartache(.*)$"=Heartache$1
-r:"^All My Friends \(feat. RANASOL\)(.*)$"=All My Friends (feat. RANASOL)$1
-r:"^暮色小诗(.*)$"=暮色小诗$1
-r:"^YUKEMURI TAMAONSEN II(.*)$"=YUKEMURI TAMAONSEN II$1
-r:"^Sanyousei SAY YA!!!(.*)$"=Sanyousei SAY YA!!!$1
-r:"^NICE TYPE feat. monii(.*)$"=NICE TYPE feat. monii$1
-r:"^Time Capsule(.*)$"=Time Capsule$1
-r:"^JACK PT BOSS(.*)$"=JACK PT BOSS$1
-r:"^Highway Cruisin'(.*)$"=Highway Cruisin'$1
-r:"^Helixir(.*)$"=Helixir$1
-r:"^人鱼电台(.*)$"=人鱼电台$1
-r:"^SyZyGy(.*)$"=SyZyGy$1
-r:"^Crow Rabbit(.*)$"=Crow Rabbit$1
-r:"^Is there no way I'm defeated by OTOGE-BOSS-KYOKU-CHAN is strongly provoking\?\?\?\?\?(.*)$"=Is there no way I'm defeated by OTOGE-BOSS-KYOKU-CHAN is strongly $1provoking?????
-r:"^Random(.*)$"=Random$1
-r:"^Silver Bullet(.*)$"=Silver Bullet$1
-r:"^The Day We Become Family(.*)$"=The Day We Become Family$1
-r:"^旧梦(.*)$"=旧梦$1
-r:"^Lunatic(.*)$"=Lunatic$1
-r:"^Record one's Dream(.*)$"=Record one's Dream$1
-r:"^Amateras Rhythm(.*)$"=Amateras Rhythm$1
-r:"^Squalldecimator feat. EZ-Ven(.*)$"=Squalldecimator feat. EZ-Ven$1
-r:"^天靈靈地靈靈(.*)$"=天靈靈地靈靈$1
-r:"^Gospel(.*)$"=Gospel$1
-r:"^Prism Fountain(.*)$"=Prism Fountain$1
-r:"^Inu no outa(.*)$"=Inu no outa$1
-r:"^Kuishinbo Hacker feat.Kuishinbo Akachan(.*)$"=Kuishinbo Hacker feat.Kuishinbo Akachan$1
-r:"^snooze(.*)$"=snooze$1
-r:"^物凄い狂っとるフランちゃんが物凄いうた(.*)$"=物凄い狂っとるフランちゃんが物凄いうた$1
-r:"^DROPS \(feat. Such\)(.*)$"=DROPS (feat. Such)$1
-r:"^Queen Aluett(.*)$"=Queen Aluett$1
-r:"^AKUMU / feat.tug(.*)$"=AKUMU / feat.tug$1
-r:"^Diffraction(.*)$"=Diffraction$1
-r:"^Sand Maze(.*)$"=Sand Maze$1
-r:"^pa pi pu pi pu pi pa(.*)$"=pa pi pu pi pu pi pa$1
-r:"^don't！stop！eroero！(.*)$"=don't！stop！eroero！$1
-r:"^カタリスト(.*)$"=カタリスト$1
-r:"^Believing and Being(.*)$"=Believing and Being$1
-r:"^Smile-mileS(.*)$"=Smile-mileS$1
-
-r:"^Midnight O'clock(.*)$"=Midnight O'clock$1
-r:"^can you feel it(.*)$"=can you feel it$1
-r:"^#Psychedelic_Meguro_River(.*)$"=#Psychedelic_Meguro_River$1
-r:"^ナイト・オブ・ナイツ(.*)$"=ナイト・オブ・ナイツ$1
-r:"^ARIGA THESIS(.*)$"=ARIGA THESIS$1
-r:"^Amatsumikaboshi(.*)$"=Amatsumikaboshi$1
-r:"^The Happycore Idol(.*)$"=The Happycore Idol$1
-
-//Update MUSE RADIO FM105
-MUSE RADIO FM105=MUSE RADIO FM105
-
-r:"^disco light(.*)$"=disco light$1
-r:"^room light feat.chancylemon(.*)$"=room light feat.chancylemon$1
-r:"^Invisible(.*)$"=Invisible$1
-r:"^圣诞季-LLABB(.*)$"=圣诞季-LLABB$1
-
-CHUNITHM COURSE MUSE=CHUNITHM COURSE MUSE
-
-r:"^月詠に鳴る(.*)$"=月詠に鳴る$1
-
-//Project MD Plus
-r:"^HIT ME UP(.*)$"=HIT ME UP$1
-r:"^Test Me \(feat. Uyeon\)(.*)$"=Test Me (feat. Uyeon)$1
-r:"^Assault TAXI(.*)$"=Assault TAXI$1
-r:"^Pop it(.*)$"=Pop it$1
-r:"^HEARTBEAT！キュンキュン！iKz feat.Warma(.*)$"=HEARTBEAT！キュンキュン！iKz feat.Warma$1
-
-//Novice Rider Pack
-Novice Rider Pack=Novice Rider Pack
-
-r:"^SUPERHERO(.*)$"=SUPERHERO$1
-r:"^Highway_Summer(.*)$"=Highway_Summer$1
-r:"^Sweet Encounter(.*)$"=Sweet Encounter$1
-r:"^Mx. Black Box(.*)$"=Mx. Black Box$1
-
-Let's Rhythm Jam!(.*)$"=Let's Rhythm Jam!
-
-r:"^Hyouryu(.*)$"=Hyouryu$1
-r:"^The Whole Rest(.*)$"=The Whole Rest$1
-r:"^Hydra(.*)$"=Hydra$1
-r:"^Pastel Lines(.*)$"=Pastel Lines$1
-r:"^LINK x LIN#S(.*)$"=LINK x LIN#S$1
-r:"^Arcade ViruZ(.*)$"=Arcade ViruZ$1
-
-//Concept Pack
-Endless Pirouette=Endless Pirouette
-
-r:"^Eve Avenir(.*)$"=Eve Avenir$1
-r:"^Silverstring(.*)$"=Silverstring$1
-r:"^Melusia(.*)$"=Melusia$1
-r:"^Devil's Castle(.*)$"=Devil's Castle$1
-r:"^Abatement(.*)$"=Abatement$1
-r:"^Azalea(.*)$"=Azalea$1
-r:"^Brightly World(.*)$"=Brightly World$1
-r:"^We'll meet in every world ★★★(.*)$"=We'll meet in every world ★★★$1
-r:"^Collapsar(.*)$"=Collapsar$1
-r:"^Parousia(.*)$"=Parousia$1
-
-//CANCIONES CUSTOM
-r:"^BBBang(.*)$"=BBBang$1
-r:"^#be_fortunate(.*)$"=#be_fortunate$1
-r:"^Goyang Ubur Ubur(.*)$"=Goyang Ubur Ubur$1
-r:"^うっせぇわ(.*)$"=うっせぇわ$1
-r:"^にんじゃりばんばん(.*)$"=にんじゃりばんばん$1
-r:"^Bling-Bang-Bang-Born(.*)$"=Bling-Bang-Bang-Born$1
-r:"^Breakin' Asia(.*)$"=Breakin' Asia$1
-r:"^Na Na Na \(Na Na Na Na Na Na Na Na Na\)(.*)$"=Na Na Na (Na Na Na Na Na Na Na Na Na)$1
-r:"^ギターと孤独と蒼い惑星 -Anime Ver.-(.*)$"=ギターと孤独と蒼い惑星 -Anime Ver.-$1
-r:"^にんじゃりばんばん(.*)$"=にんじゃりばんばん$1
-r:"^パラマウント☆ショータイム！！(.*)$"=パラマウント☆ショータイム！！$1
-r:"^ラヴ♡スパイス♡ライクユー!!!(.*)$"=ラヴ♡スパイス♡ライクユー!!!$1
-r:"^綺羅キラー\(feat. Mori Calliope\)(.*)$"=綺羅キラー(feat. Mori Calliope)$1
-r:"^恋色マスタースパーク \(DJ Genki Remix\)(.*)$"=恋色マスタースパーク (DJ Genki Remix)$1
-r:"^Lunartic Dial(.*)$"=Lunartic Dial$1
-r:"^少女綺想曲(.*)$"=少女綺想曲$1
-r:"^Moment Day(.*)$"=Moment Day$1
-r:"^物凄いバーニングで魔理沙が物凄いうた(.*)$"=物凄いバーニングで魔理沙が物凄いうた$1
-r:"^No Title(.*)$"=No Title$1
-r:"^オニユリ(.*)$"=オニユリ$1
-r:"^無意識レクイエム \(cosmobsp rmx\)(.*)$"=無意識レクイエム (cosmobsp rmx)$1
-r:"^脳味噌リジッドガール(.*)$"=脳味噌リジッドガール$1
-r:"^Peace and Tranquility(.*)$"=Peace and Tranquility$1
-r:"^Popping Happiness!(.*)$"=Popping Happiness!$1
-r:"^Going My Future!(.*)$"=Going My Future!$1
-r:"^YUBIKARI-GENMAN(.*)$"=YUBIKARI-GENMAN$1
-r:"^folern(.*)$"=folern$1
-r:"^Hell's Sun(.*)$"=Hell's Sun$1
-r:"^ヒューマノイド(.*)$"=ヒューマノイド$1
-r:"^Icedust(.*)$"=Icedust$1
-r:"^Infinity Heaven(.*)$"=Infinity Heaven$1
-r:"^Initiating League(.*)$"=Initiating League$1
-r:"^ジッタードー(.*)$"=ジッタードー$1
-
-r:"^Speed of Light(.*)$"=Speed of Light$1
-
 ITEMS AWARD!!=¡¡PREMIO DE ARTÍCULOS!!
 Is there no way I'm defeated by OTOGE-BOSS-KYOKU-CHAN is strongly provoking?????=¿¿¿¿¿No hay manera de que sea derrotado por OTOGE-BOSS-KYOKU-CHAN, estás provocando fuertemente?????
 一二三四五六七八=12345678
+
+Unknown Error(´×ω×`)=Error desconocido (´×ω×`)
+r:"Please log in to redeem the content."=Inicia sesión para canjear el contenido.
+Unable to refresh the notifications, please check your network.=No se pueden actualizar las notificaciones, revisa tu conexión de red.
+<color\=#FF33D8FF>Refresh error. Please retry later QAQ</color>=<color\=#FF33D8FF>Error al actualizar. Inténtalo de nuevo más tarde QAQ</color>
+The search box is empty, please enter=El cuadro de búsqueda está vacío, ingresa algo.
 
 
 //ARTISTAS
@@ -2684,7 +1838,6 @@ Paul Bazooka=Paul Bazooka
 ND Lee=ND Lee
 SiNA x CHUCK=SiNA x CHUCK
 karatoPαnchii feat.はるの=karatoPαnchii feat.はるの
-Haze of Autumn=Haze of Autumn
 Zekk=Zekk
 USAO=USAO
 t+pazolite & Massive New Krew feat. Lily(Shiki Aoki)=t+pazolite & Massive New Krew feat. Lily(Shiki Aoki)
@@ -2764,12 +1917,947 @@ Mizku & SNKS=Mizku & SNKS
 Ryusei Trap Boys=Ryusei Trap Boys
 uma vs. M-UE=uma vs. M-UE
 Salad Savior=Salad Savior
+Mitsukiyo=Mitsukiyo
+Nor=Nor
+Feryquitous feat.藍月なくる=Feryquitous feat.藍月なくる
+暁Records=Akatsuki Records
+Yuuhei Satellite=Yuuhei Satellite
+Y（C-CLAYS）=Y（C-CLAYS）
+七条レタスグループ=七条レタスグループ
+Mili=Mili
+H△G=H△G
+Aethoro feat. Traceco=Aethoro feat. Traceco
+ユアミトス=ユアミトス
+THE SxPLAY & KIVΛ=THE SxPLAY & KIVΛ
+KIVΛ=KIVΛ
+James Landino X Akira Complex=James Landino X Akira Complex
+Aspid Cat=Aspid Cat
+Apo11o program=Apo11o program
+void (Mournfinale)=void (Mournfinale)
+Sampling Masters MEGA=Sampling Masters MEGA
+kikuo×cosMo@Bousou-P  feat.kagenui hana=kikuo×cosMo@Bousou-P  feat.kagenui hana
 
-Unknown Error(´×ω×`)=Error desconocido (´×ω×`)
-r:"Please log in to redeem the content."=Inicia sesión para canjear el contenido.
-Unable to refresh the notifications, please check your network.=No se pueden actualizar las notificaciones, revisa tu conexión de red.
-<color\=#FF33D8FF>Refresh error. Please retry later QAQ</color>=<color\=#FF33D8FF>Error al actualizar. Inténtalo de nuevo más tarde QAQ</color>
-The search box is empty, please enter=El cuadro de búsqueda está vacío, ingresa algo.
+//CANCIONES DEL GRUPO PREDTERMINADO
+r:"^UNLOCKED AT LV.(\d+)$"=ACCESIBLE AL NV.$1
+
+Magical Wonderland (More colorful mix)=Magical Wonderland (More colorful mix)
+Iyaiya=Iyaiya
+Wonderful Pain=Wonderful Pain
+Breaking Dawn=Breaking Dawn
+单向地铁 Feat.karin=单向地铁 Feat.karin
+Echo over you...=Echo over you...
+Yume Ou Mono Yo feat. Wotoha - Neko Hacker=Yume Ou Mono Yo feat. Wotoha - Neko Hacker
+Frost Land=Frost Land
+Heart-Pounding Flight=Heart-Pounding Flight
+Pancake is Love=Pancake is Love
+时光涂鸦=时光涂鸦
+Evolution=Evolution
+海豚与广播 feat.Uranyan=海豚与广播 feat.Uranyan
+Yuki no Shizuku Ame no Oto=Yuki no Shizuku Ame no Oto
+Best One feat.tooko=Best One feat.tooko
+糖果色恋爱学=糖果色恋爱学
+Night Wander (cnsouka Remix)=Night Wander (cnsouka Remix)
+Dohna Dohna no Uta=Dohna Dohna no Uta
+Spring Carnival=Spring Carnival
+DISCO NIGHT=DISCO NIGHT
+Koi no Moonlight=Koi no Moonlight
+恋爱语音导航 feat.yousa=恋爱语音导航 feat.yousa
+Lights of Muse=Lights of Muse
+midstream jam=midstream jam
+Nihao=Nihao
+Confession=Confession
+Galaxy Striker=Galaxy Striker
+Departure Road=Departure Road
+Bass Telekinesis=Bass Telekinesis
+Cage of Almeria=Cage of Almeria
+Ira=Ira
+Blackest Luxury Car=Blackest Luxury Car
+Medicine of Sing=Medicine of Sing
+irregulyze=irregulyze
+I don't care about Christmas though=I don't care about Christmas though
+Imaginary World=Imaginary World
+Dysthymia=Dysthymia
+新世界より=新世界より
+NISEGAO=NISEGAO
+Say! Fanfare!=Say! Fanfare!
+Star Driver=Star Driver
+Formation=Formation
+Shinsou Masui=Shinsou Masui
+Mezame Eurythmics=Mezame Eurythmics
+Shenri Kuaira -repeat-=Shenri Kuaira -repeat-
+Latitude=Latitude
+Aqua Stars=Aqua Stars
+Funkotsu Saishin Casino=Funkotsu Saishin Casino
+Clock Room & Spiritual World=Clock Room & Spiritual World
+INTERNET OVERDOSE（Aiobahn feat.KOTOKO）=INTERNET OVERDOSE（Aiobahn feat.KOTOKO）
+徒 花=徒 花
+Mujinku-Vacuum Track#ADD8E6-=Mujinku-Vacuum Track#ADD8E6-
+MilK=MilK
+umpopoff=umpopoff
+Mopemope=Mopemope
+
+Cute Is Everything Vol.1=La Dulzura Lo Es Todo Vol.1
+
+r:"^Sunshine and Rainbow after August Rain(.*)$"=Sunshine and Rainbow after August Rain$1
+r:"^Magical Number(.*)$"=Magical Number$1
+r:"^Dreaming Girl(.*)$"=Dreaming Girl$1
+r:"^Daruma-san Fell Over(.*)$"=Daruma-san Fell Over$1
+r:"^Different(.*)$"=Different$1
+r:"^The Future of the Phantom(.*)$"=The Future of the Phantom$1
+r:"^Urban Magic(.*)$"=Urban Magic$1
+
+Give Up TREATMENT Vol.1=Ríndete al TRATAMIENTO Vol.1
+
+r:"^Oriens(.*)$"=Oriens$1
+r:"^PUPA(.*)$"=PUPA$1
+r:"^Luna Express 2032(.*)$"=Luna Express 2032$1
+r:"^Ukiyoe Yokochou(.*)$"=Ukiyoe Yokochou$1
+r:"^Alice in Misanthrope(.*)$"=Alice in Misanthrope$1
+r:"^GOODMEN(.*)$"=GOODMEN$1
+
+Happy Otaku Pack Vol.1=Pack Otaku Feliz Vol.1
+
+r:"^Maharajah(.*)$"=Maharajah$1
+r:"^keep on running(.*)$"=keep on running$1
+r:"^Käfig(.*)$"=Käfig$1
+r:"^\-\+(.*)$"=−+$1
+r:"^Tenri Kaku Jou(.*)$"=Tenri Kaku Jou$1
+r:"^Adjudicatorz-DanZai-(.*)$"=Adjudicatorz-DanZai-$1
+
+Happy Otaku Pack Vol.2=Pack Otaku Feliz Vol.2
+
+r:"^MUSEDASH!!!!(.*)$"=MUSEDASH!!!!$1
+r:"^Imprinting(.*)$"=Imprinting$1
+r:"^Skyward(.*)$"=Skyward$1
+r:"^La nuit de vif(.*)$"=La nuit de vif$1
+r:"^Bit-alize(.*)$"=Bit-alize$1
+r:"^GOODTEK\(Hyper Edit\)(.*)$"=GOODTEK(Hyper Edit)$1
+
+Happy Otaku Pack Vol.3=Pack Otaku Feliz Vol.3
+
+r:"^Thirty Million Persona(.*)$"=Thirty Million Persona$1
+r:"^conflict(.*)$"=conflict$1
+r:"^Enka Dance Music(.*)$"=Enka Dance Music$1
+r:"^XING(.*)$"=XING$1
+r:"^Amakakeru Soukyuu no Serenade(.*)$"=Amakakeru Soukyuu no Serenade$1
+r:"^Gift box(.*)$"=Gift box$1
+
+Budget Is Burning Vol.1=Budget Is Burning Vol. 1
+
+r:"^Out of Sense(.*)$"=Out of Sense$1
+r:"^My Life Is For You(.*)$"=My Life Is For You$1
+r:"^Etude -Sunset-(.*)$"=Etude -Sunset-$1
+r:"^Goodbye Boss(.*)$"=Goodbye Boss$1
+r:"^Stargazer(.*)$"=Stargazer$1
+r:"^Lys Tourbillon(.*)$"=Lys Tourbillon$1
+
+Give Up TREATMENT Vol.2=Ríndete al TRATAMIENTO Vol.2
+
+r:"^Brave My Soul(.*)$"=Brave My Soul$1
+r:"^Halcyon(.*)$"=Halcyon$1
+r:"^Crimson Nightingale(.*)$"=Crimson Nightingale$1
+r:"^Invader(.*)$"=Invader$1
+r:"^Lyrith(.*)$"=Lyrith$1
+r:"^GOODBOUNCE \(Groove Edit\)(.*)$"=GOODBOUNCE (Groove Edit)$1
+
+Give Up TREATMENT Vol.3=Ríndete al TRATAMIENTO Vol.3
+
+r:"^Altale(.*)$"=Altale$1
+r:"^Brain Power(.*)$"=Brain Power$1
+r:"^Berry Go!!(.*)$"=Berry Go!!$1
+r:"^Sweet\* Witch\* Girl\*(.*)$"=Sweet* Witch* Girl*$1
+r:"^trippers feeling!(.*)$"=trippers feeling!$1
+r:"^Lilith ambivalence lovers(.*)$"=Lilith ambivalence lovers$1
+
+Happy Otaku Pack Vol.4=Pack Otaku Feliz Vol.4
+
+r:"^Leave It Alone(.*)$"=Leave It Alone$1
+r:"^Tsubasa no Oreta Tenshitachi no Requiem(.*)$"=Tsubasa no Oreta Tenshitachi no Requiem$1
+r:"^Chronomia(.*)$"=Chronomia$1
+r:"^Dandelion's Daydream(.*)$"=Dandelion's Daydream$1
+r:"^Lorikeet ~Flat design~(.*)$"=Lorikeet ~Flat design~$1
+r:"^GOODRAGE(.*)$"=GOODRAGE$1
+
+Give Up TREATMENT Vol.4=Ríndete al TRATAMIENTO Vol.4
+
+r:"^Destr0yer(.*)$"=Destr0yer$1
+r:"^Noël(.*)$"=Noël$1
+r:"^Kyoukiranbu(.*)$"=Kyoukiranbu$1
+r:"^Two Phace(.*)$"=Two Phace$1
+r:"^Fly Again(.*)$"=Fly Again$1
+r:"^ouroVoros(.*)$"=ouroVoros$1
+
+Happy Otaku Pack Vol.5=Pack Otaku Feliz Vol.5
+
+r:"^Brave My Heart(.*)$"=Brave My Heart$1
+r:"^Sakura Fubuki(.*)$"=Sakura Fubuki$1
+r:"^8bit Adventurer(.*)$"=8bit Adventurer$1
+r:"^Suffering of screw(.*)$"=Suffering of screw$1
+r:"^tiny lady(.*)$"=tiny lady$1
+r:"^Power Attack(.*)$"=Power Attack$1
+
+Give Up TREATMENT Vol.5=Ríndete al TRATAMIENTO Vol.5
+
+r:"^Gaikan Chrysalis(.*)$"=Gaikan Chrysalis$1
+r:"^Sterelogue(.*)$"=Sterelogue$1
+r:"^Cheshire's Dance(.*)$"=Cheshire's Dance$1
+r:"^Skrik(.*)$"=Skrik$1
+r:"^Soda Pop Canva5!(.*)$"=Soda Pop Canva5!$1
+r:"^ЯUBY:LINTe(.*)$"=ЯUBY:LINTe$1
+
+Cute Is Everything Vol.2=La Dulzura Lo Es Todo Vol.2
+
+r:"^速溶霓虹 feat.kumako(.*)$"=速溶霓虹 feat.kumako$1
+r:"^星球上的追溯诗(.*)$"=星球上的追溯诗$1
+r:"^我要买买买(.*)$"=我要买买买$1
+r:"^约会宣言(.*)$"=约会宣言$1
+r:"^初雪(.*)$"=初雪$1
+r:"^心上华海(.*)$"=心上华海$1
+
+Happy Otaku Pack Vol.6=Pack Otaku Feliz Vol.6
+
+r:"^Elysion's Old Mans(.*)$"=Elysion's Old Mans$1
+r:"^AXION(.*)$"=AXION$1
+r:"^Amnesia(.*)$"=Amnesia$1
+r:"^Onsen Dai Sakusen(.*)$"=Onsen Dai Sakusen$1
+r:"^Gleam stone(.*)$"=Gleam stone$1
+r:"^GOODWORLD(.*)$"=GOODWORLD$1
+
+Cute Is Everything Vol.3=La Dulzura Lo Es Todo Vol.3
+
+r:"^魔咒 feat.早木旋子(.*)$"=魔咒 feat.早木旋子$1
+r:"^斑斓星，彩绘，旅行诗(.*)$"=斑斓星，彩绘，旅行诗$1
+r:"^Satell Knight(.*)$"=Satell Knight$1
+r:"^Black River Feat.Mes(.*)$"=Black River Feat.Mes$1
+r:"^生而为人，我很抱歉(.*)$"=生而为人，我很抱歉$1
+r:"^Ueta Tori Tachi(.*)$"=Ueta Tori Tachi$1
+
+Give Up TREATMENT Vol.6=Ríndete al TRATAMIENTO Vol.6
+
+r:"^Future Dive(.*)$"=Future Dive$1
+r:"^Re：End of a Dream(.*)$"=Re：End of a Dream$1
+r:"^Etude -Storm-(.*)$"=Etude -Storm-$1
+r:"^Unlimited Katharsis(.*)$"=Unlimited Katharsis$1
+r:"^Magic Knight Girl(.*)$"=Magic Knight Girl$1
+r:"^Eeliaas(.*)$"=Eeliaas$1
+
+Happy Otaku Pack Vol.7=Pack Otaku Feliz Vol.7
+
+r:"^Cotton Candy Wonderland(.*)$"=Cotton Candy Wonderland$1
+r:"^Punai Punai Taiso(.*)$"=Punai Punai Taiso$1
+r:"^Fly↑High(.*)$"=Fly↑High$1
+r:"^prejudice(.*)$"=prejudice$1
+r:"^The 89's Momentum(.*)$"=The 89's Momentum$1
+r:"^energy night\(DASH mix\)(.*)$"=energy night(DASH mix)$1
+
+Cute Is Everything Vol.4=La Dulzura Lo Es Todo Vol.4
+
+r:"^SWEETSWEETSWEET(.*)$"=SWEETSWEETSWEET$1
+r:"^深蓝与夜的呼吸(.*)$"=深蓝与夜的呼吸$1
+r:"^Joy Connection(.*)$"=Joy Connection$1
+r:"^Self Willed Girl Ver.B(.*)$"=Self Willed Girl Ver.B$1
+r:"^就是不听话(.*)$"=就是不听话$1
+r:"^Holy Shit Grass Snake(.*)$"=Holy Shit Grass Snake$1
+
+Give Up TREATMENT Vol.7=Ríndete al TRATAMIENTO Vol.7
+
+r:"^INFINITY(.*)$"=INFINITY$1
+r:"^Punai Punai Senso(.*)$"=Punai Punai Senso$1
+r:"^Maxi(.*)$"=Maxi$1
+r:"^YInMn Blue(.*)$"=YInMn Blue$1
+r:"^Plumage(.*)$"=Plumage$1
+r:"^Dr.Techro(.*)$"=Dr.Techro$1
+
+Happy Otaku Pack Vol.8=Pack Otaku Feliz Vol.8
+
+r:"^Moonlight Banquet(.*)$"=Moonlight Banquet$1
+r:"^Flashdance(.*)$"=Flashdance$1
+r:"^INFiNiTE ENERZY -Overdoze-(.*)$"=INFiNiTE ENERZY -Overdoze-$1
+r:"^One Way Street(.*)$"=One Way Street$1
+r:"^This Club is Not 4 U(.*)$"=This Club is Not 4 U$1
+r:"^ULTRA MEGA HAPPY PARTY!!!(.*)$"=ULTRA MEGA HAPPY PARTY!!!$1
+
+Budget Is Burning: Nano Core=Budget Is Burning: Nano Core
+
+r:"^Glimmer feat.祈Inory(.*)$"=Glimmer feat.祈Inory$1
+r:"^EXIST feat.米雅(.*)$"=EXIST feat.米雅$1
+r:"^Irreplaceable feat.夏铜子(.*)$"=Irreplaceable feat.夏铜子$1
+
+Give Up TREATMENT Vol.8=Ríndete al TRATAMIENTO Vol.8
+
+r:"^The NightScape(.*)$"=The NightScape$1
+r:"^FREEDOM DiVE↓(.*)$"=FREEDOM DiVE↓$1
+r:"^Φ(.*)$"=Φ$1
+r:"^Lueur de la nuit(.*)$"=Lueur de la nuit$1
+r:"^Creamy Sugary OVERDRIVE!!!(.*)$"=Creamy Sugary OVERDRIVE!!!$1
+r:"^Disorder \(feat.YURI\)(.*)$"=Disorder (feat.YURI)$1
+
+Cute Is Everything Vol.5=La Dulzura Lo Es Todo Vol.5
+
+r:"^雨后甜点(.*)$"=雨后甜点$1
+r:"^告白应援方程式(.*)$"=告白应援方程式$1
+r:"^Omatsuri feat.兔子ST(.*)$"=Omatsuri feat.兔子ST$1
+r:"^FUTUREPOP(.*)$"=FUTUREPOP$1
+r:"^The Breeze(.*)$"=The Breeze$1
+r:"^I LOVE LETTUCE FRIED RICE!!(.*)$"=I LOVE LETTUCE FRIED RICE!!$1
+
+Happy Otaku Pack Vol.9=Pack Otaku Feliz Vol.9
+
+r:"^The Last Page(.*)$"=The Last Page$1
+r:"^IKAROS(.*)$"=IKAROS$1
+r:"^Tsukuyomi(.*)$"=Tsukuyomi$1
+r:"^Future Stream(.*)$"=Future Stream$1
+r:"^FULi AUTO SHOOTER(.*)$"=FULi AUTO SHOOTER$1
+r:"^GOODFORTUNE(.*)$"=GOODFORTUNE$1
+
+MUSE RADIO FM101=MUSE RADIO FM101
+
+r:"^tape/stop/night(.*)$"=tape/stop/night$1
+r:"^Pixel Galaxy(.*)$"=Pixel Galaxy$1
+r:"^Notice(.*)$"=Notice$1
+r:"^<b>sᴛʀᴀᴡʙᴇʀʀʏ ɢᴏᴅᴢɪʟʟᴀ</b>(.*)$"=<b>sᴛʀᴀᴡʙᴇʀʀʏ ɢᴏᴅᴢɪʟʟᴀ</b>$1
+r:"^OKIMOCHI EXPRESSION(.*)$"=OKIMOCHI EXPRESSION$1
+r:"^君とpool disco(.*)$"=君とpool disco$1
+
+Give Up TREATMENT Vol.9=Ríndete al TRATAMIENTO Vol.9
+
+r:"^Legend of Eastern Rabbit -SKY DEFENDER-(.*)$"=Legend of Eastern Rabbit -SKY DEFENDER-$1
+r:"^ENERGY SYNERGY MATRIX(.*)$"=ENERGY SYNERGY MATRIX$1
+r:"^Punai Punai Genso ~Punai Punai in Wonderland~(.*)$"=Punai Punai Genso ~Punai Punai in Wonderland~$1
+r:"^Better Graphic Animation(.*)$"=Better Graphic Animation$1
+r:"^Variant Cross(.*)$"=Variant Cross$1
+r:"^Ultra Happy Miracle Bazoooooka!!(.*)$"=Ultra Happy Miracle Bazoooooka!!$1
+
+Nanahira Festival=Festival de Nanahira
+
+r:"^Can I friend you on Bassbook\? lol(.*)$"=Can I friend you on Bassbook? lol$1
+r:"^Gaming☆Everything(.*)$"=Gaming☆Everything$1
+r:"^Renji de haochi☆Denshi choriki shiyou chuka ryori 4000nen rekishi shunkan chori kanryo butouteki ryoricho☆(.*)$"=Renji de haochi☆Denshi choriki shiyou chuka $1ryori 4000nen rekishi shunkan chori kanryo butouteki ryoricho☆
+r:"^You Make My Life 1UP(.*)$"=You Make My Life 1UP$1
+r:"^Newbies take 3 years, geeks 8 years, and internets are forever(.*)$"=Newbies take 3 years, geeks 8 years, and internets are forever$1
+r:"^Onegai!Kon kon Oinarisama(.*)$"=Onegai!Kon kon Oinarisama$1
+
+Happy Otaku Pack Vol.10=Pack Otaku Feliz Vol.10
+
+r:"^Heisha Onsha(.*)$"=Heisha Onsha$1
+r:"^Ginevra(.*)$"=Ginevra$1
+r:"^Paracelestia(.*)$"=Paracelestia$1
+r:"^un secret(.*)$"=un secret$1
+r:"^Good Life(.*)$"=Good Life$1
+r:"^ニニ-nini-(.*)$"=ニニ-nini-$1
+
+Let' s GROOVE！=Let's GROOVE！
+
+r:"^Groove Prayer(.*)$"=Groove Prayer$1
+r:"^FUJIN Rumble(.*)$"=FUJIN Rumble$1
+r:"^Marry me, Nightmare(.*)$"=Marry me, Nightmare$1
+r:"^HG魔改造ポリビニル少年(.*)$"=HG魔改造ポリビニル少年$1
+r:"^聖者の息吹(.*)$"=聖者の息吹$1
+r:"^ouroboros -twin stroke of the end-(.*)$"=ouroboros -twin stroke of the end-$1
+
+Cute Is Everything Vol.6=La Dulzura Lo Es Todo Vol.6
+
+r:"^Girly Cupid(.*)$"=Girly Cupid$1
+r:"^sheep in the light(.*)$"=sheep in the light$1
+r:"^Breaker city(.*)$"=Breaker city$1
+r:"^heterodoxy(.*)$"=heterodoxy$1
+r:"^Computer Music Girl(.*)$"=Computer Music Girl$1
+r:"^焦点 feat.早木旋子(.*)$"=焦点 feat.早木旋子$1
+
+Happy Otaku Pack Vol.11=Pack Otaku Feliz Vol.11
+
+r:"^The 90's Decision(.*)$"=The 90's Decision$1
+r:"^Medusa(.*)$"=Medusa$1
+r:"^Final Step!(.*)$"=Final Step!$1
+r:"^MAGENTA POTION(.*)$"=MAGENTA POTION$1
+r:"^Cross†Ray \(feat. 月下Lia\)(.*)$"=Cross†Ray (feat. 月下Lia)$1
+r:"^Square Lake(.*)$"=Square Lake$1
+
+Let's Do Bad Things Together=Let's Do Bad Things Together
+
+r:"^Preparara(.*)$"=Preparara$1
+r:"^Whatcha;Whatcha Doin'(.*)$"=Whatcha;Whatcha Doin'$1
+r:"^Madara(.*)$"=Madara$1
+r:"^pICARESq(.*)$"=pICARESq$1
+r:"^Desastre(.*)$"=Desastre$1
+r:"^Shoot for the Moon(.*)$"=Shoot for the Moon$1
+
+cyTus=cyTus
+
+r:"^Fireflies \(Funk Fiction remix\)(.*)$"=Fireflies (Funk Fiction remix)$1
+r:"^Light up my love!!(.*)$"=Light up my love!!$1
+r:"^Happiness Breeze(.*)$"=Happiness Breeze$1
+r:"^Chrome VOX(.*)$"=Chrome VOX$1
+r:"^CHAOS(.*)$"=CHAOS$1
+r:"^Saika(.*)$"=Saika$1
+r:"^Standby for Action(.*)$"=Standby for Action$1
+r:"^Hydrangea(.*)$"=Hydrangea$1
+r:"^Amenemhat(.*)$"=Amenemhat$1
+r:"^Santouka(.*)$"=Santouka$1
+r:"^HEXENNACHTROCK-katashihaya-(.*)$"=HEXENNACHTROCK-katashihaya-$1
+r:"^Blah!!(.*)$"=Blah!!$1
+
+HARDCORE TANO*C=HARDCORE TANO*C
+
+r:"^ALiVE(.*)$"=ALiVE$1
+r:"^BATTLE NO.1(.*)$"=BATTLE NO.1$1
+r:"^Cthugha(.*)$"=Cthugha$1
+r:"^TWINKLE★MAGIC(.*)$"=TWINKLE★MAGIC$1
+r:"^Comet Coaster(.*)$"=Comet Coaster$1
+r:"^XODUS(.*)$"=XODUS$1
+
+Happy Otaku Pack SP=Pack Otaku Feliz SP
+
+r:"^MuseDashを作っているPeroPeroGamesさんが倒産しちゃったよ～(.*)$"=MuseDashを作っているPeroPeroGamesさんが倒産しちゃったよ～$1
+r:"^MARENOL(.*)$"=MARENOL$1
+r:"^僕の和風本当上手(.*)$"=僕の和風本当上手$1
+r:"^Rush B(.*)$"=Rush B$1
+r:"^DataErr0r(.*)$"=DataErr0r$1
+r:"^Burn(.*)$"=Burn$1
+
+Give Up TREATMENT Vol.10=Ríndete al TRATAMIENTO Vol.10
+
+r:"^NightTheater(.*)$"=NightTheater$1
+r:"^Cutter(.*)$"=Cutter$1
+r:"^bamboo(.*)$"=bamboo$1
+r:"^enchanted love(.*)$"=enchanted love$1
+r:"^c.s.q.n.(.*)$"=c.s.q.n.$1
+r:"^Booouncing!!(.*)$"=Booouncing!!$1
+
+Cute Is Everything Vol.7=La Dulzura Lo Es Todo Vol.7
+
+r:"^琉璃色前奏曲(.*)$"=琉璃色前奏曲$1
+r:"^Neonlights(.*)$"=Neonlights$1
+r:"^Hope for the flowers(.*)$"=Hope for the flowers$1
+r:"^Seaside Cycling on May 30(.*)$"=Seaside Cycling on May 30$1
+r:"^SKY↑HIGH(.*)$"=SKY↑HIGH$1
+r:"^Mousou Chu!!(.*)$"=Mousou Chu!!$1
+
+Phigros=Phigros
+
+r:"^NO ONE YES MAN(.*)$"=NO ONE YES MAN$1
+r:"^雪降り、メリクリ （MD edit）(.*)$"=雪降り、メリクリ （MD edit）$1
+r:"^Igallta(.*)$"=Igallta$1
+
+MUSE RADIO FM102=MUSE RADIO FM102
+
+r:"^happy hour(.*)$"=happy hour$1
+r:"^Seikimatsu no Natsu(.*)$"=Seikimatsu no Natsu$1
+r:"^twinkle night(.*)$"=twinkle night$1
+r:"^ARUYA HARERUYA(.*)$"=ARUYA HARERUYA$1
+r:"^Blush \(feat. MYLK\)(.*)$"=Blush (feat. MYLK)$1
+r:"^裸のSummer(.*)$"=裸のSummer$1
+r:"^BLESS ME\(Samplingsource\)(.*)$"=BLESS ME(Samplingsource)$1
+
+Happy Otaku Pack Vol.12=Pack Otaku Feliz Vol.12
+
+r:"^Rush-More(.*)$"=Rush-More$1
+r:"^Kill My Fortune(.*)$"=Kill My Fortune$1
+r:"^Yosari Tsukibotaru Suminoborite(.*)$"=Yosari Tsukibotaru Suminoborite$1
+r:"^JUMP! HardCandy(.*)$"=JUMP! HardCandy$1
+r:"^Hibari(.*)$"=Hibari$1
+r:"^OCCHOCO-REST-LESS(.*)$"=OCCHOCO-REST-LESS$1
+
+7th Beat Games=7th Beat Games
+
+r:"^Super Battleworn Insomniac(.*)$"=Super Battleworn Insomniac$1
+r:"^Bomb-Sniffing Pomeranian(.*)$"=Bomb-Sniffing Pomeranian$1
+r:"^Rollerdisco Rumble(.*)$"=Rollerdisco Rumble$1
+r:"^Rose Garden(.*)$"=Rose Garden$1
+r:"^EMOMOMO(.*)$"=EMOMOMO$1
+r:"^Heracles(.*)$"=Heracles$1
+
+Touhou Mugakudan -Ⅰ-=Touhou Mugakudan -Ⅰ-
+Touhou Mugakudan -I-=Touhou Mugakudan -I-
+
+r:"^Bad Apple!! feat. Nomico(.*)$"=Bad Apple!! feat. Nomico$1
+r:"^色は匂へど散りぬるを(.*)$"=色は匂へど散りぬるを$1
+r:"^Cirno's Perfect Math Class(.*)$"=Cirno's Perfect Math Class$1
+r:"^緋色月下、狂咲ノ絶(.*)$"=緋色月下、狂咲ノ絶$1
+r:"^Flowery Moonlit Night(.*)$"=Flowery Moonlit Night$1
+r:"^Unconscious Requiem(.*)$"=Unconscious Requiem$1
+
+Happy Otaku Pack Vol.13=Pack Otaku Feliz Vol.13
+
+r:"^Party in the HOLLOWood feat. ななひら(.*)$"=Party in the HOLLOWood feat. ななひら$1
+r:"^嘤嘤大作战(.*)$"=嘤嘤大作战$1
+r:"^Howlin' Pumpkin(.*)$"=Howlin' Pumpkin$1
+
+WACCA Horizon=WACCA Horizon
+
+r:"^ONOMATO Pairing!!!(.*)$"=ONOMATO Pairing!!!$1
+r:"^with U(.*)$"=with U$1
+r:"^Chariot(.*)$"=Chariot$1
+r:"^GASHATT(.*)$"=GASHATT$1
+r:"^LIN NE KRO NE feat. lasah(.*)$"=LIN NE KRO NE feat. lasah$1
+r:"^ANGEL HALO(.*)$"=ANGEL HALO$1
+
+Happy Otaku Pack Vol.14=Pack Otaku Feliz Vol.14
+
+r:"^Bang!!(.*)$"=Bang!!$1
+r:"^Paradise Ⅱ(.*)$"=Paradise Ⅱ$1
+r:"^Symbol(.*)$"=Symbol$1
+r:"^Nekojarashi(.*)$"=Nekojarashi$1
+r:"^A Philosophical Wanderer(.*)$"=A Philosophical Wanderer$1
+r:"^Isouten(.*)$"=Isouten$1
+
+Arcaea=Arcaea
+
+r:"^Haze of Autumn(.*)$"=Haze of Autumn$1
+r:"^GIMME DA BLOOD(.*)$"=GIMME DA BLOOD$1
+r:"^Libertas(.*)$"=Libertas$1
+r:"^Cyaegha(.*)$"=Cyaegha$1
+
+DJMAX Reflect=DJMAX Reflect
+
+r:"^glory day(.*)$"=glory day$1
+r:"^Bright Dream(.*)$"=Bright Dream$1
+r:"^Groovin Up(.*)$"=Groovin Up$1
+r:"^I Want You(.*)$"=I Want You$1
+r:"^OBLIVION(.*)$"=OBLIVION$1
+r:"^Elastic STAR(.*)$"=Elastic STAR$1
+r:"^U.A.D(.*)$"=U.A.D$1
+r:"^Jealousy(.*)$"=Jealousy$1
+r:"^Memory of Beach(.*)$"=Memory of Beach$1
+r:"^Don't Die(.*)$"=Don't Die$1
+r:"^Y \(CE Ver.\)(.*)$"=Y (CE Ver.)$1
+r:"^Fancy Night(.*)$"=Fancy Night$1
+r:"^Can We Talk(.*)$"=Can We Talk$1
+r:"^Give Me 5(.*)$"=Give Me 5$1
+r:"^Nightmare(.*)$"=Nightmare$1
+
+DokiDoki! Valentine!=DokiDoki! Valentine!
+
+r:"^Pray a LOVE(.*)$"=Pray a LOVE$1
+r:"^恋愛回避依存症(.*)$"=恋愛回避依存症$1
+r:"^Daisuki Dayo feat.Wotoha(.*)$"=Daisuki Dayo feat.Wotoha$1
+r:"^去剪海的日子(.*)$"=去剪海的日子$1
+
+Nyanya Universe!=Nyanya Universe!
+
+r:"^Nyan Cat(.*)$"=Nyan Cat$1
+r:"^PeroPero in the Universe(.*)$"=PeroPero in the Universe$1
+r:"^In-kya Yo-kya Onmyoji(.*)$"=In-kya Yo-kya Onmyoji$1
+r:"^KABOOOOOM!!!!(.*)$"=KABOOOOOM!!!!$1
+r:"^Doppelganger(.*)$"=Doppelganger$1
+
+r:"^Virtual Idol Production(.*)$"=Virtual Idol Production$1
+r:"^假面日记(.*)$"=假面日记$1
+r:"^Reminiscence(.*)$"=Reminiscence$1
+r:"^DarakuDatenshi(.*)$"=DarakuDatenshi$1
+r:"^D.I.Y.(.*)$"=D.I.Y.$1
+r:"^男子in☆バーチャランド(.*)$"=男子in☆バーチャランド$1
+r:"^kuí(.*)$"=kuí$1
+
+MUSE RADIO FM103=MUSE RADIO FM103
+
+r:"^marooned night(.*)$"=marooned night$1
+r:"^daydream girl(.*)$"=daydream girl$1
+r:"^Ornamentじゃない\(Muse Dash Mix\)(.*)$"=Ornamentじゃない(Muse Dash Mix)$1
+r:"^Baby Pink \(w/ YUC'e\)(.*)$"=Baby Pink (w/ YUC'e)$1
+r:"^I'm Here(.*)$"=I'm Here$1
+
+Happy Otaku Pack Vol.15=Pack Otaku Feliz Vol.15
+
+r:"^On And On!!(.*)$"=On And On!!$1
+r:"^Trip!(.*)$"=Trip!$1
+r:"^Hoshi no otoshimono(.*)$"=Hoshi no otoshimono$1
+r:"^Plucky Race(.*)$"=Plucky Race$1
+r:"^Fantasia Sonata Destiny(.*)$"=Fantasia Sonata Destiny$1
+r:"^Run through(.*)$"=Ejecutar a través de$1
+r:"^Howard_Y(.*)$"=Howard_yRun through(.*)$"=Howard_Y(.*)$"=Howard_yRun through$1
+
+MEGAREX THE FUTURE=MEGAREX THE FUTURE
+
+r:"^White Canvas \(feat. 藍月なくる\)(.*)$"=White Canvas (feat. 藍月なくる)$1
+r:"^Gloomy Flash \(feat. Mami\)(.*)$"=Gloomy Flash (feat. Mami)$1
+r:"^今月のおすすめプレイリストを検索します(.*)$"=今月のおすすめプレイリストを検索します$1
+r:"^Sunday Night \(feat. Kanata.N\)(.*)$"=Sunday Night (feat. Kanata.N)$1
+r:"^Goodbye Goodnight \(feat. Shully\)(.*)$"=Goodbye Goodnight (feat. Shully)$1
+r:"^ENDLESS CIDER \(feat. Such\)(.*)$"=ENDLESS CIDER (feat. Such)$1
+
+Touhou Mugakudan -Ⅱ-=Touhou Mugakudan -Ⅱ-
+Touhou Mugakudan -II-=Touhou Mugakudan -II-
+
+
+r:"^月に叢雲華に風(.*)$"=月に叢雲華に風$1
+r:"^Patchouli's - Best Hit GSK(.*)$"=Patchouli's - Best Hit GSK$1
+r:"^物凄いスペースシャトルでこいしが物凄いうた(.*)$"=物凄いスペースシャトルでこいしが物凄いうた$1
+r:"^囲い無き世は一期の月影(.*)$"=囲い無き世は一期の月影$1
+r:"^Psychedelic Kizakura Doumei(.*)$"=Psychedelic Kizakura Doumei$1
+r:"^Mischievous Sensation(.*)$"=Mischievous Sensation$1
+
+Give Up TREATMENT Vol.11=Ríndete al TRATAMIENTO Vol.11
+
+r:"^Psyched Fevereiro(.*)$"=Psyched Fevereiro$1
+r:"^Inferno City(.*)$"=Inferno City$1
+r:"^Paradigm Shift(.*)$"=Paradigm Shift$1
+r:"^Snapdragon(.*)$"=Snapdragon$1
+r:"^Prestige and Vestige(.*)$"=Prestige and Vestige$1
+r:"^Tiny Fate(.*)$"=Tiny Fate$1
+
+Happy Otaku Pack Vol.16=Pack Otaku Feliz Vol.16
+
+r:"^Tokimeki★Meteostrike(.*)$"=Tokimeki★Meteostrike$1
+r:"^Down Low(.*)$"=Down Low$1
+r:"^LOUDER MACHINE(.*)$"=LOUDER MACHINE$1
+r:"^それはもうらぶちゅ(.*)$"=それはもうらぶちゅ$1
+r:"^Rave_Tech(.*)$"=Rave_Tech$1
+r:"^Brilliant & Shining! \(Game Edit.\)(.*)$"=Brilliant & Shining! (Game Edit.)$1
+
+Nanahira Paradise=Nanahira Paradise
+
+r:"^People People(.*)$"=People People$1
+r:"^Endless Error Loop(.*)$"=Endless Error Loop$1
+r:"^Forbidden Pizza!(.*)$"=Forbidden Pizza!$1
+r:"^ボーカルに無茶させんな(.*)$"=ボーカルに無茶させんな$1
+
+MSR Anthology=MSR Anthology
+r:"^Speed of Light(.*)$"=Speed of Light$1
+
+maimai DX Limited-time Suite=maimai DX Limited-time Suite
+
+r:"^N3V3R G3T OV3R(.*)$"=N3V3R G3T OV3R$1
+r:"^Oshama Scramble!(.*)$"=Oshama Scramble!$1
+r:"^Valsqotch(.*)$"=Valsqotch$1
+r:"^Paranormal My Mind(.*)$"=Paranormal My Mind$1
+r:"^Flower, snow and Drum'n'bass.(.*)$"=Flower, snow and Drum'n'bass.$1
+r:"^Amenohoakari(.*)$"=Amenohoakari$1
+
+Ola Dash=Ola Dash
+
+r:"^MuseDashヵヽﾞ何ヵヽ干∋ッ`⊂ぉヵヽＵ＜ﾅょッﾅﾆ気ヵヽﾞ￡ゑょ(.*)$"=MuseDashヵヽﾞ何ヵヽ干∋ッ`⊂ぉヵヽＵ＜ﾅょッﾅﾆ気ヵヽﾞ￡ゑょ$1
+r:"^Aleph-0(.*)$"=Aleph-0$1
+r:"^ぶっとばスーパーノヴァ(.*)$"=ぶっとばスーパーノヴァ$1
+r:"^Rush-Hour(.*)$"=Rush-Hour$1
+r:"^3rd Avenue(.*)$"=3rd Avenue$1
+r:"^WORLDINVADER(.*)$"=WORLDINVADER$1
+
+Happy Otaku Pack Vol.17=Pack Otaku Feliz Vol.17
+
+r:"^【东爱璃Lovely】Lovely(.*)$"=【东爱璃Lovely】Lovely$1
+r:"^森海の船(.*)$"=森海の船$1
+r:"^Ooi(.*)$"=Ooi$1
+r:"^沼った！！(.*)$"=沼った！！$1
+r:"^SATELLITE(.*)$"=SATELLITE$1
+r:"^Fantasia Sonata Colorful feat. V!C(.*)$"=Fantasia Sonata Colorful feat. V!C$1
+
+MUSE RADIO FM104=MUSE RADIO FM104
+
+r:"^Doki Doki Jump! \(feat. ぷにぷに電機\)(.*)$"=Doki Doki Jump! (feat. ぷにぷに電機)$1
+r:"^100年モノのストリーマーズ・ハイ(.*)$"=100年モノのストリーマーズ・ハイ$1
+r:"^Love Patrol(.*)$"=Love Patrol$1
+r:"^Mahorova feat.omoto(.*)$"=Mahorova feat.omoto$1
+r:"^夜の街(.*)$"=夜の街$1
+r:"^INTERNET YAMERO（Aiobahn feat.KOTOKO）(.*)$"=INTERNET YAMERO（Aiobahn feat.KOTOKO）$1
+
+COSMIC RADIO PEROLIST=COSMIC RADIO PEROLIST
+
+r:"^すとり～ま～FIRE!?!?(.*)$"=すとり～ま～FIRE!?!?$1
+r:"^Tanuki Step(.*)$"=Tanuki Step$1
+r:"^Space Stationery(.*)$"=Space Stationery$1
+r:"^Songs Are Judged 90% by Chorus feat. Mameko(.*)$"=Songs Are Judged 90% by Chorus feat. Mameko$1
+r:"^Kawaiク華麗に宇宙怪盗(.*)$"=Kawai brillantemente espacial Phantom Thief$1
+r:"^Night City Runway(.*)$"=Night City Runway$1
+r:"^Chaos Shotgun feat. ChumuNote(.*)$"=Chaos Shotgun feat. ChumuNote$1
+r:"^mew mew magical summer(.*)$"=mew mew magical summer$1
+
+NeonAbyss=NeonAbyss
+
+r:"^BrainDance(.*)$"=BrainDance$1
+r:"^My Focus!(.*)$"=My Focus!$1
+r:"^ABABABA BURST(.*)$"=ABABABA BURST$1
+r:"^ULTRA HIGHER(.*)$"=ULTRA HIGHER$1
+
+Miku in Museland=Miku in Museland
+
+r:"^39みゅーじっく！(.*)$"=39みゅーじっく！$1
+r:"^Hand in Hand(.*)$"=Hand in Hand$1
+r:"^シニカルナイトプラン(.*)$"=シニカルナイトプラン$1
+r:"^神っぽいな(.*)$"=神っぽいな$1
+r:"^ダーリンダンス(.*)$"=ダーリンダンス$1
+r:"^初音天地開闢神話(.*)$"=初音天地開闢神話$1
+r:"^ヴァンパイア(.*)$"=ヴァンパイア$1
+r:"^フューチャー・イヴ(.*)$"=フューチャー・イヴ$1
+r:"^Unknown・MotherGoose(.*)$"=Unknown・MotherGoose$1
+r:"^春嵐(.*)$"=春嵐$1
+
+Happy Otaku Pack Vol.18=Pack Otaku Feliz Vol.18
+
+r:"^Rainy Angel(.*)$"=Rainy Angel$1
+r:"^Gullinkambi(.*)$"=Gullinkambi$1
+r:"^RakiRaki Rebuilders!!!(.*)$"=RakiRaki Rebuilders!!!$1
+r:"^Laniakea(.*)$"=Laniakea$1
+r:"^OTTAMA GAZER(.*)$"=OTTAMA GAZER$1
+r:"^Sleep Tight feat.Macoto(.*)$"=Sleep Tight feat.Macoto$1
+
+Gambler's Tricks=Gambler's Tricks
+
+r:"^New York Back Raise(.*)$"=New York Back Raise$1
+r:"^slic.hertz(.*)$"=slic.hertz$1
+r:"^Fuzzy-Navel(.*)$"=Fuzzy-Navel$1
+r:"^Swing Edge(.*)$"=Swing Edge$1
+r:"^Twisted Escape(.*)$"=Twisted Escape$1
+r:"^Swing Sweet Twee Dance(.*)$"=Swing Sweet Twee Dance$1
+
+Touhou Mugakudan -Ⅲ-=Touhou Mugakudan -Ⅲ-
+Touhou Mugakudan -III-=Touhou Mugakudan -III-
+
+r:"^Samayoi no mei ～Amatsu～(.*)$"=Samayoi no mei ～Amatsu～$1
+r:"^INTERNET SURVIVOR(.*)$"=INTERNET SURVIVOR$1
+r:"^Shuki☆RaiRai!!!(.*)$"=Shuki☆RaiRai!!!$1
+r:"^HELLOHELL(.*)$"=HELLOHELL$1
+r:"^Calamity Fortune(.*)$"=Calamity Fortune$1
+r:"^つるぺったん(.*)$"=つるぺったん$1
+
+Rin·Len's Mirrorland=Rin·Len's Mirrorland
+
+r:"^劣等上等(.*)$"=劣等上等$1
+r:"^テレキャスタービーボーイ(.*)$"=テレキャスタービーボーイ$1
+r:"^い～やい～やい～や(.*)$"=い～やい～やい～や$1
+r:"^ねぇねぇねぇ。(.*)$"=ねぇねぇねぇ。$1
+r:"^Chaotic Love Revolution(.*)$"=Chaotic Love Revolution$1
+r:"^しかばねの踊り(.*)$"=しかばねの踊り$1
+r:"^ビターチョコデコレーション(.*)$"=ビターチョコデコレーション$1
+r:"^ダンスロボットダンス(.*)$"=ダンスロボットダンス$1
+r:"^Sweet Devil(.*)$"=Sweet Devil$1
+r:"^Someday'z Coming(.*)$"=Someday'z Coming$1
+
+Valentine Stage=Valentine Stage
+
+r:"^Sweet Dream\(VIVINOS - 'Alien Stage OST Part.2'\)(.*)$"=Sweet Dream(VIVINOS - 'Alien Stage OST Part.2')$1
+r:"^Ruler Of My Heart\(VIVINOS - 'Alien Stage Pt5'\)(.*)$"=Ruler Of My Heart(VIVINOS - 'Alien Stage Pt5')$1
+r:"^Reality Show(.*)$"=Reality show$1
+r:"^SIG feat.Tobokegao(.*)$"=SIG feat.Tobokegao$1
+r:"^蔷薇の恋心 feat.AKA(.*)$"=蔷薇の恋心 feat.AKA$1
+r:"^Euphoria(.*)$"=Euphoria$1
+
+Legends of Muse Warriors=Legends of Muse Warriors
+
+r:"^P E R O P E R O兄✰貴✰乱✰舞（feat.音游部, howsoon）(.*)$"=P E R O P E R O兄✰貴✰乱✰舞（feat.音游部, howsoon）$1
+r:"^PA☆PPA☆PANIC(.*)$"=PA☆PPA☆PANIC$1
+r:"^How To Make 音ゲ～曲！(.*)$"=How To Make 音ゲ～曲！$1
+r:"^Ré：Ré(.*)$"=Ré：Ré$1
+r:"^Marmalade Twins(.*)$"=Marmalade Twins$1
+r:"^DOMINATOR(.*)$"=DOMINATOR$1
+r:"^てしかに\( TESHiKANi \)(.*)$"=てしかに( TESHiKANi )$1
+
+Happy Otaku Pack Vol.19=Pack Otaku Feliz Vol.19
+
+r:"^Maid's Prank(.*)$"=Maid's Prank$1
+r:"^Dance Dance 晚安舞会(.*)$"=Dance Dance 晚安舞会$1
+r:"^Ops:Limone(.*)$"=Ops:Limone$1
+r:"^NOVA(.*)$"=NOVA$1
+r:"^Heaven's Gradius(.*)$"=Heaven's Gradius$1
+
+CHUNITHM COURSE MUSE=CHUNITHM COURSE MUSE
+
+r:"^Ray Tuning(.*)$"=Ray Tuning$1
+r:"^World Vanquisher(.*)$"=World Vanquisher$1
+r:"^月詠に鳴る(.*)$"=月詠に鳴る$1
+r:"^The wheel to the right(.*)$"=The wheel to the right$1
+r:"^Climax(.*)$"=Climax$1
+r:"^Spider's Thread(.*)$"=Spider's Thread$1
+
+Novice Rider Pack=Novice Rider Pack
+
+r:"^SUPERHERO(.*)$"=SUPERHERO$1
+r:"^Highway_Summer(.*)$"=Highway_Summer$1
+r:"^Mx. Black Box(.*)$"=Mx. Black Box$1
+r:"^Sweet Encounter(.*)$"=Sweet Encounter$1
+
+MUSE RADIO FM105=MUSE RADIO FM105
+
+r:"^disco light(.*)$"=disco light$1
+r:"^room light feat.chancylemon(.*)$"=room light feat.chancylemon$1
+r:"^Invisible(.*)$"=Invisible$1
+r:"^圣诞季-LLABB(.*)$"=圣诞季-LLABB$1
+
+Let's Rhythm Jam!(.*)$"=Let's Rhythm Jam!
+
+r:"^Hyouryu(.*)$"=Hyouryu$1
+r:"^The Whole Rest(.*)$"=The Whole Rest$1
+r:"^Hydra(.*)$"=Hydra$1
+r:"^Pastel Lines(.*)$"=Pastel Lines$1
+r:"^LINK x LIN#S(.*)$"=LINK x LIN#S$1
+r:"^Arcade ViruZ(.*)$"=Arcade ViruZ$1
+
+Endless Pirouette=Endless Pirouette
+
+r:"^Eve Avenir(.*)$"=Eve Avenir$1
+r:"^Silverstring(.*)$"=Silverstring$1
+r:"^Melusia(.*)$"=Melusia$1
+r:"^Devil's Castle(.*)$"=Devil's Castle$1
+r:"^Abatement(.*)$"=Abatement$1
+r:"^Azalea(.*)$"=Azalea$1
+r:"^Brightly World(.*)$"=Brightly World$1
+r:"^We'll meet in every world ★★★(.*)$"=We'll meet in every world ★★★$1
+r:"^Collapsar(.*)$"=Collapsar$1
+r:"^Parousia(.*)$"=Parousia$1
+
+Ensemble Arcanum=Ensemble Arcanum
+
+r:"^Gunners in the Rain(.*)$"=Gunners in the Rain$1
+r:"^Halzion(.*)$"=Halzion$1
+r:"^SHOWTIME!!(.*)$"=SHOWTIME!!$1
+r:"^Achromic Riddle(.*)$"=Achromic Riddle$1
+r:"^karanosu(.*)$"=karanosu$1
+
+Touhou Mugakudan -IV-=Touhou Mugakudan -IV-
+
+r:"^Saishuu kichiku imouto Flandre-S(.*)$"=Saishuu kichiku imouto Flandre-S$1
+r:"^Kachoufuugetsu(.*)$"=Kachoufuugetsu$1
+r:"^Maid heart is a puppet(.*)$"=Maid heart is a puppet$1
+r:"^Trance dance anarchy(.*)$"=Trance dance anarchy$1
+r:"^fairy stage(.*)$"=fairy stage$1
+r:"^スカーレット警察のゲットーパトロール24時(.*)$"=スカーレット警察のゲットーパトロール24時$1
+
+MD-level Tactical Training Blu-ray=MD-level Tactical Training Blu-ray
+
+r:"^Unwelcome School(.*)$"=Unwelcome School$1
+r:"^Usagi Flap(.*)$"=Usagi Flap$1
+r:"^RE Aoharu(.*)$"=RE Aoharu$1
+r:"^Operation☆DOTABATA!(.*)$"=Operation☆DOTABATA!$1
+
+// Project MD Plus: 2021-10-03
+r:"^The Happycore Idol(.*)$"=The Happycore Idol$1
+r:"^Amatsumikaboshi(.*)$"=Amatsumikaboshi$1
+r:"^ARIGA THESIS(.*)$"=ARIGA THESIS$1
+r:"^ナイト・オブ・ナイツ(.*)$"=ナイト・オブ・ナイツ$1
+
+// Project MD Plus: 2021-11-13
+r:"^#Psychedelic_Meguro_River(.*)$"=#Psychedelic_Meguro_River$1
+
+// Project MD Plus: 2022-01-13
+r:"^can you feel it(.*)$"=can you feel it$1
+r:"^Midnight O'clock(.*)$"=Midnight O'clock$1
+
+// Project MD Plus: 2022-04-13
+r:"^Smile-mileS(.*)$"=Smile-mileS$1
+
+// Project MD Plus: 2022-06-29
+r:"^Believing and Being(.*)$"=Believing and Being$1
+r:"^カタリスト(.*)$"=カタリスト$1
+r:"^don't！stop！eroero！(.*)$"=don't！stop！eroero！$1
+r:"^pa pi pu pi pu pi pa(.*)$"=pa pi pu pi pu pi pa$1
+r:"^Sand Maze(.*)$"=Sand Maze$1
+r:"^Diffraction(.*)$"=Diffraction$1
+
+// Project MD Plus: 2022-08-01
+r:"^AKUMU / feat.tug(.*)$"=AKUMU / feat.tug$1
+
+// Project MD Plus: 2022-09-04
+r:"^Queen Aluett(.*)$"=Queen Aluett$1
+r:"^DROPS \(feat. Such\)(.*)$"=DROPS (feat. Such)$1
+
+// Project MD Plus: 2022-10-03
+r:"^物凄い狂っとるフランちゃんが物凄いうた(.*)$"=物凄い狂っとるフランちゃんが物凄いうた$1
+
+// Project MD Plus: 2022-11-03
+r:"^snooze(.*)$"=snooze$1
+
+// Project MD Plus: 2023-01-01
+r:"^Kuishinbo Hacker feat.Kuishinbo Akachan(.*)$"=Kuishinbo Hacker feat.Kuishinbo Akachan$1
+r:"^Inu no outa(.*)$"=Inu no outa$1
+
+// Project MD Plus: 2023-04-05
+r:"^Prism Fountain(.*)$"=Prism Fountain$1
+
+// Project MD Plus: 2023-05-05
+r:"^Gospel(.*)$"=Gospel$1
+
+// Project MD Plus: 2023-06-30
+r:"^天灵灵地灵灵(.*)$"=天灵灵地灵灵$1
+r:"^Squalldecimator feat. EZ-Ven(.*)$"=Squalldecimator feat. EZ-Ven$1
+r:"^Amateras Rhythm(.*)$"=Amateras Rhythm$1
+r:"^Record one's Dream(.*)$"=Record one's Dream$1
+r:"^Lunatic(.*)$"=Lunatic$1
+r:"^旧梦(.*)$"=旧梦$1
+
+// Project MD Plus: 2023-07-28
+r:"^The Day We Become Family(.*)$"=The Day We Become Family$1
+
+// Project MD Plus: 2023-09-30
+r:"^Silver Bullet(.*)$"=Silver Bullet$1
+r:"^Random(.*)$"=Random$1
+r:"^Is there no way I'm defeated by OTOGE-BOSS-KYOKU-CHAN is strongly provoking\?\?\?\?\?(.*)$"=Is there no way I'm defeated by OTOGE-BOSS-KYOKU-CHAN is strongly provoking?????$1
+r:"^Crow Rabbit(.*)$"=Crow Rabbit$1
+r:"^SyZyGy(.*)$"=SyZyGy$1
+r:"^人鱼电台(.*)$"=人鱼电台$1
+r:"^Helixir(.*)$"=Helixir$1
+r:"^Highway Cruisin'(.*)$"=Highway Cruisin'$1
+r:"^JACK PT BOSS(.*)$"=JACK PT BOSS$1
+r:"^Time Capsule(.*)$"=Time Capsule$1
+
+// Project MD Plus: 2023-10-28
+r:"^NICE TYPE feat. monii(.*)$"=NICE TYPE feat. monii$1
+
+// Project MD Plus: 2024-01-28
+r:"^Sanyousei SAY YA!!!(.*)$"=Sanyousei SAY YA!!!$1
+r:"^YUKEMURI TAMAONSEN II(.*)$"=YUKEMURI TAMAONSEN II$1
+
+// Project MD Plus: 2024-02-26
+r:"^暮色小诗(.*)$"=暮色小诗$1
+r:"^All My Friends \(feat. RANASOL\)(.*)$"=All My Friends (feat. RANASOL)$1
+r:"^Heartache(.*)$"=Heartache$1
+r:"^Blue Lemonade(.*)$"=Blue Lemonade$1
+r:"^Haunted Dance(.*)$"=Haunted Dance$1
+r:"^Hey Vincent.(.*)$"=Hey Vincent.$1
+r:"^Meteor \(feat. TEA\)(.*)$"=Meteor (feat. TEA)$1
+r:"^Narcissism Angel(.*)$"=Narcissism Angel$1
+r:"^AlterLuna(.*)$"=AlterLuna$1
+r:"^Niki Tousen(.*)$"=Niki Tousen$1
+
+// Project MD Plus: 2024-07-12
+r:"^HIT ME UP(.*)$"=HIT ME UP$1
+r:"^Test Me \(feat. Uyeon\)(.*)$"=Test Me (feat. Uyeon)$1
+r:"^Assault TAXI(.*)$"=Assault TAXI$1
+r:"^Pop it(.*)$"=Pop it$1
+r:"^HEARTBEAT！キュンキュン！(.*)$"=HEARTBEAT！キュンキュン！$1
+
+// Project MD Plus: 2024-12-02
+r:"^Necromantic(.*)$"=Necromantic$1
+
+//CANCIONES CUSTOM
+r:"^BBBang(.*)$"=BBBang$1
+r:"^#be_fortunate(.*)$"=#be_fortunate$1
+r:"^Goyang Ubur Ubur(.*)$"=Goyang Ubur Ubur$1
+r:"^うっせぇわ(.*)$"=うっせぇわ$1
+r:"^にんじゃりばんばん(.*)$"=にんじゃりばんばん$1
+r:"^Bling-Bang-Bang-Born(.*)$"=Bling-Bang-Bang-Born$1
+r:"^Breakin' Asia(.*)$"=Breakin' Asia$1
+r:"^Na Na Na \(Na Na Na Na Na Na Na Na Na\)(.*)$"=Na Na Na (Na Na Na Na Na Na Na Na Na)$1
+r:"^ギターと孤独と蒼い惑星 -Anime Ver.-(.*)$"=ギターと孤独と蒼い惑星 -Anime Ver.-$1
+r:"^にんじゃりばんばん(.*)$"=にんじゃりばんばん$1
+r:"^パラマウント☆ショータイム！！(.*)$"=パラマウント☆ショータイム！！$1
+r:"^ラヴ♡スパイス♡ライクユー!!!(.*)$"=ラヴ♡スパイス♡ライクユー!!!$1
+r:"^綺羅キラー\(feat. Mori Calliope\)(.*)$"=綺羅キラー(feat. Mori Calliope)$1
+r:"^恋色マスタースパーク \(DJ Genki Remix\)(.*)$"=恋色マスタースパーク (DJ Genki Remix)$1
+r:"^Lunartic Dial(.*)$"=Lunartic Dial$1
+r:"^少女綺想曲(.*)$"=少女綺想曲$1
+r:"^Moment Day(.*)$"=Moment Day$1
+r:"^物凄いバーニングで魔理沙が物凄いうた(.*)$"=物凄いバーニングで魔理沙が物凄いうた$1
+r:"^No Title(.*)$"=No Title$1
+r:"^オニユリ(.*)$"=オニユリ$1
+r:"^無意識レクイエム \(cosmobsp rmx\)(.*)$"=無意識レクイエム (cosmobsp rmx)$1
+r:"^脳味噌リジッドガール(.*)$"=脳味噌リジッドガール$1
+r:"^Peace and Tranquility(.*)$"=Peace and Tranquility$1
+r:"^Popping Happiness!(.*)$"=Popping Happiness!$1
+r:"^Going My Future!(.*)$"=Going My Future!$1
+r:"^YUBIKARI-GENMAN(.*)$"=YUBIKARI-GENMAN$1
+r:"^folern(.*)$"=folern$1
+r:"^Hell's Sun(.*)$"=Hell's Sun$1
+r:"^ヒューマノイド(.*)$"=ヒューマノイド$1
+r:"^Icedust(.*)$"=Icedust$1
+r:"^Infinity Heaven(.*)$"=Infinity Heaven$1
+r:"^Initiating League(.*)$"=Initiating League$1
+r:"^ジッタードー(.*)$"=ジッタードー$1
+
+
+
+
+
+
 
 
 
