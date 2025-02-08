@@ -38,7 +38,6 @@ Yesterday, Sleepwalker Girl Rin was worshiped by all sheets for she has gotten g
 Girls are praying...=Las chicas están rezando...
 Ever tried rotating your device by 90 degrees? You'll discover a new world.=¿Alguna vez has intentado rotar tu dispositivo 90 grados? Descubrirás un nuevo mundo.
 Dont give up! Try and try until you succeed! (・∀・)/=¡No te rindas! ¡Intenta una y otra vez hasta tener éxito! (・∀・)/
-Beating up monsters feels shockingly good?! Taste more of my meow meow punch!=¿¡Golpear a los monstruos se siente sorprendentemente bien?! ¡Prueba más de mi golpe de miau miau!
 According to a reliable source, the girls might say some interesting things if you talk to them more?!=Según una fuente confiable, ¡¿las chicas podrían decir cosas interesantes si les hablas más?!
 ○○○↓=○○○↓
 
@@ -194,6 +193,7 @@ Fe-nya!=¡Fe-nya!
 
 Mutown=Mutown
 Lab=Laboratorio
+Flower Rain=Lluvia Floral
 
 r:"^([A-Z])$"=$1
 "^Keypad(\d)$"=Num $1
@@ -434,18 +434,36 @@ r:"^Little Devil (- )?Marija$"=Diablilla $1Marija
 r:"^The Girl In Black (- )?Marija$"=La Chica de Negro $1Marija
 r:"^Sister (- )?Marija$"=Monja $1Marija
 r:"^Mechanical Ballerina (- )?Marija$"=Bailarina Mecánica $1Marija
+
+
 Yume=Yume
 Navigator - Yume=Navegadora - Yume
+
 NEKO#ΦωΦ=NEKO#ΦωΦ
-Game streamer - NEKO#ΦωΦ=Streamer de juegos - NEKO#ΦωΦ
+Game streamer - NEKO#ΦωΦ=Streamer de Juegos - NEKO#ΦωΦ
+
 Hakurei Reimu=Hakurei Reimu
-Red-white Miko - Hakurei Reimu=Sacerdotisa de Blanco y Rojo - Hakurei Reimu
+Red-white Miko - Hakurei Reimu=Sacerdotisa Roja y Blanca - Hakurei Reimu
+
 El_Clear=El_Clear
 Rebirth Girl - El_Clear=Chica Renacida - El_Clear
+
 Kirisame Marisa=Kirisame Marisa
-Black-white Magician - Kirisame Marisa=Maga de Blanco y Negro - Kirisame Marisa
+Black-white Magician - Kirisame Marisa=Maga Blanca y Negra - Kirisame Marisa
+
+Amiya=Amiya
+r:"^Leader of Rhodes Island (- )Amiya$"=Líder de la Isla de Rodas $1Amiya
+
 Hatsune Miku=Hatsune Miku
 Kagamine Rin & Len=Kagamine Rin y Len
+
+Wiš'adel=Wiš'adel
+r:"^Sarkaz Mercenary (- )Wiš'adel$"=Mercenaria de Sarkaz $1Wiš'adel
+
+The new character「<color\=#FF33D8FF>Mechanical Ballerina</color>」comes on stage!=¡El nuevo personaje 「<color\=#FF33D8FF>Bailarina Mecánica</color>」 sube al escenario!
+Mechanical Ballerina=Bailarina Mecánica
+
+The new character「<color\=#FF33D8FF>Sarkaz Mercenary</color>」comes on stage!=¡El nuevo personaje 「<color\=#FF33D8FF>Mercenaria</color>」 sube al escenario!
 
 HP:=HP:
 200=200
@@ -470,6 +488,7 @@ CV: Machico=Voz: Machico
 CV: Asami Shimoda=Voz: Asami Shimoda
 CV: Tomoyo Kurosawa=Voz: Tomoyo Kurosawa
 CV：五十岚裕美=Voz: Hiromi Igarashi
+CV: Ayana Taketatsu=CV: Ayana Taketatsu
 
 Bassist=Bajista
 r:"The maximum HP of Bassist Rin increases 50."=Los PV máximos de la Bajista Rin aumentan en 50.
@@ -662,12 +681,12 @@ I saw you surrounded by darkness. This must be... Er, sorry, I forgot to take of
 Ola, you might notice it too—this place must be haunted by an evil spirit!=Oye, también podrías darte cuenta... ¡este lugar debe estar embrujado por un espíritu maligno!
 Who the ○○○○ pulled out my trumpet cable (#`Д ′)=¿Quién ○○○○ sacó mi cable de claxon? (#`Д ′)
 
-Boxer=Boxeadora
+Boxer=Boxeador
 
 Ola ola ola ola ola! My endless punches can defeat any enemy!!=¡Ola ola ola ola ola! ¡Mis golpes interminables pueden derrotar a cualquier enemigo!
-Ahhhhh, I'm so nervous. Think back to what Sis once told me: "Run away from the fight you can't win."Run away from the fight I can't win. Run away from the fight I can't win...=¡Ahhhhh, estoy tan nerviosa! Piensa en lo que Sis me dijo una vez: "Huye de la pelea que no puedes ganar". Huir de la pelea que no puedo ganar. Huir de la pelea que no puedo ganar...
+Ahhhhh, I'm so nervous. Think back to what Sis once told me: "Run away from the fight you can't win."Run away from the fight I can't win. Run away from the fight I can't win...=¡Ahhhhh, estoy tan nervioso! Piensa en lo que Sis me dijo una vez: "Huye de la pelea que no puedes ganar". Huir de la pelea que no puedo ganar. Huir de la pelea que no puedo ganar...
 Gloves, check. Headgear, check. Henshin device, check. Skill, check. Good! I'm invincible today!!=Guantes, listos. Casco, listo. Dispositivo de transformación, listo. Habilidad, lista. ¡Bien! ¡Hoy soy invencible!
-Bear, sanjou! How about that? I'm a copycat? It’s not that obvious!=¡Oso, sal! ¿Qué tal eso? ¿Soy una imitadora? ¡No es tan obvio!
+Bear, sanjou! How about that? I'm a copycat? It’s not that obvious!=¡Oso, sal! ¿Qué tal eso? ¿Soy un imitador? ¡No es tan obvio!
 This is my trump card, Bear Punch! If that's not enough, Bear Punch Plus! Still not enough? Bear Punch Ultimate!=¡Este es mi as en la manga, ¡Golpe del Oso! Si eso no es suficiente, ¡Golpe del Oso Plus! ¿Todavía no es suficiente? ¡Golpe del Oso Definitivo!
 I just found out I only have Sis's skill... Um, maybe it's okay. She is powerful after all...=Acabo de darme cuenta de que solo tengo la habilidad de Sis... Um, tal vez esté bien. Después de todo, ella es poderosa...
 Stamina—As long as I have it, I can take care of all my enemies! You should get more exercise like me, partner!=Resistencia: ¡Mientras la tenga, puedo encargarme de todos mis enemigos! ¡Deberías hacer más ejercicio como yo, compañero!
@@ -768,112 +787,134 @@ Behave yourself... This is not any doctrine, but something that even a child can
 
 Navigator=Navegadora
 
-Have you heard? I just got the coupon for new desert shop by the station. Let's go after school!=¿Has oído? ¡Acabo de recibir el cupón para New Desert Shop junto a la estación! ¡Vamos después de la escuela!
-7 times 9 is... 32?=7 veces 9 es... ¿32?
-Welcome to Yume's party!=¡Bienvenido a la fiesta de Yume!
-Rin-chan will blush if you say she's Kawaii, just like Seine senpai!=¡Rin-chan se sonrojará si dices que es Kawaii, al igual que Seine-senpai!
-Hmm...hmm... Oh! Sorry, I was distracted.=Hmm... hmm... ¡Oh! Lo siento, estaba distraída.
-It's a frog? How rude, I was drawing a cat!=¿Es una rana? ¡Qué grosero, estaba dibujando un gato!
+Welcome to Yume's party!=¡Bienvenidos a la fiesta de Yume!
+Hmm...hmm... Oh! Sorry, I was distracted.=Hmm... hmm... ¡Oh! Perdón, me distraje.
 Let's try Groove Coaster next time!=¡Probemos Groove Coaster la próxima vez!
+7 times 9 is... 32?=7 por 9 es... ¿32?
+Eh... I hit a pole when walking around with my headphones on... It still hurts...=Eh... choqué con un poste mientras caminaba con mis auriculares puestos... y todavía me duele...
+It's a frog? How rude, I was drawing a cat!=¿Es una rana? ¡Qué grosero, estaba dibujando un gato!
+Rin-chan will blush if you say she's Kawaii, just like Seine senpai!=¡Rin-chan se sonrojará si dices que es Kawaii, al igual que Seine-senpai!
+Have you heard? I just got the coupon for new desert shop by the station. Let's go after school!=¿Has oído? ¡Acabo de conseguir el cupón para la nueva tienda de postres junto a la estación! ¡Vamos después de la escuela!
 Why do I like summer? Because ice cream!=¿Por qué me gusta el verano? ¡Por el helado!
-Kawaii? Me? Thanks, I'm happy to be said that!=¿Kawaii? ¿Yo? Gracias, me alegra que me lo digan.
-Huh... So hungry... need crepes...=Uh... Tengo tanta hambre... necesito crepes...
-Eh... I hit a pole when walking around with my headphones on... It still hurts...=Eh... Golpeé un poste mientras caminaba con mis auriculares puestos... Todavía me duele...
+Kawaii? Me? Thanks, I'm happy to be said that!=¿Kawaii? ¿Yo? ¡Gracias, me alegra que lo digan!
+Huh... So hungry... need crepes...=Uh... tengo tanta hambre... necesito crepes...
+-------I will be very happy if you choose me... it, it's about being your navigator!=¡Estaré muy feliz si me eliges... es que, es porque soy tu navegadora!
 
-Game streamer=Streamer de juegos
+Game streamer=Streamer de Juegos
 
 <i>[User is now banned.]</i>=<i>[El usuario ha sido baneado.]</i>
-The girls are so cute here~ \nWho do we start with... heheheh=Las chicas aquí son tan lindas~\nCon quién empezamos... jejeje
-NEKO is taking the top of this leaderboard!=¡NEKO está liderando esta tabla de clasificación!
-What the...? Who did you say is a wildcat? =¿Qué...? ¿Quién dijiste que es una gatita salvaje?
-What's your problem? \nNEKO is busy, go away.=¿Cuál es tu problema?\nNEKO está ocupada, lárgate.
+Yeah! NEKO is chosen again!Hmm... \nWhy did I say again?=¡Sí! ¡NEKO fue elegida de nuevo! Hmm...\n¿Por qué dije de nuevo?
+NEKO is taking the top of this leaderboard!=¡NEKO está en la cima de esta tabla de clasificación!
 Chit-chat time~=Hora de charlar~
+What the...? Who did you say is a wildcat? =¿Qué...?  ¿A quién llamaste gata callejera?
+What's your problem? \nNEKO is busy, go away.=¿Cuál es tu problema?\nNEKO está ocupada, lárgate.
+The signal is so bad here!\n I can't scroll through iM...=¡La señal es pésima aquí!\nNo puedo navegar por iM...
+The girls are so cute here~ \nWho do we start with... heheheh=Las chicas son tan lindas aquí~\nCon quién empezamos... jejeje
 Though MeowBot is always the cutest, \nthis Muse is really lovely!=Aunque MeowBot siempre es el más lindo,\n¡esta Muse es realmente encantadora!
-The signal is so bad here!\n I can't scroll through iM...=¡La señal es tan mala aquí!\nNo puedo desplazarme por iM...
+Beating up monsters feels shockingly good?! Taste more of my meow meow punch!=¿¡Golpear a los monstruos se siente sorprendentemente bien?! ¡Prueba más de mi puño miau miau!
+I'm not your waifu! Disgusting! You are so banned! You're banned!=¡No soy tu waifu! ¡Asqueroso! ¡Estás baneado! ¡Baneado!
 Wha... Where are you touching?! Hentai! Get away from me!!!=¡¿Qué... dónde estás tocando?! ¡Pervertido! ¡¡¡Aléjate de mí!!!
-Yeah! NEKO is chosen again!Hmm... \nWhy did I say again?=¡Sí! ¡NEKO ha sido elegida de nuevo! Hmm...\n¿Por qué dije de nuevo?
-Oh~ The blush on NEKO means nothing, stop guessing! Haha... Ahhahaha...=¡Oh~ El sonrojo en NEKO no significa nada, deja de especular! Jaja... Ajajajaja...
-I'm not your waifu! Disgusting! You are so banned! You're banned!=¡No soy tu waifu! ¡Asqueroso! ¡Estás muy baneado! ¡Estás baneado!
+Oh~ The blush on NEKO means nothing, stop guessing! Haha... Ahhahaha...=Oh~ El sonrojo en NEKO no significa nada, ¡deja de especular! Jaja... Ajajajaja...
+-------Noooooo!!! What did you do to NEKO's MeowBot?!=¡¡¡Noooooo!!! ¡¿Qué le hiciste al MeowBot de NEKO?!
 
-Red-white Miko=Sacerdotisa de Blanco y Rojo
+Red-white Miko=Sacerdotisa Roja y Blanca
 
-You're welcome, please put my pay in the donation box~=De nada, por favor coloca mi pago en la caja de donaciones~
-Props? Illustrations? Is there nothing more valuable?=¿Accesorios? ¿Ilustraciones? ¿No hay algo más valioso?
-Ughhh Yukari! Got tricked by her prank again and now I'm here!=¡Ughhh Yukari! ¡Me volvió a engañar con su broma y ahora estoy aquí!
-Enough already, I did my part didn't I?=Ya es suficiente, ¿no cumplí con mi parte?
-Buro? That kid is kinda like Suika ... Noisy, but not annoying.=¿Buro? Esa niña es un poco como Suika... Ruidosa, pero no molesta.
-Why are you so concerned about my armpits? There is no weak point here!=¿Por qué estás tan preocupado por mis axilas? ¡Aquí no hay puntos débiles!
-Have nothing to do, huh? Would you like a cup of tea?=¿No tienes nada que hacer, eh? ¿Te gustaría una taza de té?
-Do you ever get tired of poking me? You know that I'm not ticklish, right?=¿Nunca te cansas de molestarme? Sabes que no tengo cosquillas, ¿verdad?
-I have made up my mind, how about building a shrine here too? This will double my income!=He tomado una decisión, ¿qué tal construir un santuario aquí también? ¡Esto duplicará mis ingresos!
 Rhythm? Isn't it all about defeating the enemies?=¿Ritmo? ¿No se trata solo de derrotar a los enemigos?
-For what you've done to me, I will take double the payback!=¡Por lo que me has hecho, te devolveré el doble!
+Buro? That kid is kinda like Suika ... Noisy, but not annoying.=¿Buro? Esa chica es un poco como Suika... Ruidosa, pero no molesta.
+Have nothing to do, huh? Would you like a cup of tea?=¿No tienes nada que hacer, eh? ¿Te gustaría una taza de té?
+Ughhh Yukari! Got tricked by her prank again and now I'm here!=¡Ughhh, Yukari! ¡Me engañó con su broma de nuevo y ahora estoy aquí!
+Enough already, I did my part didn't I?=Ya basta, hice mi parte, ¿no es así?
+Do you ever get tired of poking me? You know that I'm not ticklish, right?=¿Nunca te cansas de molestarme? Sabes que no tengo cosquillas, ¿verdad?
+Props? Illustrations? Is there nothing more valuable?=¿Accesorios? ¿Ilustraciones? ¿No hay algo más valioso?
+You're welcome, please put my pay in the donation box~=De nada, por favor deposita mi pago en la caja de donaciones~
+I have made up my mind, how about building a shrine here too? This will double my income!=He tomado una decisión, ¿qué tal construir un santuario aquí también? ¡Esto duplicará mis ingresos!
+For what you've done to me, I will take double the payback!=¡Por lo que me has hecho, te cobraré el doble!
+Why are you so concerned about my armpits? There is no weak point here!=¿Por qué te preocupas tanto por mis axilas? ¡Aquí no hay puntos débiles!
 Want an S? That will cost you 100,000 yen. No? Then what?=¿Quieres una S? Eso te costará 100,000 yenes. ¿No? ¿Entonces qué?
+-------It's a real pain in the neck.=Es un verdadero fastidio.
 
 Rebirth Girl=Chica Renacida
 
-Just now! I saved another spectator who was almost bewitched by Fail. It was literally a close call.=¡Justo ahora! ¡Salvé a otro espectador que casi fue hechizado por Fail! Fue literalmente un momento crítico.
-Clear will clear all the songs here! Eh... an awkward silence?=¡Clear eliminará todas las canciones aquí! ¿Eh... un silencio incómodo?
-Today is the day of solo with Fail, whoever loses will do whatever the winner says! Come and cheer me on!=¡Hoy es el día del duelo con Fail, quien pierda hará lo que el ganador diga! ¡Ven y anímate por mí!
-Fail comes here with me? What a clingy girl... Don't worry, I'll take care of her myself!=¿Fail viene aquí conmigo? Qué chica tan pegajosa... No te preocupes, yo me encargaré de ella misma.
-Love from everyone is the source of my power, so always praise me~=El amor de todos es la fuente de mi poder, así que siempre alábame~
-Born in the grave, standing for the return of glory! How about it, isn't it cool? =¡Nacida en la tumba, luchando por el regreso de la gloria! ¿Qué tal, no es genial?
-Is that little zombie named Buro also resurrected from the graveyard? What...that is a cosplay?!=¿Esa pequeña zombie llamada Buro también resucitó de la tumba? ¿Qué... eso es un disfras?!
 Eh? Eh? Ah... I can't take it anymore! If you want something, just say it!=¿Eh? ¿Eh? ¡Ah... ya no puedo más! Si quieres algo, ¡solo dilo!
+You want me to fight with the guitar... What if I destroy it? I mean the mob of monsters!=¿Quieres que pelee con la guitarra... ¿Qué pasa si la destruyo? Quiero decir, el montón de monstruos!
+Love from everyone is the source of my power, so always praise me~=El amor de todos es la fuente de mi poder, así que siempre alábame~
+Clear will clear all the songs here! Eh... an awkward silence?=¡Clear eliminará todas las canciones aquí! ¿Eh... un silencio incómodo?
+Is that little zombie named Buro also resurrected from the graveyard? What...that is a cosplay?!=¿Esa pequeña zombie llamada Buro también resucitó de la tumba? ¿Qué... eso es un disfras?!
 How long are you going to cool my heels? Hurry up and start playing with me! Come on, come on, come on!=¿Cuánto tiempo vas a hacerme esperar? ¡Apresúrate y empieza a jugar conmigo! ¡Vamos, vamos, vamos!
+Today is the day of solo with Fail, whoever loses will do whatever the winner says! Come and cheer me on!=¡Hoy es el día del duelo con Fail, quien pierda hará lo que el ganador diga! ¡Ven y anímate por mí!
 Ahhhh, geez! To prevent you from poking me and thus losing the game, keep three meters away from now on!=¡Ahhh, demonios! ¡Para evitar que me molestes y así perder el juego, mantente a tres metros de distancia a partir de ahora!
 I don't look like Fail. Obviously I'm in better shape... Yes, that's definitely true!=No me parezco a Fail. Obviamente estoy en mejor forma... ¡Sí, eso es definitivamente cierto!
-You want me to fight with the guitar... What if I destroy it? I mean the mob of monsters!=¿Quieres que pelee con la guitarra... ¿Qué pasa si la destruyo? Quiero decir, el montón de monstruos!
+Born in the grave, standing for the return of glory! How about it, isn't it cool? =¡Nacida en la tumba, simbolizando el regreso de la gloria! ¿Qué tal, no es genial?
+Just now! I saved another spectator who was almost bewitched by Fail. It was literally a close call.=¡Justo ahora! Salvé a otro espectador que casi fue hechizado por Fail. Fue literalmente un momento crítico.
+Fail comes here with me? What a clingy girl... Don't worry, I'll take care of her myself!=¿Fail viene aquí conmigo? Qué chica tan pegajosa... No te preocupes, ¡yo misma me encargaré de ella!
 
-Black-white Magician=Maga de Blanco y Negro
+Black-white Magician=Maga Blanca y Negra
 
-Not like someone, if your request brings me fun, I won't charge you ~ ☆=No como alguien, si tu solicitud me divierte, no te cobraré~ ☆
-My luck today is… future blessing?! Future blessing again? Isn't it  "Almost Misfortune "!!=Mi suerte hoy es... ¡¿bendición futura?! ¿Bendición futura de nuevo? ¡¡No es "Casi Infortunio"!!
 I am the Great Magician—Kirisame Marisa! … Huh? You didn’t think it was me?=¡Soy la Gran Maga—Kirisame Marisa! ...¿Eh? ¿No pensaste que era yo?
-Don't give me that"please do Love Sign Master Spark again"look! I'm not a busking magician!=¡No me des esa mirada de "por favor haz el Love Sign Master Spark de nuevo"! ¡No soy una maga callejera!
-I was called by a dangerous-looking girl in black to dust her car… Do I look like a maid?=Una chica con aspecto peligroso vestida de negro me llamó para limpiar su coche... ¿Parezco una sirvienta?
-Treating every enemy with care is not my style. Let me teach you how to use Master Spark ~ ☆=Tratar a cada enemigo con cuidado no es mi estilo. Permíteme enseñarte cómo usar el Master Spark~ ☆
-Stop—I handed over everything I stole... I took!If you dare do something that crosses the line, I'll call Reimu to sort you out!=Detente—devolví todo lo que robé... ¡tomé! Si te atreves a hacer algo que cruce la línea, ¡llamaré a Reimu para que te ponga en orden!
-It's Marija's book, I borrowed it! ...Taking a book can't be considered stealing!=¡Es el libro de Marija, lo tomé prestado! ...¡Tomar un libro no puede considerarse robo!
+My luck today is… future blessing?! Future blessing again? Isn't it  "Almost Misfortune "!!=Mi suerte hoy es... ¡¿Bendición Futura?! ¿Bendición Futura de nuevo? ¡¿No es "Casi Desgracia"?!
+You can't eat that mushroom! It is… the magic mushroom, which can increase intimacy between you and who you love… I don't know the details! I didn't eat it!!=¡No puedes comer ese hongo! Es... el hongo mágico, que puede aumentar la intimidad entre tú y quien amas... ¡No conozco los detalles! ¡¡Yo no lo comí!!
+It's Marija's book, I borrowed it! ...Taking a book can't be considered stealing!=¡Es el libro de Marija, lo tomé prestado! ...¡Tomar un libro no puede considerarse robar!
+I was called by a dangerous-looking girl in black to dust her car… Do I look like a maid?=Una chica de aspecto peligroso vestida de negro me llamó para limpiar su coche... ¿Parezco una sirvienta?
+Not like someone, if your request brings me fun, I won't charge you ~ ☆=Como quien dice, si tu solicitud me divierte, no te cobraré~ ☆
+The mushroom world is really complicated! It took me a night to do a little research! So—please don't look at me as if I were an overachiever.=¡El mundo de los hongos es realmente complicado! ¡Me tomó una noche hacer una pequeña investigación! Así que—por favor, no me mires como si fuera una sabelotodo.
+Treating every enemy with care is not my style. Let me teach you how to use Master Spark ~ ☆=Tratar a cada enemigo con cuidado no es mi estilo. Déjame enseñarte a usar el Master Spark~ ☆
 Ah~ There are too many notes in some stages. Now, I understand how they feel when they see my danmaku…=Ah~ Hay demasiadas notas en algunos escenarios. Ahora, entiendo cómo se sienten cuando ven mis danmaku...
-You can't eat that mushroom! It is… the magic mushroom, which can increase intimacy between you and who you love… I don't know the details! I didn't eat it!!=¡No puedes comer ese hongo! Es... el hongo mágico, que puede aumentar la intimidad entre tú y quien amas... ¡No sé los detalles! ¡No lo comí!
+Don't give me that"please do Love Sign Master Spark again"look! I'm not a busking magician!=¡No me des esa mirada de "por favor haz el Love Sign Master Spark de nuevo"! ¡No soy una maga callejera!
+Stop—I handed over everything I stole... I took!If you dare do something that crosses the line, I'll call Reimu to sort you out!=Basta—devolví todo lo que robé... ¡toma! Si te atreves a hacer algo que se pase de la raya, ¡llamaré a Reimu para que te ponga en tu lugar!
 What are you staring at?! Ah… How do you know there are bombs under my dress?=¿Qué estás mirando?! Ah... ¿Cómo sabes que hay bombas debajo de mi vestido?
-The mushroom world is really complicated! It took me a night to do a little research! So—please don't look at me as if I were an overachiever.=¡El mundo de los hongos es realmente complicado! ¡Me tomó una noche hacer una pequeña investigación! Así que—por favor, no me mires como si fuera una sobresaliente.
+
+Leader of Rhodes Island=Líder de Rhodes Island
+
+The very thought of performing before you is making me a little nervous, Doctor... but I'll do my best!=La sola idea de actuar ante ti me pone un poco nerviosa, doctor... ¡pero haré lo mejor que pueda!
+Running with music makes it easier. I must share this discovery with Miss Dobermann. It'll be great if she uses this in training!=Correr con música lo hace más fácil.\nDebo compartir este descubrimiento con la señorita Dobermann.\n¡Será genial si lo usa en el entrenamiento!
+There are still many stages to challenge, Doctor... but make sure you get some rest, okay?=Aún hay muchos escenarios por desafiar, Doctor... pero asegúrese de descansar un poco, ¿de acuerdo?
+Do the enemies feel pain if I knock them back with my Originium Arts? What? They enjoy this...? Alright then.=¿Los enemigos sienten dolor si los derribo con mis Artes de Originium?\n¿Qué?\n¿Disfrutan esto...?\nMuy bien entonces.
+Perhaps you can try mashing the buttons to get through the enemy mob. Don't give up now, Doctor.=Quizás puedas intentar pulsar los botones rápido para superar a los enemigos. No te rindas ahora, Doctor.
+Swing that violin like a weapon? If I must...=¿Blandir ese violín como un arma? Si es necesario...
+Strategy matters, even in rhythm games. Let's have a mission briefing, Doctor.=La estrategia importa, incluso en los juegos de ritmo. Tengamos un informe de misión, Doctor.
+Please predict the charts based on our intel about the boss, Doctor! What? You can't? I'm sorry.=¡Por favor, predice las pistas basándote en nuestra información sobre el jefe, Doctor! ¿Qué? ¿No puedes? Lo siento.
+I just plucked up my courage to ask Miss Marija for some violin tips, but she just picked me up and spun me around and around... Was that a yes or no?=Reuní el valor para pedirle a la señorita Marija algunos consejos de violín, pero ella solo me tomó y me hizo girar una y otra vez... ¿fue un sí o un no?
+My violin skills have improved? Thank you, Doctor... you're also getting better at the game.=¿Mis habilidades con el violín han mejorado? Gracias, Doctor... también estás mejorando en el juego.
+I'm so happy to hear people around us say how reliable you are, Doctor. But does that mean you're secretly doing overtime? I thought you told me you were getting some rest...=Me alegra tanto oír a las gente decir lo confiable que eres, Doctor. ¿Pero eso significa que estás haciendo horas extra en secreto? Pensé que me dijiste que descansarías...
+Me? No, I'm not nervous... but getting stage fright is pretty normal, Doctor. Do let me know if you're nervous as well.=¿Yo? No, no estoy nerviosa... pero tener miedo escénico es bastante normal, Doctor. Avísame si tú también estás nervioso.
 
 Virtual Singer=Cantante Virtual
 
-Does anyone even read this? Σ(  °▽°)=¿Alguien siquiera lee esto? Σ(  °▽°)
+I'm so glad to hear that \nmy live performance stopped troublemaking monsters from fighting~=Me alegra tanto saber que mi actuación en vivo detuvo a los monstruos alborotadores de pelear~"
 This new suit looks so cute, \ndoesn't it? Look at this Muse-bag... \nIt tells me what the next song is!=Este nuevo traje se ve tan lindo, ¿no? Mira esta bolsa de Muse... ¡Me dice cuál es la próxima canción!
-I can feel your passion \nfor music while watching you challenge the stage again and again... \nI have the same feelings as you!=Puedo sentir tu pasión por la música mientras te veo desafiar el escenario una y otra vez... ¡Tengo los mismos sentimientos que tú!
-I'm so glad to hear that \nmy live performance stopped troublemaking monsters from fighting~=Me alegra tanto escuchar que mi concierto en vivo detuvo a los monstruos problemáticos de pelear~
 I'll take part in Buro's Gourmet \nand Music Festival as a representative of Team Leek\n—there's no such team?!=Participaré en el Festival Gourmet y Musical de Buro como representante del Equipo Puerro, ¿¡no existe tal equipo?!
-Luka-san is so attractive on stage. \nWhen I met her eyes, \nher wink almost made me forget the lyrics...=Luka-san es tan atractiva en el escenario. Cuando me encontré con su mirada, su guiño casi me hizo olvidar la letra...
-Here I encountered you, \nfound new songs, and made new friends... \nI have gained so much!=Aquí te conocí, descubrí nuevas canciones e hice nuevos amigos... ¡He ganado tanto!
-Be it a 2- or 24-hour concert, \njust leave it to me!=Ya sea un concierto de 2 o 24 horas, ¡déjalo en mis manos!
-A ghost came to me for a photo. \nIt looked so happy despite the fact that \nthere's only me in it...=Un fantasma vino a mí para una foto. Se veía tan feliz a pesar de que solo estoy yo en ella...
-I just forgot what I wanted to say after I opened my mouth.\n Maybe I can remember it after a meal. \nOkay, let's eat something—=Acabo de olvidar lo que quería decir después de abrir la boca. Tal vez pueda recordarlo después de una comida. Bueno, vamos a comer algo—
-Let me convey the words in your heart by singing...=Déjame transmitir las palabras en tu corazón cantando...
-During my live performance, \na flying cat threw me a fish. \nIs that a gift for me?=Durante mi concierto en vivo, un gato volador me lanzó un pez. ¿Eso era un regalo para mí?
+I can feel your passion \nfor music while watching you challenge the stage again and again... \nI have the same feelings as you!=Puedo sentir tu pasión por la música al verte desafiar el escenario una y otra vez... ¡siento lo mismo que tú!
 Let me perform your favorite song! Why?\nBecause I want to know more about... you.=¡Déjame interpretar tu canción favorita!\n¿Por qué? Porque quiero saber más sobre... ti.
+
+I just forgot what I wanted to say after I opened my mouth.\n Maybe I can remember it after a meal. \nOkay, let's eat something—=Acabo de olvidar lo que quería decir después de abrir la boca. Quizás lo recuerde después de una comida. Bueno, comamos algo—
+Here I encountered you, \nfound new songs, and made new friends... \nI have gained so much!=Aquí te conocí, descubrí nuevas canciones e hice nuevos amigos... ¡He ganado tanto!
+Let me convey the words in your heart by singing...=Déjame transmitir las palabras en tu corazón cantando...
+Be it a 2- or 24-hour concert, \njust leave it to me!=Ya sea un concierto de 2 o de 24 horas, ¡déjamelo a mí!
+A ghost came to me for a photo. \nIt looked so happy despite the fact that \nthere's only me in it...=Un fantasma se acercó a mí para una foto. Parecía tan feliz a pesar de que solo aparezco yo en ella...
+During my live performance, \na flying cat threw me a fish. \nIs that a gift for me?=Durante mi actuación en vivo, un gato volador me lanzó un pez. ¿Era ese un regalo para mí?
+Does anyone even read this? Σ(  °▽°)=¿Alguien siquiera lee esto? Σ(  °▽°)
+Luka-san is so attractive on stage. \nWhen I met her eyes, \nher wink almost made me forget the lyrics...=Luka-san es tan atractiva en el escenario. Cuando me encontré con su mirada, su guiño casi me hizo olvidar la letra...
 
 Virtual Singers=Cantantes Virtuales
 
-Verification Time! Len can make a knee-jerk reaction to our songs no matter which second they start from and dance with it, can't you?=Hora de Verificación! Len puede reaccionar instantáneamente a nuestras canciones sin importar en qué segundo comiencen y bailar con ellas, ¿no?
-You just wanna play that kind of game, don't you?=Solo quieres jugar ese tipo de juegos, ¿no?
-Did you call me? If you need any help, don't hesitate to say it!=¿Me llamaste? Si necesitas ayuda, ¡no dudes en decirlo!
-Right... I also memorized Rin's lyrics—the show is gonna be 100% foolproof～=Cierto... También memoricé las letras de Rin: el espectáculo será infalible al 100%～
 If I turn into a bear... I'll make my audience jump out of their skin! Let Len try it out next time!=Si me convierto en un oso... ¡haré que mi audiencia se asuste hasta los huesos! ¡Que Len lo intente la próxima vez!
-Did you call me? If you want to praise me, don't hesitate to do it~=¿Me llamaste? Si quieres alabarme, ¡no dudes en hacerlo~
-Prank Time! Let's go scare Miku-san～=¡Hora de la Broma! Vamos a asustar a Miku-san～
-It seems this unintended prank scared me first.=Parece que esta broma no intencionada me asustó primero a mí.
-I'm making the special strategy to confront Luka-san. No peeking at it before I finish it!=Estoy elaborando la estrategia especial para enfrentarme a Luka-san. ¡No mires antes de que la termine!
+Did you call me? If you want to praise me, don't hesitate to do it~=¿Me llamaste? Si quieres elogiarme, ¡no dudes en hacerlo~
+I'm making the special strategy to confront Luka-san. No peeking at it before I finish it!=Estoy elaborando la estrategia especial para enfrentar a Luka-san. ¡No mires antes de que la termine!
+Did you call me? If you need any help, don't hesitate to say it!=¿Me llamaste? Si necesitas ayuda, ¡no dudes en pedirla!
+Verification Time! Len can make a knee-jerk reaction to our songs no matter which second they start from and dance with it, can't you?=¡Hora de verificar! Len puede reaccionar instintivamente a nuestras canciones sin importar en qué segundo comiencen y bailar con ellas, ¿no?
+You just wanna play that kind of game, don't you?=Solo quieres jugar ese tipo de juegos, ¿no?
+Prank Time! Let's go scare Miku-san～=¡Hora de bromear! Vamos a asustar a Miku-san～
+It seems this unintended prank scared me first.=Parece que esta broma accidental me asustó a mí primero.
+Forget my lyrics? Don't worry, my freestyle will be the best solution! =¿Olvidar mis letras? ¡No te preocupes, mi improvisación será la mejor solución!
+Right... I also memorized Rin's lyrics—the show is gonna be 100% foolproof～=Cierto... También memoricé las letras de Rin— el espectáculo será 100% infalible～
+Quiz Time! What is Len thinking now?=¡Hora del quiz! ¿En qué está pensando Len ahora?
+You'd never know. Bring it on!=Nunca lo sabrías. ¡Adelante!
 It's a little bit weird to have new clothes on. I can't help but look in the mirror...=Es un poco extraño vestir ropa nueva. No puedo evitar mirarme en el espejo...
 She means she really likes the new clothes, and me too!=Ella quiere decir que realmente le gustan las nuevas ropas, ¡y a mí también!
-There is a bewildering variety of songs...\n Good, we can show our charms in all aspects!=Hay una variedad desconcertante de canciones... ¡Bien, podemos mostrar nuestros encantos en todos los aspectos!
-That means... We really had fun, thank you!=Eso significa... que realmente nos divertimos, ¡gracias!
-Quiz Time! What is Len thinking now?=¡Hora del Quiz! ¿En qué está pensando Len ahora?
-You'd never know. Bring it on!=Nunca lo sabrías. ¡Adelante!
-Forget my lyrics? Don't worry, my freestyle will be the best solution! =¿Olvidar mis letras? ¡No te preocupes, mi improvisación será la mejor solución!
+------I will find you from the stage, don't you look around!=Te encontraré desde el escenario, ¡no mires a tu alrededor!
+------She means please keep your eyes on us!=¡Quiere decir que por favor mantén los ojos en nosotras!
+There is a bewildering variety of songs...\n Good, we can show our charms in all aspects!=Hay una asombrosa variedad de canciones... ¡Bien, podemos mostrar nuestros encantos en todos los aspectos!
+That means... We really had fun, thank you!=Eso significa... ¡Realmente nos divertimos, gracias!
 
 Muse Warrior=Guerrera de Muse
 
@@ -902,10 +943,22 @@ Let me tell you how to comb my hair. From the ear to the tail... Take it slow an
 You can't see the back of your head, right? And the werewolf itself doesn't know what it looks like after the transformation... But I'm quite sure that I must be a fierce one. You should be cafeful of that~=No puedes ver la parte de atrás de tu cabeza, ¿verdad? Y el hombre lobo no sabe cómo se ve después de la transformación... Pero estoy bastante segura de que debo ser feroz. Deberías tener cuidado con eso~
 This is not the cat ear, and that is not the dog tail. Wolf, have you heard of the wolf?=Esto no es la oreja de un gato, y eso no es la cola de un perro. Lobo, ¿has oído hablar del lobo?
 When I'm fast, the moon is close; when I'm slow, the moon is far.=Cuando soy rápida, la luna está cerca; cuando soy lenta, la luna está lejos.
+I wanna have my motorcycle newly painted in the new year... Yellow? Or green? I have been hesitating between those two colors over the past year and still haven't decided. I also have more than 200 kinds of stickers...=Quiero pintar mi motocicleta para el año nuevo... ¿Amarillo? ¿O verde? He estado dudando entre esos colores durante todo el año pasado y aún no me decido. También tengo más de 200 tipos de calcomanías...
 
-The new character「<color\=#FF33D8FF>Mechanical Ballerina</color>」comes on stage!=¡El nuevo personaje 「<color\=#FF33D8FF>Bailarina Mecánica</color>」 sube al escenario!
-Mechanical Ballerina=Bailarina Mecánica
+Sarkaz Mercenary=Mercenaria de Sarkaz
 
+No paperwork, no briefings—just pure instinct guiding the fight. Now this is my kind of place!=Sin papeleo, sin informes, solo el instinto puro guiando la pelea. ¡Este es mi tipo de lugar!
+That boxing bear? One Revenant blast and KABOOM! Come on, who could resist taking a shot at a white bear that spits out gold coins?=¿Ese oso boxeador? Un disparo del Revenant y ¡KABOOM! Vamos, ¿quién resistiría atacar a un oso blanco blanco que escupe monedas de oro?
+Today, I enlightened 200 little monsters with the legend of Theresa—the one and only King of Sarkaz! That's right, following Her Highness is your duty!=Hoy iluminé a 200 monstruitos con la leyenda de Theresa, ¡la única y verdadera Reina de Sarkaz! ¿Así es, servir a Su Alteza es su deber.
+Pump up the volume! The Revenant won't shut up.=¡Sube el volumen! El Revenant no se callará.
+That part-timer's outfit needs Ines's emergency tailoring—even mercenaries dress better than that!=Ese traje de medio tiempo necesita un arreglo de emergencia de Ines, ¡hasta los mercenarios visten mejor que eso!
+That Exorcist chose to cycle through my minefield. I was just being strategically prepared!=Esa Exorcista decidió recorrer mi campo minado. ¡Solo estaba preparada estratégicamente!
+The more monsters, the better it feels to blow them up, huh? No wonder you love those tough missions.=Cuantos más monstruos, mejor se siente reventarlos, ¿eh? No me extraña que ames esas misiones difíciles.
+A little music makes you jumpy? What happened to that Doctor who loves going in guns blazing?=¿Un poco de música te pone nervioso? ¿Qué pasó con ese Doctor que ama ir a los tiros?
+Leave those sweet, cozy concerts to the little bunny. I'm not here to make friends.=Deja esos dulces y acogedores conciertos para la conejita. Yo no vine a hacer amigos.
+Why isn't the Doctor heading that way? Have my bomb spots been found out?=¿Por qué el Doctor no va por ahí? ¿Ha descubierto mis zonas minadas?
+Who says I can't read music? You're just playing with the bunny's powers, aren't you?=¿Quién dice que no puedo leer música? Solo estás jugando con los poderes de la conejita, ¿verdad?
+------You swiped the potatoes I just cooked, didn't you? If you're that hungry, I've got something with extra heat for you.=Robaste las papas que acabo de cocinar, ¿no? Si tienes tanta hambre, tengo algo extra de picante para ti.
 
 RESTORE=RESTAURAR
 You can purchase <color\=#FF33D8FF>\[(.*)\] </color>to unlock it.Jump to purchase it\?\nIf you have purchased it successfully, please tap <color\=#7AFAC1>RESTORE</color> to unlock it.=Puedes comprar <color\=#FF33D8FF>[$1] </color>para desbloquearlo. ¿Deseas ir a comprarlo?\nSi lo has comprado con éxito, por favor toca <color\=#7AFAC1>RESTAURAR</color> para desbloquearlo.
@@ -1034,7 +1087,7 @@ It's NEKO#ΦωΦ stream time!\n[Muse Daaaaaaaaash!]=¡Es hora del stream NEKO#Φ
 Love -- Only at Neon Radio=Amor -- Solo en Neon Radio
 Reimuuuuuuu! This is even harder than the danmaku games!\nCan I just blast them all at once?=¡Reimuuuuuuu! Esto es incluso más difícil que los juegos de danmaku. ¿Puedo simplemente explotarlos a todos de una vez?
 Exclusive report from Memory News. The Girl In Black is rendezvousing with Tairitsu in a brand-new dress. According to the police, the driver's personal safety is the top priority.=Informe exclusivo de Memory News. La Chica de Negro se está encontrando con Tairitsu en un vestido completamente nuevo. Según la policía, la seguridad personal del conductor es la máxima prioridad.
-Skilled but a little rusty, joyful mixed with rage—this is how the impressing "Dissonance"in the miracle performance with Clear and Rin will be!=Habilidosa pero un poco oxidada, alegre a la vez que furiosa: así será la impresionante "Disonancia" en el milagroso concierto con Clear y Rin.
+Skilled but a little rusty, joyful mixed with rage—this is how the impressing "Dissonance"in the miracle performance with Clear and Rin will be!=Habilidosa pero un poco oxidada, alegre a la vez que furiosa: así será la impresionante "Disonancia" en la milagrosa actuación con Clear y Rin.
 A new member has joined MUSE RADIO, though the club activity seems to remain in the stage of\n " everyone listening to their own song lists with headphones"?=Un nuevo miembro se ha unido a MUSE RADIO, aunque la actividad del club parece que sigue en la fase de "todos escuchando sus propias listas de canciones con auriculares".
 Fresh food and lovely friends at a celebration banquet as usual… \nNow, after you take a seat beside me, the banquet can start.=Comida fresca y amigos encantadores en un banquete de celebración como de costumbre... Ahora, después de que te sientes a mi lado, ¡el banquete puede comenzar!
 Tomorrow, make sure to chat with the new member... What's her name again... Marija?=Mañana, asegúrate de charlar con el nuevo miembro... ¿Cómo era su nombre otra vez? Ah, sí... ¿Marija?
@@ -1383,9 +1436,7 @@ Lost contact with headquarters!～(づvど)=¡Se perdió contacto con Headquarte
 This chart has not been uploaded!=¡Esta pista no se ha subido a Headquarters!
 
 This is a message.=Este es un mensaje.
-Amiya=Amiya
-Leader of Rhodes Island=Líder de la Isla de Rodas
-r:"^Leader of Rhodes Island (- )Amiya$"=Líder de la Isla de Rodas $1Amiya
+
 Yosetsu=Yosetsu
 Knoll格子衫=Knoll格子衫
 裏方(Uracata)=裏方(Uracata)
@@ -1414,7 +1465,7 @@ Welcome to the Muse Dash Spring Festival Carnival!=¡Bienvenidos al Carnaval del
 haloooo?! The pink bunny from the new world!=¡¿holaaa?! ¡La conejita rosa del nuevo mundo!
 Hey, you can't sit on the stage even if you're the sponsor! \nNeither can you fly in the air. You're blocking others' views!=¡Oye, no puedes sentarte en el escenario aunque seas el patrocinador!\nTampoco puedes volar en el aire. ¡Estás bloqueando la vista de los demás!
 As we have received so many gifts from our fans, \nwe should do something to express our gratitude. Len, you know what to do, right?=Como hemos recibido tantos regalos de nuestros fans, debemos hacer algo para expresar nuestra gratitud. Len, ¿sabes qué hacer, verdad?
-Octopus, samurai, gaming consoles...\nWow! What a complex audience that was just moved by Miku's performance!=Pulpos, samuráis, consolas de juegos...\n¡Vaya! ¡Qué público tan diverso el que fue conmovido por el concierto de Miku!
+Octopus, samurai, gaming consoles...\nWow! What a complex audience that was just moved by Miku's performance!=Pulpos, samuráis, consolas de juegos...\n¡Vaya! ¡Qué público tan diverso el que fue conmovido por la actuación de Miku!
 Rotate the camera! Your smile of satisfaction with the show has been taken~=¡Gira la cámara! Tu sonrisa de satisfacción con el espectáculo ha sido capturada~
 I bet no one knows this shortcut. \nLet's sneak up on the stage to surprise everyone!=Apuesto a que nadie conoce este atajo.\n¡Vamos a colarnos en el escenario para sorprender a todos!
 What if I tap the button and send this invitation letter full of love words... \nOMG, it's Hatsune Miku! She's really here!=¿Y si pulso el botón y envío esta carta de invitación llena de palabras de amor...\n¡Dios mío, es Hatsune Miku! ¡Ella realmente está aquí!
@@ -1431,7 +1482,7 @@ There is only three options that could impress Emi(ゝ∀･) !=¡Solo hay tres 
 Happy Rin's Day! A warm-up with all moe points was done. \nThen wait for the moment when everyone falls victim to Rin-chan's charms 0v<=¡Feliz Día de Rin! Se hizo un calentamiento con todos los puntos moe.\nEntonces espera el momento en que todos caigan víctimas de los encantos de Rin-chan 0v<
 Rin's Mooncake Workshop opens only 24 hours on Mid-Autumn Festival, \n99 years and 364 days away from becoming a hundred-year-old store～=El Taller de Pasteles de Luna de Rin solo abre 24 horas en el Festival del Medio Otoño, 99 años y 364 días de convertirse en una tienda centenaria～
 Muse Dash has sold over 10 million copies for the base game on all platforms! Please sign here and...\nOh, there was not a single slice of pizza left, then you can sign for the delivery girl~=¡Muse Dash ha vendido más de 10 millones de copias del juego base en todas las plataformas! Por favor, firma aquí y...\nOh, no quedó ni una sola rebanada de pizza, entonces puedes firmar por la repartidora~
-To celebrate Marija's birthday, two anonymous strangers deliver a surprising performance... \nBut the fireworks totally drown out their sound?!=Para celebrar el cumpleaños de Marija, dos desconocidos anónimos ofrecen un concierto sorprendente...\n¡¿Pero los fuegos artificiales ahogan por completo su música?!
+To celebrate Marija's birthday, two anonymous strangers deliver a surprising performance... \nBut the fireworks totally drown out their sound?!=Para celebrar el cumpleaños de Marija, dos desconocidos anónimos ofrecen una actuación sorprendente...\n¡¿Pero los fuegos artificiales ahogan por completo su música?!
 YO 女子, look at me / 私 a GENUIUS from 未来 / \nPost a moment for my 五十万 followers / haters, wait for 罰 from me—MC Buro=EY GIRLS, mírenme / I'm un GENIO del FUTURE / \nPublica un momento para mis FIVE-HUNDRED seguidores / haters, esperen un PUNISHMENT de mí—MC Buro
 Miss Hatsune Miku, meet four volunteer guides. \nThey will not give you a rest until you have played all the stages with them~=Señorita Hatsune Miku, conozce a cuatro guías voluntarios.\nNo te dejarán descansar hasta que hayas jugado todos los escenarios con ellos~
 Listen carefully, the electric waves derive from the core of the universe——[COSMIC RADIO PEROLIST]\nOriginal Music Contest has successfully ended! Please tap the lower right corner to learn more details (･ω<)☆=Escucha con atención, las ondas eléctricas derivan del núcleo del universo——[COSMIC RADIO PEROLIST]\n¡El Concurso de Música Original ha terminado con éxito! Toca la esquina inferior derecha para obtener más detalles (･ω<)☆
@@ -1936,6 +1987,16 @@ Apo11o program=Apo11o program
 void (Mournfinale)=void (Mournfinale)
 Sampling Masters MEGA=Sampling Masters MEGA
 kikuo×cosMo@Bousou-P  feat.kagenui hana=kikuo×cosMo@Bousou-P  feat.kagenui hana
+Monster Siren Records=Monster Siren Records
+Operation Ashring - Monster Siren Records / Erik Castro / X. ARI / David Lin=Operation Ashring - Monster Siren Records / Erik Castro / X. ARI / David Lin
+Monster Siren Records / PMP=Monster Siren Records / PMP
+Monster Siren Records / 宋柏 / 十音 / 解伟苓=Monster Siren Records / 宋柏 / 十音 / 解伟苓
+Monster Siren Records / DJ Okawari / 澤田かおり=Monster Siren Records / DJ Okawari / 澤田かおり
+Monster Siren Records / Erik Castro / X. ARI / David Lin=Monster Siren Records / Erik Castro / X. ARI / David Lin
+Monster Siren Records / Elvin Shen / ZT / Erik Castro / David Lin / 左乙=Monster Siren Records / Elvin Shen / ZT / Erik Castro / David Lin / 左乙
+Monster Siren Records / David Lin / X. ARI / Substantial=Monster Siren Records / David Lin / X. ARI / Substantial
+Monster Siren Records / VAS ANGELOV / Bailey Jehl=Monster Siren Records / VAS ANGELOV / Bailey Jehl
+Monster Siren Records / Adam Gubman / Abdiel Gonzalez=Monster Siren Records / Adam Gubman / Abdiel Gonzalez
 
 //CANCIONES DEL GRUPO PREDTERMINADO
 r:"^UNLOCKED AT LV.(\d+)$"=ACCESIBLE AL NV.$1
@@ -2512,8 +2573,16 @@ r:"^Endless Error Loop(.*)$"=Endless Error Loop$1
 r:"^Forbidden Pizza!(.*)$"=Forbidden Pizza!$1
 r:"^ボーカルに無茶させんな(.*)$"=ボーカルに無茶させんな$1
 
-MSR Anthology=MSR Anthology
+MSR Anthology_Vol.01=MSR Anthology_Vol.01
+
+r:"^Boiling Blood(.*)$"=Boiling Blood$1
+r:"^ManiFesto：(.*)$"=ManiFesto:$1
+r:"^Operation Blade(.*)$"=Operation Blade$1
+r:"^Radiant(.*)$"=Radiant$1
+r:"^Renegade(.*)$"=Renegade$1
 r:"^Speed of Light(.*)$"=Speed of Light$1
+r:"^Dossoles Holiday(.*)$"=Dossoles Holiday$1
+r:"^Autumn Moods(.*)$"=Autumn Moods$1
 
 maimai DX Limited-time Suite=maimai DX Limited-time Suite
 
@@ -2718,6 +2787,17 @@ r:"^Unwelcome School(.*)$"=Unwelcome School$1
 r:"^Usagi Flap(.*)$"=Usagi Flap$1
 r:"^RE Aoharu(.*)$"=RE Aoharu$1
 r:"^Operation☆DOTABATA!(.*)$"=Operation☆DOTABATA!$1
+
+MSR Anthology_Vol.02=MSR Anthology_Vol.02
+
+r:"^Break Through the Dome(.*)$"=Break Through the Dome$1
+r:"^Everything's Alright(.*)$"=Everything's Alright$1
+r:"^Misty Memory \(Night Version\)(.*)$"=Misty Memory (Night Version)$1
+r:"^Operation Deepness(.*)$"=Operation Deepness$1
+r:"^Here in Vernal Terrene(.*)$"=Here in Vernal Terrene$1
+r:"^Operation Ashring(.*)$"=Operation Ashring$1
+r:"^Arsonist(.*)$"=Arsonist$1
+r:"^ALL!!!(.*)$"=ALL!!!$1
 
 // Project MD Plus: 2021-10-03
 r:"^The Happycore Idol(.*)$"=The Happycore Idol$1
