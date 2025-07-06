@@ -1,0 +1,63 @@
+name: Create Release from Tag
+
+on:
+  push:
+    tags:
+      - '*' # Se activa con cualquier tag
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          # Necesitamos hacer fetch de todos los tags para que el nombre del tag esté disponible
+          fetch-depth: 0
+
+      - name: Get Tag Info
+        id: get_tag
+        run: |
+          # Extrae el nombre del tag completo, ej: hollowbody-v1.0.1
+          TAG_NAME=${{ github.ref_name }}
+          echo "TAG_NAME=${TAG_NAME}" >> $GITHUB_ENV
+
+          # Extrae el nombre del juego (lo que está antes de '-v<version>')
+          GAME_NAME=$(echo $TAG_NAME | sed -E 's/-v[0-9].*//')
+          echo "GAME_NAME=${GAME_NAME}" >> $GITHUB_ENV
+
+          # Extrae la versión (lo que está después de '-v')
+          VERSION=$(echo $TAG_NAME | sed -E 's/.*-v//')
+          echo "VERSION=${VERSION}" >> $GITHUB_ENV
+
+      - name: Zip Release Artifact
+        run: |
+          # Comprime todo el contenido de la rama actual en un archivo ZIP
+          # El nombre del archivo ZIP será, por ejemplo, Hollowbody-Spanish-Translation-1.0.1.zip
+          zip -r "${{ env.GAME_NAME }}-Spanish-Translation-${{ env.VERSION }}.zip" .
+
+      - name: Create Release
+        id: create_release
+        uses: actions/create-release@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          tag_name: ${{ env.TAG_NAME }}
+          release_name: Traducción de ${{ env.GAME_NAME }} v${{ env.VERSION }}
+          draft: false
+          prerelease: false
+          body: |
+            Traducción automática y manual para el juego [b]${{ env.GAME_NAME }}[/b].
+            Versión de la traducción: [b]${{ env.VERSION }}[/b].
+
+            Para instalar, extrae el contenido del archivo .zip en el directorio raíz del juego.
+            
+      - name: Upload Release Asset
+        uses: actions/upload-release-asset@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          upload_url: ${{ steps.create_release.outputs.upload_url }}
+          asset_path: ./${{ env.GAME_NAME }}-Spanish-Translation-${{ env.VERSION }}.zip
+          asset_name: ${{ env.GAME_NAME }}-Spanish-Translation-${{ env.VERSION }}.zip
+          asset_content_type: application/zip
