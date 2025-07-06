@@ -1,9 +1,9 @@
-name: Create Release from Tag
+name: Create Hollowbody Release
 
 on:
   push:
     tags:
-      - '*' # Se activa con cualquier tag
+      - 'hollowbody-v*' # Se activa solo con tags que empiecen con "hollowbody-v"
 
 jobs:
   build:
@@ -14,29 +14,19 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
-        with:
-          # Necesitamos hacer fetch de todos los tags para que el nombre del tag esté disponible
-          fetch-depth: 0
 
-      - name: Get Tag Info
-        id: get_tag
+      - name: Get Version from Tag
+        id: get_version
         run: |
-          # Extrae el nombre del tag completo, ej: hollowbody-v1.0.1
-          TAG_NAME=${{ github.ref_name }}
-          echo "TAG_NAME=${TAG_NAME}" >> $GITHUB_ENV
-
-          # Extrae el nombre del juego (lo que está antes de '-v<version>')
-          GAME_NAME=$(echo $TAG_NAME | sed -E 's/-v[0-9].*//')
-          echo "GAME_NAME=${GAME_NAME}" >> $GITHUB_ENV
-
-          # Extrae la versión (lo que está después de '-v')
-          VERSION=$(echo $TAG_NAME | sed -E 's/.*-v//')
+          # Extrae la versión del tag (lo que viene después de 'hollowbody-v')
+          VERSION=${{ github.ref_name }}
+          VERSION=${VERSION#hollowbody-v}
           echo "VERSION=${VERSION}" >> $GITHUB_ENV
 
       - name: Zip Release Artifact
         run: |
-          # Comprime todo el contenido de la rama actual, excluyendo .git y .github
-          zip -r "${{ env.GAME_NAME }}-Spanish-Translation-${{ env.VERSION }}.zip" . -x ".git/*" ".github/*"
+          # Comprime el contenido de la rama actual, excluyendo carpetas de Git y GitHub
+          zip -r "Hollowbody-Spanish-Translation-${{ env.VERSION }}.zip" . -x ".git/*" ".github/*"
 
       - name: Create Release
         id: create_release
@@ -44,22 +34,31 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          tag_name: ${{ env.TAG_NAME }}
-          release_name: Traducción de ${{ env.GAME_NAME }} v${{ env.VERSION }}
+          tag_name: ${{ github.ref_name }} # Usa el tag completo, ej. hollowbody-v1.0.0
+          release_name: Traducción de Hollowbody v${{ env.VERSION }}
           draft: false
           prerelease: false
           body: |
-            Traducción automática y manual para el juego [b]${{ env.GAME_NAME }}[/b].
-            Versión de la traducción: [b]${{ env.VERSION }}[/b].
+            ### Traducción al español para **Hollowbody**
 
-            Para instalar, extrae el contenido del archivo .zip en el directorio raíz del juego.
-            
+            **Versión de la traducción:** `${{ env.VERSION }}`
+
+            ---
+
+            #### Instalación
+            1.  Asegúrate de tener **BepInEx** y **XUnity AutoTranslator** instalados.
+            2.  Descarga el archivo `.zip` de esta release.
+            3.  Extrae su contenido directamente en la carpeta raíz del juego.
+            4.  Sobrescribe cualquier archivo si se te solicita.
+
+            Para más detalles y guías, visita el [repositorio principal](https://github.com/zeedif/UnityGamesAutoTranslatorSpanish).
+
       - name: Upload Release Asset
         uses: actions/upload-release-asset@v1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           upload_url: ${{ steps.create_release.outputs.upload_url }}
-          asset_path: ./${{ env.GAME_NAME }}-Spanish-Translation-${{ env.VERSION }}.zip
-          asset_name: ${{ env.GAME_NAME }}-Spanish-Translation-${{ env.VERSION }}.zip
+          asset_path: ./Hollowbody-Spanish-Translation-${{ env.VERSION }}.zip
+          asset_name: Hollowbody-Spanish-Translation-${{ env.VERSION }}.zip
           asset_content_type: application/zip
