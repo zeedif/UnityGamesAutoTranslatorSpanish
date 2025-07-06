@@ -1,0 +1,1890 @@
+﻿LOADING=CARGANDO
+Press {action} to progress any on-screen text.=Pulsa {action} para avanzar cualquier texto en pantalla.
+Press <sprite\=77 tint\=1> to progress any on-screen text.=Pulsa <sprite\=77 tint\=1> para avanzar cualquier texto en pantalla.
+r:"^<sprite\=(\d+) tint\=(\d+)>$"=<sprite\=$1 tint\=$2>
+Some parts of this game may be considered violent, disturbing or cruel.=Algunas partes de este juego pueden considerarse violentas, perturbadoras o crueles.
+It is best enjoyed with a controller.=Se disfruta mejor con un mando.
+Hollowbody contains flashing lights that may make it unsuitable for people with photosensitive epilepsy or other photosensitive conditions. Player discretion is advised.=Hollowbody contiene luces intermitentes que podrían no ser adecuadas para personas con epilepsia fotosensible u otras condiciones similares. Se recomienda precaución al jugar.
+
+//Inicio
+NEW GAME=NUEVO JUEGO
+START DEMO=INICIAR DEMO
+CONTINUE=CONTINUAR
+OPTIONS=OPCIONES
+QUIT GAME=SALIR
+r:"^Patch (\d+)$"=Parche $1
+
+//Salir
+Need a break?=¿QUIERES DESCANSAR?
+RESUME GAME=CONTINUAR
+QUIT TO TITLE=VOLVER AL MENÚ
+QUIT TO DESKTOP=SALIR DEL JUEGO
+LOAD GAME=CARGAR
+WISHLIST NOW=LISTA DE DESEADOS
+
+//Ajustes de audio
+AUDIO SETTINGS=AJUSTES DE AUDIO
+MUSIC VOLUME=VOLUMEN DE LA MÚSICA
+DIALOGUE VOLUME=VOLUMEN DE LOS DIÁLOGOS
+SFX VOLUME=VOLUMEN DE LOS SONIDOS
+MUTE=SILENCIAR
+
+//Ajustes de jugabilidad
+GAMEPLAY SETTINGS=AJUSTES DE JUEGO
+BRIGHTNESS=BRILLO
+MAX=MÁXIMO
+MIN=MÍNIMO
+TANK CONTROLS=CONTROL DE TANQUE
+WALK/RUN TOGGLE=CORRER AL PULSAR
+HOLD SUBTITLES=SUBTÍTULOS FIJOS
+
+QUALITY SETTINGS=AJUSTES DE GRÁFICOS
+REMAP CONTROLS=REMAPEAR CONTROLES
+APPLY=APLICAR
+
+//Controles
+<sprite\=77 tint\=1> : INTERACT/USE=<sprite\=77 tint\=1> : INTERACTUAR/USAR
+<sprite\=0 tint\=1> : RETURN/CANCEL=<sprite\=0 tint\=1> : REGRESAR/CANCELAR
+<sprite\=103 tint\=1> : RUN=<sprite\=103 tint\=1> : CORRER
+<sprite\=102 tint\=1> : AIM=<sprite\=102 tint\=1> : APUNTAR
+<sprite\=100 tint\=1> : ATTACK=<sprite\=100 tint\=1> : ATACAR
+<sprite\=90 tint\=1> : RELOAD=<sprite\=90 tint\=1> : RECARGAR
+<sprite\=101 tint\=1> : STOMP=<sprite\=101 tint\=1> : PISOTEAR
+<sprite\=89 tint\=1> : SWITCH TARGET=<sprite\=89 tint\=1> : CAMBIAR OBJETIVO
+<sprite\=94 tint\=1> : RECENTER FOLLOW CAMERA=<sprite\=94 tint\=1> : CENTRAR CÁMARA DE SEGUIMIENTO
+<sprite\=81 tint\=1> : INVENTORY=<sprite\=81 tint\=1> : INVENTARIO
+<sprite\=78 tint\=1> : TORCH ON/OFF=<sprite\=78 tint\=1> : LINTERNAS ENCENDIDAS/APAGADAS
+<sprite\=101 tint\=1> : (HOLD) QUICK SELECT MENU=<sprite\=101 tint\=1> : (MANTENER) MENÚ DE SELECCIÓN RÁPIDA
+<sprite\=0 tint\=1> : PAUSE GAME=<sprite\=0 tint\=1> : PAUSAR JUEGO
+
+{action} : INTERACT/USE={action} : INTERACTUAR/USAR
+{action} : RETURN/CANCEL={action} : REGRESAR/CANCELAR
+{action} : RUN={action} : CORRER
+{action} : AIM={action} : APUNTAR
+{action} : ATTACK={action} : ATACAR
+{action} : RELOAD={action} : RECARGAR
+{action} : STOMP={action} : PISOTEAR
+{action} : SWITCH TARGET={action} : CAMBIAR OBJETIVO
+{action} : RECENTER FOLLOW CAMERA={action} : CENTRAR CÁMARA DE SEGUIMIENTO
+{action} : INVENTORY={action} : INVENTARIO
+{action} : TORCH ON/OFF={action} : LINTERNAS ENCENDIDAS/APAGADAS
+{action} : (HOLD) QUICK SELECT MENU={action} : (MANTENER) MENÚ DE SELECCIÓN RÁPIDA
+{action} : PAUSE GAME={action} : PAUSAR JUEGO
+
+{action} : QUICK SELECT RANGED={action} : SELECCIÓN RÁPIDA DE ALCANCE
+{action} : QUICK TURN (TANK ONLY)={action} : GIRO RÁPIDO (SOLO TANQUE)
+
+//Calidad
+Resolution=Resolución
+Full screen=Pantalla\ncompleta
+r:"^(\d+) x (\d+) (\d+) hz$"=$1x$2 $3 Hz
+Motion blur=Desenfoque de movimiento
+Quality preset=Preajuste de calidad
+Low=Bajo
+Medium=Medio
+High=Alto
+Ultra=Ultra
+Custom=Personalizado
+Anti-aliasing=Suavizado\nde bordes
+Off=No
+2x=2x
+4x=4x
+8x=8x
+Texture quality=Calidad de texturas
+Max=Máximo
+V Sync (FPS Cap)=VSync\n(Limite de FPS)
+Don't Sync=No sincronizar
+Every V Blank=Cada interrupción vertical
+Every Second V Blank=Cada segunda interrupción vertical
+Uncapped=Sin límite
+Target: Monitor Refresh Rate=Misma frecuencia del monitor
+Target: Half Monitor Refresh Rate=Mitad de frecuencia del monitor
+
+Option A=Opción A
+BACK=ATRÁS
+
+//Controles2
+Done=Hecho
+Restore Defaults=Restaurar valores predeterminados
+
+Controller:=Control:
+None=Ninguno
+Remove=Eliminar
+Calibrate=Calibrar
+Assigned Controllers:=Controles asignados:
+Assign Controller=Asignar control
+
+Actions=Acciones
+Keyboard=Teclado
+Mouse=Mouse
+Controller=Mando
+
+Horizontal=Horizontal
+right=Derecha
+left=Izquierda
+Vertical=Vertical
+up=Arriba
+down=Abajo
+Run=Correr
+Recenter=Centrar
+Submit=Seleccionar
+Cancel=Cancelar
+Menu=Menú
+Inventory=Inventario
+Up=Arriba
+Down=Abajo
+Aim=Apuntar
+Attack=Atacar
+Reload=Recargar
+Flashlight=Linterna
+CursorHorizontal=Cursor horizontal
+CursorVertical=Cursor vertical
+UIHorizontal=Horizontal UI
+UIVertical=Vertical UI
+UISubmit=Seleccionar UI
+UICancel=Cancelar UI
+Detonator=Detonador
+Pause=Pausar
+Mini-map Rotate Left=Rotar mapa a la izquierda
+Mini-map Rotate Right=Rotar mapa a la derecha
+Mini-map Zoom Out=Alejar mapa
+Mini-map Zoom In=Acercar mapa
+Quick Turn=Giro rápido
+Quick Turn +=Giro rápido +
+Quick Turn -=Giro rápido -
+Switch Target=Cambiar objetivo
+fix for Quick select range icon bug=Corregir error del ícono de rango de selección rápida
+QuickSelectMenu=Menú de selección rápida
+Horizontal Camera Nudge=Movimiento horizontal de cámara
+Vertical Camera Nudge=Movimiento vertical de cámara
+
+r:"^([A-Z])$"=$1
+r:"^(\d+)$"=$1
+ESC=ESC
+Space=Barra espaciadora
+Left Shift=Shift izquierdo
+Right Arrow=Flecha derecha
+Down Arrow=Flecha abajo
+Up Arrow=Flecha arriba
+Right Mouse Button=Botón derecho del mouse
+Left Mouse Button=Botón izquierdo del mouse
+Mouse Button 3=Botón 3 del mouse
+
+//Dificultad
+Select your combat difficulty:=Seleccione la dificultad del combate:
+CASUAL - Reduced enemies with weaker attacks=CASUAL: Enemigos reducidos y ataques más débiles
+INTENDED - The intended gameplay experience=NORMAL: La experiencia de juego recomendada
+PUNISHED - For experienced players only=DIFÍCIL: Solo para jugadores experimentados
+
+//CARGAR PARTIDA
+RETURN=REGRESAR
+NO FILE=SIN ARCHIVO
+Button=Botón
+
+//Sección??
+
+In the mid-21st Century, a catastrophic incident unfolded \nalong the western coast of the British Isles.=A mediados del siglo XXI, un incidente catastrófico se desató\na lo largo de la costa occidental de las Islas Británicas.
+A suspected bioterrorism attack of unknown origins. \r\nTargeting one of numerous British cities long since plagued by\r\neconomic hardship and depravity.\r=Un presunto ataque bioterrorista de origen desconocido.\r\nDirigido a una de las muchas ciudades británicas que desde hace\r\nmucho son azotadas por la pobreza y la depravación.\r
+As panic swept the nation, authorities and private security \nfirms raced against time to evacuate the fortunate few deemed\n high-value citizens to the neighbouring city of Aeonis.=Mientras el pánico se extendía por la nación, las autoridades y empresas de\nseguridad privada se apresuraban contra el tiempo para evacuar a los pocos\nafortunados considerados ciudadanos de alto valor a la ciudad vecina de Aeonis.
+A sprawling metropolis constructed atop a man-made landmass\n floated in the expanse of the North Atlantic Ocean.=Una vasta metrópolis construida sobre una masa de tierra artificial\nque flotaba en la inmensidad del Océano Atlántico Norte.
+Fearing the unchecked contagion could spread, towering \nwalls were erected around the Western Cities, sealing \nthem off from the rest of civilization. =Temiendo que la contagiosa amenaza se propagara,\nse erigieron enormes muros alrededor de las Ciudades Occidentales,\naislándolas del resto de la civilización.
+Weeks of relentless orbital strikes rained down on what were once\nbustling urban centres, incinerating any vestiges of hope for \nthose abandoned within the quarantine zone.=Semanas de implacables ataques orbitales llovieron sobre lo que una vez\nfueron centros urbanos bulliciosos, incinerando cualquier vestigio de\nesperanza para aquellos abandonados dentro de la zona de cuarentena.
+Six long decades have passed since the fall of the Western Cities. \nWhile many who suffered strive to forget, there are still those fighting\nfor answers and justice.=Han pasado seis largas décadas desde la caída de las Ciudades Occidentales.\nMientras muchos de los que sufrieron luchan por olvidar, aún hay quienes luchan\npor respuestas y justicia.
+
+//Sección ???
+0400765-0321=0400765-0321
+SYS 64 BET=SYS 64 BET
+OT=OT
+FWD THR 0-1=FWD THR 0-1
+FWD THR 0-3=FWD THR 0-3
+FWD THR 0-2=FWD THR 0-2
+OVA BET 1-3=OVA BET 1-3
+core hetra=core hetra
+-407c=-407c
+03=03
+011110B043-211149=011110B043-211149
+-808b=-808b
+SYS 32 BET=SYS 32 BET
+01=01
+02=02
+pwak=pwak
+shinha    techtroform evaluator=shinha    techtroform evaluator
+critial ovp     hullform limit=critial ovp     hullform limit
+cell drive=cell drive
+core anka=core anka
+core tetra=core tetra
+
+//Escenario1
+UNRPC RESEARCH TEAM - CITY LIMITS=EQUIPO DE INVESTIGACIÓN DE LA\nUNRPC - LÍMITES DE LA CIUDAD
+EQUIPARO DE INVESTIGACIÓN DE LA\nUNRPC - LÍMITES DE LA CIUDAD=EQUIPO DE INVESTIGACIÓN DE LA\nUNRPC - LÍMITES DE LA CIUDAD
+
+So... Sasha. Time to spill the beans.=Entonces… Sasha. Hora de soltar la sopa.
+Huh?=¿Eh?
+What's your trauma?=¿Cuál es tu trauma?
+I'm not sure I get what you mean...=No estoy segura de entender a qué te refieres…
+C'mon, we've all got one.=Vamos, todos tenemos uno.
+Signing up with a underfunded group of activists, pushing back against everything those fuckers hang over us.=Unirse a un grupo de activistas con pocos recursos, luchando contra todo lo que esos bastardos nos imponen.
+You don't make a call like that without some kind of beef.=No tomas una decisión así sin tener algún resentimiento.
+Personally mine's pretty vanilla, they took my son.=Personalmente, lo mío es bastante sencillo, se llevaron a mi hijo.
+Oh jeeze, really? I'm sorry-=Oh, vaya, ¿en serio? Lo siento—
+Eh, that's public schools for ya. Kid fell into the wrong group, got offered a way out.=Eh, así son las escuelas públicas. El chico se metió en el grupo equivocado, le ofrecieron una salida.
+He signed up two years ago now.=Se inscribió hace dos años ya.
+I've heard stories...=He escuchado historias…
+Yeah I raised him to be smarter than that, or at least I thought so.=Sí, lo eduqué para que fuera más listo que eso, o al menos eso pensaba.
+Fucking parasites always find a way in, fill the kids heads with lies.=Esos malditos parásitos siempre encuentran la manera de entrar, llenan la cabeza de los chicos con mentiras.
+I'm looking for answers.=Estoy buscando respuestas.
+My mother was one of the kids that made it out, her parents weren't so lucky.=Mi madre fue una de las que lograron salir, sus padres no tuvieron tanta suerte.
+We all know someone screwed up, that much they couldn't hide.=Todos sabemos que alguien la cagó, eso no pudieron ocultarlo.
+I'm just sick of no one being held accountable.=Estoy harta de que nadie sea responsabilizado.
+Right, hence this team. You wanted to get close. Start at the source and work your way back?=Exacto, por eso este equipo. Querías acercarte. ¿Empezar desde la fuente e ir desentrañando?
+Yeah, something like that.=Sí, algo así.
+She passed two months back, I guess this is just my way of making sense of that.=Ella falleció hace dos meses, supongo que esto es solo mi manera de darle sentido a todo.
+I'm sorry. It's an all too familiar story.=Lo siento. Es una historia demasiado familiar.
+You're among friends here, we'll get answers no matter what.=Aquí estás entre amigos, obtendremos respuestas sin importar qué.
+I hope so.=Eso espero.
+
+//Te detienes un momento, te pregunta
+Hey, you coming?=Hey, ¿vienes?
+Anyway, you were saying?=En fin, ¿qué decías?
+Hey, where you going?=Hey, ¿a dónde vas?
+Anyway...=En fin…
+Right so you were saying?=Cierto, ¿qué decías?
+Right so as I was saying...=Cierto, como decía…
+Sorry I couldn't hear you. You were saying?=Perdón, no te escuché. ¿Qué decías?
+Anyway, as I was saying...=En fin, como decía…
+Sorry, repeat that last bit again...=Perdón, repite esa última parte de nuevo…
+Where was I? Ah yes...=¿Dónde me quedé? Ah, sí…
+
+//Misión
+- Make your way to the beach with Charlie=- Dirígete a la playa con Charlie
+
+//Comienzas a caminar rumbo a la playa para encontrarte al resto del grupo
+Hey guys, no Mark?=Hey chicos, ¿no está Mark?
+He said he was heading back here, had to ask you about something?=Dijo que regresaría aquí, ¿tenía que preguntarte sobre algo?
+Yeah he's err, he's not here.=Sí, él ehh, no está aquí.
+I mean, obviously.=Quiero decir, obviamente.
+MAAAARK! Buddy, we got a job to do here.=¡MAAAARK! Amigo, tenemos trabajo que hacer aquí.
+He didn't say anything else?=¿No dijo nada más?
+Nah, he just bailed half way up the hill.=No, solo se fue a mitad de camino en la colina.
+Yeah he'll be around somewhere.=Sí, estará por ahí en algún lugar.
+Sasha, why don't you check along the beach whilst we finish setting up here.=Sasha, ¿por qué no revisas por la playa mientras nosotros terminamos de prepararnos aquí?
+Kid's probably off taking a dump or something.=El chico quizás se fue a hacer sus necesidades o algo así.
+Eugh.=Eugh.
+Sure, I'm on it.=Claro, yo me encargo.
+
+
+//Exploración
+Press <sprite\=103 tint\=1> to run.=Pulsa <sprite\=103 tint\=1> para correr.
+Press {action} to run.=Pulsa {action} para correr.
+
+Just don't go getting yourself lost too!=¡Solo no te pierdas tú también!
+Hello? Mark? Damn, where could he have gone.=¿Hola? ¿Mark? Maldición, ¿a dónde se habrá ido?
+Mark! Hello? Mark c'mon, we've got a job to do.=¡Mark! ¿Hola? ¡Mark, vamos, tenemos trabajo que hacer!
+
+//Dentro de la cueva
+Hello? Mark, you in here?=¿Hola? Mark, ¿estás aquí?
+
+
+//Personajes hablando
+Tax -=Tax:
+Mica -=Mica:
+
+//Cinematica 1
+MICA'S APARTMENT - CITY OF AEONIS=APARTAMENTO DE MICA - CIUDAD DE AEONIS
+TWELVE DAYS LATER=DOCE DÍAS DESPUÉS
+Meek, my guy pulled through, he's got the pass.=Meek, mi contacto logró conseguirlo, tiene el pase.
+You sure you wanna do this?=¿Estás segura de que quieres hacer esto?
+She's still out there Tax.=Ella sigue allá afuera, Tax.
+Somewhere, scared and alone.=En algún lugar, asustada y sola.
+I get it Meek.=Lo entiendo, Meek.
+You got about 24 hours before the clearance gets flagged.=Tienes unas 24 horas antes de que el autorización sea inválida.
+
+You miss that window and I got two lost friends.=Si pierdes esa ventana, habré perdido a dos amigas.
+
+//Cinematica 2
+0400765-0321           - REMOTE HOST CONNECTED=0400765-0321 - ANFITRIÓN REMOTO CONECTADO
+My guy's waiting on the East Sheet, burough 7 near the underpass.=Mi contacto te espera en East Sheet, barrio 7, cerca del paso subterráneo.
+Once he's flashed the clearance mod on your hover he'll set you up with some blocker fluid.=Una vez que muestre el módulo de autorización en tu aerodeslizador, te dará un poco de fluido bloqueador.
+You'll need to take it when you're about an hour out from the city limits.=Tendrás que tomarlo cuando estés a una hora de los límites de la ciudad.
+I'll keep you on C.O.T.A.C but y'know as well as me, anything happens out there and you're on your own.=Te mantendré en C.O.T.A.C, pero sabes tan bien como yo que si pasa algo allá afuera, estás por tu cuenta.
+Last chance Meek, you sure this is the right call?=Última oportunidad, Meek, ¿estás segura de que es lo correcto?
+She's coming home Tax.=Ella regresará a casa, Tax.
+
+//Cinematica 3
+FOUR HOURS LATER=CUATRO HORAS DESPUÉS
+
+Navigation -=Navegación:
+Warning. Severe weather conditions identified.=Advertencia. Se han identificado condiciones meteorológicas severas.
+Ya think? What gave it away.=¿En serio? ¿Qué te lo delató?
+Several of my atmospheric sensors are reading concerning levels of-=Varios de mis sensores atmosféricos están registrando niveles preocupantes de—
+That was a rhetorical question, beeb.=Esa era una pregunta retórica, beeb.
+I recommend that we establish a safe landing zone with the utmost urgency.=Recomiendo que establezcamos una zona de aterrizaje segura con la máxima urgencia.
+It’s alright, we will. =Está bien, lo haremos.
+We’re about three miles out from where Sasha was posted, you think you can hold on?=Estamos a unas tres millas de donde Sasha fue ubicada, ¿crees que puedes aguantar?
+There is a statistical probability that ignoring these warnings may result in an incident with fatal repercuss-=Hay una probabilidad estadística de que ignorar estas advertencias resulte en un incidente con consecuencias fatales—
+Sorry. I am unable to process your request, the root function 'termination' is protected and will require administrator approval.=Lo siento. No puedo procesar tu solicitud, la función raíz 'terminación' está protegida y requiere aprobación del administrador.
+Beeb?=¿Beeb?
+Fuck-fuck FUCK!=¡Mierda, mierda, MIERDA!
+
+SY  =SI  
+SY  S=SI  E
+SYST=SIST
+SY  SOR=SY  SOR
+Sy so=Sy so
+S.=S.
+SYSTEM  CRITICAL=SISTEMA CRÍTICO
+SY  SORR=SY  SORR
+SY  SORRY=SY  SORRY
+BATC=LOT
+LO=LO
+LOTE=LOTE
+BATCH 00042B64=LOTE 00042B64
+0042B64=0042b64
+
+//Cinematica 4
+I woke to the acrid smell of an electrical fire, rain pounding on the cracked windshield of my hover.=Desperté con el olor acre de un incendio eléctrico, la lluvia golpeaba el parabrisas agrietado de mi aerodeslizador.
+I tried to call for help but my radio couldn’t catch a signal through the storm.=Intenté pedir ayuda, pero mi radio no podía captar señal debido a la tormenta.
+Sasha was out there somewhere.=Sasha estaba allá afuera en algún lugar.
+If we were to stand any chance of getting out of here I’d need an evac plan.=Si queríamos tener alguna posibilidad de salir de aquí, necesitaría un plan de evacuación.
+I had to find a vantage point, some place high enough to get a signal through on my radio, and call for help.=Tenía que encontrar un punto elevado, algún lugar tan alto como para obtener señal con mi radio y pedir ayuda.
+This wasn’t over.=Esto no había terminado.
+
+//Escenario 2
+Tax? Tax, do you copy?=¿Tax? ¿Tax, me copias?
+What a wreck. There's no way I'm flying out of here.=Vaya desastre. No hay forma de que pueda volar fuera de aquí.
+A medical repair spray has been left in the back of the ambulance.=Se han dejado un spray de reparación médica en la parte trasera de la ambulancia.
+Take the <b>Repair Spray</b>?=¿Tomar el <b>Spray de Reparación</b>?
+YES=SÍ
+NO=NO
+Repair Spray has been added to Inventory.=Se ha añadido Spray de Reparación al Inventario.
+Revolver Ammo (6) has been added to Inventory.=Se ha añadido Munición de Revólver (6) al Inventario.
+Thank god Nanotec doesn't have a shelf life.=Gracias a Dios que Nanotec no tiene fecha de caducidad.
+
+//ACCIONES
+----\n[SEEK]=----\n[BUSCAR]
+Press <sprite\=78 tint\=1> to toggle Mica's torch.=Pulsa <sprite\=78 tint\=1> para alternar la linterna de Mica.
+Press {action} to toggle Mica's torch.=Pulsa {action} para alternar la linterna de Mica.
+Press <sprite\=77 tint\=1> to interact when [PICK UP] is displayed.=Pulsa <sprite\=77 tint\=1> para interactuar cuando aparezca [RECOGER].
+Press {action} to interact when [PICK UP] is displayed.=Pulsa {action} para interactuar cuando aparezca [RECOGER].
+----\n[PICKUP]=----\n[RECOGER]
+Press <sprite\=81 tint\=1> to open Mica's inventory and [USE] the Repair Spray.=Pulsa <sprite\=81 tint\=1> para abrir el Inventario de Mica y [USAR] el Spray de Curación.
+Press {action} to open Mica's inventory and [USE] the Repair Spray.=Pulsa {action} para abrir el Inventario de Mica y [USAR] el Spray de Reparación.
+----\n[USE]=----\n[USAR]
+
+AREA MAP=--MAPA--
+043s / 32SK\nsof 0.0  --- L=043s / 32SK\nsof 0.0  --- L
+
+//Status
+DANGER=PELIGRO
+CAUTION=PRECAUCIÓN
+FINE=BIEN
+
+//Objetos equipados
+NONE=NINGUNO
+
+//Opciones
+ITEM=OBJ
+MAP=MAPA
+DOCS=DOCS
+SYS=MENÚ
+
+//Barra lateral
+SINK_OS v2.0.02 =SINK_OS v2.0.02 
+r:"^USER 1\n\n\nUpdated (\d+) secs ago\n\n\nBEARING (\d+\.\d+) deg\(T\)\nTETHER (\d+\.\d+) hw\nRECALL (\d+\.\d+) hw\nCCD (\d+\.\d+) fs\n\n\nxTCCD (\d{3}),(\d+\.\d+),(\d+)(\(#\d+\))?\nzTCCD (\d{3}),(\d+\.\d+),(\d+)(\(#\d+\))?$"=USUARIO 1\n\n\nActualizado hace $1 seg.\n\n\nRUMBO $2 grados(T)\nHILO $3 hw\nRELLAMADA $4 hw\nCCD $5 fs\n\n\nxTCCD $6,$7,$8$9\nzTCCD $10,$11,$12$13
+r:"xTCCD (\d{3}),(\d+\.\d+),(\d+)\(#(\d+)\)\nzTCCD (\d{3}),(\d+\.\d+),(\d+)\(#(\d+)\)\nxTCCD (\d{3}),(\d+\.\d+),(\d+)\(#(\d+)\)\nzTCCD (\d{3}),(\d+\.\d+),(\d+)\(#(\d+)\)\nxTCCD (\d{3}),(\d+\.\d+),(\d+)\(#(\d+)\)"=xTCCD $2,$3,$4(#$5)\nzTCCD $6,$7,$8(#$9)\nxTCCD $10,$11,$12(#$13)\nzTCCD $14,$15,$16(#$17)\nxTCCD $18,$19,$20(#$21)
+
+WEAK SIGNAL\nE-7253=SEÑAL DÉBIL\nE-7253
+
+//Ayuda del inventario
+{action}    NAV L={action}    IZQUIERDA
+{action}    NAV R={action}    DERERECHA
+{action}    NAV +={action}    ABAJO
+{action}    NAV -={action}    ARRIBA
+{action}    SUBMIT={action}    SELECCIONAR
+{action}    RETURN={action}    REGRESAR
+
+<sprite\=73 tint\=1>    NAV L=<sprite\=73 tint\=1>    IZQUIERDA
+<sprite\=76 tint\=1>    NAV R=<sprite\=76 tint\=1>    DERERECHA
+<sprite\=91 tint\=1>    NAV +=<sprite\=91 tint\=1>    ABAJO
+<sprite\=95 tint\=1>    NAV -=<sprite\=95 tint\=1>    ARRIBA
+<sprite\=77 tint\=1>    SUBMIT=<sprite\=77 tint\=1>    SELECCIONAR
+<sprite\=0 tint\=1>    RETURN=<sprite\=0 tint\=1>    REGRESAR
+
+//Mapa
+{action} SPEED +={action} VELOCIDAD +
+{action} ZOOM -={action} ACERCAR -
+{action} ZOOM +={action} ACERCAR +
+{action} ROTATE [R]={action} ROTAR [D]
+{action} ROTATE [L]={action} ROTAR [I]
+
+<sprite\=70 tint\=1> ZOOM -=<sprite\=70 tint\=1> ACERCAR -
+<sprite\=68 tint\=1> ZOOM +=<sprite\=68 tint\=1> ACERCAR +
+<sprite\=69 tint\=1> ROTATE [R]=<sprite\=69 tint\=1> ROTAR [D]
+<sprite\=67 tint\=1> ROTATE [L]=<sprite\=67 tint\=1> ROTAR [I]
+<sprite\=103 tint\=1> SPEED +=<sprite\=103 tint\=1> VELOCIDAD +
+
+//Objetos
+<i>D-SERIES REVOLVER (EMPTY)</i>=<i>REVÓLVER SERIE D (VACÍO)</i>
+r:"^<i>D-SERIES REVOLVER</i> \((\d+)\)"=<i>REVÓLVER SERIE D ($1)</i>
+This action is currently unavailable. First select the Repair Spray to heal.=Esta acción no está disponible por ahora. Primero selecciona el spray de reparación para curarte.
+An old Darling Tsukumo D-Series Revolver. A favourite among private security firms.=Un viejo revólver Darling Tsukumo Serie D. Un favorito entre las empresas de seguridad privada.
+r:"<i>REVOLVER AMMO</i> \((\d+)\)"=<i>MUNICIÓN DE REVÓLVER</i> ($1)
+Revolver bullets, suitable for my D-Series.=Balas de revólver, adecuadas para mi serie D.
+<I>C.O.T.A.C RADIO</I>=<I>RADIO C.O.T.A.C</I>
+My trusty C.O.T.A.C. It's old tech but near impossible for someone to monitor the signal.=Mi confiable C.O.T.A.C. Es tecnología antigua, pero casi imposible de interceptar.
+The interference is too strong. I can't find a signal.=La interferencia es demasiado fuerte. No puedo encontrar señal.
+<i>LIGHTER</i>=<i>ENCENDEDOR</i>
+An old flint strike lighter. A family heirloom.=Un viejo mechero de pedernal. Una reliquia familiar.
+There's nothing to set alight here.=No hay nada que encender aquí.
+r:"^<i>REPAIR SPRAY</i>( \(\d+\))?$"=<i>SPRAY DE REPARACIÓN</i>$1
+=<i>SPRAY DE REPARACIÓN</i> (3)
+A personal Repair Spray. Used to treat open wounds.=Un spray de reparación médica. Se usa para tratar heridas abiertas.
+
+UNEQUIP=QUITAR
+USE=USAR
+OPEN=ABRIR
+TAKE=LLEVAR
+COMBINE=COMBINAR
+INSPECT=EXAMINAR
+EQUIP=EQUIPAR
+
+{action}   RETURN={action}   REGRESAR
+{action}   SCROLL -={action}   DESPLAZAR -
+{action}   SCROLL +={action}   DESPLAZAR +
+{action}   NEXT={action}   SIGUIENTE
+{action}   PREV={action}   ANTERIOR
+
+<sprite\=73 tint\=1>   PREV=<sprite\=73 tint\=1>   ANTERIOR
+<sprite\=76 tint\=1>   NEXT=<sprite\=76 tint\=1>   SIGUIENTE
+<sprite\=91 tint\=1>   SCROLL +=<sprite\=91 tint\=1>   DESPLAZAR +
+<sprite\=95 tint\=1>   SCROLL -=<sprite\=95 tint\=1>   DESPLAZAR -
+
+CHOOSE AN ITEM TO COMBINE WITH:=ELIGE UN OBJETO CON EL QUE COMBINAR:
+D-SERIES REVOLVER=REVÓLVER SERIE D
+
+<sprite\=89 tint\=1> Switch Taget=<sprite\=89 tint\=1> Cambiar objetivo
+<sprite\=100 tint\=1> [Active Target] Fire=<sprite\=100 tint\=1> Disparar [Objetivo Activo]
+<sprite\=100 tint\=1> [No Target] Stomp=<sprite\=100 tint\=1> Pisotear [Sin Objetivo]
+<sprite\=102 tint\=1> [Hold] Lock-On=<sprite\=102 tint\=1> Fijar objetivo [Mantener]
+
+{action} Reload={action} Recargar
+{action} Switch Taget={action} Cambiar objetivo
+{action} [Active Target] Fire={action} Disparar [Objetivo Activo]
+{action} [No Target] Stomp={action} Pisotear [Sin Objetivo]
+{action} [Hold] Lock-On={action} Fijar objetivo [Mantener]
+
+//Cinematica 5
+c.o.t.a.c=C.O.T.A.C
+Select COTAC from inventory to [USE].=Selecciona [USAR] en la RADIO desde el inventario.
+
+What do you think you’re doing? My husband has work in the morning!=¿Qué crees que estás haciendo? ¡Mi esposo tiene que trabajar por la mañana!
+It’s just a precaution ma’am, all residents are advised to stay in their homes until further notice.=Es solo una precaución, señora. Se aconseja a todos los residentes que permanezcan en sus hogares hasta nuevo aviso.
+This is absurd, you have no right to tell us what to do! Just wait til my man hears about this.=¡Esto es absurdo, no tienes derecho a decirnos qué hacer! Espera a que mi esposo se entere de esto.
+Ma’am we understand the inconvenience but failure to comply will result in a blacklist for you and your family.=Señora, entendemos el inconveniente, pero si no cumple resultará en una lista negra para usted y su familia.
+Shove your black list! Let me through!=¡Métete tu lista negra! ¡Déjame pasar!
+Ma’am state regulation requires you to be compliant in any and all mandated-=Señora, las regulaciones estatales requieren que usted cumpla con todas las órdenes—
+Bunch of parasites, the lot of you!=¡Un montón de parásitos, eso es lo que son!
+Prisoners in our own damned homes.=Prisioneros en nuestras propias malditas casas.
+
+//Sección 3
+The road's been blocked by an old supply lorry.=El camino está bloqueado por un viejo camión de suministros.
+I should focus on finding somewhere high enough to get a signal through to Tax.=Debería centrarme en encontrar un tan alto como para enviar una señal a Tax.
+
+Hold <sprite\=101 tint\=1> to open Quick Selection Menu.=Mantén <sprite\=101 tint\=1> para abrir el Menú de Selección Rápida.
+Hold {action} to open Quick Selection Menu.=Mantén {action} para abrir el Menú de Selección Rápida.
+
+Press {action} to recenter camera.=Pulsa {action} para centrar la cámara.
+{action} can be used to nudge moving cameras.=Usa {action} para mover la cámara ligeramente.
+Press <sprite\=94 tint\=1> to recenter camera.=Pulsa <sprite\=94 tint\=1> para centrar la cámara.
+<sprite\=69 tint\=1> can be used to nudge moving cameras.=Usa <sprite\=69 tint\=1> para mover la cámara ligeramente.
+
+// Final de la calle
+Looks like this street was intentionally closed off but what were they trying to keep out?=Parece que esta calle fue cerrada intencionalmente, pero ¿qué intentaban mantener fuera?
+Nevermind, need to get a signal through to Tax.=No importa, necesito enviarle una señal a Tax.
+Think I saw an alleyway leading to the apartment block back by that rusty mech.=Creo que vi un callejón que lleva al bloque de apartamentos, cerca de ese meca oxidado.
+Observation Report has been added to Documents.=Se ha añadido Informe de Observación a los Documentos.
+r:"^\/\/OBSERVATION REPORT\n\nThe paper is covered with rows of numbers and dates.\r\n\r\nSome lines appear marked with a red X.\s+\r\n\r\nIt seems to be some sort of observation report, possibly monitoring activities of various residents."=\\\INFORME DE OBSERVACIÓN\n\nEl papel está cubierto de filas de números y fechas.\r\n\r\nAlgunas líneas parecen estar marcadas con una X roja.\r\n\r\nParece ser algún tipo de informe de observación, posiblemente monitoreando las actividades de varios residentes.
+
+// Exterior de los apartamentos
+That stuff has completely covered this side of the building, sealing the doors shut.=Esa cosa ha cubierto por completo este lado del edificio, sellando las puertas.
+Maybe I can find another way in?=¿Quizás pueda encontrar otra forma de entrar?
+The gate to the parking lot is shut tight.=La puerta del estacionamiento está cerrada con llave.
+I need to find a way into those apartments anyway.=De todos modos, necesito encontrar una manera de entrar a esos apartamentos.
+[RESIDENT]      HARRY TYNDALE\n[DOB] 14/06/29\n[OCCUPATION] CIVIL SERVICES\n\r\n[CONDITION] DECEASED\r\n[CAUSE] PULMONARY EMBOLISM\n              \r\n[VOID]=[RESIDENTE]     HARRY TYNDALE\n[FECHA DE NACIMIENTO] 14/06/29\n[OCUPACIÓN] SERVICIOS PÚBLICOS\n\r\n[CONDICIÓN] FALLECIDO\r\n[CAUSA] EMBOLIA PULMONAR\n             \r\n[ANULADO]
+
+-=-
+--=--
+---=---
+----\n=----\n
+----\n[=----\n[
+.=.
+
+
+AUTOSAVED=AUTOGUARDADO
+r:"^Autosave \((\d{2}/\d{2}/\d{4} \d{2}:\d{2})\)$"=Autoguardado ($1)
+r:"^Save (\d+) \((\d{2}/\d{2}/\d{4} \d{2}:\d{2})\)$"=Guardado $1 ($2)
+NEW FILE=NUEVO ARCHIVO
+SAVE GAME=GUARDAR PARTIDA
+
+//Al entrar a los apartamentos
+Okay, time to find a way up to the roof.=Bien, es hora de encontrar una forma de subir al techo.
+Gater House Register has been added to Documents.=Se ha añadido Registro de la Casa Gater a los Documentos.
+r:"^\/\/GATER HOUSE REGISTER\n\nA list of residents, found in Gater House.\n\nSome names appear to be a moniker, this document must predate the Citizen E-ID Scheme.\n\nMiguel Roy\nKim Lambert\nMichaut Denis\nSully\nBart Martinez\nRichard Shilkus\nKennan Ward\nDeclan Masterson\nRich Selmon\nChris Orlando\nCallie Maxwell\nJared Stander\nScott Heath\nSean Noonan\nSkeeby Bath\nTom Poole\nLisa S.\nbeezyslayer\ncakeoneyu\nJames C. o'Hern, Jr.\nMalice M\nAri Sarkar\nGage McColgan\nReka Beres\nJosh Picard\nAndrew Dennis\nJoshua Bratton\nRoach\nAlessandro De Angelis\nSavegame\nMowseler\nMichael Garwood\nIsak Martinsson\nMartijn van der Meulen\nGavin Casey\nEduardo Flores\nDerek Foley\nMichael Hansen\nLiquafool\nKingKobayoyee\nJawnuhthun\nTheBrokenZone\nAdrian\nShmumbler\nJonny Hunter\nJeremy Adams\nStephanie Gulsby\nCaptainOblivious\nKlab Infinity\nLuc\nAdam\nJordan Ray Little\nVudix\nCoestar\nJaina\nHannes Winkler\nBridget Brave\nJared Goodroad$"=\\\REGISTRO DE GATER HOUSE\n\nUna lista de residentes, encontrada en Gater House.\n\nAlgunos nombres parecen ser seudónimos; este documento debe ser anterior al Esquema de Identificación Ciudadana E-ID.\n\nMiguel Roy\nKim Lambert\nMichaut Denis\nSully\nBart Martinez\nRichard Shilkus\nKennan Ward\nDeclan Masterson\nRich Selmon\nChris Orlando\nCallie Maxwell\nJared Stander\nScott Heath\nSean Noonan\nSkeeby Bath\nTom Poole\nLisa S.\nbeezyslayer\ncakeoneyu\nJames C. o'Hern, Jr.\nMalice M\nAri Sarkar\nGage McColgan\nReka Beres\nJosh Picard\nAndrew Dennis\nJoshua Bratton\nRoach\nAlessandro De Angelis\nSavegame\nMowseler\nMichael Garwood\nIsak Martinsson\nMartijn van der Meulen\nGavin Casey\nEduardo Flores\nDerek Foley\nMichael Hansen\nLiquafool\nKingKobayoyee\nJawnuhthun\nTheBrokenZone\nAdrian\nShmumbler\nJonny Hunter\nJeremy Adams\nStephanie Gulsby\nCaptainOblivious\nKlab Infinity\nLuc\nAdam\nJordan Ray Little\nVudix\nCoestar\nJaina\nHannes Winkler\nBridget Brave\nJared Goodroad\nZeedif
+Various old boxes and empty paint cans. Just junk.=Varias cajas viejas y latas de pintura vacías. Solo basura.
+A storage box locked with a large padlock.=Una caja de almacenamiento cerrada con un gran candado.
+Maybe I can find a way to pry it open.=Quizás pueda encontrar una forma de forzarla.
+There's no power running to the elevator.=El ascensor no tiene energía.
+"We used to be happy"="Solíamos ser felices"
+The lock is blocked with some kind of expanding foam.=La cerradura está bloqueada con algún tipo de espuma expansiva.
+The gate is locked tight.=La puerta está asegurada con llave.
+It won't budge.=No se mueve.
+
+//Apartamento1
+It's an old videophone, these things are practically antiques now.=Es un viejo videoteléfono, estos aparatos son prácticamente antigüedades ahora.
+A videophone, these things used to be all the rage.=Un videoteléfono, estos aparatos solían estar de moda.
+A dusty old videophone, this model is made by Tektroni.=Un viejo videoteléfono polvoriento, este modelo es fabricado por Tektroni.
+There's something pierced through their stomach.=Tiene algo atravesado en su estómago.
+I guess they got on the wrong side of someone with nothing to lose.=Supongo que se metió con alguien que no tenía nada que perder.
+That's a lot of blood...=Eso es mucha sangre…
+It's a pretty generic picture, just a wash of colours.=Es una imagen bastante genérica, solo una mezcla de colores.
+Looks like something you'd find in a hotel room.=Parece algo que encontrarías en una habitación de hotel.
+
+//Pasillo
+It's boarded shut.=Está bloqueada con tablones.
+It's barred shut.=Está bloqueada con firmeza.
+It's boarded shut, it won't move.=Está bloqueada con tablones, no se mueve.
+It's been boarded shut.=Ha sido bloqueada con tablones.
+The door is boarded shut.=La puerta está bloqueada con tablones.
+The door's barred shut.=La puerta está bloqueada con firmeza.
+The door's boarded shut.=La puerta está bloqueada con tablones.
+
+There's no way I can get this open.=No hay forma de que pueda abrir esto.
+It's locked tight, there's no way to open it.=Está asegurada con llave, no hay forma de abrirla.
+The door is shut with an electronic lock.=La puerta está asegurada con una cerradura electrónica.
+
+
+//Apartamento 2,10
+This thing hasn't been cleaned for years.=Esta cosa no se ha limpiado en años.
+You couldn't pay me to take a shower in this place.=No me ducharía en este lugar ni aunque me pagaran.
+I'd kill for a shower right now but this one smells like death.=Mataría por una ducha ahora mismo, pero esta huele a muerte.
+//Lavamanos
+I'd love to wash my hands but there's no water.=Me encantaría lavarme las manos, pero no hay agua.
+Not that I trust the water anyway.=Además, no confiaría en el agua.
+This sink is filthy.=Este lavamanos está sucio.
+I'd rather not risk catching something.=Preferiría evitar el riesgo de contagiarme de algo.
+
+//Escena 6
+Babe are you sure you’re alright? You’ve not touched your dinner.=Cariño, ¿estás seguro de que estás bien? No has tocado tu cena.
+I just err… I’m not hungry.=Solo… no tengo hambre.
+Did you guys eat after work or…=¿Comieron después del trabajo o…?
+I’m not hungry.=No tengo hambre.
+C’mon, you didn’t take your lunch with you today. You have to eat something.=Vamos, no llevaste tu almuerzo hoy. Tienes que comer algo.
+Get out.=Sal de aquí.
+What?=¿Qué?
+Take a walk, give me some fucking space.=Da un paseo, dame un maldito espacio.
+I… Honey you’re scaring me.=Yo… Cariño, me estás asustando.
+Please, tell me what’s wrong.=Por favor, dime qué pasa.
+We can work this out.=Podemos resolver esto.
+I’m fine. I’m not hungry. I need some space.=Estoy bien. No tengo hambre. Necesito algo de espacio.
+Maybe this construction job wasn’t such a great idea-=Quizás este trabajo de construcción no fue una gran idea—
+Take a walk.=Sal a dar un paseo.
+It’s raining out… Where can I go, I…=Está lloviendo afuera… ¿Adónde puedo ir? Yo…
+I said, take a walk.=Dije, sal a dar un paseo.
+This is our home, I live here…=Este es nuestro hogar, vivo aquí…
+GET THE FUCK OUT OF MY HOUSE.=LÁRGATE YA DE MI CASA, JODER.
+
+//Lavaplatos
+Gross. I'm not touching any of this.=Qué asco. No voy a tocar nada de esto.
+The sink is filled with old plates and stale water.=El lavabo está lleno de platos viejos y agua estancada.
+Mouldy plates and cutlery, gross.=Platos y cubiertos mohosos, qué asco.
+
+//Basura
+It's trash.=Es basura.
+A pile of trash, it's no use to me.=Un montón de basura, no me sirve de nada.
+//Cajones
+It's full of old clothes and other useless junk.=Está lleno de ropa vieja y otras porquerías inútiles.
+Nothing useful, just some clothes.=Nada útil, solo algo de ropa.
+//Cama
+More death...=Más muerte…
+So many of these people didn't make it out.=Muchas de estas personas no lograron salir.
+
+//Apartamento CLVRS
+//Baño
+You'd have to be pretty short to lie down comfortably in one of these things.=Tendrías que ser bastante bajo para acostarte cómodamente en una de estas cosas.
+Bathtubs are so weird.=Las bañeras son tan raras.
+I can't believe people used to just sit in them and expect to come out clean.=No puedo creer que la gente solía sentarse en ellas y esperar salir limpia.
+It's clogged with something I'd rather not think about.=Está atascado con algo en lo que prefiero no pensar.
+An old Tektroni Videophone. Those things were so bulky.=Un viejo videoteléfono Tektroni. Esos aparatos eran tan voluminosos.
+Just useless junk.=Solo porquería inútil.
+Newspaper Article has been added to Documents.=Se ha añadido Artículo de Periódico a los Documentos.
+A keycard is grasped in the body's hand.=Una tarjeta de acceso está agarrada en la mano del cadáver.
+
+//
+A filthy old bathtub, a pool of stale water sits at the bottom of the tub.=Una vieja bañera sucia, con un charco de agua estancada en el fondo.
+It smells like someone died in here.=Huele como si alguien hubiera muerto aquí.
+
+More packing boxes.=Más cajas de cartón.
+I guess whoever lived here never got the chance to leave.=Supongo que quien que vivía aquí nunca tuvo la oportunidad de irse.
+Just trash and dirty plates. I'm not cleaning it.=Solo basura y platos sucios. No pienso limpiarlo.
+
+
+Showers just make so much more sense.=Las duchas tienen mucho más sentido.
+[RESIDENT]      THURSTON M\n[DOB] 02/08/25\r\n[OCCUPATION] UNEMPLOYED\r\n\r\n[CONDITION] DECEASED\r\n[CAUSE] PANCREATIC NECROSIS\n              \r\n[VOID]=[RESIDENTE]     THURSTON M\n[FECHA DE NACIMIENTO] 02/08/25\n[OCUPACIÓN] DESEMPLEADO\n\n[CONDICIÓN] FALLECIDO\n[CAUSA] NECROSIS PANCREÁTICA\n\n[ANULADO]
+
+Take the <b>Room Key</b>?=¿Tomar la <b>Llave de Habitación</b>?
+Room Key has been added to Inventory.=Se ha añadido Llave de Habitación al inventario.
+There's nothing left but the sorry corpse of an addict.=No queda nada más que el lamentable cadáver de un adicto.
+Just some old trash.=Solo un poco de basura vieja.
+
+
+r:"\/\/NEWSPAPER - NOV 16\n\nSocial enrichment charity Sherwood Announces Monumental Investment to Revamp Barnsdon's Infrastructure and Economy\r\n\r\nBarnsdon, November 19, 2063 – In a groundbreaking move set to redefine Barnsdon's landscape, Sherwood, a philanthropic organization, has declared plans for a transformative investment aimed at revitalizing the city's infrastructure. The initiative aims to usher in a new era of prosperity, promising job opportunities and modern transit systems in a city marred by economic struggles and social challenges.\r\n\r\nIn a statement released by Sherwood's CEO, Sarah Reynolds, the organization expressed its commitment to fostering positive change: \"We believe that every community deserves the chance to thrive. Our investment in Barnsdon aims to create a sustainable and vibrant future for its residents by addressing the systemic issues that have held the city back for far too long.\"\r\n\r\nThe announcement sparked enthusiasm among residents, businesses, and officials. Mayor Robert Thompson hailed it as a turning point, welcoming Sherwood's commitment and the transformative potential.\r\n\r\nSherwood's plan not only underscores their dedication to social welfare but also highlights the potential for private entities to play a pivotal role in uplifting communities facing socioeconomic challenges. As plans unfold, anticipation mounts for the monumental changes that lie ahead for the city of Barnsdon.\r\n\r\nFor inquiries or statements regarding the ongoing project, please contact Sherwood Estate Management Ltd at info@sherwoodestatesmanagement.com.\r\n\r\nWritten by Ahmet Lal, Contributing Writer\r\n$"=\\\\PERIÓDICO: 16 DE NOVIEMBRE\n\nLa organización benéfica Sherwood anuncia una inversión monumental para renovar la infraestructura y economía de Barnsdon\n\nBarnsdon, 19 de noviembre de 2063 – En un movimiento innovador que promete redefinir el paisaje de Barnsdon, Sherwood, una organización filantrópica, ha declarado planes para realizar una inversión transformadora con el objetivo de revitalizar la infraestructura de la ciudad. La iniciativa pretende inaugurar una nueva era de prosperidad, prometiendo oportunidades laborales y sistemas de transporte modernos en una ciudad marcada por dificultades económicas y desafíos sociales.\n\nEn un comunicado emitido por la directora ejecutiva de Sherwood, Sarah Reynolds, la organización expresó su compromiso con el cambio positivo: “Creemos que toda comunidad merece la oportunidad de prosperar. Nuestra inversión en Barnsdon busca crear un futuro sostenible y vibrante para sus residentes, abordando los problemas sistémicos que han frenado a la ciudad durante demasiado tiempo.”\n\nEl anuncio despertó entusiasmo entre los residentes, empresarios y autoridades. El alcalde Robert Thompson lo calificó como un punto de inflexión, elogiando el compromiso de Sherwood y su potencial transformador.\n\nEl plan de Sherwood no solo subraya su dedicación al bienestar social, sino que también destaca el potencial de las entidades privadas para desempeñar un papel fundamental en la mejora de comunidades que enfrentan desafíos socioeconómicos. A medida que se desarrollan los planes, crece la anticipación por los cambios monumentales que esperan a la ciudad de Barnsdon.\n\nPara consultas o declaraciones sobre el proyecto en curso, por favor contacte a Sherwood Estate Management Ltd en info@sherwoodestatesmanagement.com.\n\nEscrito por Ahmet Lal, Escritor Colaborador
+
+//Habitación 2.14
+[RESIDENT]      KATHERINE DOWELL\n[DOB] 22/11/27\n[OCCUPATION] UNEMPLOYED\r\n\r\n[CONDITION] DECEASED\r\n[CAUSE] ACUTE DEHYDRATION\n              \r\n[VOID]=[RESIDENTE]     KATHERINE DOWELL\n[FECHA DE NACIMIENTO] 22/11/27\n[OCUPACIÓN] DESEMPLEADA\r\n\r\n[CONDICIÓN] FALLECIDA\r\n[CAUSA] DESHIDRATACIÓN AGUDA\n              \r\n[ANULADO]
+I can see right through to the ground floor.=Puedo ver hasta la planta baja.
+There's something on the table, I can't reach it with my bare hands.=Hay algo en la mesa, pero no puedo alcanzarlo con mis manos desnudas.
+Gross, the sheets are stained.=Qué asco, las sábanas están manchadas.
+I hate to think how long it's been since those sheets have been washed.=Odio pensar cuánto tiempo ha pasado desde que se lavaron esas sábanas.
+It's full of old rotten garments.=Está lleno de viejas prendas podridas.
+
+
+<i>ROOM KEY</i>=<i>LLAVE DE HABITACIÓN</i>
+A room key for Gater House. The number 2.3 is scrawled on the back.=Una llave de habitación del Gater House. El número 2.3 está garabateado en el reverso.
+It's unlocked.=Está desbloqueada.
+It wont budge.=No se mueve.
+The floor has collapsed leading to the room below.=El suelo se ha derrumbado llevando a la habitación de abajo.
+Jump down?=¿Saltar?
+
+//Habitación de abajo
+A missile lies dormant, buried under the rubble.=Un misil yace inerte, enterrado bajo los escombros.
+ Is it active?= ¿Está activo?
+I don't want to wait around to find out.=No quiero quedarme para averiguarlo.
+
+Err... Hello?=Ehh… ¿Hola?
+Is err... Is anyone there?=¿Hay ehh… hay alguien ahí?
+Unknown -=Desconocido:
+You don't belong here.=No perteneces aquí.
+Should have stayed where it was warm, little sparrow.=Deberías haberte quedado donde hacía calor, pequeña gorrión.
+I'm sorry, who is this?=Lo siento, ¿quién es?
+Patience baby bird, you've barely spread your wings.=Paciencia, pajarito, apenas has extendido tus alas.
+How are you... How is this line still active?= ¿Cómo es que… cómo sigue activa esta línea?
+Some things refuse to die.=Algunas cosas se niegan a morir.
+Why are you talking like that?=¿Por qué hablas así?
+This is my home. This was always my home.=Este es mi hogar. Siempre fue mi hogar.
+Right...=Claro…
+Layers upon layers, concrete and dirt.=Capas sobre capas, concreto y tierra.
+Sickness til death.=Enfermedad hasta la muerte.
+Yeah this is a waste of time. I'm hanging up.=Sí, esto es una pérdida de tiempo. Voy a colgar.
+Watch out for the strays, they haven't had a proper meal in weeks.=Ten cuidado con los callejeros, no han tenido una comida decente en semanas.
+Creepy fuckin' robot.=Maldito robot espeluznante.
+
+[RESIDENT]      CHARLIE  GAREWAL\n[DOB] 27/9/54\n[OCCUPATION] ADOLESCENT\r\n\r\n[CONDITION] DECEASED\r\n[CAUSE] ASPIRATION PNEUMONIA\n              \r\n[VOID]=[RESIDENTE]     CHARLIE  GAREWAL\n[FECHA DE NACIMIENTO] 27/9/54\n[OCUPACIÓN] ADOLESCENTE\r\n\r\n[CONDICIÓN] FALLECIDO\r\n[CAUSA] NEUMONÍA POR ASPIRACIÓN\n              \r\n[ANULADO]
+
+Child's Drawing has been added to Documents.=Se ha añadido Dibujo Infantil a los Documentos.
+r:"^\/\/CHILD'S DRAWING - BAZILIONR\n\nIf I was a bazilionr I woud buy mommy a new daddy and get pizza EVERY DAYYYY!!!!\n$"=\\\DIBUJO INFANTIL: BAZILIONARIO\n\nSi yo fuera un bazilionario, le compraría a mamá un nuevo papá y comeríamos pizza TODOS LOS DÍASSSS.\n
+
+The radiator appears to be damaged, barely hanging to the wall.=El radiador parece estar dañado, apenas colgando de la pared.
+Remove the <b>Radiator</b>?=¿Quitar el <b>Radiador</b>?
+A hammer lies embedded into the family portrait.=Un martillo está incrustado en el retrato familiar.
+Take the <b>Claw Hammer</b>?=¿Tomar el <b>Martillo de Garra</b>?
+Claw Hammer has been added to Inventory.=Se ha añadido Martillo de Garra al Inventario.
+It's sad to think this was once a happy home.=Es triste pensar que alguna vez fue un hogar feliz.
+You couldn't pay me to sleep in this place.=No dormiría en este lugar ni aunque me pagaran.
+It's filthy. No way I'd sleep in something like that.=Está sucio. No hay forma de que duerma en algo así.
+There's nothing of any use in here.=Aquí no hay nada útil.
+
+[RESIDENTE]     CHARLIE  GAREWAL\n[FECHA DE NACIMIENTO] 27/9/54\n[OCUPACIÓN] ADOLESCENTE\r\n\r\n[CONDICIÓN] FALLECIDO\r\n[CAUSA] NEUMONÍA=[RESIDENTE]     CHARLIE  GAREWAL [FECHA DE NACIMIENTO] 27/9/54 [OCUPACIÓN] ADOLESCENTE\r\n\r\n[CONDICIÓN] FALLECIDO [CAUSA] NEUMONÍA
+
+The wall is water damaged exposing the plasterboard behind.=La pared está dañada por el agua, dejando al descubierto el yeso detrás.
+I may be able to break through with the right tool.=Podría romperla con la herramienta adecuada.
+The door's jammed. It won't open.=La puerta está atascada. No se abre.
+
+<i>CLAW HAMMER</i>=<i>MARTILLO DE GARRA</i>
+An old claw hammer. Useless as a weapon but good for breaking stuff.=Un viejo martillo de garra. Inútil como arma, pero bueno para romper cosas.
+
+An old television set. Probably worth a pretty penny to the right collector.=Un viejo televisor. Probablemente valga una buena suma para el coleccionista adecuado.
+A television set. This one has seen better days.=Un televisor. Seguro ha tenido tiempos mejores.
+A television set. Looks like one of the old tube based models.=Un televisor. Parece uno de esos viejos modelos de tubo.
+
+Well at least the bathtub's clean.=Bueno, al menos la bañera está limpia.
+Comparatively anyway.=Comparativamente, claro.
+This stuff is everywhere...=Esta cosa está por todas partes…
+Where's it coming from?=¿De dónde viene?
+
+Is that stuff coming from outside?=¿Esa cosa viene de afuera?
+It spreads like mould. Jeeze, I hope it's not airborne.=Se extiende como moho. Vaya, espero que no esté en el aire.
+It's all over the walls...=Está por todas las paredes…
+
+All the cupboards have been stripped bare.=Todos los armarios han sido vaciados.
+They cut off the city and left all these people to starve.=Aislaron la ciudad y dejaron a toda esta gente morir de hambre.
+Someone needs to answer for this.=Alguien tiene que responder por esto.
+
+[RESIDENT]      SHAUN BEWLEY\n[DOB] 16/02/18\r\n[OCCUPATION] CLASSIFIED\r\n\r\n[CONDITION] DECEASED\r\n[CAUSE] MYOCARDIAL INFARCTION\n              \r\n[VOID]=[RESIDENTE]     SHAUN BEWLEY\n[FECHA DE NACIMIENTO] 16/02/18\r\n[OCUPACIÓN] CLASIFICADO\r\n\r\n[CONDICIÓN] FALLECIDO\r\n[CAUSA] INFARTO DE MIOCARDIO\n              \r\n[ANULADO]
+A portable cell battery sits wired into a broken diagnostics device.=Una batería portátil está conectada a un dispositivo de diagnóstico roto.
+Take the <b>Portable Battery</b>?=¿Tomar la <b>Batería Portátil</b>?
+Portable Battery has been added to Inventory.=Se ha añadido Batería Portátil al inventario.
+The device is damaged beyond repair.=El dispositivo está tan dañado que no se puede reparar.
+<i>DAMAGED BATTERY</i>=<i>BATERÍA DAÑADA</i>
+A portable battery, the casing is damaged and leaking battery acid.=Una batería portátil, la carcasa está dañada y gotea ácido de batería.
+
+The kitchen's been filled with old rubbish bags.=La cocina está llena de viejas bolsas de basura.
+Ugh, the smell is revolting.=Ugh, el olor es repugnante.
+
+A small child's bed. Various toys and posters decorate the room.=Una pequeña cama infantil. Varios juguetes y pósters decoran la habitación.
+Either they left in a hurry or...=Parece que se fueron de prisa o…
+
+I guess this is where the parents slept.=Supongo que aquí es donde dormían los padres.
+I wonder what happened to them.=Me pregunto qué les habrá pasado.
+I hope they got out.=Espero que hayan logrado salir.
+
+
+A old wooden bat pierced with rusty nails is embedded in the door.=Una vieja tabla de madera atravesada por clavos oxidados está incrustada en la puerta.
+Take the <b>Makeshift Club</b>?=¿Tomar el <b>Garrote Improvisado</b>?
+Makeshift Club has been added to Inventory.=Se ha añadido Garrote Improvisado al inventario.
+A makeshift club built from an old plank of wood and some nine inch nails.=Un garrote improvisado hecho de una vieja tabla de madera y algunos clavos de nueve pulgadas.
+
+<i>MAKESHIFT CLUB</i>=<i>GARROTE IMPROVISADO</i>
+MAKESHIFT CLUB=GARROTE IMPROVISADO
+{action} Stomp={action} Pisotear
+{action} Melee Attack={action} Atacar
+<sprite\=101 tint\=1> Stomp=<sprite\=101 tint\=1> Pisotear
+<sprite\=100 tint\=1> Melee Attack=<sprite\=100 tint\=1> Atacar
+
+[RESIDENT]      HELEN BRIDGES\n[DOB] 04/10/25\n[OCCUPATION] O.T.\n\r\n[CONDITION] DECEASED\r\n[CAUSE] ISCHEMIC STROKE\n              \r\n[VOID]=[RESIDENTE]     HELEN BRIDGES\n[FECHA DE NACIMIENTO] 04/10/25\n[OCUPACIÓN] TERAPEUTA OCUPACIONAL\n\r\n[CONDICIÓN] FALLECIDO\r\n[CAUSA] ISQUEMIA CEREBRAL\n              \r\n[ANULADO]
+A young woman celebrating a birthday. It looks like she has a kid, can't be more than three or four years old.=Una mujer joven celebrando un cumpleaños. Parece que tiene un hijo, no debe tener más de tres o cuatro años.
+A personal safe is mounted in the wall.=Una caja fuerte personal está empotrada en la pared.
+A letter from First Plus Health UK, confirming Helen Bridges' new patient details.=Una carta del First Plus Health UK, confirmando los nuevos datos de la paciente de Helen Bridges.
+Her name is listed alongside her date of birth, 4th October 2025.=Su nombre aparece junto a su fecha de nacimiento, 4 de octubre de 2025.
+Three girls at a university graduation.=Tres chicas en una graduación universitaria.
+One of them appears to be heavily pregnant.=Una de ellas parece estar muy embarazada.
+
+It's just a sink, nothing much to it.=Es solo un lavabo, no tiene nada del otro mundo.
+
+A university diploma hangs on the wall.=Un diploma universitario cuelga en la pared.
+Awarded at the University of Kingsbury to Helen Bridges, the degree of Doctor of Medicine.=Otorgado por la Universidad de Kingsbury a Helen Bridges, con el título de Doctora en Medicina.
+
+
+A large  metal key hides in the back of the safe.=Una gran llave de metal se oculta al fondo de la caja fuerte.
+Take the <b>Old Key</b>?=¿Tomar la <b>Llave Vieja</b>?
+Long Key has been added to Inventory.=Se ha añadido Llave Larga al inventario.
+There's nothing left in the safe.=No queda nada en la caja fuerte.
+
+<i>LONG KEY</i>=<i>LLAVE LARGA</i>
+A long iron key. Found in the safe of room 13. The tag reads 'Spare gate'.=Una larga llave de hierro. Encontrada en la caja fuerte de la habitación 13. La etiqueta dice "Llave de repuesto".
+
+
+
+
+
+The whole apartment is covered in blood...=Todo el apartamento está cubierto de sangre…
+It's like something out of a cheap B-movie, one of those old slasher films.=Parece sacado de una película de serie B barata, de esas películas viejas de terror slasher.
+Okay now I'm starting to freak myself out.=Vale, ya me estoy empezando a asustar.
+The doorway's blocked with old packing boxes.=La puerta está bloqueada con cajas de cartón viejas.
+
+The lock is no longer blocked.=La cerradura ya no está bloqueada.
+I've got no use for that here.=No tengo uso para eso aquí.
+Weird, it doesn't fit. I guess this key was just for the first floor.=Raro, no encaja. Supongo que esta llave era solo para el primer piso.
+
+A long key and an old card reader sit at the bottom of the lockbox.=Una llave larga y un viejo lector de tarjetas se encuentran en el fondo de la caja de almacenamiento.
+Take the <b>Items</b>?=¿Tomar los <b>Objetos</b>?
+Magnetic Card Writer and GF Gate Key added to Inventory.=Se ha añadido Escritor de Tarjetas Magnéticas y Llave de la Reja de la Planta Baja al Inventario.
+
+El escritor de tarjetas magnéticas y la tecla GF GAT agregada al inventario.
+Card Writer Note has been added to Documents.=Se ha añadido Nota del Escritor de Tarjetas a los Documentos.
+r:"^\/\/NOTE - CARD WRITER\n\nJayce, I’ve finally had all the locks updated, the only resident that refused was that whack-job in 14, we’ll see if the super can do something about him.\r\n\r\nAnyway, keep this remapper someplace SAFE. Next time you lose your card just hit the master button and swipe any of the spare room keys, it’ll rewrite the card to give you house access.\r\n\r\nAny of those kids on second give you shit again you call me, yeah?"=\\\NOTA: ESCRITOR DE TARJETAS\n\nJayce, finalmente he actualizado todas las cerraduras, el único residente que se negó fue ese loco de la habitación 14, ya veremos si el encargado puede hacer algo con él.\n\nDe todos modos, guarda este remapeador en un lugar SEGURO. La próxima vez que pierdas tu tarjeta, solo presiona el botón maestro y pasa cualquiera de las llaves de las habitaciones de repuesto, reescribirá la tarjeta para darte acceso a la casa.\n\nSi alguno de esos chicos del segundo te molesta de nuevo, me llamas, ¿vale?\n\nK
+
+
+
+There's nothing left.=No queda nada.
+<i>GF GATE KEY</i>=<i>LLAVE DE LA REJA BP</i>
+A long iron key. Found in the store room lockbox. The tag reads 'GF GATE'.=Una larga llave de hierro.\nEncontrada en la caja de almacenamiento del almacén. La etiqueta dice 'REJA PB'.
+
+That did the trick. It's unlocked.=Eso funcionó. Está desbloqueada.
+It's boarded shut, it wont budge.=Está bloqueada con tablones, no se mueve.
+
+[RESIDENT]      JULIAN GOLDENBERG\n[DOB] 05/10/05\n[OCCUPATION] DATA ANALYST\n\r\n[CONDITION] DECEASED\r\n[CAUSE] AORTIC DISSECTION\n              \r\n[VOID]=[RESIDENTE]     JULIAN GOLDENBERG\n[FECHA DE NACIMIENTO] 05/10/05\n[OCUPACIÓN] ANALISTA DE DATOS\n\r\n[CONDICIÓN] FALLECIDO\r\n[CAUSA] DISECCIÓN AÓRTICA\n              \r\n[ANULADO]
+
+Noise Complaint has been added to Documents.=Se ha añadido Queja de Ruido a los Documentos.
+r:"^\/\/NOISE COMPLAINT\n\nI tell them somethings off, and they have the audacity to tell me it’s the pipes. Well I might not be captain obvious, but I already checked the pipes.\n\nThey don’t act up at 2am. I swear to god that If I hear that unit upstairs stomping around again, I’m going up there myself to give them a piece of my mind. Fucking idiots.$"=\\\QUEJA DE RUIDO\n\nLes digo que algo anda mal, y tienen el descaro de decirme que son las tuberías. Bueno, tal vez no sea el capitán obvio, pero ya revisé las tuberías.\n\nNo se ponen ruidosas a las 2 de la mañana. Juro por dios que si escucho otra vez a esa unidad de arriba andando como loca, subiré yo mismo a darles un buen sermón. Malditos idiotas.
+
+[RESIDENT]      COE STARR\n[DOB] UNKNOWN\n[OCCUPATION] CONTENT CREATOR\n\r\n[CONDITION] DECEASED\r\n[CAUSE] FOREIGN SUBSTANCE - MERCURY\n              \r\n[VOID]=[RESIDENTE]     COE STARR\n[FECHA DE NACIMIENTO] DESCONOCIDA\n[OCUPACIÓN] CREADOR DE CONTENIDO\n\r\n[CONDICIÓN] FALLECIDO\r\n[CAUSA] SUSTANCIA EXTRAÑA - MERCURIO\n              \r\n[ANULADO]
+
+Diary Entry has been added to Documents.=Se ha añadido Entrada de Diario a los Documentos.
+r:"^\/\/DIARY ENTRY\n\nWednesday - September 6th\r\n\r\nSpent most of today helping Laura and little Chris move. Work on the old shopping center is due to start tomorrow and she doesn’t fancy her chances of Chris sleeping through the night with all that going on. They told the locals to keep their windows closed because they have people working round the clock, not exactly making a good first impression if you ask me.\r\n\r\nAnyway, the work’s slated for two months and Laura’s mum’s taking them for the second one so it shouldn't be too disruptive. It’ll be nice having Chris around, kids bring good vibes into the house and he can’t get enough of my old consoles. Chris has taken to using a controller pretty well but still insists on tapping on the CRT like it’s a touch screen. Honestly it’s just nice to have a player two, it’s been years since I’ve played some of these games.\r\n\r\nMaybe I can convince Laura to join us for a game or two, I think I still have my multitap somewhere.\r$"=\\\ENTRADA DE DIARIO\n\nMiércoles - 6 de septiembre\r\n\r\nPasé la mayor parte del día ayudando a Laura y al pequeño Chris a mudarse. Mañana empiezan las obras en el viejo centro comercial y no cree que Chris vaya a poder dormir con todo ese ruido. Les dijeron a los vecinos que mantengan las ventanas cerradas porque van a trabajar las 24 horas, no es exactamente la mejor primera impresión si me preguntas.\r\n\r\nEn fin, el trabajo está programado para durar dos meses y la mamá de Laura se los llevará el segundo mes, así que no debería ser tan molesto. Será agradable tener a Chris por aquí, los niños traen buenas vibras a la casa y no se cansa de mis viejas videoconsolas. Chris ha aprendido a usar el mando bastante bien, pero sigue insistiendo en tocar el CRT como si fuera una pantalla táctil. La verdad, es genial tener un jugador dos, hace años que no jugaba algunos de estos juegos.\r\n\r\nQuizás pueda convencer a Laura de que se una a una partida o dos, creo que todavía tengo el multitap por ahí.
+
+<i>MAGNETIC CARD WRITER</i>=<i>ESCRITOR DE TARJETAS MAGNÉTICAS</i>
+A magnetic card reader. Used for remapping room keys. Found in the store room lockbox.=Un lector de tarjetas magnéticas. Usado para\nreprogramar llaves de habitación. Encontrado en la caja de seguridad del almacén.
+
+<I>Master Room Key</I> added to inventory.=Se ha añadido Llave Maestra de Habitación al Inventario.
+<i>MASTER ROOM KEY</i>=<i>LLAVE MAESTRA DE HABITACIÓN</i>
+The door won't budge. It's a different type of lock to the other rooms.=La puerta no se mueve. Es un tipo de cerradura diferente al de las otras habitaciones.
+The key to room 3 on the second floor, now reprogrammed to unlock all rooms.=La llave de la habitación 3 en el segundo piso, ahora\nreprogramada para abrir todas las habitaciones.
+
+They always did say TV rots your brain.=Siempre decían que la televisión te pudre el cerebro.
+Yeah I'm definintely getting haunted for that one.=Sí, definitivamente me van a estar asustando por eso.
+
+
+The tub is littered with tiny bones.=La bañera está llena de huesos pequeños.
+The smell of bleach is making me nauseous.=El olor a lejía me está dando náuseas.
+
+Thank god this one's empty.=Gracias a Dios, esta está vacía.
+A candlelit dinner for one.=Una cena a la luz de las velas, para uno solo.
+I hate to think what has happened in this room.=Odio pensar lo que ha pasado en esta habitación.
+Sleeping with the dead... Some people are really messed up.=Dormir con los muertos… Hay gente que está muy mal.
+The drawers are filled with incense, candles and various herbs.=Los cajones están llenos de incienso, velas y varias hierbas.
+
+[RESIDENT]      ALICE HEARTH\n[DOB] 29/04/15\r\n[OCCUPATION] SOCIAL WORKER\r\n\r\n[CONDITION] DECEASED\r\n[CAUSE] ACUTE MALNUTRITION\n              \r\n[VOID]=[RESIDENTE]     ALICE HEARTH\n[FECHA DE NACIMIENTO] 29/04/15\r\n[OCUPACIÓN] TRABAJADORA SOCIAL\r\n\r\n[CONDICIÓN] FALLECIDA\r\n[CAUSA] DESNUTRICIÓN AGUDA\n              \r\n[ANULADO]
+Some of these bodies aren't as decayed as the others.=Algunos de estos cuerpos no están tan descompuestos como los otros.
+I wonder if there's anyone left alive?=Me pregunto si queda alguien con vida.
+
+
+Nobody likes washing up but this is just disgusting.=A nadie le gusta lavar los platos, pero esto es simplemente asqueroso.
+[RESIDENT]      BEN BRISWELL\n[DOB] 19/01/38\n[OCCUPATION] RETAIL WORKER\r\n\r\n[CONDITION] DECEASED\r\n[CAUSE] INTRACRANIAL HEMATOMA\n              \r\n[VOID]=[RESIDENTE]     BEN BRISWELL\n[FECHA DE NACIMIENTO] 19/01/38\n[OCUPACIÓN] TRABAJADOR DE VENTAS\r\n\r\n[OCUPACIÓN] FALLECIDO\r\n[CAUSA] HEMATOMA INTRACRANEAL\n              \r\n[ANULADO]
+Poor guy...=Pobre tipo…
+There's no card reader on this door, just a keyhole.=No hay lector de tarjetas en esta puerta, solo una cerradura.
+
+//Cambiando a la sección trasera de los apartamentos
+Pero tú dijiste que no te importaba. Estabas atrapada ahí conmigo y con todo el sushi que pudieras comer. Dijiste que no había mejor manera de irse. Familia y "Fauxsh". ¿Sabes? Fue la primera vez que alguien me llamó así. Familia. Solo nosotras dos. Haciendo algo de la nada.
+
+
+Hey you remember that day we got stuck at the sushi joint on seven?=Oye, ¿recuerdas ese día que nos quedamos atrapadas en el restaurante de sushi en la siete?
+The whole street was locked down that night.=Cerraron toda la calle esa noche.
+Everyone was freaking out, calling their bosses, lawyers, loved ones…=Todos estaban enloqueciendo, llamando a sus jefes, abogados, seres queridos…
+But you said you didn’t care.=Pero tú dijiste que no te importaba.
+Being trapped there with me and as much sushi as you could eat.=Estabas atrapada ahí conmigo y con todo el sushi que pudieras comer.
+You said there was no better way to go. Family and Fauxsh.=Dijiste que no había mejor manera de irse. Familia y Fauxsh.
+You know, that was the first time anyone had called me that. Family.=Sabes, esa fue la primera vez que alguien me llamó así. Familia.
+Just the two of us. Making something from nothing.=Solo nosotras dos. Haciendo algo de la nada.
+
+Progress. Let's see if this side has roof access.=Progreso. Veamos si este lado tiene acceso al techo.
+
+It's a fuse box for the shutter. I'd better not mess with it.=Es una caja de fusibles para la persiana. Mejor no la toco.
+
+Phone_NPC=Phone_NPC
+Little fledgling.=Pequeña cría.
+Oh great, it's you.=Oh, genial, eres tú.
+Murderer.=Asesina.
+You have blood on your hands.=Tienes sangre en las manos.
+Look I don't know what those things were-=Mira, no sé qué eran esas cosas—
+Murderer...=Asesina…
+Can you stop saying that?=¿Puedes dejar de decir eso?
+Fuck.=Joder.
+Mur-der-er.=A-se-si-na.
+How did it feel? You beat that first one pretty hard.=¿Cómo se sintió? Le pegaste bastante fuerte a la primera.
+How do you know that?=¿Cómo sabes eso?
+What the fuck is this place?!=¡¿Qué diablos es este lugar?!
+I told you.=Te lo dije.
+Should've stayed where it was warm.=Deberías haberte quedado donde hacía calor.
+I can't be here.=No puedo estar aquí.
+I have to get out. I have to get Sasha and I have to get the fuck out of here.=Tengo que salir. Tengo que encontrar a Sasha y largarme de aquí.
+Be careful what you wish for.=Ten cuidado con lo que deseas.
+Murderer-=Asesina—
+
+Notice to Tenants has been added to Documents.=Se ha añadido Aviso a los Inquilinos a los Documentos.
+r:"\/\/NOTICE TO TENANTS\n\nDear Valued Tenants,\r\n\r\nWe write to inform you of an important development regarding your residency at Gater House. As you are aware, the property has recently been acquired by Sherwood Estate Management and will undergo certain changes in its management and policies.\r\n\r\nFollowing this acquisition, there will be an adjustment in the terms of occupancy and rental prices. Our aim is to enhance the living experience and ensure the sustained quality of the premises. In light of this transition, we kindly request your attention to the terms attached.\r\n\r\nWe understand the significance of this change and its impact on your living arrangements. Should you find it unsuitable to continue under the updated terms, we respect your decision to seek alternative accommodation. In such a case, we kindly ask that you notify us within the stipulated timeframe to facilitate a smooth transition.\r\n\r\nWe assure you that the transition process will be handled with the utmost care and consideration for your comfort and convenience.\r\n\r\nThank you for your understanding and cooperation during this transition period.\r\n\r\nSincerely,\r\n\r\nMike Crew\r\nSherwood Estate Management Ltd\r$"=\\\AVISO A LOS INQUILINOS\n\nEstimados inquilinos,\r\n\r\nLes escribimos para informarles sobre un desarrollo importante en relación con su residencia en Gater House. Como saben, la propiedad ha sido adquirida recientemente por Sherwood Estate Management y se realizarán ciertos cambios en su gestión y políticas.\r\n\r\nTras esta adquisición, habrá un ajuste en los términos de ocupación y precios de alquiler. Nuestro objetivo es mejorar la experiencia de vida y asegurar la calidad continua de las instalaciones. En vista de esta transición, les pedimos que presten atención a los términos adjuntos.\r\n\r\nEntendemos la importancia de este cambio y su impacto en sus condiciones de vida. Si consideran que no es adecuado continuar bajo los términos actualizados, respetamos su decisión de buscar un alojamiento alternativo. En tal caso, les pedimos que nos notifiquen dentro del plazo estipulado para facilitar una transición sin problemas.\r\n\r\nLes aseguramos que el proceso de transición se llevará a cabo con el mayor cuidado y consideración por su comodidad y conveniencia.\r\n\r\nGracias por su comprensión y cooperación durante este período de transición.\r\n\r\nAtentamente\r\n\r\nMike Crew\r\nSherwood Estate Management Ltd
+
+
+
+Looks like someone set up a makeshift distillery here.=Parece que alguien montó una destilería improvisada aquí.
+There's a half empty bottle of alcohol.=Hay una botella de alcohol medio llena.
+Take the <b>Bottle of Alcohol</b>?=¿Tomar la <b>Botella de Alcohol</b>?
+Bottle of Alcohol has been added to inventory.=Se ha añadido Botella de Alcohol al Inventario.
+I've got all I need for now.=Tengo todo lo que necesito por ahora.
+<i>ALCOHOL</i>=<i>BOTELLA DE ALCOHOL</i>
+A bottle of 180 proof Vodka. Hell of a kick and highly flammable.=Una botella de vodka de 180 grados. Vaya golpe, y además es altamente inflamable.
+
+Stop. Identify. Extinguish. It's a sign about the fire procedure for this block.=Detente. Identifica. Extingue. Es un cartel sobre el procedimiento contra incendios para este bloque.
+It says "In the event of a fire all apartment doors will unlock".=Dice: "En caso de incendio, todas las puertas de los apartamentos se desbloquearán".
+That's just dumb. What if you were in the shower or something.=Eso es tan estúpido. ¿Qué pasa si estabas en la ducha o algo así?
+
+
+An old bin filled with damp charred paper packaging.=Un viejo bote lleno de empaques de papel húmedos y chamuscados.
+I've soaked the contents in alcohol.=He empapado el contenido en alcohol.
+
+It's locked tight. The keycard reader is blocked with some kind of growth.=Está bien cerrada. El lector de tarjetas está bloqueado por algún tipo de crecimiento.
+The gate is firmly stuck, entangled in that gross fleshy mass.=La puerta está firmemente atascada, enredada en esa masa asquerosa y carnosa.
+
+[RESIDENT]      HANNES WINKLER\n[DOB] 21/06/16\n[OCCUPATION] ML ENGINEER\n\r\n[CONDITION] DECEASED\r\n[CAUSE] SEPSIS 2ND PNEUMONIA\n              \r\n[VOID]=[RESIDENTE]     HANNES WINKLER\n[FECHA DE NACIMIENTO] 21/06/16\n[OCUPACIÓN] INGENIERO EN ML\n\r\n[CONDICIÓN] FALLECIDO\r\n[CAUSA] SEPSIS 2DA POR NEUMONÍA\n              \r\n[ANULADO]
+
+Some old chopsticks, could be useful.=Unos palillos viejos, podrían ser útiles.
+Take the <b>Chopsticks</b>?=¿Tomar los <b>Palillos</b>?
+Chopsticks have been added to inventory.=Se ha añadido Palillos al Inventario.
+<I>CHOPSTICKS</I>=<I>PALILLOS</I>
+Two chopsticks, they're sturdy and pointed at one end.=Dos palillos, son firmes y puntiagudos en un extremo.
+
+James! The water's not working again.=¡James! El agua no está funcionando de nuevo.
+Again?=¿Otra vez?
+It's just spitting and it smells funny.=Apenas sale algo y huele raro.
+Oh come on, this is really taking the piss now.=Oh, vamos, esto ya es un abuso.
+Can you call them?=¿Puedes llamarlos?
+Fat lot of good that'll do. They said last time it would be back within the hour.=Como si sirviera de mucho. Dijeron la última vez que volvería en una hora.
+If we have to wait another two days just to get bloody water back...=Si tenemos que esperar otros dos días para que regrese el agua…
+I have work in the morning, I can't go in with greasy hair.=Tengo que trabajar por la mañana, no puedo ir con el cabello grasoso.
+We still have a couple of bottles left, give it an hour and if it's not back you can use those.=Aún nos quedan un par de botellas, espera una hora y si no regresa, puedes usarlas.
+James it really stinks.=James, realmente apesta.
+Yeah I'm pretty sure it's not supposed to be that colour either.=Sí, estoy bastante seguro de que tampoco debería tener ese color.
+It's disgusting, how are we supposed to trust it after this.=Es asqueroso, ¿cómo se supone que confiemos en el agua después de esto?
+I know, it's not on. I'll call them again in the morning.=Lo sé, es inaceptable. Los llamaré otra vez por la mañana.
+I wish we'd never moved to this stupid city.=Ojalá nunca nos hubiéramos mudado a esta estúpida ciudad.
+
+Looks like this is the exit door but it's locked with a keypad.=Parece que esta es la puerta de salida, pero está cerrada con un teclado.
+I have no idea what the combination could be.=No tengo idea de cuál podría ser la combinación.
+
+Electrician's Note has been added to Documents.=Se ha añadido Nota del Electricista a los documentos.
+r:"^\/\/ELECTRICIAN'S NOTE\n\nJayce - Elevator keeps not elevating!!\r\n\r\nJust decommission this thing already, it’s beyond help.\s+If anyone gets stuck again, flip the switches until the dial matches the picture on the cover. There’s a big square button you gotta press when the voltage is right.\r\n\n\(I’m serious tho, the lift’s a death trap\)\r$"=\\\NOTA DEL ELECTRICISTA\n\nJayce - ¡¡El ascensor sigue sin elevarse!!\r\n\r\nSolo deshazte de esta cosa ya, no tiene arreglo. Si alguien se queda atrapado de nuevo, mueve los interruptores hasta que el indicador coincida con la imagen en la tapa. Hay un botón cuadrado grande que debes presionar cuando el voltaje sea el correcto.\r\n\n(Hablo en serio, el ascensor es una trampa mortal).
+
+It's too heavy to lift.=Es demasiado pesada para levantarla.
+An old electric guitar, could be useful as a weapon.=Una vieja guitarra eléctrica, podría ser útil como arma.
+Take the <b>Coilwound Guitar</b>?=¿Tomar la <b>Guitarra Coilwound</b>?
+Coilwound Guitar has been added to inventory.=Se ha añadido Guitarra Coilwound al Inventario.
+There's nothing left to take.=No queda nada más por tomar.
+<i>COIL WOUND GUITAR</i>=<i>GUITARRA COILWOUND</i>
+COILWOUND GUITAR=GUITARRA COILWOUND
+A vintage coil wound electric guitar, the headstock says 'Sugar Kane'.=Una guitarra eléctrica vintage de bobina, el clavijero dice "Sugar Kane".
+
+It's locked with a cheap padlock.=Está cerrado con un candado barato.
+The hammer broke.=El martillo se rompió.
+
+
+//CHECAR ESTO
+r:"\/\/UTILITY BILL\n\nA resident's utility bill showing several overdue payments.\n\nThe text at the bottom reads 'FINAL NOTICE'\. \n\nThe payment dates suggest the monthly charge had almost quadrupled prior to when the resident stopped paying.$"=\\\FACTURA DE SERVICIOS\n\nFactura de servicios de un residente que muestra varios pagos atrasados.\n\nEl texto en la parte inferior dice 'AVISO FINAL'.\n\nLas fechas de pago sugieren que el cargo mensual casi se había cuadruplicado antes de que el residente dejara de pagar.
+
+That should do it.=Eso debería funcionar.
+Looks like that did the trick.=Parece que eso lo resolvió.
+
+//Escena en el techo
+r:"^choice (\d+)$"=opción $1
+A malnourished man with an open wound across his face stands before me.\n\nHe teeters over the eight storey drop to the streets below, causally shifting his weight as he sways to a silent rhythm.=Un hombre desnutrido con una herida abierta en la cara está frente a mí.\n\nSe tambalea al borde de una caída de ocho piso hacia la calle de abajo, moviendo su peso casualmente mientras se balancea a un ritmo silencioso.
+Wounded Stranger -=Hombre Herido:
+
+//Opciones
+"That's a long way down..."="Es una gran caída…"
+"Excuse me..."="Disculpa…"
+(Say nothing)=(No decir nada)
+
+//Opción PRINCIPAL 1: "That's a long way down..."
+"That's a long way down... Maybe you should take a step back."="Es una gran caída… Quizás deberías dar un paso atrás."
+"Wouldn't feel long."="No se sentiría larga."
+"A couple seconds maybe."="Un par de segundos, tal vez."
+
+// El hombre mira su reloj
+He keeps glancing at his wristwatch. \r\r\nAn old analogue clock, I'd be surprised if it still works.=No deja de echar un vistazo a su reloj de pulsera.\n\nUn viejo reloj analógico, me sorprendería si aún funciona.
+
+//Opción
+"Maybe we should talk inside?"="¿Tal vez deberíamos hablar adentro?"
+"Maybe we should talk inside? I don't think this weather's going to stop any time soon."="¿Tal vez deberíamos hablar adentro? No creo que este clima vaya a mejorar pronto."
+"I don't feel much like talking."="No tengo muchas ganas de hablar."
+"I just... I really think you should come down."="Solo… realmente creo que deberías bajar."
+""I can help you. We can get out of here together."="Puedo ayudarte. Podemos salir de aquí juntos."
+
+//Segmento compartido al hablar de ir adentro
+"Mother broke your wings."="Madre rompió tus alas."
+"Left to wither in the dirt like the rest of us."="Te dejó marchitarte en la tierra como al resto de nosotros."
+"You uh, you mean my hover?"="Tú, eh, ¿te refieres a mi aerodeslizador?"
+Again he fell silent.=Volvió a quedarse en silencio.
+
+//Opción
+"I forgot to ask your name..."="Olvidé preguntarte tu nombre…"
+"I forgot to ask your name."="Olvidé preguntarte tu nombre."
+"I don't want to be remembered."="No quiero que me recuerden."
+His tone shifted a cold shiver ran down my spine.\n\nThis man was a clearly unhinged. It suddenly dawned on me just how stupid I was to try and reason with him.=Su tono cambió, y un escalofrío recorrió mi espalda.\n\nEste hombre claramente estaba desequilibrado. De repente me di cuenta de lo estúpido que había sido intentar razonar con él.
+His tone shifted, a cold shiver ran down my spine.\n\nThis man was clearly unhinged. It suddenly dawned on me just how stupid I was to try and reason with him.=Su tono cambió, y un escalofrío recorrió mi espalda.\n\nEste hombre claramente estaba desequilibrado. De repente me di cuenta de lo estúpido que había sido intentar razonar con él.
+
+
+"I'm sorry. I shouldn't have asked."="Lo siento. No debí haber preguntado."
+He didn't reply. I could see the tension in his shoulders build as his posture stiffened, his breathing getting audibly louder with each exhale.\n\nAgain, he glances at his wristwatch.=No responde. Puedo ver la tensión en sus hombros aumentar a medida que su postura se tensaba y su respiración se volvía más audible con cada exhalación.\n\nOtra vez, echa un vistazo a su reloj de pulsera.
+"You're wasting time."="Estás perdiendo el tiempo."
+
+//Opción
+(Try radio)=(Probar la radio)
+I unclip the radio from my belt and start dialing in Tax's frequency.\n\nThe radio reels through channels of static, trying to make a handshake.=Desengancho la radio de mi cinturón y comienzo a marcar la frecuencia de Tax.\n\nLa radio pasa por canales llenos de estática, intentando conectarse.
+Even at this height it's struggling to break through the clouds.\n\nI wait a little longer, listening to the loop of static and signal clicks.=Incluso a esta altura, está luchando por atravesar las nubes.\n\nEspero un poco más, escuchando el bucle de estática y los clics de la señal.
+"Come on... C'mon..."="Vamos… Vamos…"
+
+//Segmento compartido al empezar a sonar la radio
+A shrill beep followed the crackle of static rings out. Underneath the layers of noise I can make out a familiar voice.\n\nIt's Tax.=Un pitido agudo seguido del crujido de la estática resuena. Bajo las capas de ruido, logro distinguir una voz familiar.\n\nEs Tax.
+"Mi... Do- ...read..."="Mic… No- …escucho…"
+"Tax you gotta help me."="Tax, tienes que ayudarme."
+"You're br- ...up... I can't..."="Te estás cort- …no puedo…"
+As the radio tries to hold onto a signal Tax's voice fades in and out of the static.=Mientras la radio intenta mantener la señal, la voz de Tax se desvanece entre la estática.
+"If you can hear me, get to the underground. Take the city-link Westbound past the wa..."="Si me oyes, ve al subterráneo. Toma el city-link rumbo el oeste, más allá del mur…"
+"...train runs right undernea..."="…el tren pasa justo por debajo…"
+"...don't... ...anyone..."="…no… …a nadie…"
+"Tax?! Tax! Do you hear me?!"="¡¿Tax?! ¿Tax! ¡¿Me escuchas?!"
+The radio fades out, cutting off into dead air.=La radio se apaga, cortándose en un silencio total.
+"Fuck."="Joder."
+"Okay. Get to the underground. I can do that."="Vale. Ir al subterráneo. Puedo hacer eso."
+
+//Cuando el tipo muere
+"We got a way out, c'mon let's go."="Tenemos una salida, vamos, vámonos."
+"You're out of time."="Se te acabó el tiempo."
+"Wait! No!!"="¡Espera! ¡¡No!!"
+Wait! No!!="¡Espera! ¡¡No!!"
+Just like that, he was gone.\n\nI don't know if I could have changed his mind.=Y así, se fue.\n\nNo sé si podría haberle hecho cambiar de opinión.
+
+// Opción
+"There's more to life than this."="Hay más en la vida que esto."
+"Look, there's more to life than this."="Mira, hay más en la vida que esto."
+"I can get you out!"="¡Puedo sacarte de aquí!"
+"There's a whole world out there, living, breathing. Waiting for you."="Hay un mundo entero allá afuera, viviendo, respirando. Esperando por ti."
+
+// ???
+Again, he glances at this wristwatch.=De nuevo, echa un vistazo a su reloj de pulsera.
+
+//Opción
+"We've got a better chance if we work together."="Tenemos más oportunidad si trabajamos juntos."
+"We've got a better chance of making it out if we work together."="Tenemos más oportunidad de salir si trabajamos juntos."
+"... And I'd really appreciate the company right about now."="…Y realmente apreciaría la compañía en este momento."
+He took a moment to consider my proposition.\n\nI couldn't tell if I was getting through to him or just wasting my time.=Se toma un momento para considerar mi propuesta.\n\nNo puedo decir si estoy logrando convencerlo o solo perdiendo mi tiempo.
+"Do you really think we can leave this place?"="¿De verdad crees que podemos salir de este lugar?"
+"I'm not dying here."="No voy a morir aquí."
+
+//Opción
+(Answer radio)=(Responder la radio)
+I fumble over the radio as I remove it from my belt.=Me confundo con el radio mientras lo saco de mi cinturón.
+
+//Opción
+(Ignore radio)=(Ignorar la radio)
+I ignore the radio. \n\nI wasn't going to leave here without her.=Ignoré la radio.\n\nNo iba a irme de aquí sin Sasha.
+"Please, tell me where she is."="Por favor, dime dónde está."
+"I need her..."="La necesito…"
+"Enough."="Basta."
+
+//Opción Ignorar la radio 2
+"You should answer that. Might be important."="Deberías contestar eso. Podría ser importante."
+"I'm more concerned with getting you down from that ledge."="Estoy más preocupada por hacer que bajes de ese borde."
+"Alright. Have it your way."="Está bien. Haz lo que quieras."
+I watch as the man once again glances down at the streets below, then back at me.=Miro cómo el hombre vuelve a echar un vistazo a las calles abajo y luego a mí.
+
+//Logras convencerlo
+"Do you really think there's a way out?"="¿Realmente crees que hay una salida?"
+
+//Opción
+"You must be freezing..."="Debes estar congelándote…"
+"You must be freezing, why don't we step inside?"="Debes estar congelándote, ¿por qué no entramos?"
+"Don't tell me what to do."="No me digas qué hacer."
+"I'm not going back there."="No voy a regresar ahí."
+I couldn't tell if he was high, deranged or just really fucking sad.\n\nMaybe all three.=No podía decir si estaba drogado, loco, o simplemente jodidamente triste.
+"Please. I can help."="Por favor. Puedo ayudarte."
+"We can get out of here, together."="Podemos salir de aquí, juntos."
+"I just need to get a signal through, my partner runs these routes too. He'll find us."="Solo necesito conseguir señal, mi compañero recorre estas rutas también. Nos encontrará."
+"Stop acting like you care."="Deja de actuar como si te importara."
+The relief I first felt when seeing another living soul here was fast fading.\r\n\r\nHis blunt tone was a cold reminder of the gravity of our situation. \n\nI needed to make that call.=El alivio que sentí al ver otra alma viva aquí se desvanecía rápidamente.\r\n\r\nSu tono brusco era un recordatorio frío de la gravedad de nuestra situación.\n\nNecesitaba hacer esa llamada.
+
+//Opción
+"Bad things happen, but with time they can heal."="Las cosas malas pasan, pero con el tiempo sanan."
+"I think you deserve that. Time to heal."="Creo que te lo mereces. Es hora de sanar."
+"They're hurting too, just trying to hold on for a little longer."="Ellos también están sufriendo, solo intentan aguantar un poco más."
+"What are they?"="¿Qué son ellos?"
+Again, he glances at his wristwatch.=Una vez más, echa un vistazo a su reloj de pulsera.
+
+//Opción
+"Why do you keep checking your watch?"="¿Por qué sigues mirando tu reloj?"
+"Are you waiting for someone?"="¿Estás esperando a alguien?"
+"It doesn't work."="No funciona."
+"Life can cut pretty deep, but with time those wounds will heal."="La vida puede herirte profundo, pero con el tiempo esas heridas sanan."
+"Broken, just like everything else."="Roto, como todo lo demás."
+"But you keep checking it?"="¿Pero sigues revisándolo?"
+"I told you. It doesn't work."="Te lo dije. No funciona."
+
+//Opción
+"Is that your tent?"="¿Esa es tu tienda de campaña?"
+
+//Opción PRINCIPAL 2: "Excuse me..."
+"I've done a lot of bad things today."="He hecho muchas cosas malas hoy."
+
+//Opcion
+"Bad things? What do you mean?"="¿Cosas malas? ¿A qué te refieres?"
+"None of your fucking business."="No es asunto tuyo."
+He didn't reply. I could see the tension in his shoulders build as his posture stiffened, his breathing getting audibly louder with each exhale.=No respondió. Pude ver la tensión en sus hombros aumentar mientras su postura se volvía rígida y su respiración se hacía más fuerte con cada exhalación.
+
+//Opcion PENDIENTE
+"We've all done bad things."="Todos hemos hecho cosas malas."
+"The world's fucking cruel, we do what we have to do."="El mundo es una jodida crueldad, hacemos lo que tenemos que hacer."
+"You and I are not the same."="Tú y yo no somos lo mismo."
+"You only wish to muddy your conscience."="Solo deseas ensuciar tu conciencia."
+"I'm sorry. I-"="Lo siento. Yo—"
+
+//Opcion
+"Bad things don't always make you a bad person."="Las cosas malas no siempre te hacen una mala persona."
+"What did you do?"="¿Qué hiciste?"
+"I've hurt people. People who hurt me."="He lastimado a gente. Gente que me lastimó a mí."
+"You mean those... things downstairs?"="¿Te refieres a esas… cosas de abajo?"
+"They're hurting too."="Ellos también están sufriendo."
+"How did they..."="Cómo es que ellos…"
+Again, he glaces at his wristwatch.=Otra vez, echa un vistazo a su reloj de pulsera.
+
+// Opción
+"Shall we talk inside?"="¿Hablamos adentro?"
+"Shall we talk inside? I don't think this rain is stopping any time soon."="¿Hablamos adentro? No creo que esta lluvia se detenga pronto."
+"I don't feel much like talking."="No tengo muchas ganas de hablar."
+"I don't feel much at all."="No siento mucho en absoluto."
+
+"I just... I'd really like it if you stepped down from there."="Solo… realmente me gustaría que bajaras de ahí."
+"It can wait. Come on, let's get you down from there."="Puede esperar. Vamos, vamos a bajar desde allí."
+
+"I can help. We'll find a way out together."="Puedo ayudarte. Encontraremos una salida juntos."
+
+//Opción:
+"Do you live up here?"="¿Vives aquí arriba?"
+"Do you live up here? I saw the tent-"="¿Vives aquí arriba? Vi la tienda de campaña—"
+"Not mine."="No es mía."
+"There are others?"="¿Hay otros?"
+"Other people, I mean."="Quiero decir, otras personas."
+"Not anymore."="Ya no."
+"Did you grow up here? After the collapse?"="¿Creciste aquí? ¿Después del colapso?"
+"Mother cared for us."="Madre nos cuidó."
+"Your mother? Did she-"="¿Tu madre? ¿Ella—?"
+"Our mother."="Nuestra madre."
+I thought better than to press him on the details.\n\nThis man was clearly unstable, bringing up the past was hardly going to help.\n\nHe also stood inches away from a fatal fall. I needed to consider my words carefully.=Pensé que era mejor no insistir en los detalles.\n\nEste hombre claramente estaba inestable, mencionar el pasado no iba a ayudar.\n\nAdemás, estaba a solo unos centímetros de una caída fatal. Necesitaba escoger bien mis palabras
+
+//Opción
+"It's freezing out here..."="Está helando aquí afuera…"
+"It's freezing out here, let's go inside."="Está helando aquí afuera, vamos a entrar."
+"No."="No."
+"I'm fine."="Estoy bien."
+"Come with me. I can help."="Ven conmigo. Puedo ayudar."
+"Help?"="¿Ayudar?"
+"We'll find a way out together."="Encontraremos una salida juntos."
+"That's right. I just need to get a signal through, my partner runs these routes too. He'll find us."="Así es. Solo necesito transmitir una señal, mi compañero también recorre estas rutas. Nos encontrará."
+
+//Opción
+"I'm scared too..."="Yo también tengo miedo…"
+"I'm scared too, you know."="Yo también tengo miedo, ¿sabes?"
+"He's already too late."="Ya es demasiado tarde."
+"I've run this route more times than I can count."="He recorrido esta ruta más veces de las que puedo contar."
+"It always looked so quiet from the sky."="Siempre parecía tan tranquila desde el cielo."
+"So much noise in the city..."="Tanto ruido en la ciudad…"
+
+//Opción
+"I'm looking for someone..."="Estoy buscando a alguien…"
+"I'm looking for someone."="Estoy buscando a alguien."
+"A girl, about my age. Her name's Sasha."="Una chica, más o menos de mi edad. Se llama Sasha."
+"Came here looking for answers, except she never came back."="Vino aquí buscando respuestas, pero nunca volvió."
+"It's been... Weeks now."="Han pasado… Semanas ya."
+"She's here."="Ella está aquí."
+"What?!"="¡¿Qué?!"
+"What?"="¿Qué?"
+"Your friend. She's here too."="Tu amiga. Ella también está aquí."
+"How... How do you know that?"=""¿Cómo… cómo lo sabes?"
+"You've seen her?"="¿La has visto?"
+"See a lotta things behind these walls."="Veo muchas cosas detrás de estas paredes."
+"I told you, nobody leaves."="Te lo dije, nadie sale de aquí."
+"Shit, look- If you know where she is..."="Mierda, mira- Si sabes dónde está…"
+"Listen. If you know where Sasha is you need to tell me, right now."="Escucha. Si sabes dónde está Sasha, dímelo ya."
+
+A shrill beep followed the crackle of static emits from my radio.\n\nSomeone's trying to reach me, it could be Tax.=Un pitido agudo siguió al crujido de la estática.\n\nAlguien estaba intentando contactarme, podría ser Tax.
+
+//Opción PRINCIPAL 3: (Say nothing)
+I take a moment, careful not to startle the man.\n\nThe rain beats down onto his back, as if slowly nudging him closer to the edge.=Me tomo un momento, con cuidado de no sobresaltar al hombre.\n\nLa lluvia bata sobre su espalda, como si lo empujara lentamente más cerca del borde.
+
+//Opción
+"Why don't you take a step back..."="¿Por qué no das un paso atrás…"
+"Hey why don't you take a step back, you could slip..."="Oye, ¿por qué no das un paso atrás? Podrías resbalar…"
+He glances back down at the streets below.=Echa un vistazo de nuevo hacia la calle de abajo.
+"I've hurt enough."="He hecho suficiente daño."
+"Hey look, I can get you out. I know people."="Oye, mira, puedo sacarte de aquí. Conozco a gente."
+"There's only one way out of here."="Solo hay una forma de salir de aquí."
+
+//Opción
+"Hey, uh..."="Oye, eh…"
+"Hey, uh... Can we talk?"="Oye, eh… ¿Podemos hablar?"
+"Talk all you want."="Habla todo lo que quieras."
+"I'm looking for someone. Someone very important to me."="Estoy buscando a alguien. Alguien muy importante para mí."
+"Maybe with your help we can all get out of here together."="Quizás con tu ayuda podamos salir de aquí juntos."
+"I'm fine here."="Estoy bien aquí."
+
+//Opcion no decir nada de nuevo
+"You're thinking about it too, aren't you?"="También lo estás pensando, ¿verdad?"
+"I uh, no I was just thinking about someone."="Yo, eh, no, solo estaba pensando en alguien."
+"Nobody's coming."="Nadie viene."
+
+//Terminando la escena con decisiones
+"Lead at the way."="Dirige el camino."
+
+There's a torn note on the table.=Hay una nota rota sobre la mesa.
+Take the <b>Torn Note</b>?=¿Tomar la <b>Nota Rota</b>?
+Torn Note have been added to Inventory.=Se ha añadido Nota Rota al Inventario.
+There's nothing left that's of any use to me right now.=No queda nada que me sea útil por ahora.
+<i>TORN NOTE</i>=<i>NOTA ROTA</i>
+A torn paper note with the numbers 8053 scrawled on one side.=Un pedazo de papel roto con los números 8053 garabateados en un lado.
+This place used to be so full of life. Now it's just us.=Este lugar solía estar lleno de vida. Ahora solo estamos nosotros.
+
+// Saliendo de los departamentos
+It's getting dark, we should hurry.=Se está oscureciendo, deberíamos apurarnos.
+Shift Schedule has been added to Documents.=Se ha añadido Horario de Turnos a los Documentos.
+[VOID]      CLASSIFIED\n[DOB] XX/XX/XXXX\n[OCCUPATION] CLASSIFIED\n\r\n[CONDITION] CLASSIFIED\r\n[CAUSE] CLASSIFIED\n              \r\n[VOID]=[ANULADO]      CLASIFICADO\n[FECHA DE NACIMIENTO] XX/XX/XXXX\n[OCUPACIÓN] CLASIFICADO\n\r\n[CONDICIÓN] CLASIFICADO\r\n[CAUSA] CLASIFICADO\n              \r\n[ANULADO]
+
+
+r:"^\/\/SHIFT SCHEDULE\n\nSlight change up for next week’s shifts, we got the new guy on from Monday so he’ll be making up for losing Stu. Team 3 you’re on the night again until Stu 2 gets his bearings.\r\n\r\nLocation: Wick Street Checkpoint\r\n\r\nThis Week's Crew \(22/06\):\r\n\r\nMorning Shift \(M\): Team 1\r\n\r\nAlex, Bailey, Casey\r\nAfternoon Shift \(A\): Team 2\r\n\r\nDrew, Erin, Flynn\r\nNight Shift \(N\): Team 3\r\n\r\nGale, Hayden, Imani\r\nHey Team,\r\n\r\nMonday to Sunday:\r\n\r\nM: Team 1\r\nA: Team 2\r\nN: Team 3\r\n\r\nJust run the shifts and keep your heads down. Any serious trouble then let me know and I’ll get some boys down. Don’t give them the time of day, hold the line and restrain if necessary. Feral fuckers.\r\n\r\nSteve\r$"=\\\HORARIO DE TURNOS\n\nPequeño ajuste para los turnos de la próxima semana, tenemos al chico nuevo desde el lunes, así que cubrirá la baja de Stu. Equipo 3, están de nuevo en el turno de noche hasta que Stu 2 se acostumbre.\r\n\r\nUbicación: Punto de Control en Wick Street\r\n\r\nEquipo de esta semana (22/06):\r\n\r\nTurno de mañana (M): Equipo 1\r\n\r\nAlex, Bailey, Casey\r\nTurno de tarde (T): Equipo 2\r\n\r\nDrew, Erin, Flynn\r\nTurno de noche (N): Equipo 3\r\n\r\nGale, Hayden, Imani\r\nHola, equipo,\r\n\r\nDe lunes a domingo:\r\n\r\nM: Equipo 1\r\nT: Equipo 2\r\nN: Equipo 3\r\n\r\nSimplemente cumplan con los turnos y manténganse alerta. Si hay problemas serios, avísenme y mandaré a algunos chicos. No les den importancia, mantengan la posición y retengan si es necesario. Malditos salvajes.\r\n\r\nSteve\r
+
+
+I don't think there's any reason to go inside.=No creo que haya ninguna razón para entrar.
+I've got no reason to go in there.=No tengo motivo para entrar ahí.
+
+[RESIDENT]      JORDAN LITTLE\n[DOB] 05/21/15\n[OCCUPATION] FREELANCE ARTIST\n\r\n[CONDITION] DECEASED\r\n[CAUSE] ISCHEMIC STROKE\n              \r\n[VOID]=[RESIDENTE]      JORDAN LITTLE\n[FECHA DE NACIMIENTO] 05/21/15\n[OCUPACIÓN] ARTISTA FREELANCE\n\r\n[CONDICIÓN] FALLECIDO\r\n[CAUSA] ISQUEMIA CEREBRAL\n              \r\n[ANULADO]
+
+Artist's Note has been added to Documents.=Se ha añadido Nota del Artista a los Documentos.
+
+r:"^\/\/ARTIST'S NOTE\n\nToday is a good day\!\n\nI managed to sell a new piece\! I was starting to think nobody cared, all those years spent studying are finally paying off. They even said they'd be interested in my other works, maybe they have rich friends too\?\s+\n\s*I have a feeling that everything's going to be okay\!"=\\\NOTA DEL ARTISTA\n\n¡Hoy es un buen día! ¡Logré vender una nueva obra! Ya empezaba a pensar que a nadie le importaba, todos esos años estudiando finalmente están dando frutos.\n\nIncluso dijeron que estarían interesados en mis otros trabajos, ¿quizás tengan amigos ricos también? ¡Tengo el presentimiento de que todo va a estar bien!
+
+
+
+
+
+
+
+Arrows in a leather quiver, they're missing a bow.=Flechas en un carcaj de cuero, les faltan un arco.
+Take the <b>Quiver and Arrows</b>?=¿Tomar el <b>Carcaj y Flechas</b>?
+Quiver and Arrows have been added to Inventory.=Se han añadido Carcaj y Flechas al Inventario.
+<I>QUIVER AND ARROWS</I>=<I>CARCAJ Y FLECHAS</I>
+A quiver and several arrows.=Un carcaj y varias flechas.
+It's just another run down house. I'll leave it alone.=Es solo otra casa deteriorada. La dejaré en paz.
+I doubt there's anything worthwhile inside.=Dudo que haya algo valga la pena adentro.
+I don't see the point in going inside.=No veo el sentido de entrar.
+
+You'll catch your death out there.=Te vas a enfermar ahí fuera.
+Disgusting weather.=Clima asqueroso.
+Why do you keep calling me?=¿Por qué sigues llamándome?
+It's for your own good.=Es por tu propio bien.
+
+I see you made a friend.=Veo que hiciste un amigo.
+Yeah. We're getting out of here.=Sí. Nos vamos de aquí.
+
+You should too, if you know what's good for you.=Tú también deberías, si sabes lo que te conviene.
+They don't know you like I do.=Ellos no te conocen como yo.
+Not really.=No realmente.
+You don't know me.=No me conoces.
+Fuck, why am I even talking to you.=Joder, ¿por qué siquiera te estoy hablando?
+Holloway.=Holloway.
+What did you say?=¿Qué dijiste?
+Holloway...=Holloway…
+How do you know my name?!=¡¿Cómo sabes mi nombre?!
+Miiiiica. Miiiiiiiiiiiiica...=Miiiiica. Miiiiiiiiiiiiica…
+How the fuck do you know my name?=¿Cómo diablos sabes mi nombre?
+*Giggling*=*Riendo*
+You're acting irrational.=Estás actuando irracionalmente.
+I'm acting perfectly fucking rational given the situation.=Joder, estoy actuando totalmente racional dada la situación.
+Who are you? Who put you up to this?=¿Quién eres? ¿Quién te puso en esto?
+You're scaring your new friend.=Estás asustando a tu nuevo amigo.
+
+What do you mean, it's for my own good?=¿Qué quieres decir con que es por mi bien?
+You didn't save him.=No lo salvaste.=Ese hombre estaba enfermo, te necesitaba.
+That man was sick, he needed you.=Le fallaste. Igual que a todos los demás.
+You failed him. Just like everyone else.=Le fallaste. Igual que a todos los demás.
+What the fuck do you know?=¿Qué diablos sabes tú?
+You needed him.=Tú lo necesitabas.
+He was important.=Él era importante.
+Yeah I'm getting out of here, my friends are probably worried sick.=Sí, me voy de aquí, mis amigos probablemente están muy preocupados.
+
+
+[RESIDENT]      ERIN MARLOWE\n[DOB] 05/07/11\r\n[OCCUPATION] TEACHER\n\r\n[CONDITION] DECEASED\r\n[CAUSE] CEREBRAL HEMMORRHAGE\n              \r\n[VOID]=[RESIDENTE]     ERIN MARLOWE\n[FECHA DE NACIMIENTO] 05/07/11\r\n[OCUPACIÓN] MAESTRA\n\r\n[CONDICIÓN] FALLECIDA\r\n[CAUSA] HEMORRAGIA CEREBRAL\n              \r\n[ANULADO]
+A wooden bow is grasped in the body's hand. It's missing arrows.=Un arco de madera está en la mano del cuerpo. Le faltan flechas.
+Take the <b>Wooden Bow</b>?=¿Tomar el <b>Arco de Madera</b>?
+Wooden Bow have been added to Inventory.=Se ha añadido Arco de Madera al Inventario.
+<I>WOODEN BOW</I>=<I>ARCO DE MADERA</I>
+An old wooden bow, it's missing arrows.=Un viejo arco de madera, le faltan flechas.
+<I>Bow and Arrows</I> added to inventory.=Se ha añadido Arco y Flechas al Inventario.
+r:"^<i>BOW AND ARROWS \((\d+)\)</i>$"=<i>ARCO Y FLECHAS ($1)</i>
+An old wooden bow.=Un viejo arco de madera.
+BOW=ARCO
+
+They just dumped them here. Fuck.=Solo los tiraron aquí. Maldición.
+
+//Suena en la radio una conversación
+Is that the last of them?=¿Es el último de ellos?
+For today? Sure.=¿Por hoy? Seguro.
+Jesus. This is so messed up.=Jesús. Esto es tan desastroso.
+You're in a little deep to suddenly grow a conscience, don't you think?=Estás un poco hundido para de repente desarrollar conciencia, ¿no crees?
+I didn’t sign up for this shit. I wanted to help…=No me inscribí para esta mierda. Quería ayudar…
+You really thought all those background checks and waivers were for some humanitarian effort?=¿Realmente pensabas que todos esos antecedentes y exenciones eran para algún esfuerzo humanitario?
+Give me a break, you needed the money. Just like the rest of us.=Dame un respiro, necesitabas el dinero. Igual que el resto de nosotros.
+We’re burying fucking bodies man, people, they don’t deserve to end like this.=Estamos enterrando malditos cuerpos, joder, gente que no merece terminar así.
+Do we have a problem here? I need to make that call?=¿Tenemos un problema aquí? ¿Necesito hacer esa llamada?
+No. Just…=No. Solo…
+Come on. Let’s get outta here.=Vamos. Salgamos de aquí.
+
+// Mica se encuentra con una montaña de carne
+God, the smell is unbearable.=Dios, el olor es insoportable.
+So many bodies...=Cuántos cuerpos…
+
+//En la reja del parque
+[RESIDENT]      MIA KAMILA\n[DOB] 27/06/23\r\n[OCCUPATION] ACCOUNTANT\n\r\n[CONDITION] DECEASED\r\n[CAUSE] ACUTE MALNUTRITION\n              \r\n[VOID]=[RESIDENTE]     MIA KAMILA\n[FECHA DE NACIMIENTO] 27/06/23\r\n[OCUPACIÓN] CONTADORA\n\r\n[CONDICIÓN] FALLECIDA\r\n[CAUSA] DESNUTRICIÓN AGUDA\n              \r\n[ANULADO]
+A disfigured body hangs from the gate.=Un cuerpo desfigurado cuelga de la reja.
+The body is woven with chains, a heart shaped padlock rests in the chest of this poor woman.=El cuerpo está envuelto en cadenas, un candado en forma de corazón descansa en el pecho de esta pobre mujer.
+An old wallet has been left on the ground.=Una vieja billetera ha sido dejada en el suelo.
+Take the <b>Wallet</b>?=¿Tomar la <b>Billetera</b>?
+Worn Leather Wallet has been added to Inventory.=Se ha añadido Billetera de Cuero Desgastada al Inventario.
+I wonder who this belongs to...=Me pregunto a quién le pertenece…
+<i>WORN LEATHER WALLET</i>=<i>BILLETERA DE CUERO DESGASTADA</i>
+An old worn leather wallet.=Una vieja billetera de cuero desgastada.
+There's a digilock house key tucked inside.=Hay una llave de casa para cerradura digital guardada dentro.
+<I>DIGILOCK HOUSE KEY</I> added to inventory.=Se ha añadido Llave de Casa con Cerradura Digital al Inventario.
+<I>HOUSE KEY & WALLET</I>=<I>LLAVE DE CASA Y BILLETERA</I>
+There's an ID card in the wallet, the address seems to be nearby.=Hay una tarjeta de identificación en la billetera, la dirección parece ser cercana.
+House number 21.=Casa número 21.
+
+// En la casa número 21
+Well at least it's dry in here.=Bueno, al menos está seco aquí.
+Yeah I guess, let's not get too comfortable.=Sí, supongo que no nos ponemos demasiado cómodos.
+
+// Escena de la videocamara
+A dusty camcorder sits wired into an old television.=Una videocámara polvorienta está conectada a un viejo televisor.
+Take the <b>Camcorder</b>?=¿Tomar la <b>Videocámara</b>?
+Camcorder has been added to Inventory.=Se ha añadido Videocámara al Inventario.
+<I>CAMCORDER</I>=<I>VIDEOCÁMARA</I>
+An old consumer camcorder. It has a tripod plate attached to the bottom.=Una vieja videocámara de uso doméstico. Tiene una placa para trípode adherida en la parte inferior.
+I don't have time to watch all these tapes.=No tengo tiempo para ver todas estas cintas.
+
+// Escena en la ventana del segundo piso
+Is that blood?=¿Eso es sangre?
+I'm sorry little guy.=Lo siento, pequeño.
+You can rest now.=Ahora puedes descansar.
+
+//Habitaciones
+[RESIDENT]      ROSIE HARDWELL\n[DOB] 14/01/13\r\n[OCCUPATION] NURSE (SCPHN)\n\r\n[CONDITION] DECEASED\r\n[CAUSE] CIRCULATORY SHOCK\n              \r\n[VOID]=[RESIDENTE]     ROSIE HARDWELL\n[FECHA DE NACIMIENTO] 14/01/13\r\n[OCUPACIÓN] Enfermera (S. Pública)\n\r\n[CONDICIÓN] FALLECIDA\r\n[CAUSA] SHOCK CIRCULATORIO\n              \r\n[ANULADO]
+Ugh, the flowers do little to mask the awful smell.=Ugh, las flores hacen poco para disimular el horrible olor.
+
+// Escena de la radio
+You sure this will work?=¿Estás segura de que esto va a funcionar?
+That’s half a bottle, each. It’s enough.=Es media botella para cada una. Es suficiente.
+I wonder what it tastes like.=Me pregunto a qué sabe.
+Bitter. I added honey but it's not going to make much difference.=Amargo. Le añadí miel, pero no va a hacer mucha diferencia.
+Just do it in one. Try not to think about it.=Tómalo de un solo trago. Trata de no pensarlo.
+So this is it. We just lie here and wait for it to all be over.=Así que esto es todo. Solo nos acostamos aquí y esperamos a que todo termine.
+We’re doing this on our terms, not theirs.=Lo estamos haciendo bajo nuestros términos, no los de ellos.
+We’ve held on long enough sis, we gave it our best shot.=Hemos aguantado lo suficiente, hermana, hicimos lo mejor que pudimos.
+I don't wanna end up like one of them.=No quiero acabar como uno de ellos.
+This is the way. We do this together.=Esta es la manera. Lo hacemos juntas.
+Together.=Juntas.
+I guess I’ll see you after.=Supongo que te veré después.
+I hope so. Drink up.=Eso espero. Bébelo.
+I love you.=Te quiero.
+
+A tripod is set up pointing out the window.=Un trípode está colocado apuntando hacia la ventana.
+It's pointing right at that house.=Está apuntando justo a esa casa.
+
+// Casa de enfrente
+What's that smell?=¿Qué es ese olor?
+Huh, kinda smells like bacon.=Huh, huele un poco a tocino.
+r:"^\/\/COLBOLT CHRONICLE\n\nAI NANO CELLS - ANTI-AGING OR FAST TRACK FATALITY\?\r\n\r\nA third fatality at the hands of controversial pharmaceutical conglomerate Echo Gardens prompts backlash with the wider medical community as tests continue for Echo’s diverse new AI powered nano cell initiative.\r\n\r\nPromising to stunt the effects of aging by as high as 90%, this alluring new technology has yet to see a commercial release but is stated to enter full production in just 12 months from now. Many fear Echo’s ambitions may be detrimental to the wider medical industry as the company grows to a staggering 87% market dominance, raising cause for concern surrounding the supply of raw materials used in common medicines.\r\n\r\nEcho Garden have declined to comment on this third tragic fatality, once again echoing \(excuse the pun\) their previous messaging that ‘all parties involved in ongoing medical trials are fully aware of the risks and compensated appropriately’. Which begs the question, what good is a lump of cash when you’re six feet underground\?"=\\\COLBOLT CHRONICLE\n\nNANOCÉLULAS AI: ¿ANTIENVEJECIMIENTO O RUTA RÁPIDA A LA MUERTE?\r\n\r\nUna tercera muerte a manos del polémico conglomerado farmacéutico Echo Gardens provoca una reacción negativa en la comunidad médica mientras continúan las pruebas para la nueva y diversa iniciativa de nanocélulas con IA de Echo.\r\n\r\nPrometiendo frenar los efectos del envejecimiento hasta en un 90%, esta seductora nueva tecnología aún no ha visto un lanzamiento comercial, pero se espera que entre en plena producción en solo 12 meses. Muchos temen que las ambiciones de Echo puedan ser perjudiciales para la industria médica en general, ya que la empresa alcanza un asombroso 87% de dominio en el mercado, lo que genera preocupación en torno al suministro de materias primas utilizadas en medicamentos comunes.\r\n\r\nEcho Garden ha declinado comentar sobre esta tercera muerte trágica, reiterando (disculpen el juego de palabras) su mensaje anterior de que “todas las partes involucradas en los ensayos médicos en curso son plenamente conscientes de los riesgos y están debidamente compensadas”. Lo que nos lleva a preguntar, ¿de qué sirve un montón de dinero si estás seis pies bajo tierra?
+
+//Bañera
+Ugh, god. I think I'm gonna be sick.=Ugh, dios. Creo que voy a vomitar.
+Yeah that's not bacon.=Sí, eso no es tocino.
+There's a live current running through the bathwater.=Hay una corriente eléctrica pasando por el agua de la bañera.
+I can see something lying at the bottom of the tub, just below the water's surface.=Puedo ver algo en el fondo de la tina, justo debajo de la superficie del agua.
+I'll need to find a way to hook out the plug if I want to drain the water.=Necesitaré encontrar una manera de sacar el tapón si quiero drenar el agua.
+Something has been wired directly into the socket.=Algo ha sido conectado directamente al enchufe.
+There's no way I'm touching it.=No hay forma de que lo toque.
+
+//Habitaciones
+All that's inside is a single metal coathanger.=Todo lo que hay dentro es solo una percha de metal.
+Take the <b>Coathanger</b>?=¿Tomar la <b>Percha de Metal</b>?
+Coathanger has been added to Inventory.=Se ha añadido Percha de Metal al Inventario.
+<I>COATHANGER</I>=<I>PERCHA DE METAL</I>
+A metal coathanger with a hook on one end.=Una percha de metal con un gancho en un extremo.
+The coathanger's not going to be much use here.=La percha de metal no va a servir mucho aquí.
+There's nothing left inside.=No queda nada dentro.
+The body has an old metal road sign protruding from its chest.=El cuerpo tiene una vieja señal de tráfico metálica sobresaliendo de su pecho.
+Take the <b>Makeshift Axe</b>?=¿Tomar el <b>Hacha Improvisada</b>?
+Makeshift Axe has been added to Inventory.=Se ha añadido Hacha Improvisada al Inventario.
+<i>MAKESHIFT AXE</i>=<i>HACHA IMPROVISADA</i>
+An old road sign. It's been repurposed as a rudimentary axe of sorts.=Una vieja señal de tráfico. Ha sido reutilizada como una especie de hacha rudimentaria.
+MAKESHIFT SPEAR=HACHA IMPROVISADA
+Rest in peace.=Descansa en paz.
+
+r:"^\/\/CHILD'S DRAWING - WAVING MAN\n\nThe man in the widnow says helloo"=\\\DIBUJO INFANTIL: HOMBRE QUE SALUDA\n\nEl hombre en la ventana dice holaa
+A child's Yo-yo toy sits on the table.=Un yoyo de juguete está sobre la mesa.
+Take the <b>Yoyo Toy</b>?=¿Tomar el <b>Yoyo</b>?
+Yo-yo Toy has been added to Inventory.=Se ha añadido Yoyo de Juguete al Inventario.
+<I>YO-YO TOY</I>=<I>YOYO DE JUGUETE</I>
+A child's Yo-yo. It's made of wood and string.=Un yoyo infantil. Está hecho de madera y cuerda.
+This is no time for playing Yo-yo.=Este no es momento para jugar con el yoyo.
+There's nothing else worth taking.=No hay nada más que valga la pena llevar.
+
+<I>Makeshift Hook</I> added to inventory.=Se ha añadido Gancho Improvisado al Inventario.
+<I>MAKESHIFT HOOK</I>=<I>GANCHO IMPROVISADO</I>
+I've tied the Yo-yo to the coathanger. It's time to go fishling.=He atado el yoyo al gancho de metal. Es hora de pescar.
+There's no use for the hook here.=No hay uso para el gancho aquí.
+Heart Shaped Key has been added to Inventory.=Se ha añadido Llave con Forma de Corazón al Inventario.
+<I>HEART SHAPED KEY</I>=<I>LLAVE CON FORMA DE CORAZÓN</I>
+A heart shaped key to fit a heart shaped lock.=Una llave con forma de corazón para encajar en una cerradura con la misma forma.
+
+// Cemeneterio
+It seems even the dead weren't spared when the looting started.=Parece que ni siquiera los muertos se salvaron cuando comenzó el saqueo.
+I'm more worried about who keeps those candles lit.=Estoy más preocupada por quién mantiene esas velas encendidas.
+
+//Viendo los ataudes
+In Ever Loving Memory of Charlie Marcus Helson.=En memoria eterna de Charlie Marcus Helson.
+The Lord watch between me and thee, while we are absent, one from the other.=El Señor vigile entre tú y yo, mientras estemos ausentes el uno del otro.
+Sacred to the Memory of Jack Felix Markus.=Sagrado a la memoria de Jack Felix Markus.
+A tiny flower, lent not given, to bud on earth.=Una pequeña flor, prestada, no dada, para brotar en la tierra.
+Precious Memories of Alexander Harrison.=Recuerdos preciados de Alexander Harrison.
+The Lord is my Shepherd I shall not want.=El Señor es mi pastor, nada me faltará.
+Loved and Remembered Always, Olivia Richmond.=Siempre amada y recordada, Olivia Richmond.
+Gone is the face we loved so dear, silent the voice we loved to hear.=Se ha ido el rostro que tanto amamos, en silencio la voz que solíamos escuchar.
+In Ever Loving Memory of Mike Kaufman.=En memoria eterna de Mike Kaufman.
+Blessed are the pure in heart, for they shall see God.=Bienaventurados los puros de corazón, porque ellos verán a Dios.
+In Ever Loving Memory of Tara Trent Silbury.=En memoria eterna de Tara Trent Silbury.
+Gone from our home, but not from our hearts.=Se ha ido de nuestro hogar, pero no de nuestros corazones.
+Sacred to the Memory of Beverly Hammond.=Sagrado a la memoria de Beverly Hammond.
+Requiescat in Pace.=Que descanse en paz.
+Treasured Memories of Frederick Stillman.=Recuerdos atesorados de Frederick Stillman.
+A tiny flower, lent not given, to bud on earth and bloom in heaven.=Una pequeña flor, prestada, no dada, para brotar en la tierra y florecer en el cielo.
+Kurt C Shelling, Always In Our Thoughts.=Kurt C. Shelling, siempre en nuestros pensamientos.
+Resting where no shadows fall.=Descansando donde no caen las sombras.
+
+//Entrar a la capilla
+The house of God... Doesn't look like they're home.=La casa de Dios… No parece que estén en casa.
+Yeah, let's not hang around.=Sí, mejor no nos quedemos mucho tiempo.
+
+//Velas
+Ten candles are lined up in two rows of five.=Diez velas están alineadas en dos filas de cinco.
+There's a message underneath...=Hay un mensaje debajo…
+"TO THE GLORY OF GOD"="PARA LA GLORIA DE DIOS"
+"In Hallowed Memory of those members and associates of this Church-"="En memoria sagrada de aquellos miembros y asociados de esta iglesia—"
+"-who gave themselves to free our path in the service of our Lord and saviour."="—que se entregaron para liberar nuestro camino en el servicio de nuestro Señor y salvador."
+There's a list of names. "May their flame light our way." is written underneath.=Hay una lista de nombres. "Que su llama ilumine nuestro camino." está escrito debajo.
+
+// Encendiendo las velas
+Select candles to light.=Selecciona las velas para encender.
+
+//Confesionario
+There's no one inside.=No hay nadie dentro.
+It's empty.=Está vacío.
+
+//Encuentras una escopeta al centro de la capilla
+A shotgun has been left on the altar.=Una escopeta ha sido dejada en el altar.
+Take the <b>Steelpoint Shotgun</b>?=¿Tomar la <b>Escopeta Steelpoint</b>?
+Steelpoint Shotgun has been added to Inventory.=Se ha añadido Escopeta Steelpoint al Inventario.
+<i>STEELPOINT SHOTGUN (EMPTY)</i>=<i>ESCOPETA STEELPOINT (VACÍA)</i>
+r:"^<i>STEELPOINT SHOTGUN</i> \((\d+)\)$"=<i>ESCOPETA STEELPOINT</i> ($1)
+A Steelpoint pump-action shotgun.=Una escopeta Steelpoint de acción por bombeo.
+r:"^<i>SHOTGUN AMMO</i> \((\d+)\)$"=<i>MUNICIÓN DE ESCOPETA</i> ($1)
+10-Gauge shotgun shells.=Cartuchos de escopeta calibre 10.
+STEELPOINT SHOTGUN=ESCOPETA STEELPOINT
+
+//
+
+Tax has been worried sick. He really cares, y’know.=Tax ha estado muy preocupado. En serio le importas, ¿sabes?
+Tough guy that’s soft as pudding, that’s what you said wasn’t it?=Un tipo duro pero blando como pudín, eso fue lo que dijiste, ¿no?
+The bar’s seen better days. All those genco suits sweet talkin’ our regulars.=El bar ha visto mejores días. Todos esos trajes de Genco endulzando a nuestros clientes habituales.
+State paycheque and a roof over your head, It’s hard to say no when you’re out of options.=Un cheque estatal y un techo sobre tu cabeza, es difícil decir que no cuando no tienes opciones.
+Fucking boiling pot of bad eggs.=Un maldito hervidero de huevos podridos.
+I can only imagine what it’s like, to have been through all of it…=Solo puedo imaginar lo que es, haber pasado por todo eso…
+But you need to know you’re not alone, we’re not alone.=Pero necesitas saber que no estás sola, no estamos solas.
+That pot’s boiling over and soon they’re gonna get burnt.=Esa olla está a punto de desbordarse, y pronto se van a quemar.
+Whatever it takes, remember?=Lo que sea necesario, ¿recuerdas?
+This place is giving me the creeps...=Este lugar me da escalofríos…
+Secret underground crypts not normally your thing?=¿Las criptas subterráneas secretas no son lo tuyo?
+Yeah I kinda skipped my goth phase.=Sí, como que me salté mi fase gótica.
+The gate is securely chained and woven with... intestines?=La puerta está asegurada con cadenas y entrelazada con… ¿intestinos?
+Gross. There are three locks, each with a dumb symbol painted on the side.=Qué asco. Hay tres cerraduras, cada una con un símbolo tonto pintado al costado.
+
+[RESIDENT]      STUART MASON\n[DOB] 28/08/34\n[OCCUPATION] PUBLIC SERVICES\n\r\n[CONDITION] DECEASED\r\n[CAUSE] MULTI-ORGAN FAILURE\n              \r\n[VOID]=[RESIDENTE]     STUART MASON\n[FECHA DE NACIMIENTO] 28/08/34\n[OCUPACIÓN] SERVICIOS PÚBLICOS\n\r\n[CONDICIÓN] FALLECIDO\r\n[CAUSA] FALLA MULTIORGÁNICA\n              \r\n[ANULADO]
+
+It's still beating...=Aún está latiendo…
+Beating Heart has been added to Inventory.=Se ha añadido Corazón Latente al Inventario.
+Pulsating Heart has been added to Inventory.=Se ha añadido Corazón Pulsante al Inventario.
+This is insane...=Esto es una locura…
+The machine has four arms reaching forward, as if waiting for me to place something in their palms.=La máquina tiene cuatro brazos extendidos hacia adelante, como si esperara que colocara algo en sus palmas.
+
+Throbbing Heart has been added to Inventory.=Se ha añadido Corazón Palpitante al Inventario.
+It has no pulse.=No tiene pulso.
+Dead Heart has been added to Inventory.=Se ha añadido Corazón Muerto al Inventario.
+r:"^Shotgun Ammo \((\d+)\) has been added to Inventory.$"=Se ha añadido Munición de Escopeta ($1) al inventario.
+BEATING HEART=CORAZÓN LATENTE
+PULSATING HEART=CORAZÓN PULSANTE
+THROBBING HEART=CORAZÓN PALPITANTE
+DEAD HEART=CORAZÓN MUERTO
+I don't remember picking this up.=No recuerdo haber recogido esto.
+
+
+It stopped beating.=Ha dejado de latir.
+I don't know what compelled me to do that.=No sé qué me impulsó a hacer eso.
+It's not beating anymore.=Ya no está latiendo.
+My head hurts...=Me duele la cabeza…
+I can hear a distant thumping noise.=Puedo escuchar un ruido a lo lejos.
+
+// Saliendo de las alcantarillas
+I never thought I'd be thankful to breathe the city air but here we are.=Nunca pensé que agradecería respirar el aire de la ciudad, pero aquí estamos.
+You couldn't pay me to go back down there. C'mon, let's get moving.=No volvería ahí abajo ni aunque me pagaran. Vamos, sigamos adelante.
+
+
+Are you feeling alright little sparrow, you look pale.=¿Te sientes bien, pequeña gorrión? Te ves pálida.
+What do you care.=¿Qué te importa?
+You look like you've seen a ghost.=Pareces como si hubieras visto un fantasma.
+I don't know what's real any more.=Ya no sé qué es real.
+They keep coming...=Siguen viniendo…
+Dear, you were doing so well.=Querida, lo estabas haciendo tan bien.
+It's a shame you're not cut out for this.=Es una pena que no estés hecha para esto.
+Fuck you.=Que te jodan.
+Such a filty mouth for a pretty little thing.=Qué boca tan sucia para una cosita tan linda.
+What are you trying to achieve here?=¿Qué intentas lograr con esto?
+Why do you keep picking up?=¿Por qué sigues contestando?
+...=...
+I just want to find her.=Solo quiero encontrarla.
+Tell me, is she still alive?=Dime, ¿aún sigue viva?
+Fuck, what am I saying.=Joder, ¿qué estoy diciendo?
+I can't stay here.=No puedo quedarme aquí.
+Best get moving.=Mejor sigue moviéndote.
+You've not got long left.=No te queda mucho tiempo.
+
+// Grabación 6
+I’m not leaving, god dammit this is my home!=¡No me voy a ir, maldita sea, esta es mi casa!
+Sir I’m sorry but this area has been declared unfit for residence by the court of law.=Señor, lo siento, pero esta área ha sido declarada inhabitable por el tribunal.
+Sherwood will aid with your relocation. You will be assigned suitable housing inline with the value of your current property.=Sherwood le ayudará con su reubicación. Se le asignará una vivienda adecuada según el valor de su propiedad actual.
+I’ve lived here for fifty two years! You have no right! Walking in here like you own the place.=¡He vivido aquí cincuenta y dos años! ¡No tienen ningún derecho! Entrando aquí como si fueran los dueños del lugar.
+Sir this location is indeed now owned by Sherwood Estate Management, you are currently considered to be trespassing on private property.=Señor, este lugar ahora es propiedad de Sherwood Estate Management, en este momento se le considera un intruso en propiedad privada.
+Nonsense! I didn't agree to any of this.=¡Qué tontería! Yo no acepté nada de esto.
+Should you persist in your refusal to comply I will have no choice but to escalate this issue with our non compliance team.=Si insiste en negarse a cumplir, no me quedará otra opción más que escalar el problema con nuestro equipo de incumplimiento.
+Didn't your mother ever teach you some damn manners?=¿Acaso tu madre no te enseñó modales, maldito?
+Escalate THIS you good for nothing little boot licker…=Escala ESTO, inútil lamebotas…
+
+Packet instant noodles. Those things last forever, they're probably still good to eat.=Paquetes de fideos instantáneos. Esas cosas duran para siempre, probablemente todavía se pueden comer.
+
+r:"^\/\/NEWSPAPER - MAY 4\n\nTensions Rise as Sherwood Project Faces Scrutiny in Barnsdon\r\n\r\nBarnsdon, May 4, 2063 \S Sherwood’s ambitious revitalization project in Barnsdon, once hailed as a beacon of hope, now faces growing discontent from residents as construction advances. The initial enthusiasm surrounding the initiative has given way to frustration and skepticism, with locals voicing concerns about disruptions and unmet promises.\r\n\r\nMonths into the project’s implementation, Barnsdon’s residents have begun experiencing the practical implications of the ambitious overhaul. Construction sites dotting the city have caused significant disruptions, affecting daily routines and businesses. Many residents, initially hopeful for employment opportunities, lament the slow pace of job creation, exacerbating existing financial strains.\r\n\r\nSherwood, the driving force behind the endeavor, has faced mounting criticism over perceived delays and inadequate community engagement. CEO Sarah Reynolds acknowledged the challenges:\r\n\r\n\"We understand the concerns of the community. Our aim remains to bring positive change, but we acknowledge the setbacks," stated Reynolds in response to the growing discontent.\r\n\r\nAs frustrations escalate, residents call for greater transparency and tangible progress from Sherwood. The charity now faces a critical juncture, with public sentiment shifting amid rising discontent, highlighting the complexities of executing large-scale projects in local communities.\r\n\r\nFor inquiries or statements regarding the ongoing project, please contact Sherwood Estate Management Ltd at info@sherwoodestatesmanagement.com.\r\n\r\nWritten by Steve Wood, Contributing Writer\r$"=PERIÓDICO: 4 DE MAYO\n\nLas tensiones aumentan mientras el proyecto Sherwood enfrenta escrutinio en Barnsdon\r\n\r\nBarnsdon, 4 de mayo de 2063: El ambicioso proyecto de revitalización de Sherwood en Barnsdon, una vez aclamado como un faro de esperanza, ahora enfrenta un creciente descontento por parte de los residentes a medida que avanza la construcción. El entusiasmo inicial en torno a la iniciativa ha dado paso a la frustración y el escepticismo, con los locales expresando preocupaciones sobre las interrupciones y las promesas incumplidas.\r\n\r\nA meses de la implementación del proyecto, los residentes de Barnsdon han comenzado a experimentar las implicaciones prácticas de la ambiciosa renovación. Los sitios de construcción que salpican la ciudad han causado importantes interrupciones, afectando las rutinas diarias y los negocios. Muchos residentes, que inicialmente tenían esperanzas en las oportunidades de empleo, lamentan el lento ritmo de creación de puestos de trabajo, lo que agrava las tensiones financieras existentes.\r\n\r\nSherwood, la fuerza impulsora detrás de la iniciativa, ha enfrentado críticas crecientes por los retrasos percibidos y la falta de participación comunitaria adecuada. La directora ejecutiva Sarah Reynolds reconoció los desafíos:\r\n\r\n“Entendemos las preocupaciones de la comunidad. Nuestro objetivo sigue siendo generar un cambio positivo, pero reconocemos los contratiempos”, declaró Reynolds en respuesta al creciente descontento.\r\n\r\nA medida que aumentan las frustraciones, los residentes exigen una mayor transparencia y avances tangibles por parte de Sherwood. La organización benéfica se enfrenta ahora a un punto crítico, con el sentimiento público cambiando en medio del descontento creciente, lo que resalta la complejidad de ejecutar proyectos a gran escala en comunidades locales.\r\n\r\nPara consultas o declaraciones relacionadas con el proyecto en curso, comuníquese con Sherwood Estate Management Ltd en info@sherwoodestatesmanagement.com.\r\n\r\nEscrito por Steve Wood, Escritor ColaboradorThere's no power running to the shutter.
+
+Cartons of milk alternatives and synthetic milk.=Leche en cartones de alternativas vegetales y leche sintética.
+A pack of fuses hangs on the display stand.=Un paquete de fusibles cuelga del expositor.
+Take the <b>Pack of Fuses</b>?=¿Tomar el <b>Paquete de Fusibles</b>?
+Pack of Fuses has been added to inventory.=Se ha añadido Paquete de Fusibles al Inventario.
+<I>PACK OF FUSES</I>=<I>PAQUETE DE FUSIBLES</I>
+A pack of three fuses.=Un paquete de tres fusibles.
+
+Chocolate-flavored milk. Jasper used to love this stuff.=Leche con sabor a chocolate. A Jasper le encantaba esta cosa.
+Jars of various condiments.=Frascos de varios condimentos.
+There's a fuse box here but it looks like one of the fuses is fried.=Aquí hay una caja de fusibles, pero parece que uno está quemado.
+Maybe I can find a replacement around here somewhere.=Quizás pueda encontrar un reemplazo por aquí.
+It seems to be fixed now.=Parece que ya está arreglado.
+The station's not far now, I think we're just a couple streets over.=La estación no está lejos, creo que solo estamos a un par de calles.
+Good. Let's get moving, we're too vunerable out in the open.=Bien. Sigamos moviéndonos, estamos demasiado vulnerables aquí afuera.
+Discarded Letter has been added to Documents.=Se ha añadido Carta Descartada a los Documentos.
+
+
+r:"^\/\/DISCARDED LETTER\n\nHey Casey, been a while. I have no idea if this’ll even get to you but we’ve been out of power for weeks.\r\n\r\nThings here in Barnsdon are really going to shit, like, more than normal. The high street’s all boarded up, businesses are just there one day and empty the next, like everything gone. Please is starting to look like a ghost town. This is the fucking opposite of what they promised. People are saying some folks have gone missing, everyone’s on edge.\r\n\r\nSherwood brought in their own security crew, and now it feels like we’re all walking on eggshells. People are keeping to themselves, afraid to even step outside.\r\n\r\nI’m feeling pretty on edge too. It’s like the whole city's holding its breath.\r\n\r\nDrop me a line when you can.\r\n\r\nTake care,\r\n\r\nBen\r$"=\\\CARTA DESCARTADA\n\nHey Casey, ha pasado un tiempo. No tengo idea si esto siquiera te llegará, pero llevamos semanas sin electricidad.\r\n\r\nLas cosas aquí en Barnsdon se están yendo al carajo, más de lo normal. La calle principal está toda tapiada, los negocios están un día y al siguiente vacíos, como si todo desapareciera. El lugar empieza a parecer un pueblo fantasma. Esto es todo lo contrario de lo que prometieron. La gente dice que algunas personas han desaparecido, todos están nerviosos.\r\n\r\nSherwood trajo su propio equipo de seguridad, y ahora parece que todos caminamos sobre cáscaras de huevo. La gente se encierra en sí misma, con miedo de siquiera salir.\r\n\r\nYo también estoy bastante nervioso. Es como si toda la ciudad estuviera conteniendo la respiración.\r\n\r\nAvísame cuando puedas.\r\n\r\nCuídate,\r\n\r\nBen.
+
+// Radio 7
+Mum, I want to play!=¡Mamá, quiero jugar!
+Shelly we’ve talked about this, we can’t go there any more.=Shelly, ya hablamos de esto, no podemos ir allí más.
+Pleeeeease…=Por favoooooor…
+It’s not safe for little girls, see those men will tell mummy off if we go.=No es seguro para niñas pequeñas, ves, esos hombres le regañarán a mamá si vamos.
+It’s not fair!! I hate them!=¡No es justo! ¡Los odio!
+YOU’RE STUPID! STUPID MEN!!=¡USTEDES SON ESTÚPIDOS! ¡¡HOMBRES ESTÚPIDOS!!
+Hahah, get a load of this one.=Jajaja, mira esta pequeña.
+Hey little girl, you better watch that lip.=Oye, niña, será mejor que cuides esa boquita.
+Stop it!=¡Paren!
+Shelly c’mon, you can’t talk to them like that.=Shelly, vamos, no puedes hablarles así.
+I’m sorry, with everything going on she’s just struggling with the change-=Lo siento, con todo lo que está pasando, le está costando adaptarse a los cambios-
+This park is for girls and boys that are little, NOT GROWN UPS!=¡Este parque es para niñas y niños pequeños, NO PARA ADULTOS!
+That’s enough, Shell.=Basta ya, Shell.
+You better listen to your mommy.=Será mejor que escuches a tu mamá.
+Gob like that’ll get you locked up kid.=Con esa boca terminarás encerrada, niña.
+Shut up!=¡Cállate!
+SHELLY!=¡SHELLY!
+C’mon. NOW.=Vámonos. AHORA.
+I’m so sorry…=Lo siento mucho…
+Keep your kid out of my face.=Mantén a tu hija fuera de mi vista.
+Little shit needs to learn some manners.=Esa mocosa necesita aprender modales.
+
+//Pendiente
+Delay Notice has been added to Documents.=Se ha añadido Aviso de Retraso a los Documentos.
+r:"^\/\/DELAY NOTICE\n\nSherwood Estate Management Ltd\nPhone: \+44 20 1234 5678\nEmail: info@sherwoodestatesmanagement.com\nWebsite: www.sherwoodestatesmanagement.com\n\n\nSubject: Addressing Prolonged Delays in Construction Progress\n\n\nDear resident,\n\n\nWe have been made aware of some frustrations caused by the reasonable delays in the Barnsdon construction project. We apologize for the extended inconvenience experienced due to:\n\n\nProlonged road closures and diversions\nContinuous construction-related disturbances\nOngoing limitations in accessing certain areas\n\n\nWe acknowledge these challenges and are actively taking steps to expedite the project:\n\n\nConducting a thorough review of the construction timeline\nAllocating additional resources to expedite pending phases\nImproving communication for regular progress updates\n\n\nYour patience during this period is appreciated. For further inquiries or assistance, please contact Sherwood Estate Management Ltd at info@sherwoodestatesmanagement.com.\n\n\n\n\nWe are committed to resolving these delays promptly and minimizing future disruptions.\n\n\nSincerely,\n\n\nArthur Levitt\nSherwood Estate Management Ltd$"=\\\AVISO DE RETRASO\n\nSherwood Estate Management Ltd\nTeléfono: +44 20 1234 5678\nCorreo electrónico: info@sherwoodestatesmanagement.com\nSitio web: www.sherwoodestatesmanagement.com\n\n\nAsunto: Abordando los Retrasos Prolongados en el Progreso de la Construcción\n\n\nEstimado residente,\n\n\nHemos sido informados de algunas frustraciones causadas por los razonables retrasos en el proyecto de construcción en Barnsdon. Pedimos disculpas por los inconvenientes prolongados experimentados debido a:\n\n\nCierres de carreteras y desvíos prolongados\nInterrupciones continuas relacionadas con la construcción\nLimitaciones en curso para acceder a ciertas áreas\n\n\nReconocemos estos desafíos y estamos tomando medidas activas para agilizar el proyecto:\n\n\nRealizando una revisión exhaustiva del cronograma de construcción\nAsignando recursos adicionales para acelerar las fases pendientes\nMejorando la comunicación para proporcionar actualizaciones regulares sobre el progreso\n\n\nApreciamos su paciencia durante este período. Para más consultas o asistencia, comuníquese con Sherwood Estate Management Ltd en info@sherwoodestatesmanagement.com.\n\n\n\n\nEstamos comprometidos a resolver estos retrasos de manera pronta y a minimizar futuras interrupciones.\n\n\nAtentamente,\n\n\nArthur Levitt\nSherwood Estate Management Ltd
+
+//Cinematica antes del final
+I need to tell you something.=Necesito decirte algo.
+When we talked, no, when we fought. That night.=Cuando hablamos, no, cuando peleamos. Esa noche.
+It wasn’t that I didn’t understand, I knew- I KNOW how much this meant to you.=No es que no entendiera, sabía— SÉ lo mucho que esto significaba para ti.
+I just couldn’t bear to not be there.=Simplemente no podía soportar no estar ahí.
+To not be by your side, to support you when you need it most.=No estar a tu lado, apoyarte cuando más lo necesitas.
+I shouldn’t have let it get to me, it was selfish. You’d made up your mind and I respect that.=No debí haber dejado que me afectara, fue egoísta. Ya habías tomado una decisión y respeto eso.
+I just wish things had been different. For all of us.=Solo desearía que las cosas hubieran sido diferentes. Para todos nosotros.
+
+//Despues de las cinematica en la parada del tren
+Which way now?=¿Y ahora, por dónde?
+There's no power running to the ticket machine.=No hay energía en la máquina de boletos.
+That's a lot of boxes, seems to be mostly bottled water and medical supplies.=Son muchas cajas, parece que son principalmente agua embotellada y suministros médicos.
+Various building supplies, looks like they never finished the job.=Materiales de construcción varios, parece que nunca terminaron el trabajo.
+
+//Telefono sonando
+Hello?=¿Hola?
+I know you're there, I can hear you breathing.=Sé que estás ahí, puedo escucharte respirar.
+You're so close now.=Estás tan cerca ahora.
+I can feel you.=Puedo sentirte.
+Do you ever give it up?=¿Alguna vez lo dejarás?
+I'm getting out of here. You'll never see me again.=Me voy de aquí. Nunca volverás a verme.
+No. Not yet. We have unfinished business.=No. Aún no. Tenemos asuntos pendientes.
+Jeeze, just... talk straight for once.=Vaya, solo… habla claro por una vez.
+I don't know you. I don't care to know you.=No te conozco. No me importa conocerte.
+You're hurting my feelings.=Estás hiriendo mis sentimientos.
+Just tell me, please. What's going on here? Really?=Solo dime, por favor. ¿Qué está pasando aquí? ¿De verdad?
+Now that would spoil the surprise.=Eso arruinaría la sorpresa.
+You don't know shit, do you?=No sabes nada, ¿verdad?
+You're just as lost as I am.=Estás tan perdido como yo.
+Sad and alone.=Triste y solo.
+You're scared. Your voice is trembling.=Tienes miedo. Tu voz tiembla.
+I'm not scared!=¡No tengo miedo!
+I'm just... I'm fucking tired. I want my friend back and I wanna go home.=Solo… estoy malditamente cansada. Quiero a mi amiga de vuelta y quiero irme a casa.
+Home is where the heart is.=El hogar está donde está el corazón.
+Can you hear it beating?=¿Puedes escucharlo latir?
+Yeah sorry, I'm done with your creepy stalker shit.=Sí, lo siento, ya terminé con tu mierda de acosador espeluznante.
+I'm leaving.=Me voy.
+Have a nice life.=Que tengas una buena vida.
+
+//
+There's no power running to the platform gate.=No hay electricidad en la puerta de la plataforma.
+The mirrors are so dirty I can't even see my own reflection.=Los espejos están tan sucios que ni siquiera puedo ver mi propio reflejo.
+[RESIDENT]      JAMIE GRACE\n[DOB] 25/07/09\r\n[OCCUPATION] BOOTH OPERATOR\n\r\n[CONDITION] DECEASED\r\n[CAUSE] CARDIOVASCULAR FAILURE\n       =[RESIDENT]      JAMIE GRACE\n[DOB] 25/07/09\r\n[OCCUPATION] BOOTH OPERATOR\n\r\n[CONDITION] DECEASED\r\n[CAUSE] CARDIOVASCULAR FAILURE\n       
+Ugh...=Ugh…
+A body lies slumped over the toilet bowl.=Un cuerpo está desplomado sobre el inodoro.
+Move the body?=¿Mover el cuerpo?
+Two gold coins have been placed in his eye sockets.=Dos monedas de oro han sido colocadas en sus cuencas oculares.
+Take the <b>Gold Coins</b>?=¿Tomar las <b>Monedas de Oro</b>?
+Gold Coins have been added to inventory.=Se han añadido Monedas de Oro al Inventario.
+I can feel him watching me.=Siento que me está observando.
+<I>GOLD COINS</I>=<I>MONEDAS DE ORO</I>
+Two five pound coins.=Dos monedas de cinco libras.
+It's locked.=Está cerrado.
+Broken, just like everything else.=Roto, como todo lo demás.
+<I>TWO REMAINING FUSES</I>=<I>DOS FUSIBLES RESTANTES</I>
+Maintenance Note has been added to Documents.=Se ha añadido Nota de Mantenimiento a los Documentos.
+
+r:"^\/\/MAINTENANCE NOTE\n\nATTENTION:\n\n\nEntry into the Westbound tunnel is strictly prohibited.\n\n\nWork operations have been temporarily halted until further notice.\n\n\nNon-compliance will result in immediate dismissal."=\\\NOTA DE MANTENIMIENTO\n\nATENCIÓN:\n\n\nLa entrada al túnel en dirección oeste está estrictamente prohibida.\n\n\nLas operaciones de trabajo han sido temporalmente suspendidas hasta nuevo aviso.\n\n\nEl incumplimiento resultará en despido inmediato
+
+//Ultima radio
+Ma'am step away from the gate.=Señora, aléjese de la puerta.
+The Citylink is not yet operational, citizens are advised to stay in their homes until-=El Citylink aún no está operativo, se les aconseja a los ciudadanos que permanezcan en sus hogares hasta que—
+It's moving! I see it moving!=¡Está moviéndose! ¡Lo veo moverse!
+I'm not going to ask you again. Return to your homes.=No voy a pedírselo de nuevo. Regresen a sus casas.
+How do you sleep at night? Look at us! We're starving to death in here. =¿Cómo puedes dormir por las noches? ¡Míranos! Nos estamos muriendo de hambre aquí.
+You cut off our water supply then make us fight over your stupid bottles.=Cortaron nuestro suministro de agua y luego nos hacen pelear por sus estúpidas botellas.
+Guys it's leaving!=¡Chicos, se está yendo!
+Stand down! Right NOW!=¡Retírense! ¡AHORA MISMO!
+Let me past! Let- Let me past!=¡Déjenme pasar! ¡Déjenme— Déjenme pasar!
+Open the gate! Let us-=¡Abran la puerta! Déjennos—
+What- What did you do?\r=¿Qué— Qué hiciste?
+
+//Reanunando en el metro:
+These poor people...=Estas pobres personas…
+Confidentiality Letter has been added to Documents.=Se ha añadido Carta de Confidencialidad a los Documentos.
+r:"^\/\/CONFIDENTIALITY LETTER\n\nSubject: Strengthening Confidentiality Measures and Monitoring\n\n\nIt has recently come to our notice that there have been several instances where confidentiality has been breached, with details pertaining to the work on Kingsway Court spreading outside of our organization. The protection of sensitive data is of utmost importance to Echo Initiatives and its subsidiaries, any compromise in this area poses a significant threat to our clients, our reputation, and the trust they place in our services.\n\n\nUpon a thorough investigation, we have identified and taken decisive action against those individuals suspected to be involved. We are embarking on a series of initiatives aimed at fortifying our internal controls and ensuring the confidentiality of our data. These measures encompass:\n\n\nAccess Controls: We will be reviewing and tightening access permissions to ensure that only authorized personnel have access to sensitive information necessary for their roles.\n\n\nEnhanced Monitoring: Implementing more robust monitoring systems to detect any unauthorized access or potential breaches swiftly.\n\n\nAnonymous Reporting Channels and Reward System: Establishing confidential channels to encourage and facilitate reporting of any suspicious activities or breaches, ensuring anonymity and protection for those who come forward.\nYour cooperation and vigilance in upholding the confidentiality of our work are vital.\n\n\nThank you for your understanding and commitment to upholding the high standards of security at Echo Initiatives.\n\n\nSincerely,\nUpper\.$"=\\\CARTA DE CONFIDENCIALIDAD\n\nAsunto: Reforzamiento de las Medidas de Confidencialidad y Monitoreo\n\n\nRecientemente, hemos tenido conocimiento de varios casos en los que se ha violado la confidencialidad, con detalles relacionados con el trabajo en Kingsway Court filtrándose fuera de nuestra organización. La protección de datos sensibles es de suma importancia para Echo Initiatives y sus subsidiarias. Cualquier compromiso en este aspecto representa una amenaza significativa para nuestros clientes, nuestra reputación y la confianza que depositan en nuestros servicios.\n\n\nTras una investigación exhaustiva, hemos identificado y tomado medidas decisivas contra las personas sospechosas de estar involucradas. Estamos iniciando una serie de iniciativas destinadas a fortalecer nuestros controles internos y garantizar la confidencialidad de nuestros datos. Estas medidas incluyen:\n\n\nControles de Acceso: Revisaremos y ajustaremos los permisos de acceso para asegurarnos de que solo el personal autorizado tenga acceso a la información sensible necesaria para sus funciones.\n\n\nMonitoreo Mejorado: Implementación de sistemas de monitoreo más robustos para detectar rápidamente cualquier acceso no autorizado o posibles violaciones.\n\n\nCanales de Reporte Anónimos y Sistema de Recompensas: Establecimiento de canales confidenciales para fomentar y facilitar el reporte de cualquier actividad sospechosa o violación, garantizando el anonimato y la protección de quienes se presenten. Su cooperación y vigilancia en la preservación de la confidencialidad de nuestro trabajo son vitales.\n\n\nGracias por su comprensión y compromiso con el mantenimiento de los altos estándares de seguridad en Echo Initiatives.\n\n\nAtentamente,\nUpper.
+
+There's no running water.=No hay agua corriente.
+There's blood all over the wall. It's like these people were all lined up and...=Hay sangre por toda la pared. Es como si hubieran alineado a estas personas y…
+Just a regular toilet. Surprisingly clean, all things considered.=Un inodoro normal. Sorprendentemente limpio, dadas las circunstancias.
+Urinals. For people who like to pee standing up.=Orinales. Para la gente que prefiere orinar de pie.
+I'll wait here. Don't be long.=Te espero aquí. No tardes.
+Another fuse box, it looks like just one of the fuses is fried.=Otra caja de fusibles, parece que solo uno de los fusibles está quemado.
+Seems like that did the trick. The station should have power now.=Parece que eso funcionó. La estación debería tener energía ahora.
+<I>ONE REMAINING FUSE</I>=<I>UN FUSIBLE RESTANTE</I>
+It seems to be working now, I'll need a ticket if I want to get through.=Parece que ya está funcionando, necesitaré un boleto si quiero pasar.
+
+//Comprar boletos
+It seems to be working now, I'll need some money if I want a ticket.=Parece que ya está funcionando, necesitaré algo de dinero si quiero un boleto.
+A train ticket, it only goes one way.=Un boleto de tren, solo de ida.
+Take the <b>Train Ticket</b>?=¿Tomar el <b>Boleto de Tren</b>?
+Train Ticket has been added to inventory.=Se ha añadido Boleto de Tren al Inventario.
+<I>TRAIN TICKET</I>=<I>BOLETO DE TREN</I>
+An off-peak single to Charon Crossing.=Un boleto sencillo en horario de baja afluencia a Charon Crossing.
+I'm surprised that actually worked.=Me sorprende que eso realmente funcionara.
+
+// Abordar el tren
+I should be able to enter the platform now.=Ahora debería poder entrar a la plataforma.
+A deep hole has swallowed the rail line.=Un agujero profundo se ha tragado la vía del tren.
+You think she's down there? Your friend?=¿Crees que ella está ahí abajo? ¿Tu amiga?
+Eastbound tunnel, two miles in.=Túnel en dirección este, a dos millas dentro.
+She's here.=Ella está aquí.
+It's a long way. You sure about this?=Es un largo camino. ¿Estás segura de esto?
+You sound like Tax.=Suenas como Tax.
+
+Your friend from the city on the waves?=¿Tu amigo de la ciudad en las olas?
+He called it a one-way trip.=Él lo llamó un viaje de ida.
+Begged me not to go.=Me rogó que no viniera.
+I'm glad you did.=Me alegra que lo hayas hecho.
+I'll wait here for you. Please, come back.=Te esperaré aquí. Por favor, regresa.
+I'll be back before you know it. Take care of yourself.=Volveré antes de que te des cuenta. Cuídate.
+Climb down?=¿Bajar?
+I'll wait for you here, be careful down there.=Te esperaré aquí, ten cuidado ahí abajo.
+
+// Cueva carnosa
+What is this place?=¿Qué es este lugar?
+A detonator hangs clutched in the researcher's hand.=Un detonador cuelga en la mano del investigador.
+Detonator has been added to inventory.=Se ha añadido Detonador al Inventario.
+Tap {action} to use detonator when within proximity of C4.=Pulsa {action} para usar el detonador cuando estés cerca del C4.
+Tap <sprite\=101 tint\=1> to use detonator when within proximity of C4.=Pulsa <sprite\=101 tint\=1> para usar el detonador cuando estés cerca del C4.
+What a way to go...=Qué manera de morir…
+<I>DETONATOR</I>=<I>DETONADOR</I>
+A small device for remote detonation of explosives.=Un pequeño dispositivo para la detonación remota de explosivos.
+
+// Pelea
+!!RUN!!=¡¡CORRE!!
+Press <sprite\=94 tint\=1> to look behind you.=Pulsa <sprite\=94 tint\=1> para mirar detrás de ti.
+Press {action} to look behind you.=Pulsa {action} para mirar detrás de ti.
+A hole has formed.=Se ha formado un agujero.
+Crawl through?=¿Arrastrarse?
+
+// Escena
+NarrationCentre=NarrationCentre
+Sasha -=Sasha:
+
+Sasha...=Sasha…
+Time stood still as I limped towards her.=El tiempo se detuvo mientras cojeaba hacia ella.
+Her body curled among the roots of something unlike anything I've seen before.=Su cuerpo estaba acurrucado entre las raíces de algo que no se parecía a nada que hubiera visto antes.
+I reach out and touch her neck.=Extiendo la mano y toco su cuello.
+She has a pulse.=Tiene pulso.
+“Sash, can you hear me? It’s me, it’s Mica. I’m going to get you out of here.”=“Sash, ¿me escuchas? Soy yo, soy Mica. Voy a sacarte de aquí.”
+Her eyes briefly flutter open, the corner of her mouth tilting to a faint smile.=Sus ojos se abren brevemente, la comisura de su boca se inclina hacia una leve sonrisa.
+“Mi-”=“Mi—”
+“It’s okay. It’s okay Sash, I’m here.”=“Está bien. Está bien, Sash, estoy aquí.”
+The fleeting smile gave way to a look of terror.=La sonrisa fugaz dio paso a una expresión de terror.
+“Meek I can- I can’t move my legs.”=“Meek, no puedo… no puedo mover mis piernas.”
+Reality hit me like a ten tonne truck.=La realidad me golpeó como un camión de diez toneladas.
+Her leg was badly broken, maybe both. I could see something protruding from her shin, something that should be inside.=Su pierna estaba gravemente rota, quizás ambas. Podía ver algo sobresaliendo de su espinilla, algo que debería estar dentro.
+I was so focussed on finding her I hadn’t considered a way out.=Estaba tan enfocada en encontrarla que no había considerado una manera de salir.
+“It’s okay hun, Tax is coming. He’s coming for us, he’s… He’s going to get us out.”=“Está bien, cariño, Tax viene en camino. Él viene por nosotras, él… Él va a sacarnos de aquí.”
+“I don’t wanna die here.”=“No quiero morir aquí.”
+“Hey! Stop that. That’s not how this ends, you hear me?”=“¡Hey! No digas eso. No es así como termina esto, ¿me escuchas?”
+“I didn’t come all this way to give up on you now.”=“No vine hasta aquí para rendirme contigo ahora.”
+I grasp at my radio. I knew my chances, we were miles underground surrounded by dirt and rock.=Agarro mi radio. Sabía cuáles eran mis probabilidades, estábamos a millas bajo tierra rodeadas de tierra y roca.
+Nothing. Just the familiar sound of the radio chasing static across bands.=Nada. Solo el sonido familiar de la radio buscando estática entre las bandas.
+“Fuck. Think Mica, think...”=“Mierda. Piensa, Mica, piensa…”
+
+// Escena del telefono
+Glancing around the room I heard something.=Mientras miraba alrededor de la sala, escuché algo.
+I felt the ringing pounding at the back of my skull.=Sentí el timbre retumbando en la parte posterior de mi cráneo.
+Answer the call?=¿Responder la llamada?
+“Thank you for calling Sherwood Estate Management, please hold and one of our operators will be with you shortly.”=“Gracias por llamar a Sherwood Estate Management, por favor, espere y uno de nuestros operadores estará con usted en breve.”
+“Hello Mica.”=“Hola, Mica.”
+“It’s you…”=“Eres tú…”
+“And it is you.”=“Y tú eres tú.”
+My heart skipped as a lump formed in my throat.=Mi corazón se detuvo cuando un nudo se formó en mi garganta.
+“I don’t know what to do. I don’t understand any of this.”=“No sé qué hacer. No entiendo nada de esto.”
+“It’s okay Mica. I’m right here with you. I can help.”=“Está bien, Mica. Estoy aquí contigo. Puedo ayudarte.”
+“You can’t help me. I wish you could but-”=“No puedes ayudarme. Ojalá pudieras, pero—”
+“That's where you are mistaken.”=“Ahí es donde te equivocas.”
+“Look around you, Mica.”=“Mira a tu alrededor, Mica.”
+I look on in disbelief as the room transforms into something I struggle to put into words.=Miro con incredulidad mientras la sala se transforma en algo que me cuesta poner en palabras.
+Light dances in the air as the roots of this withered old tree glow like the beacons on my hover’s runway.=La luz danza en el aire mientras las raíces de este viejo árbol marchito brillan como las balizas en la pista de mi aerodeslizador.
+“Whilst my words may be limited by this device that binds me.”=“Aunque mis palabras puedan estar limitadas por este dispositivo que me ata.”
+“That does not mean I can’t be the one to help you.”=“Eso no significa que no pueda ser yo quien te ayude.”
+"It's beautiful..."=“Es hermoso…”
+“We are not that different, you and I.”=“No somos tan diferentes tú y yo.”
+“I too have suffered, wishing to be free of these shackles.”=“Yo también he sufrido, deseando liberarme de estas cadenas.”
+“I don’t understand, is this- How are you doing this?”=“No entiendo, ¿es esto…? ¿Cómo estás haciendo esto?”
+“You need not worry any more Mica.”=“No tienes que preocuparte más, Mica.”
+“Tell your friend to follow my light. I will guide him.”=“Dile a tu amigo que siga mi luz. Yo lo guiaré.”
+The line clicks to a dial tone.=La línea hace clic y se convierte en tono de marcación.
+“Wait! I don’t understand, please!”=“¡Espera! No entiendo, ¡por favor!”
+“Please hold while we forward your call. Your patience is appreciated.”=“Por favor, espere mientras transferimos su llamada. Agradecemos su paciencia.”
+"Err hello? Umm…”=“Ehh, ¿hola? Uhm…”
+“Tax? Tax is that really you?!”=“¿Tax? ¡¿Tax, eres realmente tú?!”
+“Mica! Jesus fuck! Are you seeing this? Place is lit up like a Christmas tree!”=“¡Mica! ¡Joder, mierda! ¿Estás viendo esto? ¡El lugar está iluminado como un árbol de Navidad!”
+“Wait, how are you calling me?”=“Espera, ¿cómo me estás llamando?”
+“Nevermind that. Tax you gotta help me.”=“No importa eso. Tax, tienes que ayudarme.”
+“I found her, she’s here, she’s hurt but she’s here.”=“La encontré, está aquí, está herida, pero está aquí.”
+“Okay, okay. Hold on. Tell me where you are.”=“Está bien, está bien. Espera. Dime dónde estás.”
+“I don’t know it’s err, a cave of some kind. Must be less than a mile out from the city limits.”=“No sé, es ehh... una especie de cueva. Debe estar a menos de una milla de los límites de la ciudad.”
+“Tax I know how this sounds but you just need to follow the lights. Okay?”=“Tax, sé cómo suena esto, pero solo tienes que seguir las luces. ¿Vale?”
+“I took the Westbound tunnel like you said but it was a wreck, the tracks caved into this huge cavern.=“Tomé el túnel en dirección oeste como dijiste, pero estaba destrozado, las vías se hundieron en esta enorme caverna.”
+"That’s where I found her. I… I found her Tax.”="Ahí fue donde la encontré. Yo… La encontré, Tax.”
+“I got you, I’m at the tunnel entrance now. It was… dark but now, It’s clear as day.”=“Te entiendo, estoy en la entrada del túnel ahora. Estaba... oscuro, pero ahora, está claro como el día.”
+“You think you can hold out for just a little longer?”=“¿Crees que puedas aguantar un poco más?”
+“Tax we haven’t got much time.”=“Tax, no tenemos mucho tiempo.”
+“I’m coming, Meek. We’ll be out in no time I promise.”=“Voy para allá, Meek. Saldremos de aquí en un santiamén, te lo prometo.”
+“Go to her.”=“Ve con ella.”
+"You hold her tight and you think about all the good she’s brought us, remind her this world is worth living for."=“Abrázala fuerte y piensa en todo lo bueno que nos ha dado, recuérdale que vale la pena vivir en este mundo.”
+"Don’t let her go. I’ll be there before you know. I promise.”=“No la dejes ir. Estaré allí antes de que te des cuenta. Te lo prometo.”
+“This is the final step, Meek, you can do this.”=“Este es el último paso, Meek, puedes hacerlo.”
+“Don’t be late Tax.”=“No llegues tarde, Tax.”
+I hear the click as Tax ends the call.=Escucho el clic cuando Tax cuelga la llamada.
+
+// Mica se acerca a Sasha
+“Tax is here?”=“¿Tax está aquí?”
+“He’s coming, you’re safe now.”=“Él viene, ya estás a salvo.”
+“Oh, good. My legs really hurt…”=“Oh, qué bien. Mis piernas duelen mucho…”
+“Try not to think about it.”=“Trata de no pensar en eso.”
+“Meek, can you tell me a story?”=“Meek, ¿puedes contarme una historia?”
+“A story...”=“Una historia...”
+"Well, I still think about that day we met."=“Bueno, aún pienso en el día que nos conocimos.”
+
+It was the coldest winter, the first time I’d seen real snow.=Fue el invierno más frío, la primera vez que vi nieve de verdad.
+You walked in wearing more layers than the city itself.=Entraste usando más capas que la misma ciudad.
+Coats upon coats.=Abrigos sobre abrigos.
+We were packed that night, always so swamped on Fridays after the lunch-buckets clock out.=Estábamos a reventar esa noche, siempre tan llenos los viernes después de que termina el turno de los almuerzos.
+I couldn’t have said more than a few words to you.=No pude haberte dicho más que unas pocas palabras.
+And yet I couldn’t keep my eyes off you.=Y aun así, no podía apartar la vista de ti.
+I always knew there was something special between us, something worth holding onto.=Siempre supe que había algo especial entre nosotras, algo que valía la pena mantener.
+Whatever happens, wherever we end up.=Pase lo que pase, sin importar dónde terminemos.
+I’ll never let go.=Nunca te dejaré ir.
+“You're safe now Little Sparrow.”=“Ahora estás a salvo, Pequeña Gorrión.”
+“Mother will keep you warm.”=“Madre te mantendrá caliente.”
+
+Antonio Freyre\nEfigr \nElijah Beahm\nFernando Tittz\nHannes Winkler\nJake Lowder\nMstie\nPeter Freeman\nRobin Shen\nSteve Osborne\nTrevin Cullins\nTom Harris\nUltramale=Antonio Freyre\nEfigr \nElijah Beahm\nFernando Tittz\nHannes Winkler\nJake Lowder\nMstie\nPeter Freeman\nRobin Shen\nSteve Osborne\nTrevin Cullins\nTom Harris\nUltramale
+A game by\n\n\n\n\n\n\nArt, Design, Sound, Programming & Writing by\n\n\n\n\n\n\nSoundtrack by\n\n\n\n\n\n\nPublic Relations\n\n\n\n\n\n\n\n\nKey Art by=Un juego de\n\n\n\n\n\n\nArte, Diseño, Sonido, Programación y Escritura por\n\n\n\n\n\n\nBanda Sonora por\n\n\n\n\n\n\nRelaciones Públicas\n\n\n\n\n\n\n\n\nArte principal por
+Nathan Hamley\n\n\n\n\n\nNathan Hamley\n\n\n\n\nNathan Hamley\n\n\n\n\n\nStrange Signals\nTom Copeland\n\n\n\n\n\nAnton Oxenuk\n\n\n\n\n\n\n\n\nSTARRING=Nathan Hamley\n\n\n\n\n\nNathan Hamley\n\n\n\n\nNathan Hamley\n\n\n\n\n\nStrange Signals\nTom Copeland\n\n\n\n\n\nAnton Oxenuk\n\n\n\n\n\n\n\n\nREPARTO
+QA TESTERS=PROBADORES DE CONTROL DE CALIDAD
+THANK YOU TO MY KICKSTARTER SUPPORTERS=GRACIAS A MIS MECENAS DE KICKSTARTER
+...and a huge thanks to YOU for playing! \n\nPlease consider leaving a little review if you liked it :)=...y un enorme agradecimiento a TI por jugar. \n\nPor favor, considera dejar una pequeña reseña si te gustó :)
+
+
+GAME RESULT=RESULTADOS DE LA PARTIDA
+Difficulty Level:=Nivel de Dificultad:
+Casual=Casual
+Intended=Normal
+Punished=Difícil
+
+Ending:=Final:
+Riven=A
+
+Times Saved:=Veces Guardadas:
+Health Items Used:=Objetos de Salud Usados:
+Shots Fired:=Disparos Realizados:
+Enemies Defeated:=Enemigos Derrotados:
+Enemies Burnt:=Enemigos Quemados:
+Documents Collected:=Documentos Recogidos:
+Signals Found:=Señales Encontradas:
+
+Total Time:=Tiempo Total:
+0h : 18m : 28s=A
+
+Dungeon Crawl Mode (First Person) has been unlocked (New Game+)=Modo Primera Persona desbloqueado (Nuevo Juego+)
+Big Head Mode has been unlocked (New Game+)=Modo Cabeza Grande desbloqueado (Nuevo Juego+)
+Punished Difficulty has been unlocked (New Game+)=Dificultad Difícil desbloqueada (Nuevo Juego+)
+
+// Riven Ending
+UNDISCLOSED LOCATION=UBICACIÓN DESCONOCIDA
+Mrs Holloway.=Sra. Holloway.
+We've been watching you for quite some time now.=Te hemos estado observando por un buen tiempo.
+It seems you have a tendancy to overstep your bounds.=Parece que tienes la tendencia a ir más allá de tus límites.
+Trafficking of contraband, unauthorised air travel, petty theft... The list is long and uninspired.=Tráfico de contrabando, viajes aéreos no autorizados, robo menor... La lista es larga y poco inspiradora.
+Although nothing quite amounts to that which has taken place over the past 48 hours.=Aunque nada se compara con lo que ha ocurrido en las últimas 48 horas.
+Why don't you start from the beginning.=¿Por qué no empiezas desde el principio?
+After all, we've got all the time in the world.=Después de todo, tenemos todo el tiempo del mundo.
+
+// Reunion Ending
+24 YEARS LATER=24 AÑOS DESPUÉS
+
+// Secret Ending
+Probably a doghouse, though I'm not sure since there's no dog around.=Probablemente sea una caseta para perros, aunque no estoy seguro porque no hay ningún perro cerca.
+Mica! I'm so glad I've found you.=¡Mica! ¡Estoy tan contento de haberte encontrado!
+I know how to get out of here! I already told Sasha, she's waiting for you outside.=¡Sé cómo salir de aquí! Ya se lo dije a Sasha, ella te está esperando afuera.
+Follow me! I know the way!=¡Sígueme! ¡Conozco el camino!
+Here we are! A boat! Boats travel across water!=¡Aquí estamos! ¡Un bote! ¡Los botes cruzan el agua!
+But where's the captain?=¿Pero dónde está el capitán?
+Arr matey!!=¡¡Arr, grumete!!
+It's time to set sail for the city of Aeonis! Let's go!=¡Es hora de zarpar hacia la ciudad de Aeonis! ¡Vamos!
+
+NEW GAME+=NUEVO JUEGO+
+Would you like to skip the Prologue?=¿Te gustaría saltar el Prólogo?
+PLAY PROLOGUE=JUGAR PRÓLOGO
+SKIP PROLOGUE=SALTAR PRÓLOGO
+
+Huge towering walls surround the city.=Enormes murallas rodean la ciudad.
+<I>BIG HEAD MODE (OFF)</I>=<I>MODO CABEZA GRANDE (APAGADO)</I>
+<I>BIG HEAD MODE (ON)</I>=<I>MODO CABEZA GRANDE (ENCENDIDO)</I>
+A bobble head keychain. Can be used to turn Big Head Mode on or off.=Un llavero de cabeza balanceante. Puede usarse para activar o desactivar el Modo Cabeza Grande.
+
+<I>DUNGEON CRAWL MODE (OFF)</I>=<I>MODO PRIMERA PERSONA (APAGADO)</I>
+<I>DUNGEON CRAWL MODE (ON)</I>=<I>MODO PRIMERA PERSONA (ENCENDIDO)</I>
+An eyeball keychain. Can be used to turn First Person Mode on or off.=Un llavero de ojo. Puede usarse para activar o desactivar el Modo Primera Persona.
