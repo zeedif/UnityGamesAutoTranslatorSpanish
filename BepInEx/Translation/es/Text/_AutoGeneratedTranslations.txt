@@ -1,0 +1,213 @@
+﻿WARNING=ADVERTENCIA
+This game contains flashing lights, violent content, and potentially disturbing material.\n\n\nWe hope you like it.=Este juego contiene luces intermitentes, contenido violento y material potencialmente perturbador.\n\n\nEsperamos que te guste.
+
+For as long as you can remember, legends have been told about the derelict mansion upon the hill that casts a blanket of darkness over the town. The history of the house itself is virtually unknown, and even the town's oldest residents cannot remember the mansion's origin. Being an avid history enthusiast, you embark up the mountain to visit the manor. Hoping to shed some light on the backstory of this crumbling fortress of darkness.=Durante tanto tiempo como puedas recordar, se han contado leyendas sobre la mansión abandonada en lo alto de la colina que arroja un manto de oscuridad sobre el pueblo. La historia de la casa en sí es prácticamente desconocida, e incluso los residentes más antiguos del pueblo no pueden recordar el origen de la mansión. Siendo un ávido entusiasta de la historia, te aventuras hacia la montaña para visitar la mansión. Con la esperanza de arrojar algo de luz sobre la historia de esta fortaleza en ruinas de la oscuridad.
+
+Nueva partida=Nueva partida
+Continuar=Continuar
+Endless Scores=Puntajes
+Opciones=Opciones
+Salir=Salir
+(c) 2017 Albino Moose Games, LLC=(c) 2017 Albino Moose Games, LLC
+
+Cancelar=Cancelar
+Contraseña=Contraseña
+Aplicar=Aplicar
+
+The Mansion=La Mansion
+A renovated version of the original Jump Scare Mansion!=¡Una versión renovada de la Mansión de Jump Scare original!
+
+Endless Mode=Modo Infinito
+Embrace infinity=Acepta el infinito
+
+Karamari Hospital=Hospital Karamari
+Unlock the secrets of this strange abandoned hospital=Descubre los secretos de este extraño hospital abandonado
+
+Spooky's Dollhouse=Casa de Muñecas de Spooky
+Finish the story=Debes terminar la historia
+
+Build-your-own mansion=Construye tu propia mansión
+Coming Eventually!=¡Próximamente!
+
+General=General
+Graficos=Graficos
+Entrada=Controles
+Crowd Control=Crowd Control
+Restablecer configuración predeterminada=Restablecer configuración predeterminada
+
+Español=Español
+Encendido=Activado
+Apagado=Desactivado
+*No afecta a RV=* Sin efecto en\nRealidad Virtual
+RV=RV
+Back=Volver
+
+Idioma=Idioma
+Jump Scares=Sustos
+Espécimen=Especímenes
+Inversion de Y*=Invertir eje Y*
+Cabeceo*=Balanceo de cám.*
+Motionblur=Desenfoque de mov.
+Show In Game Timer=Mostrar temporizador
+Reduce Flashing=Reducir parpadeos
+Volumen=Volumen
+
+Resolución*=Resolución*
+Pantalla completa*=Pantalla completa*
+3440x1440=3440x1440
+Campo de visión*=Campo de visión*
+VSync=Sincronización vertical
+Target Framerate=Frecuencia de fotogramas
+
+Configurar Dispositivo=Configurar dispositivo
+Mouse=Ratón
+Keyboard=Teclado
+
+Grupo de Acciones=Grupo de acciones
+UI=Interfaz de usuario
+In Game=En el juego
+
+Action=Acción
+Binding=Asignación
+Alternate=Alternativo
+Sensitivity=Sensibilidad
+
+Submit=Confirmar
+Cancela\nr=Cancel
+Cancel=Cancelar
+UI Up=Arriba
+UI Down=Abajo
+UI Left=Izquierda
+UI Right=Derecha
+Confirmar=Confirmar
+
+Use=Usar
+Menu=Menu
+Sprint=Correr
+Move Forward=Mover hacia adelante
+Move Backward=Mover hacia atrás
+Move Left=Mover hacia la izquierda
+Move Right=Mover hacia la derecha
+Look Up=Mirar arriba
+Look Down=Mirar abajo
+Look Left=Mirar a la izquierda
+Look Right=Mirar a la derecha
+Attack=Atacar
+Style Swap=Cambio de estilo
+
+Vinculando Use=Vincular acción
+r:"Cambiar vinculo para (.*)"=Cambiar vinculo para $1
+r:"Presiona un boton o mueve una palanca en este dispositivo. Cancela en (\d+(\.\d+)?)s"=Presiona un boton o mueve una palanca en este dispositivo. Cancela en $1s
+Vinculando Menu=Vincular acción
+Move Horizontal Sensitivity=Cambiar sensibilidad horizontal
+Binding {0}=Vincular acción
+La configuracion se revierte en {0:F1]=La configuración se revertirá en {0: f1]
+Confirm graphics changes=Confirma los cambios gráficos
+
+Mouse Left=Ratón izquierdo
+Mouse Up=Ratón arriba
+Mouse Down=Ratón abajo
+Mouse Right=Ratón derecha
+Left Mouse Button=Botón izquierdo del ratón
+
+ESC=ESC
+Space=Espacio
+E=E
+W=W
+S=S
+D=D
+A=A
+U=U
+T=T
+R=R
+Q=Q
+P=P
+O=O
+N=N
+M=M
+L=L
+K=K
+J=J
+I=I
+H=H
+G=G
+F=F
+C=C
+B=B
+V=V
+X=X
+Y=Y
+Z=Z
+
+Disconnected=Desconectado
+Show Messages In Game=Mostrar mensajes en el juego
+Crowd Control allows twitch.tv viewers to influence the game while broadcasting. To learn more visit this link:=Crowd Control permite a los espectadores de twitch.tv influir en el juego mientras se transmite. Para obtener más información, visita este enlace:
+<sprite\=0 tint\=1>crowdcontrol.live=<sprite\=0 tint\=1>CrowdControl.live
+Note that Crowd Control is less effective in Karamari Hospital and The Dollhouse=Ten en cuenta que Crowd Control es menos efectivo en el Hospital Karamari y la Casa de Muñecas de Spooky
+Connect=Conectar
+Clear Saved Tokens=Borrar Tokens Guardados
+
+
+Re-vincular=Revincular
+Remover=Remover
+Left Shift=Shift izquierdo
+
+Enter Password=Introducir contraseña
+Friends=Amigos
+My Rank=Mi rango
+Top 20=Top 20
+Score=Puntaje
+Name=Nombre
+Rank=Rango
+¿Está seguro de que desea restablecer la configuración predeterminada?=¿Está seguro de que desea restablecer la configuración predeterminada?
+
+hh:mm:ss.ms=hh:mm:ss.ms
+Dark Subtitle=Dark Subtitle
+r:"ROOM: (\d+)$"=HABITACION: $1
+
+PAUSADO=PAUSADO
+Resumir=Reanudar
+Salir al Menu=Salir al menu
+
+Value=Valor
+Set=Establecer
+Cheevo=Logro
+Debug=Depurar
+Debug Text=Texto de depuración
+Persistence Key=Clave de persistencia
+Reset Achievements=Reiniciar logros
+Spawn 5 Specimen=Generar 5 especímenes
+Write Leaderboard=Escribir clasificación
+Identifier=Identificador
+Add Item=Añadir objeto
+Set Weapon=Establecer arma
+Set Offhand=Establecer mano secundaria
+Spawn Spec=Generar especímen
+Killscreen=Pantalla de muerte
+Goto Room=Ir a la habitación
+
+Save=Guardar
+Press=Presionar
+Abrir=Abrir
+No=No
+Yes=Sí
+
+Hello, I am Spooky!=¡Hola, soy Spooky!
+And this is my home.=Y este es mi hogar.
+Can you, humble player,=¿Puedes, humilde jugador,
+make it through a thousand rooms?=atravesar mil habitaciones?
+Can you find, what lies at the end?=¿Puedes encontrar qué hay al final?
+Or is there even an end?=¿O siquiera hay un final?
+Cuz I don't really know.=Porque realmente no lo sé.
+Anyway, just.. just go.=De todos modos, solo... solo ve.
+
+The air here is heavy with must\nand mold. Your lungs seem to\nstruggle as you inhale. Your\nability to heal is hindered in\nthis place.=El aire aquí está cargado de humedad y moho.\nTus pulmones parecen esforzarse al inhalar.\nTu capacidad de sanar está obstaculizada en este lugar.
+Your spirit has been recorded.=Tu espíritu ha sido registrado.
+Something about this doll draws you to it. Pick up the doll?=Algo en esta muñeca te atrae.\n¿Recoger la muñeca?
+You picked up a map. To use it, look down and Interact.=Recogiste un mapa.\nPara usarlo, mira hacia abajo e interactúa.
+It's locked from the other side.=Está cerrado desde el otro lado.
+It's locked.=Está cerrado.
+
+It's not over yet=Todavía no ha terminado
+r:"<nobr>Saves: (\d+)</nobr> <nobr>Loads: (\d+)</nobr> <nobr>Deaths: (\d+)</nobr> <nobr>Specimen: Always</nobr> <nobr>Jumpscares: Always</nobr> <nobr>Distance: (\d+\.\d+)m</nobr> <nobr>Game Time: (\d+:\d+:\d+.\d+)</nobr> "=<nobr>Guardados: $1</nobr> <nobr>Cargas: $2</nobr> <nobr>Muertes: $3</nobr> <nobr>Especímenes: Activado</nobr> <nobr>Sustos repentinos: Activado</nobr> <nobr>Distancia: $4m</nobr> <nobr>Tiempo jugado: $5</nobr> 
+
