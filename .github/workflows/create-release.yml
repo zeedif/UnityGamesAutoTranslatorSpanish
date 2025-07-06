@@ -1,40 +1,75 @@
-name: Create Release from Tag
+name: Manual Release Creator
 
 on:
-  push:
-    tags:
-      - '*' # Se activa con cualquier tag
+  workflow_dispatch:
+    inputs:
+      branch_name:
+        description: 'Nombre de la rama de la que crear la release (ej. hollowbody-translation)'
+        required: true
+        type: string
+      
+      game_display_name:
+        description: 'Nombre del juego para mostrar (ej. Hollowbody)'
+        required: true
+        type: string
+      
+      version:
+        description: 'Versión de la release (ej. 1.0.1)'
+        required: true
+        type: string
+
+      release_notes:
+        description: 'Notas de la versión (opcional, usa | para saltos de línea)'
+        required: false
+        type: string
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
     steps:
-      - name: Checkout code
+      - name: Checkout code from specified branch
         uses: actions/checkout@v4
         with:
-          # Necesitamos hacer fetch de todos los tags para que el nombre del tag esté disponible
-          fetch-depth: 0
+          ref: ${{ github.event.inputs.branch_name }}
 
-      - name: Get Tag Info
-        id: get_tag
+      - name: Prepare Release Variables
+        id: prep_vars
         run: |
-          # Extrae el nombre del tag completo, ej: hollowbody-v1.0.1
-          TAG_NAME=${{ github.ref_name }}
+          # Sanitiza el nombre del juego para usarlo en el nombre del archivo y el tag
+          GAME_ID_FILENAME=$(echo "${{ github.event.inputs.game_display_name }}" | tr '[:upper:]' '[:lower:]' | sed -e 's/[^a-z0-9]/-/g' -e 's/--\+/-/g' -e 's/^-//' -e 's/-$//')
+          echo "GAME_ID_FILENAME=${GAME_ID_FILENAME}" >> $GITHUB_ENV
+
+          # Construye el nombre del tag y del archivo zip
+          TAG_NAME="${GAME_ID_FILENAME}-v${{ github.event.inputs.version }}"
+          ZIP_FILENAME="${GAME_ID_FILENAME}-Spanish-Translation-${{ github.event.inputs.version }}.zip"
           echo "TAG_NAME=${TAG_NAME}" >> $GITHUB_ENV
+          echo "ZIP_FILENAME=${ZIP_FILENAME}" >> $GITHUB_ENV
 
-          # Extrae el nombre del juego (lo que está antes de '-v<version>')
-          GAME_NAME=$(echo $TAG_NAME | sed -E 's/-v[0-9].*//')
-          echo "GAME_NAME=${GAME_NAME}" >> $GITHUB_ENV
+          # Prepara las notas de la versión para el cuerpo de la release
+          # Solo se añade la sección si el input no está vacío
+          if [[ -n "${{ github.event.inputs.release_notes }}" ]]; then
+            NOTES=$(echo "${{ github.event.inputs.release_notes }}" | sed 's/|/\n* /g')
+            RELEASE_BODY="### Paquete de traducción al español para **${{ github.event.inputs.game_display_name }}**\n\n**Versión de la traducción:** `${{ github.event.inputs.version }}`\n\n**Archivo:** `${ZIP_FILENAME}`\n\n---\n\n#### Notas de la Versión\n* ${NOTES}\n\n---\n\n"
+          else
+            RELEASE_BODY="### Paquete de traducción al español para **${{ github.event.inputs.game_display_name }}**\n\n**Versión de la traducción:** `${{ github.event.inputs.version }}`\n\n**Archivo:** `${ZIP_FILENAME}`\n\n---\n\n"
+          fi
+          
+          INSTALLATION_GUIDE="#### Instalación\n1. Asegúrate de tener el gestor de mods correcto (BepInEx/MelonLoader) y XUnity AutoTranslator instalados.\n2. Descarga el archivo `.zip` de esta release.\n3. Extrae su contenido directamente en la carpeta raíz del juego.\n4. Sobrescribe cualquier archivo si se te solicita.\n\nPara más detalles y guías, visita el [repositorio principal](https://github.com/zeedif/UnityGamesAutoTranslatorSpanish)."
+          
+          # Escapa los saltos de línea para el output multilínea
+          RELEASE_BODY="${RELEASE_BODY//$'\n'/'%0A'}"
+          INSTALLATION_GUIDE="${INSTALLATION_GUIDE//$'\n'/'%0A'}"
 
-          # Extrae la versión (lo que está después de '-v')
-          VERSION=$(echo $TAG_NAME | sed -E 's/.*-v//')
-          echo "VERSION=${VERSION}" >> $GITHUB_ENV
+          echo "RELEASE_BODY<<EOF" >> $GITHUB_ENV
+          echo -e "${RELEASE_BODY}${INSTALLATION_GUIDE}" >> $GITHUB_ENV
+          echo "EOF" >> $GITHUB_ENV
 
       - name: Zip Release Artifact
         run: |
-          # Comprime todo el contenido de la rama actual en un archivo ZIP
-          # El nombre del archivo ZIP será, por ejemplo, Hollowbody-Spanish-Translation-1.0.1.zip
-          zip -r "${{ env.GAME_NAME }}-Spanish-Translation-${{ env.VERSION }}.zip" .
+          zip -r "${{ env.ZIP_FILENAME }}" . -x ".git/*" ".github/*"
 
       - name: Create Release
         id: create_release
@@ -43,21 +78,17 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           tag_name: ${{ env.TAG_NAME }}
-          release_name: Traducción de ${{ env.GAME_NAME }} v${{ env.VERSION }}
+          release_name: Traducción de ${{ github.event.inputs.game_display_name }} v${{ env.VERSION }}
           draft: false
           prerelease: false
-          body: |
-            Traducción automática y manual para el juego [b]${{ env.GAME_NAME }}[/b].
-            Versión de la traducción: [b]${{ env.VERSION }}[/b].
+          body: ${{ env.RELEASE_BODY }}
 
-            Para instalar, extrae el contenido del archivo .zip en el directorio raíz del juego.
-            
       - name: Upload Release Asset
         uses: actions/upload-release-asset@v1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           upload_url: ${{ steps.create_release.outputs.upload_url }}
-          asset_path: ./${{ env.GAME_NAME }}-Spanish-Translation-${{ env.VERSION }}.zip
-          asset_name: ${{ env.GAME_NAME }}-Spanish-Translation-${{ env.VERSION }}.zip
+          asset_path: ./${{ env.ZIP_FILENAME }}
+          asset_name: ${{ env.ZIP_FILENAME }}
           asset_content_type: application/zip
