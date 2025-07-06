@@ -1,0 +1,64 @@
+name: Create Spooky's Mansion Release
+
+on:
+  push:
+    tags:
+      - 'spookys-mansion-v*' # Se activa solo con tags que empiecen con "spookys-mansion-v"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Get Version from Tag
+        id: get_version
+        run: |
+        run: |
+          # Extrae la versión del tag (lo que viene después de 'spookys-mansion-v')
+          VERSION=${{ github.ref_name }}
+          VERSION=${VERSION#spookys-mansion-v}
+          echo "VERSION=${VERSION}" >> $GITHUB_ENV
+
+      - name: Zip Release Artifact
+        run: |
+          zip -r "Spookys-Mansion-Spanish-Translation-${{ env.VERSION }}.zip" . -x ".git/*" ".github/*"
+
+      - name: Create Release
+        id: create_release
+        uses: actions/create-release@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          tag_name: ${{ github.ref_name }} # Usa el tag completo, ej. spookys-mansion-v1.0.0
+          release_name: Traducción de Spooky's Jump Scare Mansion HD Renovation v${{ env.VERSION }}
+          draft: false
+          prerelease: false
+          body: |
+            ### Traducción al español para **Spooky's Jump Scare Mansion HD Renovation**
+
+            **Versión de la traducción:** `${{ env.VERSION }}`
+
+            ---
+
+            #### Instalación
+            1.  Asegúrate de tener **BepInEx** y **XUnity AutoTranslator** instalados.
+            2.  Descarga el archivo `.zip` de esta release.
+            3.  Extrae su contenido directamente en la carpeta raíz del juego.
+            4.  Sobrescribe cualquier archivo si se te solicita.
+
+            Para más detalles y guías, visita el [repositorio principal](https://github.com/zeedif/UnityGamesAutoTranslatorSpanish).
+
+      - name: Upload Release Asset
+        uses: actions/upload-release-asset@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          upload_url: ${{ steps.create_release.outputs.upload_url }}
+          asset_path: ./Spookys-Mansion-Spanish-Translation-${{ env.VERSION }}.zip
+          asset_name: Spookys-Mansion-Spanish-Translation-${{ env.VERSION }}.zip
+          asset_content_type: application/zip
