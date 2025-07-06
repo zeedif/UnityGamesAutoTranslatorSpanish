@@ -8,6 +8,9 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write # Permiso para crear la release
+
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
@@ -32,9 +35,8 @@ jobs:
 
       - name: Zip Release Artifact
         run: |
-          # Comprime todo el contenido de la rama actual en un archivo ZIP
-          # El nombre del archivo ZIP será, por ejemplo, Hollowbody-Spanish-Translation-1.0.1.zip
-          zip -r "${{ env.GAME_NAME }}-Spanish-Translation-${{ env.VERSION }}.zip" .
+          # Comprime todo el contenido de la rama actual, excluyendo .git y .github
+          zip -r "${{ env.GAME_NAME }}-Spanish-Translation-${{ env.VERSION }}.zip" . -x ".git/*" ".github/*"
 
       - name: Create Release
         id: create_release
